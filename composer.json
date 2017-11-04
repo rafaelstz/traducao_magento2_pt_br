@@ -1,0 +1,28 @@
+{
+  "name": "rafaelstz/traducao_magento2_pt_br",
+  "description": "Tradução para Português do Brasil oficial do Magento 2",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rafaelstz/traducao_magento2_pt_br",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Rafael Corrêa Gomes",
+      "homepage": "https://github.com/rafaelstz"
+    },
+    {
+      "name": "Magento official translations project for Magento 2",
+      "homepage": "https://crowdin.com/project/magento-2"
+    }
+  ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
