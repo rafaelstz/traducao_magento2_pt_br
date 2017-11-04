@@ -4,7 +4,6 @@
   <br>
   Tradução para Magento 2 em Português do Brasil (pt_BR)
   <br>
-  <br>
 </h1>
 
 
