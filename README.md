@@ -1,4 +1,12 @@
-# Tradução para Magento 2 em Português do Brasil (pt_BR)
+<h1 align="center">
+  <br>
+    <img src="https://i.imgur.com/d8QEHRb.png" alt="Tradução Magento 2 pt_BR" width="128" height="128" title="Tradução Magento 2 pt_BR"/> 
+  <br>
+  Tradução para Magento 2 em Português do Brasil (pt_BR)
+  <br>
+  <br>
+</h1>
+
 
 Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2](https://crowdin.com/project/magento-2/pt-BR), transformado em repositório GIT para facilitar a intalação e atualizações.
 
@@ -6,7 +14,7 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 
 > **Antes de instalar é necessário verificar sua versão do Magento 2 para instalar a tradução correta usando as branches desse repositório.**
 
-## Via Composer
+## Via Composer 
 
 Para instalar essa tradução via [Composer](https://getcomposer.org) você precisa usar o terminal do seu servidor.
 
