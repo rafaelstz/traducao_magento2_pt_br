@@ -28,7 +28,7 @@ Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
 * Faça o dowload  [desse arquivo](https://github.com/rafaelstz/traducao_magento2_pt_br/archive/master.zip).
 * Crie essas pastas e cole o conteúdo baixado nessa pasta `app/i18n/rafaelcg/language_pt_br`.
-* Deve estar dessa maneira `app/i18n/magento2translations/pt_BR/pt_BR.csv`.
+* Deve estar dessa maneira `app/i18n/rafaelcg/pt_BR/pt_BR.csv`.
 * Em seu painel Admin do Magento limpe o cache.
 
 # Como Usar
