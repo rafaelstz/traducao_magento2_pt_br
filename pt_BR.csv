@@ -7273,17 +7273,17 @@ Dispute,Disputa,module,Magento_Paypal
 "N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Não permitido para transações MOTO (Internet/Telefone)",module,Magento_Paypal
 "N/A. Global Unavailable","N/D. Indisponível Globalmente",module,Magento_Paypal
 "N/A. International Unavailable","N/D. Indisponível Internacionalmente",module,Magento_Paypal
-"Matched five-digit ZIP only (no Address)","Correspondência do código postal de apenas 5 dígitos (sem Morada)",module,Magento_Paypal
-"Matched Postal Code only (no Address)","Correspondência apenas do código postal (sem Morada)",module,Magento_Paypal
+"Matched five-digit ZIP only (no Address)","CEP de apenas cinco dígitos (sem endereço)",module,Magento_Paypal
+"Matched Postal Code only (no Address)","Apenas CEP (sem endereço)",module,Magento_Paypal
 "N/A. Retry","N/D. Tente Novamente",module,Magento_Paypal
 "N/A. Service not Supported","N/D. Serviço não suportado",module,Magento_Paypal
 "N/A. Unavailable","N/D. Indisponível",module,Magento_Paypal
-"Matched whole nine-digit ZIP (no Address)","Matched whole nine-digit ZIP (no Address)",module,Magento_Paypal
-"Yes. Matched Address and five-digit ZIP","Yes. Matched Address and five-digit ZIP",module,Magento_Paypal
+"Matched whole nine-digit ZIP (no Address)","CEP de 9 dígitos (sem endereço)",module,Magento_Paypal
+"Yes. Matched Address and five-digit ZIP","Sim. Endereço de correspondência e CEP de cinco dígitos",module,Magento_Paypal
 "All the address information matched","Todas as informações do endereço foram correspondidas",module,Magento_Paypal
 "None of the address information matched","Nenhuma das informações do endereço foi correspondida",module,Magento_Paypal
 "Part of the address information matched","Parte das informações do endereço combinaram",module,Magento_Paypal
-"N/A. The merchant did not provide AVS information","N/D. O comerciante não forneceu informações AVS",module,Magento_Paypal
+"N/A. The merchant did not provide AVS information","N/A. O comerciante não forneceu informações de AVS",module,Magento_Paypal
 "N/A. Address not checked, or acquirer had no response. Service not available","N/D. Endereço não verificado ou o adquirente não obteve resposta. Serviço indisponível",module,Magento_Paypal
 "Matched (CVV2CSC)","Correspondido (CVV2CSC)",module,Magento_Paypal
 "No match","Não corresponde",module,Magento_Paypal
@@ -7332,7 +7332,7 @@ Event,Evento,module,Magento_Paypal
 Custom,Personalizado,module,Magento_Paypal
 "Order ID","ID do Pedido",module,Magento_Paypal
 "Preapproved Payment ID","ID do Pagamento Pré-aprovado",module,Magento_Paypal
-"Subscription ID","ID da Subscrição",module,Magento_Paypal
+"Subscription ID","ID de assinatura",module,Magento_Paypal
 Credit,Crédito,module,Magento_Paypal
 Debit,Débito,module,Magento_Paypal
 "ACH Deposit (Hold for Dispute or Other Investigation)","Depósito ACH (Contenção para Disputa ou Outra Investigação)",module,Magento_Paypal
@@ -7344,16 +7344,16 @@ Debit,Débito,module,Magento_Paypal
 AutoSweep,"Varredura automática",module,Magento_Paypal
 "Available Balance","Saldo disponível",module,Magento_Paypal
 "Balance Manager Account Bonus","Bónus da Conta da Gestão de Saldo",module,Magento_Paypal
-"Bonus for first ACH Use","Bónus pelo primeiro uso de ACH",module,Magento_Paypal
-"Buyer Credit Payment","Pagamento de Crédito do Comprador",module,Magento_Paypal
+"Bonus for first ACH Use","Bônus para o primeiro uso de ACH",module,Magento_Paypal
+"Buyer Credit Payment","Pagamento de crédito do comprador",module,Magento_Paypal
 Charge-off,Dívida,module,Magento_Paypal
-"Coupon Redemption","Reembolsar Cupão",module,Magento_Paypal
-"Currency Conversion required to cover negative balance","É necessária a Conversão de Moeda para cobrir o saldo negativo",module,Magento_Paypal
+"Coupon Redemption","Reembolsar Cupom",module,Magento_Paypal
+"Currency Conversion required to cover negative balance","Conversão de moeda necessário para cobrir o saldo negativo",module,Magento_Paypal
 "Debit Card Cash Back","Reembolsos de Cartão de Débito",module,Magento_Paypal
 "Debit Card Transaction","Transação com cartão de débito",module,Magento_Paypal
 "Direct Payment API","Pagamento Direto API",module,Magento_Paypal
-"EFT Funding (German banking)","Financiamento EFT (Bancos Alemães)",module,Magento_Paypal
-"Express Checkout APIs","APIs de Checkout Express",module,Magento_Paypal
+"EFT Funding (German banking)","Financiamento EFT (Banco Alemão)",module,Magento_Paypal
+"Express Checkout APIs","Express Checkout APIs",module,Magento_Paypal
 "Fee Reversal","Taxa de Cancelamento",module,Magento_Paypal
 "Fee: Foreign ACH Withdrawal","Taxa: Levantamento Estrangeiro ACH",module,Magento_Paypal
 "Fee: Mass Pay Request","Taxa: Solicitação de pagamento em massa",module,Magento_Paypal
@@ -10700,9 +10700,8 @@ Save,Salvar,module,Magento_Staging
 "Content Staging Dashboard","Painel de avaliação de conteúdo",module,Magento_Staging
 "The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
 "Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.",module,Magento_Staging
-"Cannot save Update.","Cannot save Update.",module,Magento_Staging
+                            Select a different range to add a new Future Update.","Atualização Futura já existe no intervalo de tempo escolhido. Selecione um intervalo diferente para adicionar uma nova Atualização Futura.",module,Magento_Staging
+"Cannot save Update.","Não é possível salvar a atualização.",module,Magento_Staging
 "Edit Existing Update","Editar atualização existente",module,Magento_Staging
 "Assign to Another Update","Atribuir a outra atualização",module,Magento_Staging
 "Save as a New Update","Salvar como uma Nova Atualização",module,Magento_Staging
@@ -10739,23 +10738,23 @@ Upcoming,Próximos,module,Magento_Staging
 Test,Teste,module,Magento_Staging
 Error,Erro,module,Magento_Staging
 "Test Exception","Test Exception",module,Magento_Staging
-"This action is unavailable","This action is unavailable",module,Magento_Staging
+"This action is unavailable","Esta ação não está disponível",module,Magento_Staging
 "Magento Admin Panel","Painel de Admin do Magento",module,Magento_Staging
-Calendar,Calendar,module,Magento_Staging
-Share,Share,module,Magento_Staging
+Calendar,Calendário,module,Magento_Staging
+Share,Compartilhar,module,Magento_Staging
 Close,Fechar,module,Magento_Staging
 Scope,Escopo,module,Magento_Staging
-"Scheduled Changes","Mudanças Agendadas",module,Magento_Staging
+"Scheduled Changes","Mudanças agendadas",module,Magento_Staging
 Start,Ínicio,module,Magento_Staging
 End,Fim,module,Magento_Staging
 "Belongs to","Pertence a",module,Magento_Staging
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor confirme a mudança de escopo. Todos os dados que não foram gravados serão perdidos.",module,Magento_Staging
 "Share Preview Link","Share Preview Link",module,Magento_Staging
 Staging,Staging,module,Magento_Staging
-"Create New Update","Create New Update",module,Magento_Staging
+"Create New Update","Criar nova atualização",module,Magento_Staging
 Back,Voltar,module,Magento_Staging
 General,Geral,module,Magento_Staging
-Status,Estado,module,Magento_Staging
+Status,Status,module,Magento_Staging
 "Update Name","Update Name",module,Magento_Staging
 Includes,Incluí,module,Magento_Staging
 "Start Time","Hora de Início",module,Magento_Staging
