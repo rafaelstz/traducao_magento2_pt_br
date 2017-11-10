@@ -7707,7 +7707,7 @@ User,Usuário,module,Magento_Paypal
 "Reject Transaction if:","Rejeitar Transação se:",module,Magento_Paypal
 "AVS Street Does Not Match","Morada AVS Não Corresponder",module,Magento_Paypal
 "AVS Zip Does Not Match","Cód. Postal AVS Não Corresponder",module,Magento_Paypal
-"Card Issuer Is Outside The United States","Card Issuer Is Outside The United States",module,Magento_Paypal
+"Card Issuer Is Outside The United States","Emissor do cartão está fora dos Estados Unidos",module,Magento_Paypal
 "Card Security Code Does Not Match","O Código de Segurança do Cartão Não Coincide",module,Magento_Paypal
 "Payflow Pro and Express Checkout","Payflow Pro e Checkout Express",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -10420,7 +10420,7 @@ Shipments,Postagens,module,Magento_Shipping
 "We can't delete tracking number.","Não foi possível excluir o número de rastreio.",module,Magento_Shipping
 "We can't load track with retrieving identifier right now.","Não podemos carregar o rastreio com recuperação de identificador no momento.",module,Magento_Shipping
 "We can't save the shipment right now.","Não podemos salvar a postagem agora.",module,Magento_Shipping
-"""Shipment Document Validation Error(s):\n"" .","""Shipment Document Validation Error(s):\n"" .",module,Magento_Shipping
+"""Shipment Document Validation Error(s):\n"" .","""Erro(s) de validação do documento de expedição:\n"".",module,Magento_Shipping
 "The shipment has been created.","A remessa foi criada.",module,Magento_Shipping
 "Cannot save shipment.","Não foi possível salvar o envio.",module,Magento_Shipping
 "The order no longer exists.","O pedido não existe mais.",module,Magento_Shipping
