@@ -592,6 +592,10 @@ YTD,"Acumulado no ano",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","O tempo de vida da sessão de administrador deve ser maior ou igual a 60 segundos",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
+"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
+"Save &amp; Close","Save &amp; Close",module,Magento_Backend
+"Save &amp; New","Save &amp; New",module,Magento_Backend
+Edit,Editar,module,Magento_Backend
 "Access denied","Acesso negado",module,Magento_Backend
 "Please try to sign out and sign in again.","Por favor, saia do sistema e entre novamente.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja.",module,Magento_Backend
@@ -669,6 +673,8 @@ Actions,Ações,module,Magento_Backend
 Loading...,Carregando...,module,Magento_Backend
 "We could not detect a size.","Não foi possível detectar o tamanho.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Nós não reconhecemos ou suportamos este tipo de extensão de arquivo.",module,Magento_Backend
+"Warning message","Mensagem de aviso",module,Magento_Backend
+"This operation can take a long time","Esta operação pode demorar muito tempo",module,Magento_Backend
 "Allow everything","Permitir tudo",module,Magento_Backend
 "Magento Admin","Administração do Magento",module,Magento_Backend
 "Global Search","Pesquisa Global",module,Magento_Backend
@@ -679,6 +685,7 @@ Content,Conteúdo,module,Magento_Backend
 Elements,Elementos,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Agenda,module,Magento_Backend
+"Content translation","Tradução de conteúdo",module,Magento_Backend
 Settings,Configurações,module,Magento_Backend
 Attributes,Atributos,module,Magento_Backend
 "Other Settings","Outras Definições",module,Magento_Backend
@@ -704,6 +711,8 @@ Advanced,Avançado,module,Magento_Backend
 Developer,Desenvolvedor,module,Magento_Backend
 Debug,Depurar/Debug,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Ativado Modelo de Sugestões de Caminho para Vitrine",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
+"Parameter Value","Parameter Value",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Ativado Modelo de Sugestão de Caminho para Admin",module,Magento_Backend
 "Add Block Names to Hints","Adicionar Nomes dos Blocos às Sugestões",module,Magento_Backend
 "Template Settings","Configurações de modelo",module,Magento_Backend
@@ -779,7 +788,7 @@ Security,Segurança,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options","Opções de Url",module,Magento_Backend
 "Add Store Code to Urls","Adicionar o Código da Loja aos Url's",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Aviso!</strong> Ao usar o código de loja nos URLs, o sistema pode não funcionar corretamente nalguns casos se forem especificados URLs sem código de loja em serviços de terceiros (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).",module,Magento_Backend
 "Auto-redirect to Base URL","Redirecionar Automaticamente para o URL Base",module,Magento_Backend
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Usar opção de Reescrever do Servidor Web",module,Magento_Backend
@@ -832,7 +841,6 @@ Pagination,Paginação,module,Magento_Backend
 "Alternative text for the next pages link in the pagination menu. If empty, default arrow image is used.","Texto alternativo para o próximo link no menu de paginação. Se estiver vazio, será usada a imagem de seta padrão pré-definida.",module,Magento_Backend
 "Anchor Text for Next","Texto de âncora para página seguinte",module,Magento_Backend
 "Theme Name","Nome do Tema",module,Magento_Backend
-Config,Configurações,module,Magento_Backend
 "System Backup","Backup do Sistema",module,Magento_Backup
 "Database and Media Backup","Backup do Banco de dados e Mídia",module,Magento_Backup
 "Database Backup","Backup do banco de dados",module,Magento_Backup
@@ -984,43 +992,6 @@ Header,Cabeçalho,module,Magento_Banner
 "Specify Banners","Especificar Banners",module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
-cc_type,cc_type,module,Magento_Braintree
-cc_number,cc_number,module,Magento_Braintree
-avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
-avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
-cvvResponseCode,cvvResponseCode,module,Magento_Braintree
-processorAuthorizationCode,processorAuthorizationCode,module,Magento_Braintree
-processorResponseCode,processorResponseCode,module,Magento_Braintree
-processorResponseText,processorResponseText,module,Magento_Braintree
-braintree,braintree,module,Magento_Braintree
-liabilityShifted,liabilityShifted,module,Magento_Braintree
-liabilityShiftPossible,liabilityShiftPossible,module,Magento_Braintree
-riskDataId,riskDataId,module,Magento_Braintree
-riskDataDecision,riskDataDecision,module,Magento_Braintree
-paymentId,paymentId,module,Magento_Braintree
-payerEmail,payerEmail,module,Magento_Braintree
-sale,venda,module,Magento_Braintree
-credit,crédito,module,Magento_Braintree
-authorization_expired,authorization_expired,module,Magento_Braintree
-authorizing,autorizando,module,Magento_Braintree
-authorized,autorizado,module,Magento_Braintree
-gateway_rejected,gateway_rejected,module,Magento_Braintree
-failed,falhou,module,Magento_Braintree
-processor_declined,processor_declined,module,Magento_Braintree
-settled,resolvido,module,Magento_Braintree
-settling,pagamento,module,Magento_Braintree
-submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
-voided,anulado,module,Magento_Braintree
-unrecognized,desconhecido,module,Magento_Braintree
-settlement_declined,settlement_declined,module,Magento_Braintree
-settlement_pending,settlement_pending,module,Magento_Braintree
-settlement_confirmed,settlement_confirmed,module,Magento_Braintree
-paypal_account,paypal_account,module,Magento_Braintree
-coinbase_account,coinbase_account,module,Magento_Braintree
-europe_bank_accout,europe_bank_accout,module,Magento_Braintree
-credit_card,credit_card,module,Magento_Braintree
-apple_pay_card,apple_pay_card,module,Magento_Braintree
-android_pay_card,android_pay_card,module,Magento_Braintree
 Country,País,module,Magento_Braintree
 "Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
@@ -1034,6 +1005,10 @@ Country,País,module,Magento_Braintree
 Authorize,Autorizar,module,Magento_Braintree
 "Authorize and Capture","Autorizar e Capturar",module,Magento_Braintree
 "--Please Select--","--Por Favor Selecione--",module,Magento_Braintree
+"Credit Card","Cartão de Crédito",module,Magento_Braintree
+ending,"acabando em",module,Magento_Braintree
+expires,"expira em",module,Magento_Braintree
+PayPal,PayPal,module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_Braintree
 "Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
@@ -1042,8 +1017,6 @@ Authorize,Autorizar,module,Magento_Braintree
 "Please, enter valid Expiration Date","Por favor insira uma Data de Vencimento válida",module,Magento_Braintree
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Por favor insira um número de verificação de cartão válido",module,Magento_Braintree
-ending,"acabando em",module,Magento_Braintree
-expires,"expira em",module,Magento_Braintree
 "Are you sure you want to delete this PayPal account","Você tem certeza que deseja excluir esta conta do PayPal",module,Magento_Braintree
 "PayPal Account","Conta PayPal",module,Magento_Braintree
 "PayPal Logo","Logo Paypal",module,Magento_Braintree
@@ -1325,6 +1298,8 @@ Select...,Selecionar...,module,Magento_Bundle
 Status,Status,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
 Type,Tipo,module,Magento_Bundle
+"Special Price","Preço Especial",module,Magento_Bundle
+"Unique constraint violation found","Violação de chave única encontrada",module,Magento_BundleStaging
 Cancel,Cancelar,module,Magento_BundleStaging
 "Add Selected Products","Adicionar Produtos Selecionados",module,Magento_BundleStaging
 "Add Products to Option","Adicionar Produtos a Opções",module,Magento_BundleStaging
