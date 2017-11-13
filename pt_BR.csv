@@ -592,9 +592,9 @@ YTD,"Acumulado no ano",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","O tempo de vida da sessão de administrador deve ser maior ou igual a 60 segundos",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
-"Save &amp; Continue","Save &amp; Continue",module,Magento_Backend
-"Save &amp; Close","Save &amp; Close",module,Magento_Backend
-"Save &amp; New","Save &amp; New",module,Magento_Backend
+"Save &amp; Continue","Salvar &amp; Continuar",module,Magento_Backend
+"Save &amp; Close","Salvar &amp; Fechar",module,Magento_Backend
+"Save &amp; New","Salvar &amp; Novo",module,Magento_Backend
 Edit,Editar,module,Magento_Backend
 "Access denied","Acesso negado",module,Magento_Backend
 "Please try to sign out and sign in again.","Por favor, saia do sistema e entre novamente.",module,Magento_Backend
@@ -712,7 +712,7 @@ Developer,Desenvolvedor,module,Magento_Backend
 Debug,Depurar/Debug,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Ativado Modelo de Sugestões de Caminho para Vitrine",module,Magento_Backend
 "Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
-"Parameter Value","Parameter Value",module,Magento_Backend
+"Parameter Value","Valor do Parâmetro",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Ativado Modelo de Sugestão de Caminho para Admin",module,Magento_Backend
 "Add Block Names to Hints","Adicionar Nomes dos Blocos às Sugestões",module,Magento_Backend
 "Template Settings","Configurações de modelo",module,Magento_Backend
@@ -788,7 +788,7 @@ Security,Segurança,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options","Opções de Url",module,Magento_Backend
 "Add Store Code to Urls","Adicionar o Código da Loja aos Url's",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Aviso!</strong> Quando usar o código da loja nas URLs, o sistema pode não funcionar adequadamente em alguns casos se forem inseridas URLS sem o código de loja em serviços de terceiros (Ex. Paypal, etc.).",module,Magento_Backend
 "Auto-redirect to Base URL","Redirecionar Automaticamente para o URL Base",module,Magento_Backend
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Usar opção de Reescrever do Servidor Web",module,Magento_Backend
@@ -7321,7 +7321,7 @@ AutoSweep,"Varredura automática",module,Magento_Paypal
 "Balance Manager Account Bonus","Bónus da Conta da Gestão de Saldo",module,Magento_Paypal
 "Bonus for first ACH Use","Bônus para o primeiro uso de ACH",module,Magento_Paypal
 "Buyer Credit Payment","Pagamento de crédito do comprador",module,Magento_Paypal
-Charge-off,Dívida,module,Magento_Paypal
+Charge-off,Reembolso,module,Magento_Paypal
 "Coupon Redemption","Reembolsar Cupom",module,Magento_Paypal
 "Currency Conversion required to cover negative balance","Conversão de moeda necessário para cobrir o saldo negativo",module,Magento_Paypal
 "Debit Card Cash Back","Reembolsos de Cartão de Débito",module,Magento_Paypal
@@ -9518,12 +9518,12 @@ Item,Item,module,Magento_Sales
 "Credit Memo Comments","Comentários de memorando de crédito",module,Magento_Sales
 "Refund Totals","Total reembolsado",module,Magento_Sales
 "Email Copy of Credit Memo","E-mail cópia da nota de crédito",module,Magento_Sales
-"Please enter a positive number in this field.","Please enter a positive number in this field.",module,Magento_Sales
+"Please enter a positive number in this field.","Por favor insira um número positivo neste campo.",module,Magento_Sales
 "Items Refunded","Itens reembolsados",module,Magento_Sales
 "No Items","Não há itens",module,Magento_Sales
-"Memo Total","Memo Total",module,Magento_Sales
-"Credit Memo History","Credit Memo History",module,Magento_Sales
-"Credit Memo Totals","Credit Memo Totals",module,Magento_Sales
+"Memo Total","Total do Memorando de crédito",module,Magento_Sales
+"Credit Memo History","História de memorando de crédito",module,Magento_Sales
+"Credit Memo Totals","Totais de memorando de crédito",module,Magento_Sales
 "Customer Name: %1","Nome do cliente: %1",module,Magento_Sales
 "Purchased From: %1","Purchased From: %1",module,Magento_Sales
 "Gift Message","Mensagem do presente",module,Magento_Sales
@@ -9532,13 +9532,13 @@ To:,Para:,module,Magento_Sales
 Message:,Mensagem:,module,Magento_Sales
 "Shipping &amp; Handling","Shipping &amp; Handling",module,Magento_Sales
 "Gift Options","Opções de presente",module,Magento_Sales
-"Create Shipment","Create Shipment",module,Magento_Sales
+"Create Shipment","Criar o carregamento",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
 %1,%1,module,Magento_Sales
-"Qty to Invoice","Qty to Invoice",module,Magento_Sales
-"Invoice History","Invoice History",module,Magento_Sales
-"Invoice Comments","Invoice Comments",module,Magento_Sales
-"Invoice Totals","Invoice Totals",module,Magento_Sales
+"Qty to Invoice","Quantidade para faturar",module,Magento_Sales
+"Invoice History","Histórico de Faturas",module,Magento_Sales
+"Invoice Comments","Comentários da Fatura",module,Magento_Sales
+"Invoice Totals","Totais da Fatura",module,Magento_Sales
 Amount,Quantidade,module,Magento_Sales
 "Capture Online","Capturar on-line",module,Magento_Sales
 "Capture Offline","Capturar off-line",module,Magento_Sales
@@ -9548,15 +9548,15 @@ Amount,Quantidade,module,Magento_Sales
 "Items Invoiced","Itens faturados",module,Magento_Sales
 "Total Tax","Imposto total",module,Magento_Sales
 "From Name","Nome do remetente",module,Magento_Sales
-"To Name","To Name",module,Magento_Sales
+"To Name",Para,module,Magento_Sales
 Status,Status,module,Magento_Sales
 Comment,Comentar,module,Magento_Sales
 "Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
 "Order & Account Information","Order & Account Information",module,Magento_Sales
 "The order confirmation email was sent","The order confirmation email was sent",module,Magento_Sales
 "The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
-"Order Date (%1)","Order Date (%1)",module,Magento_Sales
+"Order Date","Data do Pedido",module,Magento_Sales
+"Order Date (%1)","Data do pedido (%1)",module,Magento_Sales
 "Purchased From","Purchased From",module,Magento_Sales
 "Link to the New Order","Link to the New Order",module,Magento_Sales
 "Link to the Previous Order","Link to the Previous Order",module,Magento_Sales
@@ -9565,7 +9565,7 @@ Comment,Comentar,module,Magento_Sales
 "Customer Name","Nome do cliente",module,Magento_Sales
 "Customer Group","Grupo de clientes",module,Magento_Sales
 "Notes for this Order","Notes for this Order",module,Magento_Sales
-"Comment added","Comment added",module,Magento_Sales
+"Comment added","Comentário Adicionado",module,Magento_Sales
 "Transaction Data","Transaction Data",module,Magento_Sales
 "Transaction ID","ID Transação",module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
@@ -9653,7 +9653,7 @@ General,Geral,module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
 "Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
-"Allow Reorder","Allow Reorder",module,Magento_Sales
+"Allow Reorder","Permitir Recompra",module,Magento_Sales
 "Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
 "Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
 "Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
@@ -10829,18 +10829,18 @@ Complete,Finalizado,module,Magento_Support
 Failed,Falhou,module,Magento_Support
 "Directory %s should have writable & readable permissions","Diretório %s deve ter permissões legíveis e graváveis",module,Magento_Support
 Windows,Janelas,module,Magento_Support
-"OS X","OS X",module,Magento_Support
+"OS X","Mac OS",module,Magento_Support
 "Unknown Status","Status desconhecido",module,Magento_Support
 "Processing ...",Processando...,module,Magento_Support
 (now),(agora),module,Magento_Support
 "[%1 minutes ago]","[%1 minutos atrás]",module,Magento_Support
-"[%1 hours ago]","[%1 hours ago]",module,Magento_Support
-"[%1 days ago]","[%1 days ago]",module,Magento_Support
-"[%1 weeks ago]","[%1 weeks ago]",module,Magento_Support
-"[%1 months ago]","[%1 months ago]",module,Magento_Support
-"[%1 years ago]","[%1 years ago]",module,Magento_Support
-"And more...","And more...",module,Magento_Support
-"Column %1","Column %1",module,Magento_Support
+"[%1 hours ago]","[%1 horas atrás]",module,Magento_Support
+"[%1 days ago]","[%1 dias atrás]",module,Magento_Support
+"[%1 weeks ago]","[%1 semanas atrás]",module,Magento_Support
+"[%1 months ago]","[%1 meses atrás]",module,Magento_Support
+"[%1 years ago]","[%1 anos atrás]",module,Magento_Support
+"And more...","E mais...",module,Magento_Support
+"Column %1","Coluna %1",module,Magento_Support
 "Preparing system report data: Detected Single Row Mode but data may be incomplete.","Preparing system report data: Detected Single Row Mode but data may be incomplete.",module,Magento_Support
 Yes,Sim,module,Magento_Support
 No,Não,module,Magento_Support
@@ -10854,7 +10854,7 @@ Code,Código,module,Magento_Support
 Model,Modelo,module,Magento_Support
 "Attribute Model","Attribute Model",module,Magento_Support
 "Increment Model","Increment Model",module,Magento_Support
-"Main Table","Main Table",module,Magento_Support
+"Main Table","Tabela principal",module,Magento_Support
 "Additional Attribute Table","Additional Attribute Table",module,Magento_Support
 "New Eav Attributes","New Eav Attributes",module,Magento_Support
 "Product Eav Attributes","Product Eav Attributes",module,Magento_Support
@@ -10888,20 +10888,20 @@ Void,Anular,module,Magento_Support
 "Cron Expression","Cron Expression",module,Magento_Support
 "Run Class","Run Class",module,Magento_Support
 "Run Method","Run Method",module,Magento_Support
-"Group Code","Group Code",module,Magento_Support
+"Group Code","Código de grupo",module,Magento_Support
 "All Configurable Cron Jobs","All Configurable Cron Jobs",module,Magento_Support
 "All Global Cron Jobs","All Global Cron Jobs",module,Magento_Support
 "Cron Schedules List","Cron Schedules List",module,Magento_Support
-"Schedule Id","Schedule Id",module,Magento_Support
+"Schedule Id","Id do Agendamento",module,Magento_Support
 Status,Status,module,Magento_Support
 "Created At","Criado em",module,Magento_Support
-"Scheduled At","Scheduled At",module,Magento_Support
-"Executed At","Executed At",module,Magento_Support
-"Finished At","Finished At",module,Magento_Support
+"Scheduled At","Agendado em",module,Magento_Support
+"Executed At","Executado em",module,Magento_Support
+"Finished At","Finalizado em",module,Magento_Support
 "Core Configurable Cron Jobs","Core Configurable Cron Jobs",module,Magento_Support
 "Core Global Cron Jobs","Core Global Cron Jobs",module,Magento_Support
 "Cron Schedules by job code","Cron Schedules by job code",module,Magento_Support
-Count,Count,module,Magento_Support
+Count,Contagem,module,Magento_Support
 "Cron Schedules by status code","Cron Schedules by status code",module,Magento_Support
 "Status Code","Código de status",module,Magento_Support
 "Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
@@ -11402,7 +11402,7 @@ General,Geral,module,Magento_Theme
 "Allowed file types *.js.","Tipos de arquivos permitidos *.js.",module,Magento_Theme
 Theme,Tema,module,Magento_Theme
 "Media Storage","Armazenamento de Mídia",module,Magento_Theme
-"Create Folder","Criar Pasta",module,Magento_Theme
+"Create Folder","Criar pasta",module,Magento_Theme
 "Delete Folder","Apagar Pasta",module,Magento_Theme
 "Delete File","Excluir Arquivo",module,Magento_Theme
 "Insert File","Inserir Arquivo",module,Magento_Theme
@@ -11410,37 +11410,37 @@ Theme,Tema,module,Magento_Theme
 "Are you sure you want to delete this folder?","Tem certeza que deseja excluir esta pasta?",module,Magento_Theme
 "Are you sure you want to delete this file?","Tem certeza que deseja excluir este arquivo?",module,Magento_Theme
 "Storage Root","Matriz de Armazenamento",module,Magento_Theme
-welcome,welcome,module,Magento_Theme
+welcome,bem-vindo(a),module,Magento_Theme
 Global,Global,module,Magento_Theme
 "Design Configuration","Configuração de Design",module,Magento_Theme
-"You saved the configuration.","You saved the configuration.",module,Magento_Theme
+"You saved the configuration.","Você salvou a configuração.",module,Magento_Theme
 "Something went wrong while saving this configuration:","Problema ao gravar esta configuração:",module,Magento_Theme
 "You deleted the theme.","Você excluiu o tema.",module,Magento_Theme
 "We cannot delete the theme.","Não conseguimos apagar o tema.",module,Magento_Theme
-"File not found: ""%1"".","Ficheiro não encontrado: ""%1"".",module,Magento_Theme
+"File not found: ""%1"".","Arquivo não encontrado: ""%1"".",module,Magento_Theme
 "We can't find file.","Não encontramos o arquivo.",module,Magento_Theme
 "We cannot find theme ""%1"".","Não conseguimos encontrar o tema ""%1"".",module,Magento_Theme
 "We cannot find the theme.","Não conseguimos encontrar o tema.",module,Magento_Theme
 "This theme is not editable.","Este tema não é editável.",module,Magento_Theme
-"You saved the theme.","Gravou o tema.",module,Magento_Theme
+"You saved the theme.","Você salvou o tema.",module,Magento_Theme
 "We can't upload the CSS file right now.","Não foi possível carregar o arquivo de CSS no momento.",module,Magento_Theme
 "We cannot find a theme with id ""%1"".","Não conseguimos encontrar o tema com id ""%1"".",module,Magento_Theme
 "We can't upload the JS file right now.","Não foi possível carregar o arquivo JS no momento.",module,Magento_Theme
 "Sorry, something went wrong. That's all we know.","Desculpe, algo deu errado. Isso é tudo que sabemos.",module,Magento_Theme
-"Invalid type","Tipo Inválido",module,Magento_Theme
-"Invalid scope or scope id","Invalid scope or scope id",module,Magento_Theme
+"Invalid type","Tipo inválido",module,Magento_Theme
+"Invalid scope or scope id","Escopo ou Escopo id inválidos",module,Magento_Theme
 "%1 does not contain field '%2'","%1 does not contain field '%2'",module,Magento_Theme
 "Invalid regular expression: ""%1"".","Expressão regular inválida: ""%1"".",module,Magento_Theme
 "%1 does not contain field 'file'","%1 does not contain field 'file'",module,Magento_Theme
 "Backend model is not specified for %1","Backend model is not specified for %1",module,Magento_Theme
 "The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.",module,Magento_Theme
-"Can not save empty config","Can not save empty config",module,Magento_Theme
+"Can not save empty config","Não pode salvar configuração vazia",module,Magento_Theme
 label,rótulo,module,Magento_Theme
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Theme
 "The start date can't follow the end date.","A data inicial não pode ser posterior a data final.",module,Magento_Theme
 "The date range for this design change overlaps another design change for the specified store.","O intervalo de datas para esta alteração de design sobrepõe-se com outra alteração de design para a loja especificada.",module,Magento_Theme
 Copy,Copiar,module,Magento_Theme
-"Theme id should be set","O id do tema deve estar definido",module,Magento_Theme
+"Theme id should be set","O id do tema deve ser configurado",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Referência circular na herança do tema detetada para ""%1""",module,Magento_Theme
 "The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme
 "The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
@@ -11456,10 +11456,10 @@ Message,Mensagem,module,Magento_Theme
 "Test Label","Etiqueta de Teste",module,Magento_Theme
 Phrase,Frase,module,Magento_Theme
 testMessage,testMessage,module,Magento_Theme
-Edit,Edit,module,Magento_Theme
+Edit,Editar,module,Magento_Theme
 "We found no files.","Não encontrámos nenhum ficheiro.",module,Magento_Theme
 "Browse Files","Procurar arquivos",module,Magento_Theme
-Scope:,Scope:,module,Magento_Theme
+Scope:,Escopo:,module,Magento_Theme
 Remove,Remover,module,Magento_Theme
 "Help Us Keep Magento Healthy","Nos ajude a manter saudável a Magento",module,Magento_Theme
 "Report All Bugs","Reportar todos os Bugs",module,Magento_Theme
