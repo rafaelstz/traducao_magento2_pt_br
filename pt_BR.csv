@@ -11433,12 +11433,12 @@ Global,Global,module,Magento_Theme
 "Invalid regular expression: ""%1"".","Expressão regular inválida: ""%1"".",module,Magento_Theme
 "%1 does not contain field 'file'","%1 não contém campo 'file'",module,Magento_Theme
 "Backend model is not specified for %1","O Modelo de back-end não for especificado para %1",module,Magento_Theme
-"The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.",module,Magento_Theme
+"The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","O %templateName contém uma configuração incorreta. O modelo tem uma referência a mesmo. Remover ou alterar a referência.",module,Magento_Theme
 "Can not save empty config","Não pode salvar configuração vazia",module,Magento_Theme
 label,rótulo,module,Magento_Theme
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Theme
 "The start date can't follow the end date.","A data inicial não pode ser posterior a data final.",module,Magento_Theme
-"The date range for this design change overlaps another design change for the specified store.","O intervalo de datas para esta alteração de design sobrepõe-se com outra alteração de design para a loja especificada.",module,Magento_Theme
+"The date range for this design change overlaps another design change for the specified store.","O intervalo de data para esta mudança de concepção se sobrepõe a outra mudança de projeto para armazenamento especificado.",module,Magento_Theme
 Copy,Copiar,module,Magento_Theme
 "Theme id should be set","O id do tema deve ser configurado",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Referência circular na herança do tema detetada para ""%1""",module,Magento_Theme
@@ -11447,25 +11447,25 @@ Copy,Copiar,module,Magento_Theme
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Theme
 "Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme
 "We found a directory with the same name.","Encontrámos uma diretoria com o mesmo nome.",module,Magento_Theme
-"We cannot find a directory with this name.","Não conseguimos encontrar uma diretoria com este nome.",module,Magento_Theme
+"We cannot find a directory with this name.","Não conseguimos encontrar um diretório com este nome.",module,Magento_Theme
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Theme
 "Theme isn't deletable.","O tema não é removível.",module,Magento_Theme
-"Exception message","Exception message",module,Magento_Theme
+"Exception message","Mensagem de exceção",module,Magento_Theme
 "localized exception","exceção localizada",module,Magento_Theme
 Message,Mensagem,module,Magento_Theme
-"Test Label","Etiqueta de Teste",module,Magento_Theme
+"Test Label","Etiqueta de teste",module,Magento_Theme
 Phrase,Frase,module,Magento_Theme
-testMessage,testMessage,module,Magento_Theme
+testMessage,"Mensagem de Teste",module,Magento_Theme
 Edit,Editar,module,Magento_Theme
-"We found no files.","Não encontrámos nenhum ficheiro.",module,Magento_Theme
+"We found no files.","Não encontramos nenhum arquivo.",module,Magento_Theme
 "Browse Files","Procurar arquivos",module,Magento_Theme
 Scope:,Escopo:,module,Magento_Theme
 Remove,Remover,module,Magento_Theme
 "Help Us Keep Magento Healthy","Nos ajude a manter saudável a Magento",module,Magento_Theme
 "Report All Bugs","Reportar todos os Bugs",module,Magento_Theme
-"Welcome, %1!","Bem-vindo(a), %1!",module,Magento_Theme
+"Welcome, %1!","Bem-vindo, %1!",module,Magento_Theme
 "Toggle Nav","Alternar Nav",module,Magento_Theme
-"JavaScript seems to be disabled in your browser.","O JavaScript parece estar desativado no seu browser.",module,Magento_Theme
+"JavaScript seems to be disabled in your browser.","O JavaScript parece estar desabilitado no seu navegador.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Javascript in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o JavaScript no seu browser.",module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","O Armazenamento Local parece estar desativado no seu browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o Armazenamento Local no seu browser.",module,Magento_Theme
