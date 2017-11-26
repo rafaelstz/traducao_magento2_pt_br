@@ -711,7 +711,7 @@ Advanced,Avançado,module,Magento_Backend
 Developer,Desenvolvedor,module,Magento_Backend
 Debug,Depurar/Debug,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Ativado Modelo de Sugestões de Caminho para Vitrine",module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter",module,Magento_Backend
+"Enable Hints for Storefront with URL Parameter",Todos,module,Magento_Backend
 "Parameter Value","Valor do Parâmetro",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Ativado Modelo de Sugestão de Caminho para Admin",module,Magento_Backend
 "Add Block Names to Hints","Adicionar Nomes dos Blocos às Sugestões",module,Magento_Backend
@@ -10638,14 +10638,14 @@ Enabled,Habilitado,module,Magento_Sitemap
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sitemap
 "Start Time","Hora de Início",module,Magento_Sitemap
 "Sitemap File Limits","Limites de arquivo do mapa do site",module,Magento_Sitemap
-"Maximum No of URLs Per File","Numero Máximo de URLs por ficheiro",module,Magento_Sitemap
+"Maximum No of URLs Per File","Numero Máximo de URLs por Arquivo",module,Magento_Sitemap
 "Maximum File Size","Tamanho máximo do arquivo",module,Magento_Sitemap
 "File size in bytes.","Tamanho do arquivo em bytes.",module,Magento_Sitemap
-"Search Engine Submission Settings","Configurações de envio do motor de busca",module,Magento_Sitemap
+"Search Engine Submission Settings","Configurações de Envio da Ferramenta de Busca",module,Magento_Sitemap
 "Enable Submission to Robots.txt","Permitir a Submissão de Robots.txt",module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
 "Link for Google","Link para o Google",module,Magento_Sitemap
-"Last Generated","Última gerado",module,Magento_Sitemap
+"Last Generated","Última geração em",module,Magento_Sitemap
 Action,Ação,module,Magento_Sitemap
 "This search no longer exists.","Esta pesquisa não existe mais.",module,Magento_Solr
 "We were unable to perform the search because of a search engine misconfiguration.","Fomos incapazes de realizar a pesquisa devido um erro de configuração do motor de pesquisa.",module,Magento_Solr
@@ -12378,35 +12378,35 @@ Tile,"Lado a Lado",module,Magento_VisualMerchandiser
 "Next page","Próxima página",module,Magento_VisualMerchandiser
 Draggable,Arrastável,module,Magento_VisualMerchandiser
 Close,Fechar,module,Magento_VisualMerchandiser
-"Product image","Product image",module,Magento_VisualMerchandiser
-"You can create a rule only to the existing categories.","You can create a rule only to the existing categories.",module,Magento_VisualMerchandiser
-"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.",module,Magento_VisualMerchandiser
-Attribute,Attribute,module,Magento_VisualMerchandiser
-Operator,Operator,module,Magento_VisualMerchandiser
+"Product image","Imagem do produto",module,Magento_VisualMerchandiser
+"You can create a rule only to the existing categories.","Você pode criar uma regra apenas para as categorias existentes.",module,Magento_VisualMerchandiser
+"Only products matched by rule will be present in the category after save. Unmatched products and manual sorting will be removed from the category.","Somente os produtos que corresponde à regra estará disponível na categoria após salvar. Produtos que não coincidem e classificados manualmente serão removidos da categoria.",module,Magento_VisualMerchandiser
+Attribute,Atributo,module,Magento_VisualMerchandiser
+Operator,Operador,module,Magento_VisualMerchandiser
 Value,Valor,module,Magento_VisualMerchandiser
-Logic,Logic,module,Magento_VisualMerchandiser
-"Add Condition","Add Condition",module,Magento_VisualMerchandiser
+Logic,Lógica,module,Magento_VisualMerchandiser
+"Add Condition","Adicionar condição",module,Magento_VisualMerchandiser
 Delete,Excluir,module,Magento_VisualMerchandiser
-"Match products by rule","Match products by rule",module,Magento_VisualMerchandiser
+"Match products by rule","Produtos que coincidem com a regra",module,Magento_VisualMerchandiser
 Yes,Sim,module,Magento_VisualMerchandiser
 No,Não,module,Magento_VisualMerchandiser
 "Add Products","Adicionar Produtos",module,Magento_VisualMerchandiser
-"Save and Close","Save and Close",module,Magento_VisualMerchandiser
-On,On,module,Magento_VisualMerchandiser
-Off,Off,module,Magento_VisualMerchandiser
-"Visual Merchandiser Options","Visual Merchandiser Options",module,Magento_VisualMerchandiser
-"Visual Merchandiser","Visual Merchandiser",module,Magento_VisualMerchandiser
+"Save and Close","Salvar e Fechar",module,Magento_VisualMerchandiser
+On,Ativado,module,Magento_VisualMerchandiser
+Off,Desligado,module,Magento_VisualMerchandiser
+"Visual Merchandiser Options","Opções de Visual Merchandising",module,Magento_VisualMerchandiser
+"Visual Merchandiser","Visual Merchandising",module,Magento_VisualMerchandiser
 "General Options","Opções gerais",module,Magento_VisualMerchandiser
-"Visible Attributes for Category Rules","Visible Attributes for Category Rules",module,Magento_VisualMerchandiser
-"Additional attributes usable in category rules","Additional attributes usable in category rules",module,Magento_VisualMerchandiser
-"Minimum Stock Threshold","Minimum Stock Threshold",module,Magento_VisualMerchandiser
-"Determines which products are 'low stock'","Determines which products are 'low stock'",module,Magento_VisualMerchandiser
-"Color Attribute Code","Color Attribute Code",module,Magento_VisualMerchandiser
-"Color Order","Color Order",module,Magento_VisualMerchandiser
-"Each color being on a separate row.","Each color being on a separate row.",module,Magento_VisualMerchandiser
-Sort,Sort,module,Magento_VisualMerchandiser
-"Automatic Sorting","Automatic Sorting",module,Magento_VisualMerchandiser
-"Sort order","Sort order",module,Magento_VisualMerchandiser
+"Visible Attributes for Category Rules","Atributos visíveis para Regras de Categoria",module,Magento_VisualMerchandiser
+"Additional attributes usable in category rules","Atributos adicionais usados em regras de categoria",module,Magento_VisualMerchandiser
+"Minimum Stock Threshold","Limite mínimo de estoque",module,Magento_VisualMerchandiser
+"Determines which products are 'low stock'","Determina quais os produtos com 'estoque baixo'",module,Magento_VisualMerchandiser
+"Color Attribute Code","Código do Atributo de Cor",module,Magento_VisualMerchandiser
+"Color Order","Ordem das Cores",module,Magento_VisualMerchandiser
+"Each color being on a separate row.","Cada cor em uma linha separada.",module,Magento_VisualMerchandiser
+Sort,Ordenação,module,Magento_VisualMerchandiser
+"Automatic Sorting","Ordenação Automática",module,Magento_VisualMerchandiser
+"Sort order","Ordem de classificação",module,Magento_VisualMerchandiser
 Thumbnail,Miniatura,module,Magento_VisualMerchandiser
 Name,Nome,module,Magento_VisualMerchandiser
 Price,Preço,module,Magento_VisualMerchandiser
