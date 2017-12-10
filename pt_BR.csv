@@ -600,7 +600,7 @@ Edit,Editar,module,Magento_Backend
 "Please try to sign out and sign in again.","Por favor, saia do sistema e entre novamente.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja.",module,Magento_Backend
 "You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Backend
-"Welcome, please sign in","Bem-vindo, cadastre-se",module,Magento_Backend
+"Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
 Username,"Nome de Usuário",module,Magento_Backend
 "user name","nome de usuário",module,Magento_Backend
 Password,Senha,module,Magento_Backend
@@ -6037,7 +6037,7 @@ Active,Ativo,module,Magento_Integration
 Reset,Reiniciar,module,Magento_Integration
 "Integration with name '%1' exists.","Integração com o nome '%1' existe.",module,Magento_Integration
 "Integration with ID '%1' does not exist.","Integração com o  ID '%1' não existe.",module,Magento_Integration
-"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Uma ou mais <a href=""%1"">integrações</a> foram repostas devido a um erro nas suas configurações xml.",module,Magento_Integration
+"One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","Uma ou mais <a href=""%1"">integrações</a> foram redefinidas devido a mudanças nas suas configurações xml.",module,Magento_Integration
 "Invalid Callback URL","URL de Callback inválido",module,Magento_Integration
 "Invalid Rejected Callback URL","URL de Callback Inválido Rejeitado",module,Magento_Integration
 "Incorrect timestamp value in the oauth_timestamp parameter","O valor do timestamp no parâmetro oauth_timestamp está incorreto",module,Magento_Integration
@@ -11361,12 +11361,12 @@ Rate,Avaliação,module,Magento_TaxImportExport
 CSV,CSV,module,Magento_TaxImportExport
 "Excel XML","Excel, XML",module,Magento_TaxImportExport
 Back,Voltar,module,Magento_Theme
-"Save and Continue",todos,module,Magento_Theme
+"Save and Continue","Salvar e Continuar",module,Magento_Theme
 "Save Configuration","Salvar configuração",module,Magento_Theme
 %1,%1,module,Magento_Theme
 Default,Padrão,module,Magento_Theme
 Themes,Temas,module,Magento_Theme
-"Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_Theme
+"Save and Continue Edit","Salvar e Continuar Edição",module,Magento_Theme
 "Are you sure you want to delete this theme?","Você tem certeza que deseja excluir este tema?",module,Magento_Theme
 "Theme: %1","Tema: %1",module,Magento_Theme
 "New Theme","Novo tema",module,Magento_Theme
@@ -11442,11 +11442,11 @@ label,rótulo,module,Magento_Theme
 Copy,Copiar,module,Magento_Theme
 "Theme id should be set","O id do tema deve ser configurado",module,Magento_Theme
 "Circular-reference in theme inheritance detected for ""%1""","Referência circular na herança do tema detetada para ""%1""",module,Magento_Theme
-"The CSS file must be less than %1M.","O ficheiro CSS deve ter dimensão inferior a %1M.",module,Magento_Theme
-"The JS file must be less than %1M.","O ficheiro JS deve ter dimensão inferior a %1M.",module,Magento_Theme
+"The CSS file must be less than %1M.","O arquivo CSS deve ser menor que %1M.",module,Magento_Theme
+"The JS file must be less than %1M.","O arquivo JS deve ser menor que %1M.",module,Magento_Theme
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Theme
-"Use only standard alphanumeric, dashes and underscores.","Use apenas caracteres alfanuméricos, hífens e underscores.",module,Magento_Theme
-"We found a directory with the same name.","Encontrámos uma diretoria com o mesmo nome.",module,Magento_Theme
+"Use only standard alphanumeric, dashes and underscores.","Use apenas o padrão alfanuméricos, hífens e sublinhados.",module,Magento_Theme
+"We found a directory with the same name.","Encontramos um diretório com o mesmo nome.",module,Magento_Theme
 "We cannot find a directory with this name.","Não conseguimos encontrar um diretório com este nome.",module,Magento_Theme
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Theme
 "Theme isn't deletable.","O tema não é removível.",module,Magento_Theme
@@ -11466,13 +11466,13 @@ Remove,Remover,module,Magento_Theme
 "Welcome, %1!","Bem-vindo, %1!",module,Magento_Theme
 "Toggle Nav","Alternar Nav",module,Magento_Theme
 "JavaScript seems to be disabled in your browser.","O JavaScript parece estar desabilitado no seu navegador.",module,Magento_Theme
-"For the best experience on our site, be sure to turn on Javascript in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o JavaScript no seu browser.",module,Magento_Theme
+"For the best experience on our site, be sure to turn on Javascript in your browser.","Para ter uma melhor experiência em nosso site, certifique-se de ativar o javascript em seu navegador.",module,Magento_Theme
 "Local Storage seems to be disabled in your browser.","O Armazenamento Local parece estar desativado no seu browser.",module,Magento_Theme
 "For the best experience on our site, be sure to turn on Local Storage in your browser.","Para usufruir da melhor experiência no nosso site, certifique-se que ativa o Armazenamento Local no seu browser.",module,Magento_Theme
 "This is demo store. No orders will be fulfilled.","Esta é uma loja de demonstração. Nenhuma encomenda será concretizada.",module,Magento_Theme
 "Items %1 to %2 of %3 total","Itens %1 a %2 do total de %3",module,Magento_Theme
 "%1 Item","%1 Item",module,Magento_Theme
-"%1 Item(s)","%1 Item(s)",module,Magento_Theme
+"%1 Item(s)","%1 Item (ns)",module,Magento_Theme
 Page,Página,module,Magento_Theme
 Previous,Anterior,module,Magento_Theme
 "You're currently reading page","Você esta lendo a pagina",module,Magento_Theme
@@ -11516,14 +11516,14 @@ Configuration,Configuração,module,Magento_Theme
 "Favicon Icon","Ícone Favicon",module,Magento_Theme
 "Default Page Title","Default Page Title",module,Magento_Theme
 "Page Title Prefix","Page Title Prefix",module,Magento_Theme
-"Page Title Suffix","Page Title Suffix",module,Magento_Theme
+"Page Title Suffix","Sufixo do título da página",module,Magento_Theme
 "Default Meta Description","Default Meta Description",module,Magento_Theme
 "Default Meta Keywords","Default Meta Keywords",module,Magento_Theme
 "This will be included before head closing tag in page HTML.","Isto será incluído antes do fecho da tag head na página HTML.",module,Magento_Theme
 "Scripts and Style Sheets","Scripts and Style Sheets",module,Magento_Theme
 "Display Demo Store Notice","Aviso de loja demo",module,Magento_Theme
 Header,Cabeçalho,module,Magento_Theme
-"Allowed file types: png, gif, jpg, jpeg.","Allowed file types: png, gif, jpg, jpeg.",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","Tipos de arquivo permitidos: jpeg, gif, png.",module,Magento_Theme
 "Logo Image","Imagem do logotipo",module,Magento_Theme
 "Logo Attribute Width","Logo Attribute Width",module,Magento_Theme
 "Logo Attribute Height","Logo Attribute Height",module,Magento_Theme
