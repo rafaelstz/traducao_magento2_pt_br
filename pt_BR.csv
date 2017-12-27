@@ -2137,6 +2137,7 @@ Details,Detalhes,module,Magento_Catalog
 "Recently Viewed","Visualizado Recentemente",module,Magento_Catalog
 "The value of Admin must be unique.","O valor de Admin deve ser unico.",module,Magento_Catalog
 "The value of Admin must be unique. (%1)","O valor de Admin deve ser único. (%1)",module,Magento_Catalog
+"Short Description","Descrição Resumida",module,Magento_Catalog
 "Edit Event","Editar o evento",module,Magento_CatalogEvent
 "Add Event","Adicionar Evento",module,Magento_CatalogEvent
 Events,Eventos,module,Magento_CatalogEvent
