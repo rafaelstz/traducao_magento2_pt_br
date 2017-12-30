@@ -6900,6 +6900,7 @@ Unconfirmed,"Não confirmados",module,Magento_Newsletter
 Store,Loja,module,Magento_Newsletter
 "Store View","Visão de Loja",module,Magento_Newsletter
 "Newsletter Subscriptions","Subscrições da Newsletter",module,Magento_Newsletter
+"Sign Up for Our Newsletter","Sign Up for Our Newsletter",module,Magento_Newsletter
 "Make Check payable to:","Passe o cheque à ordem de:",module,Magento_OfflinePayments
 "Send Check to:","Enviar cheque para:",module,Magento_OfflinePayments
 "Purchase Order Number","Número do Pedido de Compra",module,Magento_OfflinePayments
@@ -8260,6 +8261,8 @@ Action,Ação,module,Magento_Reports
 Report,Relatório,module,Magento_Reports
 Description,Descrição,module,Magento_Reports
 undefined,"Não definido",module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
+Cart,Cart,module,Magento_Reports
 "Save Review","Salvar Avaliação",module,Magento_Review
 "New Review","Nova Avaliação",module,Magento_Review
 "Review Details","Detalhes da Avaliação",module,Magento_Review
