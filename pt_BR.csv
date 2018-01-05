@@ -242,34 +242,85 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido de registo para o Magento Analytics. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Error occurred during postponement notification","Ocorreu um erro durante a notificação de adiamento",module,Magento_Analytics
-"Command was not found.","Comando não foi encontrado.",module,Magento_Analytics
+"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
+"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
 "There was an error save new configuration value.","Houve um erro a salvar a nova configuração.",module,Magento_Analytics
 "Please select a vertical.","Por favor selecione uma vertical.",module,Magento_Analytics
 "--Please Select--","-- Por favor, selecione --",module,Magento_Analytics
+"Command was not found.","Comando não foi encontrado.",module,Magento_Analytics
+"Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
+"Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
+"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
+"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
+"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
+"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
+"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Mensagem de erro",module,Magento_Analytics
 "Apps and Games","Apps e Jogos",module,Magento_Analytics
 "Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
-"Free Tier","Camada livre",module,Magento_Analytics
+"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
+"View details","View details",module,Magento_Analytics
+"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
 "An error occurred while subscription process.","Ocorreu um erro durante o processo de inscrição.",module,Magento_Analytics
 Analytics,Analítica,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,Configuração,module,Magento_Analytics
-"BI Essential","Essencial de BI",module,Magento_Analytics
-"Basic Tier","Nível básico",module,Magento_Analytics
+"Business Intelligence","Business Intelligence",module,Magento_Analytics
 "BI Essentials","Essenciais de BI",module,Magento_Analytics
-General,Geral,module,Magento_Analytics
-"Send the system and transaction data to Magento Analytics service","Envie os dados de sistema e de transação para o serviço Magento Analytics",module,Magento_Analytics
-Vertical,Vertical,module,Magento_Analytics
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.",module,Magento_Analytics
+"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
+Industry,Industry,module,Magento_Analytics
+"Time of day to send data","Time of day to send data",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.",module,Magento_Analytics
+"Auto Parts","Auto Parts",module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
+"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
+"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
+"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
+"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
+"Deal Site","Deal Site",module,Magento_Analytics
+"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
+"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
+"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
+"Home Improvement","Home Improvement",module,Magento_Analytics
+"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
+"Mass Merchant","Mass Merchant",module,Magento_Analytics
+"Office Supplies","Office Supplies",module,Magento_Analytics
+"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
+"Pet Goods","Pet Goods",module,Magento_Analytics
+"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
+"Technology B2B","Technology B2B",module,Magento_Analytics
 "Analytics Subscription","Assinatura do Analytics",module,Magento_Analytics
-"Subscription Confirmation","Confirmação de Assinatura",module,Magento_Analytics
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence",module,Magento_Analytics
+"Are you sure you want to opt out?","Are you sure you want to opt out?",module,Magento_Analytics
 Cancel,Cancelar,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
-"I agree with sending my system
-                            configuration and transaction data to Magento Analytics.","Concordo com o envio da configuração de
-                            sistema e de transação para o Magento Analytics.",module,Magento_Analytics
+"Opt out","Opt out",module,Magento_Analytics
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
 Back,Voltar,module,Magento_AsynchronousOperations
 Done,Concluído,module,Magento_AsynchronousOperations
 Retry,"Tentar Novamente",module,Magento_AsynchronousOperations
@@ -592,14 +643,13 @@ YTD,"Acumulado no ano",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","O tempo de vida da sessão de administrador deve ser maior ou igual a 60 segundos",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
-"Save &amp; Continue","Salvar &amp; Continuar",module,Magento_Backend
-"Save &amp; Close","Salvar &amp; Fechar",module,Magento_Backend
-"Save &amp; New","Salvar &amp; Novo",module,Magento_Backend
-Edit,Editar,module,Magento_Backend
-"Access denied","Acesso negado",module,Magento_Backend
-"Please try to sign out and sign in again.","Por favor, saia do sistema e entre novamente.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","Se você continuar a receber esta mensagem, por favor, entre em contato com o dono da loja.",module,Magento_Backend
 "You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
+"Next steps","Next steps",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
+"Return to","Return to",module,Magento_Backend
+"previous page","previous page",module,Magento_Backend
 "Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
 Username,"Nome de Usuário",module,Magento_Backend
 "user name","nome de usuário",module,Magento_Backend
@@ -673,8 +723,6 @@ Actions,Ações,module,Magento_Backend
 Loading...,Carregando...,module,Magento_Backend
 "We could not detect a size.","Não foi possível detectar o tamanho.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Nós não reconhecemos ou suportamos este tipo de extensão de arquivo.",module,Magento_Backend
-"Warning message","Mensagem de aviso",module,Magento_Backend
-"This operation can take a long time","Esta operação pode demorar muito tempo",module,Magento_Backend
 "Allow everything","Permitir tudo",module,Magento_Backend
 "Magento Admin","Administração do Magento",module,Magento_Backend
 "Global Search","Pesquisa Global",module,Magento_Backend
@@ -685,7 +733,6 @@ Content,Conteúdo,module,Magento_Backend
 Elements,Elementos,module,Magento_Backend
 Design,Design,module,Magento_Backend
 Schedule,Agenda,module,Magento_Backend
-"Content translation","Tradução de conteúdo",module,Magento_Backend
 Settings,Configurações,module,Magento_Backend
 Attributes,Atributos,module,Magento_Backend
 "Other Settings","Outras Definições",module,Magento_Backend
@@ -711,8 +758,6 @@ Advanced,Avançado,module,Magento_Backend
 Developer,Desenvolvedor,module,Magento_Backend
 Debug,Depurar/Debug,module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Ativado Modelo de Sugestões de Caminho para Vitrine",module,Magento_Backend
-"Enable Hints for Storefront with URL Parameter",Todos,module,Magento_Backend
-"Parameter Value","Valor do Parâmetro",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Ativado Modelo de Sugestão de Caminho para Admin",module,Magento_Backend
 "Add Block Names to Hints","Adicionar Nomes dos Blocos às Sugestões",module,Magento_Backend
 "Template Settings","Configurações de modelo",module,Magento_Backend
@@ -788,7 +833,7 @@ Security,Segurança,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options","Opções de Url",module,Magento_Backend
 "Add Store Code to Urls","Adicionar o Código da Loja aos Url's",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Aviso!</strong> Quando usar o código da loja nas URLs, o sistema pode não funcionar adequadamente em alguns casos se forem inseridas URLS sem o código de loja em serviços de terceiros (Ex. Paypal, etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Aviso!</strong> Ao usar o código de loja nos URLs, o sistema pode não funcionar corretamente nalguns casos se forem especificados URLs sem código de loja em serviços de terceiros (e.g. PayPal etc.).",module,Magento_Backend
 "Auto-redirect to Base URL","Redirecionar Automaticamente para o URL Base",module,Magento_Backend
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Usar opção de Reescrever do Servidor Web",module,Magento_Backend
@@ -992,6 +1037,43 @@ Header,Cabeçalho,module,Magento_Banner
 "Specify Banners","Especificar Banners",module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
+cc_type,cc_type,module,Magento_Braintree
+cc_number,cc_number,module,Magento_Braintree
+avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
+avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
+cvvResponseCode,cvvResponseCode,module,Magento_Braintree
+processorAuthorizationCode,processorAuthorizationCode,module,Magento_Braintree
+processorResponseCode,processorResponseCode,module,Magento_Braintree
+processorResponseText,processorResponseText,module,Magento_Braintree
+braintree,braintree,module,Magento_Braintree
+liabilityShifted,liabilityShifted,module,Magento_Braintree
+liabilityShiftPossible,liabilityShiftPossible,module,Magento_Braintree
+riskDataId,riskDataId,module,Magento_Braintree
+riskDataDecision,riskDataDecision,module,Magento_Braintree
+paymentId,paymentId,module,Magento_Braintree
+payerEmail,payerEmail,module,Magento_Braintree
+sale,sale,module,Magento_Braintree
+credit,credit,module,Magento_Braintree
+authorization_expired,authorization_expired,module,Magento_Braintree
+authorizing,authorizing,module,Magento_Braintree
+authorized,authorized,module,Magento_Braintree
+gateway_rejected,gateway_rejected,module,Magento_Braintree
+failed,failed,module,Magento_Braintree
+processor_declined,processor_declined,module,Magento_Braintree
+settled,settled,module,Magento_Braintree
+settling,settling,module,Magento_Braintree
+submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
+voided,voided,module,Magento_Braintree
+unrecognized,unrecognized,module,Magento_Braintree
+settlement_declined,settlement_declined,module,Magento_Braintree
+settlement_pending,settlement_pending,module,Magento_Braintree
+settlement_confirmed,settlement_confirmed,module,Magento_Braintree
+paypal_account,paypal_account,module,Magento_Braintree
+coinbase_account,coinbase_account,module,Magento_Braintree
+europe_bank_accout,europe_bank_accout,module,Magento_Braintree
+credit_card,credit_card,module,Magento_Braintree
+apple_pay_card,apple_pay_card,module,Magento_Braintree
+android_pay_card,android_pay_card,module,Magento_Braintree
 Country,País,module,Magento_Braintree
 "Allowed Credit Card Types","Permitido tipos de Cartão de Crédito",module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
@@ -1005,10 +1087,6 @@ Country,País,module,Magento_Braintree
 Authorize,Autorizar,module,Magento_Braintree
 "Authorize and Capture","Autorizar e Capturar",module,Magento_Braintree
 "--Please Select--","--Por Favor Selecione--",module,Magento_Braintree
-"Credit Card","Cartão de Crédito",module,Magento_Braintree
-ending,"acabando em",module,Magento_Braintree
-expires,"expira em",module,Magento_Braintree
-PayPal,PayPal,module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer o pedido.",module,Magento_Braintree
 "Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
@@ -1017,6 +1095,8 @@ PayPal,PayPal,module,Magento_Braintree
 "Please, enter valid Expiration Date","Por favor insira uma Data de Vencimento válida",module,Magento_Braintree
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Por favor insira um número de verificação de cartão válido",module,Magento_Braintree
+ending,"acabando em",module,Magento_Braintree
+expires,"expira em",module,Magento_Braintree
 "Are you sure you want to delete this PayPal account","Você tem certeza que deseja excluir esta conta do PayPal",module,Magento_Braintree
 "PayPal Account","Conta PayPal",module,Magento_Braintree
 "PayPal Logo","Logo Paypal",module,Magento_Braintree
@@ -1298,8 +1378,6 @@ Select...,Selecionar...,module,Magento_Bundle
 Status,Status,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
 Type,Tipo,module,Magento_Bundle
-"Special Price","Preço Especial",module,Magento_Bundle
-"Unique constraint violation found","Violação de chave única encontrada",module,Magento_BundleStaging
 Cancel,Cancelar,module,Magento_BundleStaging
 "Add Selected Products","Adicionar Produtos Selecionados",module,Magento_BundleStaging
 "Add Products to Option","Adicionar Produtos a Opções",module,Magento_BundleStaging
@@ -2135,9 +2213,6 @@ Details,Detalhes,module,Magento_Catalog
 "Add To Compare","Adicionar à Comparação",module,Magento_Catalog
 "Learn more","Saiba mais",module,Magento_Catalog
 "Recently Viewed","Visualizado Recentemente",module,Magento_Catalog
-"The value of Admin must be unique.","O valor de Admin deve ser unico.",module,Magento_Catalog
-"The value of Admin must be unique. (%1)","O valor de Admin deve ser único. (%1)",module,Magento_Catalog
-"Short Description","Descrição Resumida",module,Magento_Catalog
 "Edit Event","Editar o evento",module,Magento_CatalogEvent
 "Add Event","Adicionar Evento",module,Magento_CatalogEvent
 Events,Eventos,module,Magento_CatalogEvent
@@ -2681,7 +2756,7 @@ items,itens,module,Magento_Checkout
 Error!,Erro!,module,Magento_Checkout
 "DB exception","Erro de Banco de Dados",module,Magento_Checkout
 Message,Mensagem,module,Magento_Checkout
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimir recibo</a>",module,Magento_Checkout
+"Print receipt","Print receipt",module,Magento_Checkout
 "Apply Discount Code","Aplicar Cupom de Desconto",module,Magento_Checkout
 "Enter discount code","Inserir cupom de desconto",module,Magento_Checkout
 "Apply Discount","Aplicar Desconto",module,Magento_Checkout
@@ -6900,7 +6975,6 @@ Unconfirmed,"Não confirmados",module,Magento_Newsletter
 Store,Loja,module,Magento_Newsletter
 "Store View","Visão de Loja",module,Magento_Newsletter
 "Newsletter Subscriptions","Subscrições da Newsletter",module,Magento_Newsletter
-"Sign Up for Our Newsletter","Sign Up for Our Newsletter",module,Magento_Newsletter
 "Make Check payable to:","Passe o cheque à ordem de:",module,Magento_OfflinePayments
 "Send Check to:","Enviar cheque para:",module,Magento_OfflinePayments
 "Purchase Order Number","Número do Pedido de Compra",module,Magento_OfflinePayments
@@ -8261,8 +8335,6 @@ Action,Ação,module,Magento_Reports
 Report,Relatório,module,Magento_Reports
 Description,Descrição,module,Magento_Reports
 undefined,"Não definido",module,Magento_Reports
-"Item in Cart","Item in Cart",module,Magento_Reports
-Cart,Cart,module,Magento_Reports
 "Save Review","Salvar Avaliação",module,Magento_Review
 "New Review","Nova Avaliação",module,Magento_Review
 "Review Details","Detalhes da Avaliação",module,Magento_Review
@@ -10782,6 +10854,8 @@ Layouts,Layouts,module,Magento_Store
 "API interfaces reflection data","Dados de reflexão das interfaces de API",module,Magento_Store
 "Database DDL operations","Operações DDL da Base de Dados",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes","Resultados das consultas DDL, como descrições de tabelas ou indíces",module,Magento_Store
+"Compiled Config","Compiled Config",module,Magento_Store
+"Compilation configuration","Compilation configuration",module,Magento_Store
 Back,Voltar,module,Magento_Support
 "Backup Log Details","Detalhes de Log de backup",module,Magento_Support
 Create,Criar,module,Magento_Support
@@ -11713,6 +11787,28 @@ settings/addAfter,settings/addAfter,module,Magento_Ui
 Action,Ação,module,Magento_Ui
 CSV,CSV,module,Magento_Ui
 "Excel XML","Excel, XML",module,Magento_Ui
+"Please select one of the options above.","Please select one of the options above.",module,Magento_Ui
+"Please select a file.","Please select a file.",module,Magento_Ui
+"Please select one of the options.","Please select one of the options.",module,Magento_Ui
+"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",module,Magento_Ui
+"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",module,Magento_Ui
+"Card type does not match credit card number.","Card type does not match credit card number.",module,Magento_Ui
+"Credit card number does not match credit card type.","Credit card number does not match credit card type.",module,Magento_Ui
+"Incorrect credit card expiration date.","Incorrect credit card expiration date.",module,Magento_Ui
+"Please enter less or equal than %1 symbols.","Please enter less or equal than %1 symbols.",module,Magento_Ui
+"Please enter more or equal than %1 symbols.","Please enter more or equal than %1 symbols.",module,Magento_Ui
+"Please enter a valid value from list","Please enter a valid value from list",module,Magento_Ui
+"Please enter valid SKU key.","Please enter valid SKU key.",module,Magento_Ui
+"Please enter a valid number.","Please enter a valid number.",module,Magento_Ui
+"Admin is a required field in the each row.","Admin is a required field in the each row.",module,Magento_Ui
+"Please fix this field.","Please fix this field.",module,Magento_Ui
+"Please enter a valid date (ISO).","Please enter a valid date (ISO).",module,Magento_Ui
+"Please enter only digits.","Please enter only digits.",module,Magento_Ui
+"Please enter the same value again.","Please enter the same value again.",module,Magento_Ui
+"Please enter no more than {0} characters.","Please enter no more than {0} characters.",module,Magento_Ui
+"Please enter at least {0} characters.","Please enter at least {0} characters.",module,Magento_Ui
+"Please enter a value between {0} and {1} characters long.","Please enter a value between {0} and {1} characters long.",module,Magento_Ui
+"Please enter a value between {0} and {1}.","Please enter a value between {0} and {1}.",module,Magento_Ui
 "UPS Next Day Air","UPS Proximo Dia Aéreo",module,Magento_Ups
 "UPS Second Day Air","UPS Dois Dias Aéreo",module,Magento_Ups
 "UPS Ground","UPS Ground",module,Magento_Ups
@@ -12675,6 +12771,7 @@ Action,Ação,module,Magento_Wishlist
 Configure,Configurar,module,Magento_Wishlist
 Delete,Excluir,module,Magento_Wishlist
 "Product Details and Comment","Detalhes de Produto e Comentários",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","You must login or register to add items to your wishlist.",module,Magento_Wishlist
 "Credit card type","Tipo de cartão de crédito",module,Magento_Worldpay
 "CVV result","Resultado CVV",module,Magento_Worldpay
 "Postcode AVS check","Verificação do Código Postal AVS",module,Magento_Worldpay
