@@ -644,12 +644,12 @@ YTD,"Acumulado no ano",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
 "You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
-"Next steps","Next steps",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","If you think this is an error, try signing out and signing in again.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Contact a system administrator or store owner to gain permissions.",module,Magento_Backend
-"Return to","Return to",module,Magento_Backend
-"previous page","previous page",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Desculpa, mas necessita de permissões para visualizar este conteúdo.",module,Magento_Backend
+"Next steps","Próximos passos",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Se acha que é um erro, por favor saia e volte e entrar.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Contacte o administrador de sistemas ou o dono da loja, para ter acesso.",module,Magento_Backend
+"Return to","Retornar para",module,Magento_Backend
+"previous page","página anterior",module,Magento_Backend
 "Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
 Username,"Nome de Usuário",module,Magento_Backend
 "user name","nome de usuário",module,Magento_Backend
@@ -1037,8 +1037,8 @@ Header,Cabeçalho,module,Magento_Banner
 "Specify Banners","Especificar Banners",module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
-cc_type,cc_type,module,Magento_Braintree
-cc_number,cc_number,module,Magento_Braintree
+cc_type,tipo_cc,module,Magento_Braintree
+cc_number,numero_cc,module,Magento_Braintree
 avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
 avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
 cvvResponseCode,cvvResponseCode,module,Magento_Braintree
@@ -2756,7 +2756,7 @@ items,itens,module,Magento_Checkout
 Error!,Erro!,module,Magento_Checkout
 "DB exception","Erro de Banco de Dados",module,Magento_Checkout
 Message,Mensagem,module,Magento_Checkout
-"Print receipt","Print receipt",module,Magento_Checkout
+"Print receipt","Imprimir recibo",module,Magento_Checkout
 "Apply Discount Code","Aplicar Cupom de Desconto",module,Magento_Checkout
 "Enter discount code","Inserir cupom de desconto",module,Magento_Checkout
 "Apply Discount","Aplicar Desconto",module,Magento_Checkout
@@ -9644,7 +9644,7 @@ Comment,Comentar,module,Magento_Sales
 "Comment added","Comentário Adicionado",module,Magento_Sales
 "Transaction Data","Dados da Transação",module,Magento_Sales
 "Transaction ID","ID Transação",module,Magento_Sales
-"Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
+"Parent Transaction ID","ID da Última Transação",module,Magento_Sales
 "Order ID","ID do Pedido",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
@@ -9736,7 +9736,7 @@ General,Geral,module,Magento_Sales
 "Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
 "Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)",module,Magento_Sales
 Address,Endereço,module,Magento_Sales
-"Minimum Order Amount","Minimum Order Amount",module,Magento_Sales
+"Minimum Order Amount","Valor Mínimo de Encomenda",module,Magento_Sales
 Enable,Habilitado,module,Magento_Sales
 "Minimum Amount","Quantidade mínima",module,Magento_Sales
 "Subtotal after discount","Subtotal after discount",module,Magento_Sales
@@ -11280,7 +11280,7 @@ Priority,Prioridade,module,Magento_Tax
 "Shipping & Handling (Excl.Tax)","Transporte e Manipulação (Sem Impostos)",module,Magento_Tax
 "Shipping & Handling (Incl.Tax)","Transporte e Manipulação (Incluindo Tarifas)",module,Magento_Tax
 "Grand Total (Excl.Tax)","Preço Final (Sem Impostos)",module,Magento_Tax
-"Grand Total (Incl.Tax)","Preço Final (Com Impostos)",module,Magento_Tax
+"Grand Total (Incl.Tax)","Total (c/IVA)",module,Magento_Tax
 Sales,Vendas,module,Magento_Tax
 Tax,Taxa,module,Magento_Tax
 "Manage Tax Rates","Gerenciar Taxas de Imposto",module,Magento_Tax
@@ -11291,10 +11291,10 @@ Tax,Taxa,module,Magento_Tax
 "We can't save this rate right now.","Não podemos salvar essa taxa de imposto no momento.",module,Magento_Tax
 "You deleted the tax rate.","Você apagou a tarifa.",module,Magento_Tax
 "We can't delete this rate because of an incorrect rate ID.","Não podemos excluir essa taxa por causa de um ID de taxa incorreto.",module,Magento_Tax
-"Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
+"Something went wrong deleting this rate.","Algo correu mal ao apagar esta taxa.",module,Magento_Tax
 "Edit Tax Rate","Editar a taxa de imposto",module,Magento_Tax
 "You saved the tax rate.","Você salvou a tarifa.",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
+"Tax Rules","Regras de Taxas",module,Magento_Tax
 "The tax rule has been deleted.","A regra foi excluída.",module,Magento_Tax
 "This rule no longer exists.","Esta regra não existe mais.",module,Magento_Tax
 "Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
@@ -11333,9 +11333,9 @@ Code,Código,module,Magento_Tax
 "Grand Total (Excl. Tax)","Preço Final (Sem Impostos)",module,Magento_Tax
 "Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_Tax
 "Shipping (Excl. Tax)","Entrega (Excl. IVA)",module,Magento_Tax
-"Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Tax
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Tax
+"Shipping (Incl. Tax)","Expedição (c/IVA)",module,Magento_Tax
+"Subtotal (Excl. Tax)","Subtotal (s/IVA)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Subtotal (c/IVA)",module,Magento_Tax
 Subtotal,Subtotal,module,Magento_Tax
 "Unit Price","Preço unitário",module,Magento_Tax
 "Row Total","Linha Total",module,Magento_Tax
@@ -11373,8 +11373,8 @@ Note:,Anotação:,module,Magento_Tax
 "Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
 Save,Salvar,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
-"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
+"Grand Total Excl. Tax","Total s/IVA",module,Magento_Tax
+"Grand Total Incl. Tax","Total c/IVA",module,Magento_Tax
 Taxes,Taxas,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Classes de impostos",module,Magento_Tax
@@ -11405,17 +11405,17 @@ Taxes,Taxas,module,Magento_Tax
 "Display Prices","Exibir preços",module,Magento_Tax
 "Display Subtotal","Exibir o Subtotal",module,Magento_Tax
 "Display Shipping Amount","Display Shipping Amount",module,Magento_Tax
-"Include Tax In Order Total","Include Tax In Order Total",module,Magento_Tax
+"Include Tax In Order Total","Incluir taxas no total da encomenda",module,Magento_Tax
 "Display Full Tax Summary","Display Full Tax Summary",module,Magento_Tax
 "Display Zero Tax Subtotal","Display Zero Tax Subtotal",module,Magento_Tax
 "Orders, Invoices, Credit Memos Display Settings","Orders, Invoices, Credit Memos Display Settings",module,Magento_Tax
 State/Region,Estado/região,module,Magento_Tax
 Rate,Rate,module,Magento_Tax
-"Subtotal Only","Subtotal Only",module,Magento_Tax
+"Subtotal Only","Subtotal apenas",module,Magento_Tax
 "(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
-"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total Excl. Tax","Total s/IVA",module,Magento_Tax
+"Order Total Incl. Tax","Total c/IVA",module,Magento_Tax
 "Order Total","Total do Pedido",module,Magento_Tax
 "Your credit card will be charged for","Seu cartão de crédito será cobrado para",module,Magento_Tax
 "An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
