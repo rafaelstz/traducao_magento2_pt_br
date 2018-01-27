@@ -644,9 +644,9 @@ YTD,"Acumulado no ano",module,Magento_Backend
 Order,Pedido,module,Magento_Backend
 "Order #%1","Pedido #%1",module,Magento_Backend
 "You need more permissions to access this.","Você precisa mais permissões para acessar isso.",module,Magento_Backend
-"Sorry, you need permissions to view this content.","Desculpa, mas necessita de permissões para visualizar este conteúdo.",module,Magento_Backend
+"Sorry, you need permissions to view this content.","Desculpa, você não tem permissão para visualizar este conteúdo.",module,Magento_Backend
 "Next steps","Próximos passos",module,Magento_Backend
-"If you think this is an error, try signing out and signing in again.","Se acha que é um erro, por favor saia e volte e entrar.",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Se você acha que isto é um erro, tente deslogar e logar novamente.",module,Magento_Backend
 "Contact a system administrator or store owner to gain permissions.","Contacte o administrador de sistemas ou o dono da loja, para ter acesso.",module,Magento_Backend
 "Return to","Retornar para",module,Magento_Backend
 "previous page","página anterior",module,Magento_Backend
@@ -1037,8 +1037,8 @@ Header,Cabeçalho,module,Magento_Banner
 "Specify Banners","Especificar Banners",module,Magento_Banner
 "Banner Block Template","Template de Bloco para Banner",module,Magento_Banner
 "Banner Inline Template","Template Inline para Banner",module,Magento_Banner
-cc_type,tipo_cc,module,Magento_Braintree
-cc_number,numero_cc,module,Magento_Braintree
+cc_type,cc_type,module,Magento_Braintree
+cc_number,cc_number,module,Magento_Braintree
 avsPostalCodeResponseCode,avsPostalCodeResponseCode,module,Magento_Braintree
 avsStreetAddressResponseCode,avsStreetAddressResponseCode,module,Magento_Braintree
 cvvResponseCode,cvvResponseCode,module,Magento_Braintree
@@ -1052,19 +1052,19 @@ riskDataId,riskDataId,module,Magento_Braintree
 riskDataDecision,riskDataDecision,module,Magento_Braintree
 paymentId,paymentId,module,Magento_Braintree
 payerEmail,payerEmail,module,Magento_Braintree
-sale,sale,module,Magento_Braintree
-credit,credit,module,Magento_Braintree
+sale,venda,module,Magento_Braintree
+credit,crédito,module,Magento_Braintree
 authorization_expired,authorization_expired,module,Magento_Braintree
-authorizing,authorizing,module,Magento_Braintree
-authorized,authorized,module,Magento_Braintree
+authorizing,autorizando,module,Magento_Braintree
+authorized,autorizado,module,Magento_Braintree
 gateway_rejected,gateway_rejected,module,Magento_Braintree
-failed,failed,module,Magento_Braintree
+failed,falhou,module,Magento_Braintree
 processor_declined,processor_declined,module,Magento_Braintree
-settled,settled,module,Magento_Braintree
-settling,settling,module,Magento_Braintree
+settled,resolvido,module,Magento_Braintree
+settling,liquidando,module,Magento_Braintree
 submitted_for_settlement,submitted_for_settlement,module,Magento_Braintree
-voided,voided,module,Magento_Braintree
-unrecognized,unrecognized,module,Magento_Braintree
+voided,anulado,module,Magento_Braintree
+unrecognized,desconhecido,module,Magento_Braintree
 settlement_declined,settlement_declined,module,Magento_Braintree
 settlement_pending,settlement_pending,module,Magento_Braintree
 settlement_confirmed,settlement_confirmed,module,Magento_Braintree
@@ -7413,7 +7413,7 @@ Charge-off,Reembolso,module,Magento_Paypal
 Funding,Financiamento,module,Magento_Paypal
 "General (Authorization)","Geral (Autorização)",module,Magento_Paypal
 "General (Dividend)","Geral (Dividendo)",module,Magento_Paypal
-"General (Funds Transfer from PayPal Account to Another)","Geral (Transferência de Fundos entre Contas PayPal)",module,Magento_Paypal
+"General (Funds Transfer from PayPal Account to Another)","Geral (Transferência de Fundos da Conta PayPal para Outra Conta)",module,Magento_Paypal
 "General (Purchase with a credit card)","Geral (Compra com um cartão de crédito)",module,Magento_Paypal
 "General Adjustment without businessrelated event","Ajuste Geral sem nenhum evento comercial relacionado",module,Magento_Paypal
 "General Currency Conversion","Conversão de moeda",module,Magento_Paypal
@@ -7578,10 +7578,10 @@ Manage,Gerenciar,module,Magento_Paypal
 "Payments Pro and Express Checkout","Pagamentos Pro e Checkout Express",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Configurações básicas - PayPal Payments Pro",module,Magento_Paypal
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>",module,Magento_Paypal
-"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluções de Pagamento All-in-One PayPal&nbsp;&nbsp;<i>Aceite e processe cartões de crédito e pagamentos PayPal.</i>",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Aceite pagamentos com uma página de checkout completamente personalizável.",module,Magento_Paypal
 "Process payments using your own internet merchant account.","Processe os pagamentos usando a sua própria conta de comerciante.",module,Magento_Paypal
-"Website Payments Pro","Website Payments Pro",module,Magento_Paypal
+"Website Payments Pro","Pagamentos Pro do website",module,Magento_Paypal
 "Express Checkout","Express Checkout",module,Magento_Paypal
 "Add PayPal as an additional payment method to your checkout page.","Adicione PayPal como método de pagamento adicional à sua página de checkout.",module,Magento_Paypal
 "Required PayPal Settings","Configurações de PayPal Necessárias",module,Magento_Paypal
@@ -7607,7 +7607,7 @@ Manage,Gerenciar,module,Magento_Paypal
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","O Checkout Express PayPal permite dar aos clientes acesso a financiamento através do PayPal Credit&#174; - sem custos adicionais para si.
                         O comerciante é pago de imediato, mas os clientes têm mais tempo para pagar. Existe um botão de pagamento integrado que deixa os clientes pagarem rapidamente com o PayPal Credit&#174;.
                         <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Saiba Mais</a>",module,Magento_Paypal
-"Sort Order PayPal Credit","Sort Order PayPal Credit",module,Magento_Paypal
+"Sort Order PayPal Credit","Ordem de Classificação Crédito PayPal",module,Magento_Paypal
 "Advertise PayPal Credit","Anunciar Crédito PayPal",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -7622,7 +7622,7 @@ Manage,Gerenciar,module,Magento_Paypal
                                 ou mais. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver Detalhes</a>.",module,Magento_Paypal
 "Publisher ID","ID do Editor",module,Magento_Paypal
 "Required to display a banner","Necessário para exibir um banner",module,Magento_Paypal
-"Get Publisher ID from PayPal","Obter ID do Editor através do PayPal",module,Magento_Paypal
+"Get Publisher ID from PayPal","Obter o ID de editor do PayPal",module,Magento_Paypal
 "Home Page","Página inicial",module,Magento_Paypal
 Display,Exibir,module,Magento_Paypal
 Position,Posição,module,Magento_Paypal
@@ -7632,21 +7632,21 @@ Size,Tamanho,module,Magento_Paypal
 "Checkout Cart Page","Página do Carrinho de Compras",module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Configurações Básicas - PayPal Checkout Rápido",module,Magento_Paypal
 Title,Título,module,Magento_Paypal
-"It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por vista de loja.",module,Magento_Paypal
+"It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por visão de loja.",module,Magento_Paypal
 "Sort Order",Ordernação,module,Magento_Paypal
 "Payment Action","Ação de Pagamento",module,Magento_Paypal
 "Display on Product Details Page","Visualizar na Página de detalhes do Produto",module,Magento_Paypal
 "Authorization Honor Period (days)","Período de Honra de Autorização (dias)",module,Magento_Paypal
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Período de Honra de Autorização na conta de PayPal do comerciante. Deve igualar a definição no PayPal.",module,Magento_Paypal
 "Order Valid Period (days)","Período de Validade da Encomenda (dias)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Prazo de Validade da Encomenda na conta de PayPal do comerciante. Deve igualar a definição no PayPal.",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica qual é o Prazo de Validade da Encomenda na conta de PayPal do comerciante. Deve ser igual a configuração no PayPal.",module,Magento_Paypal
 "Number of Child Authorizations","Numero de Autorizações Filhas",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","O numero total de autorizações filhas na sua conta PayPal é 1. Para múltiplas autorizações, por favor entre em contato com o PayPal e solicite um aumento.",module,Magento_Paypal
 "Advanced Settings","Configurações Avançadas",module,Magento_Paypal
 "Display on Shopping Cart","Visualizar no Carrinho de Compras",module,Magento_Paypal
 "Also affects mini-shopping cart.","Também Afetam o mini-carrinho de compras.",module,Magento_Paypal
 "Payment Applicable From","Pagamento Aplicável De",module,Magento_Paypal
-"Countries Payment Applicable From","Países com Pagamento Aplicável",module,Magento_Paypal
+"Countries Payment Applicable From","Países com Pagamento Aplicável de",module,Magento_Paypal
 "Debug Mode","Modo de depuração",module,Magento_Paypal
 "Enable SSL verification","Ativar Verificação SSL",module,Magento_Paypal
 "Transfer Cart Line Items","Transferir Itens da Linha do Carrinho",module,Magento_Paypal
@@ -7654,19 +7654,19 @@ Title,Título,module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Se esta opção estiver ativa, o cliente poderá alterar a morada e o modo de envio no site do PayPal. Em modo produção funcionará apenas através do protocolo HTTPS.",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Note que o PayPal pode gerir até 10 opções de envio. Devido a isto, o Magento irá transferir apenas as 10 opções de envio mais baratas se existirem mais de 10.",module,Magento_Paypal
 "Shortcut Buttons Flavor","Tipo de Botões de Atalho",module,Magento_Paypal
-"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Utilizadores Não Registados",module,Magento_Paypal
-"Ability for buyer to purchase without PayPal account.","Opção para o comprador efetuar a compra sem uma conta PayPal.",module,Magento_Paypal
+"Enable PayPal Guest Checkout","Ativar Checkout PayPal para Usuários Não Registados",module,Magento_Paypal
+"Ability for buyer to purchase without PayPal account.","Capacitar comprador para efetuar a compra sem uma conta PayPal.",module,Magento_Paypal
 "Require Customer's Billing Address","Exigir Endereço de Faturação do Cliente",module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta funcionalidade precisa de ser primeiro ativada para a conta de comerciante através do suporte técnico do PayPal.",module,Magento_Paypal
-"Billing Agreement Signup","Adersão ao Acordo de Faturação",module,Magento_Paypal
-"Whether to create a billing agreement, if there are no active billing agreements available.","Se deve ser criado um acordo de faturação, se não houver acordos de faturação ativos e disponíveis.",module,Magento_Paypal
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Os comerciantes tem de contactar a PayPal para ativar a funcionalidade dos acordos de faturação. Não ative esta opção até que a PayPal confirme que os acordos de faturação foram ativados para a sua conta de comerciante.",module,Magento_Paypal
-"Skip Order Review Step","Saltar Passo de Revisão da Encomenda",module,Magento_Paypal
-"PayPal Billing Agreement Settings","Definições de Acordo de Faturação PayPal",module,Magento_Paypal
+"Billing Agreement Signup","Assinatura do Contrato de Cobrança",module,Magento_Paypal
+"Whether to create a billing agreement, if there are no active billing agreements available.","Seja para criar um contrato de cobrança, se não houver acordos de cobrança ativos disponíveis.",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Os comerciantes tem de contactar a PayPal para ativar a funcionalidade dos acordos de fatura. Não ative esta opção até que a PayPal confirme que os acordos de fatura foram ativados para a sua conta de comerciante.",module,Magento_Paypal
+"Skip Order Review Step","Pular Passo de Revisão do Pedido",module,Magento_Paypal
+"PayPal Billing Agreement Settings","Configurações de acordo de faturamento do PayPal",module,Magento_Paypal
 Enabled,Habilitado,module,Magento_Paypal
 "Will appear as a payment option only for customers who have at least one active billing agreement.","Irá aparecer como opção de pagamento apenas para clientes que tenham um acordo de faturação ativo.",module,Magento_Paypal
-"Allow in Billing Agreement Wizard","Permitir no Assistente de Acordo de Faturação",module,Magento_Paypal
-"Settlement Report Settings","Definições de Relatórios de Liquidação",module,Magento_Paypal
+"Allow in Billing Agreement Wizard","Permitir no Assistente de Acordo de Fatura",module,Magento_Paypal
+"Settlement Report Settings","Configurações de relatório de liquidação",module,Magento_Paypal
 "SFTP Credentials","Credenciais SFTP",module,Magento_Paypal
 Login,Entrar,module,Magento_Paypal
 Password,Senha,module,Magento_Paypal
