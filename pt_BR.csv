@@ -7422,7 +7422,7 @@ Funding,Financiamento,module,Magento_Paypal
 "General Withdrawal from PayPal Account","Levantamento Geral da Conta PayPal",module,Magento_Paypal
 "General. Product no longer supported","Geral. Não há mais suporte para o produto",module,Magento_Paypal
 "General: Use of PayPal account for purchasing as well as receiving payments","Geral: Uso da conta PayPal para efetuar compras bem como para receber pagamentos",module,Magento_Paypal
-"General: Withdrawal from PayPal Account","Geral: Levantamento da Conta PayPal",module,Magento_Paypal
+"General: Withdrawal from PayPal Account","Geral: Retirada da conta PayPal",module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","Geral: Levantamento para uma Entidade Não-Bancária",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Geral: ajuste de um tipo não pertencente às outras categorias T12xx",module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Geral: bónus de um tipo não pertencente às outras categorias T08xx",module,Magento_Paypal
@@ -7438,7 +7438,7 @@ Funding,Financiamento,module,Magento_Paypal
 Incentive,Incentivo,module,Magento_Paypal
 "Mass Pay Payment","Múltiplos Pagamentos",module,Magento_Paypal
 "Merchant Referral Bonus","Bónus de Referência de Comerciantes",module,Magento_Paypal
-"Mobile Payment (made via a mobile phone)","Pagamento Móvel (feito através de um telemóvel)",module,Magento_Paypal
+"Mobile Payment (made via a mobile phone)","Pagamento Móvel (feito através de um celular)",module,Magento_Paypal
 "Negative Balance","Saldo Negativo",module,Magento_Paypal
 "Open Authorization","Autorização Aberta",module,Magento_Paypal
 "PayPal Balance Manager function of PayPal account","Função do Gestor de Saldo da conta PayPal",module,Magento_Paypal
@@ -7465,7 +7465,7 @@ Reversal,Reversão,module,Magento_Paypal
 Void,Anular,module,Magento_Paypal
 "WorldLink Withdrawal","Levantamento WorldLink",module,Magento_Paypal
 "eBay Auction Payment","Pagamento de Leilão eBay",module,Magento_Paypal
-"The PayPal certificate file is empty.","O ficheiro do certificado PayPal está vazio.",module,Magento_Paypal
+"The PayPal certificate file is empty.","O certificado PayPal não existe ou está vazio.",module,Magento_Paypal
 "Header (center)","Cabeçalho (centro)",module,Magento_Paypal
 "Sidebar (right)","Barra lateral (à direita)",module,Magento_Paypal
 "Near PayPal Credit checkout button","Junto ao botão de Finalizar Compra de Crédito PayPal",module,Magento_Paypal
@@ -7479,7 +7479,7 @@ Daily,Diário,module,Magento_Paypal
 "Every 40 days","A cada 40 dias",module,Magento_Paypal
 "No Logo","Sem Logo",module,Magento_Paypal
 "Yes (PayPal recommends this option)","Sim (PayPal recomenda esta opção)",module,Magento_Paypal
-"Created billing agreement #%1.","Foi criado o acordo de faturação #%1.",module,Magento_Paypal
+"Created billing agreement #%1.","Foi criado o acordo de cobrança #%1.",module,Magento_Paypal
 "We can't create a billing agreement for this order.","Não podemos criar um acordo de faturamento para este fim.",module,Magento_Paypal
 "Pending PayPal","Pendente Paypal",module,Magento_Paypal
 "PayPal Reversed","PayPal Cancelado",module,Magento_Paypal
@@ -7496,7 +7496,7 @@ expires,"expira em",module,Magento_Paypal
 here,aqui,module,Magento_Paypal
 "to learn more.","para saber mais.",module,Magento_Paypal
 Important:,Importante:,module,Magento_Paypal
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Para usar o PayPal Payments Advance, deve configurar sua conta de pagamentos PayPal Payments Advance no site do PayPal.",module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Para usar PayPal Payments Advanced, você precisa configurar sua conta PayPal no site do PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Depois de iniciar sessão na sua conta PayPal Advanced, navegue até ao menu Service Settings - Hosted Checkout Pages - Set Up e defina as opções listadas abaixo",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para usar o PayPal Payflow Link, deve configurar sua conta de pagamentos PayPal Payflow Link no site do PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Depois de iniciar sessão na sua conta PayPal Payflow Link, navegue até ao menu Service Settings - Hosted Checkout Pages - Set Up e defina as opções listadas abaixo",module,Magento_Paypal
@@ -7525,7 +7525,7 @@ View,Visualizar,module,Magento_Paypal
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Paypal
 Create...,Criar...,module,Magento_Paypal
 "Your credit card will be charged for","Seu cartão de crédito será cobrado para",module,Magento_Paypal
-"Your billing agreement # is:","O seu número de acordo de faturação é:",module,Magento_Paypal
+"Your billing agreement # is:","O seu número de acordo de cobrança é:",module,Magento_Paypal
 "Shipping Method","Método de Entrega",module,Magento_Paypal
 "Please select a shipping method...","Por favor selecione um modo de envio...",module,Magento_Paypal
 "Update Shipping Method","Atualizar Métodos de Envio",module,Magento_Paypal
@@ -7546,14 +7546,14 @@ Subtotal,Subtotal,module,Magento_Paypal
 or,ou,module,Magento_Paypal
 "Checkout with PayPal","Finalizar Compra com PayPal",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Por favor não recarregue a página até concluir o pagamento.",module,Magento_Paypal
-"You will be required to enter your payment details after you place an order.","Ser-lhe-á pedido para inserir a sua informação de pagamento depois de confirmar a encomenda.",module,Magento_Paypal
+"You will be required to enter your payment details after you place an order.","Será solicitado a você inserir as suas informações de pagamento após confirmar o pedido.",module,Magento_Paypal
 Continue,Próximo,module,Magento_Paypal
 "Additional Options","Opções Adicionais",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Por favor, Selecione um Acordo de Cobrança --",module,Magento_Paypal
 "Acceptance Mark","Marca de aceitação",module,Magento_Paypal
 "What is PayPal?","O que é o PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Assinar um contrato de cobrança, para simplificar outras compras com o PayPal.",module,Magento_Paypal
-"Sign a billing agreement to streamline further purchases with PayPal.","Assine um acordo de faturação para acelerar as compras futuras com PayPal.",module,Magento_Paypal
+"Sign a billing agreement to streamline further purchases with PayPal.","Assine um acordo de cobrança para acelerar as compras futuras com PayPal.",module,Magento_Paypal
 "Continue to PayPal","Continuar no PayPal",module,Magento_Paypal
 "Save credit card information for future use.","Salvar as informações do cartão de crédito para o uso futuro.",module,Magento_Paypal
 "Sorry, something went wrong.","Desculpa, alguma coisa deu errado.",module,Magento_Paypal
@@ -7572,10 +7572,10 @@ Manage,Gerenciar,module,Magento_Paypal
 "Other Payment Methods:","Outros meios de pagamento:",module,Magento_Paypal
 "PayPal Express Checkout","PayPal Checkout Rápido",module,Magento_Paypal
 "Add another payment method to your existing solution or as a stand-alone option.","Adicionar outro meio de pagamento para uma solução existente ou uma opção stand-alone.",module,Magento_Paypal
-"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>",module,Magento_Paypal
+"PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;<i>Aceite e processe cartões de crédito e pagamentos PayPal.</i>",module,Magento_Paypal
 "Choose a secure bundled payment solution for your business.","Escolha uma solução de pagamento completa e segura para o seu negócio.",module,Magento_Paypal
 "Payments Pro","Payments Pro",module,Magento_Paypal
-"Payments Pro and Express Checkout","Pagamentos Pro e Checkout Express",module,Magento_Paypal
+"Payments Pro and Express Checkout","Payments Pro e Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Configurações básicas - PayPal Payments Pro",module,Magento_Paypal
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>",module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluções de Pagamento All-in-One PayPal&nbsp;&nbsp;<i>Aceite e processe cartões de crédito e pagamentos PayPal.</i>",module,Magento_Paypal
