@@ -7,7 +7,7 @@ None,Nenhum,module,Magento_AdminGws
 "You can create orders only in an active store.","Você pode criar ordens apenas em uma loja ativa.",module,Magento_AdminGws
 "Please assign this item to a store view.","Por favor, atribua este registro para uma visão de loja.",module,Magento_AdminGws
 "You need more permissions to save this item.","Você precisa ter mais permissões para gravar este registro.",module,Magento_AdminGws
-"You need more permissions to delete this item.","Você precisa de ter mais permissões para eliminar este registo.",module,Magento_AdminGws
+"You need more permissions to delete this item.","Você precisa ter mais permissões para eliminar este registo.",module,Magento_AdminGws
 "You need more permissions to view this item.","Você precisa ter mais permissões para visualizar este registo.",module,Magento_AdminGws
 "Please specify at least one website or one store group.","Por favor, selecione ao menos um website ou um grupo de loja.",module,Magento_AdminGws
 "You need more permissions to set All Scopes to a Role.","Você precisa ter mais permissões para associar a regra a todos escopos.",module,Magento_AdminGws
@@ -7423,7 +7423,7 @@ Funding,Financiamento,module,Magento_Paypal
 "General. Product no longer supported","Geral. Não há mais suporte para o produto",module,Magento_Paypal
 "General: Use of PayPal account for purchasing as well as receiving payments","Geral: Uso da conta PayPal para efetuar compras bem como para receber pagamentos",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Geral: Retirada da conta PayPal",module,Magento_Paypal
-"General: Withdrawal to Non-Bank Entity","Geral: Levantamento para uma Entidade Não-Bancária",module,Magento_Paypal
+"General: Withdrawal to Non-Bank Entity","Geral: Retirada de entidade não-bancárias",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Geral: ajuste de um tipo não pertencente às outras categorias T12xx",module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Geral: bónus de um tipo não pertencente às outras categorias T08xx",module,Magento_Paypal
 "General: event not yet categorized","Geral: evento ainda não categorizado",module,Magento_Paypal
@@ -7432,7 +7432,7 @@ Funding,Financiamento,module,Magento_Paypal
 "General: reversal of a type not belonging to the other T11xx categories","Geral: inversão de um tipo não pertencente às outras categorias T11xx",module,Magento_Paypal
 "General: temporary hold of a type not belonging to the other T15xx categories","Geral: bloqueio temporário de um tipo não pertencente às outras categorias T15xx",module,Magento_Paypal
 "Gift Certificate Payment: purchase of Gift Certificate","Pagamento de Cartão de Oferta: compra de um Cartão de Oferta",module,Magento_Paypal
-"Gift Certificate Redemption","Uso de Cartão de Oferta",module,Magento_Paypal
+"Gift Certificate Redemption","Resgatar vale-presente",module,Magento_Paypal
 "Hidden Virtual PayPal Debit Card Transaction","Transação Virtual Oculta de Cartão de Débito PayPal",module,Magento_Paypal
 "Hold for Dispute Investigation","Bloqueado para Investigação de Disputa",module,Magento_Paypal
 Incentive,Incentivo,module,Magento_Paypal
