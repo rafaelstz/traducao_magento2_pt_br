@@ -242,29 +242,29 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido de registo para o Magento Analytics. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Error occurred during postponement notification","Ocorreu um erro durante a notificação de adiamento",module,Magento_Analytics
-"Time value has an unsupported format","Time value has an unsupported format",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
+"Time value has an unsupported format","Valor do tempo tem um formato não suportado",module,Magento_Analytics
+"Cron settings can't be saved","Configurações do cron não podem ser salvas",module,Magento_Analytics
 "There was an error save new configuration value.","Houve um erro a salvar a nova configuração.",module,Magento_Analytics
 "Please select a vertical.","Por favor selecione uma vertical.",module,Magento_Analytics
 "--Please Select--","-- Por favor, selecione --",module,Magento_Analytics
 "Command was not found.","Comando não foi encontrado.",module,Magento_Analytics
-"Input data must be string or convertible into string.","Input data must be string or convertible into string.",module,Magento_Analytics
-"Input data must be non-empty string.","Input data must be non-empty string.",module,Magento_Analytics
-"Not valid cipher method.","Not valid cipher method.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
+"Input data must be string or convertible into string.","Entrada de dados devem ser string ou conversíveis em string.",module,Magento_Analytics
+"Input data must be non-empty string.","Dados de entrada não podem ser uma string vazia.",module,Magento_Analytics
+"Not valid cipher method.","Método de codificação não é válido.",module,Magento_Analytics
+"Encryption key can't be empty.","Chave de criptografia não pode ser vazia.",module,Magento_Analytics
+"Source ""%1"" is not exist","Fonte ""%1"" não existe",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
+"File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>",module,Magento_Analytics
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Repetir Sincronização</a>",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Mensagem de erro",module,Magento_Analytics
 "Apps and Games","Apps e Jogos",module,Magento_Analytics
 "Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
-"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
+"Advanced Reporting","Relatórios Avançados",module,Magento_Analytics
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
 "View details","View details",module,Magento_Analytics
 "Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
@@ -11849,14 +11849,14 @@ Ground,Terreno,module,Magento_Ups
 "Ground Residential","Terreno Residencial",module,Magento_Ups
 "Canada Standard","Padrão de Canadá",module,Magento_Ups
 "Worldwide Express","Expresso para todo o mundo",module,Magento_Ups
-"Worldwide Express Saver","Worldwide Express Saver",module,Magento_Ups
+"Worldwide Express Saver","Express Saver para todo o mundo",module,Magento_Ups
 "Worldwide Express Letter","Carta expressa em todo o mundo",module,Magento_Ups
-"Worldwide Express Plus","Worldwide Express Plus",module,Magento_Ups
+"Worldwide Express Plus","Expresso Plus para todo o mundo",module,Magento_Ups
 "Worldwide Express Plus Letter","Carta expressa em todo o mundo",module,Magento_Ups
 "Worldwide Expedited","Entrega rápida em todo o mundo",module,Magento_Ups
 "Customer Packaging","Embalagem do cliente",module,Magento_Ups
 "UPS Letter Envelope","Envelope de carta de UPS",module,Magento_Ups
-"Customer Supplied Package","Customer Supplied Package",module,Magento_Ups
+"Customer Supplied Package","Pacote Fornecido pelo Cliente",module,Magento_Ups
 "UPS Tube","Tubo de UPS",module,Magento_Ups
 PAK,PAK,module,Magento_Ups
 "UPS Express Box","UPS Express Box",module,Magento_Ups
