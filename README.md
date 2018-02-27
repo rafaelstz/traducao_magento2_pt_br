@@ -27,7 +27,7 @@ php bin/magento cache:clean
 
 Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
-* Crie o diretório app/i18n/rafaelcg/language_pt_br
+* Crie o diretório **app/i18n/rafaelcg/language_pt_br**
 * Efetue o [download do zip](https://github.com/rafaelstz/traducao_magento2_pt_br/archive/master.zip)
 * Mova o conteúdo do repositório para a pasta e habilite a tradução
 
