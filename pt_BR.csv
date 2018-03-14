@@ -256,8 +256,8 @@ Edit,Editar,module,Magento_AdvancedSearch
 "These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
 "File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Falha a sincronizar dados para o Magento Business Intelligence service.",module,Magento_Analytics
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Repetir Sincronização</a>",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Mensagem de erro",module,Magento_Analytics
@@ -265,14 +265,14 @@ TestMessage,TestMessage,module,Magento_Analytics
 "Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
 "Advanced Reporting","Relatórios Avançados",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"View details","View details",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ganhe novos pontos de vista e tome controlo dos resultados do seu negócio, usando os nossos relatórios dynamic product, pedidos, e clientes, trabalhados de acordo com os seus dados de clientes.",module,Magento_Analytics
+"View details","Ver detalhes",module,Magento_Analytics
+"Go to Advanced Reporting","Ir para Relatóros avançados",module,Magento_Analytics
 "An error occurred while subscription process.","Ocorreu um erro durante o processo de inscrição.",module,Magento_Analytics
 Analytics,Analítica,module,Magento_Analytics
 API,API,module,Magento_Analytics
 Configuration,Configuração,module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
+"Business Intelligence","Inteligência de Negócio BI",module,Magento_Analytics
 "BI Essentials","Essenciais de BI",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
@@ -7424,7 +7424,7 @@ Funding,Financiamento,module,Magento_Paypal
 "General: Use of PayPal account for purchasing as well as receiving payments","Geral: Uso da conta PayPal para efetuar compras bem como para receber pagamentos",module,Magento_Paypal
 "General: Withdrawal from PayPal Account","Geral: Retirada da conta PayPal",module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","Geral: Retirada de entidade não-bancárias",module,Magento_Paypal
-"General: adjustment of a type not belonging to the other T12xx categories","Geral: ajuste de um tipo não pertencente às outras categorias T12xx",module,Magento_Paypal
+"General: adjustment of a type not belonging to the other T12xx categories",Todos,module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Geral: bónus de um tipo não pertencente às outras categorias T08xx",module,Magento_Paypal
 "General: event not yet categorized","Geral: evento ainda não categorizado",module,Magento_Paypal
 "General: non-payment fee of a type not belonging to the other T01xx categories","Geral: taxa não respetiva a um pagamento de um tipo que não pertence às outras categorias T01xx",module,Magento_Paypal
@@ -7464,7 +7464,7 @@ Reversal,Reversão,module,Magento_Paypal
 "Virtual Terminal Payment","Pagamento Terminal Virtual",module,Magento_Paypal
 Void,Anular,module,Magento_Paypal
 "WorldLink Withdrawal","Levantamento WorldLink",module,Magento_Paypal
-"eBay Auction Payment","Pagamento de Leilão eBay",module,Magento_Paypal
+"eBay Auction Payment","pagamento de Leilão eBay",module,Magento_Paypal
 "The PayPal certificate file is empty.","O certificado PayPal não existe ou está vazio.",module,Magento_Paypal
 "Header (center)","Cabeçalho (centro)",module,Magento_Paypal
 "Sidebar (right)","Barra lateral (à direita)",module,Magento_Paypal
@@ -7497,9 +7497,9 @@ here,aqui,module,Magento_Paypal
 "to learn more.","para saber mais.",module,Magento_Paypal
 Important:,Importante:,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Para usar PayPal Payments Advanced, você precisa configurar sua conta PayPal no site do PayPal.",module,Magento_Paypal
-"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Depois de iniciar sessão na sua conta PayPal Advanced, navegue até ao menu Service Settings - Hosted Checkout Pages - Set Up e defina as opções listadas abaixo",module,Magento_Paypal
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Uma vez logado na sua conta PayPal Avançado, navegue em Configurações de Serviço - Páginas Hosted Checkout - Configurar e marque as opções abaixo",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para usar o PayPal Payflow Link, deve configurar sua conta de pagamentos PayPal Payflow Link no site do PayPal.",module,Magento_Paypal
-"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Depois de iniciar sessão na sua conta PayPal Payflow Link, navegue até ao menu Service Settings - Hosted Checkout Pages - Set Up e defina as opções listadas abaixo",module,Magento_Paypal
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Uma vez logado na sua conta Payflow Link, navegue em Configurações de Serviço - Páginas Hosted Checkout - Configurar e marque as opções abaixo",module,Magento_Paypal
 "Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Paypal
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Paypal
 "Expiration Date","Data de Validade",module,Magento_Paypal
@@ -7577,7 +7577,7 @@ Manage,Gerenciar,module,Magento_Paypal
 "Payments Pro","Payments Pro",module,Magento_Paypal
 "Payments Pro and Express Checkout","Payments Pro e Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payments Pro","Configurações básicas - PayPal Payments Pro",module,Magento_Paypal
-"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>",module,Magento_Paypal
+"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Gateways de pagamento PayPal&nbsp;<i>processo pagamentos usando sua própria conta de comerciante do internet.</i>",module,Magento_Paypal
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluções de Pagamento All-in-One PayPal&nbsp;&nbsp;<i>Aceite e processe cartões de crédito e pagamentos PayPal.</i>",module,Magento_Paypal
 "Accept payments with a completely customizable checkout page.","Aceite pagamentos com uma página de checkout completamente personalizável.",module,Magento_Paypal
 "Process payments using your own internet merchant account.","Processe os pagamentos usando a sua própria conta de comerciante.",module,Magento_Paypal
@@ -7722,7 +7722,7 @@ User,Usuário,module,Magento_Paypal
 "Send Email Confirmation","Enviar E-mail de Confirmação",module,Magento_Paypal
 "URL method for Cancel URL and Return URL","Método URL para Cancelar URL e URL de Retorno",module,Magento_Paypal
 "Payflow Link","Payflow Link",module,Magento_Paypal
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Ligue a sua conta de comerciante com um gateway compatível com a norma PCI que permita aos clientes pagar sem deixar o seu site",module,Magento_Paypal
 "Payflow Link and Express Checkout","Payflow Link e Express Checkout",module,Magento_Paypal
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Se não tiver múltiplos utilizadores configurados na sua conta, por favor re-introduza os seus dados de Vendedor/Comerciante aqui.",module,Magento_Paypal
 "Enable Payflow Link","Habilitar Payflow Link",module,Magento_Paypal
@@ -8335,6 +8335,7 @@ Action,Ação,module,Magento_Reports
 Report,Relatório,module,Magento_Reports
 Description,Descrição,module,Magento_Reports
 undefined,"Não definido",module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Salvar Avaliação",module,Magento_Review
 "New Review","Nova Avaliação",module,Magento_Review
 "Review Details","Detalhes da Avaliação",module,Magento_Review
@@ -8882,16 +8883,16 @@ ID,ID,module,Magento_Rma
 Notified,Notificado,module,Magento_Rma
 "Not Notified","Não notificado",module,Magento_Rma
 "Return Address","Endereço de devolução",module,Magento_Rma
-"Order Shipping Address","Order Shipping Address",module,Magento_Rma
+"Order Shipping Address","Endereço de Envio do Pedido",module,Magento_Rma
 "Delete Line","Excluir linha",module,Magento_Rma
 "Select All","Selecionar Todos",module,Magento_Rma
 Weight,Peso,module,Magento_Rma
 "Customs Value","Valor personalizado",module,Magento_Rma
 "Qty Ordered","Qtde comprada",module,Magento_Rma
 "Shipping Information","Dados de Entrega",module,Magento_Rma
-"Change shipping method.","Change shipping method.",module,Magento_Rma
-"No authorized items or allowed shipping methods","No authorized items or allowed shipping methods",module,Magento_Rma
-Carrier,Carrier,module,Magento_Rma
+"Change shipping method.","Alterar método de envio.",module,Magento_Rma
+"No authorized items or allowed shipping methods","Nenhum item autorizado ou métodos de envio permitidos",module,Magento_Rma
+Carrier,Transportadora,module,Magento_Rma
 Title,Título,module,Magento_Rma
 Number,Número,module,Magento_Rma
 "Are you sure?","Você tem certeza?",module,Magento_Rma
@@ -8907,8 +8908,8 @@ Number,Número,module,Magento_Rma
 Remove,Remover,module,Magento_Rma
 Item,Item,module,Magento_Rma
 "Return items","Return items",module,Magento_Rma
-Sub-items,Sub-items,module,Magento_Rma
-"Quantity To Return","Quantity To Return",module,Magento_Rma
+Sub-items,Subitens,module,Magento_Rma
+"Quantity To Return","Quantidade a Devolver",module,Magento_Rma
 "Remaining Quantity:","Remaining Quantity:",module,Magento_Rma
 "New Return for Order %1","New Return for Order %1",module,Magento_Rma
 Email,E-mail,module,Magento_Rma
@@ -8925,18 +8926,18 @@ Date,Data,module,Magento_Rma
 Actions,Ações,module,Magento_Rma
 "View Return","Ver devolução",module,Magento_Rma
 "You have placed no returns.","You have placed no returns.",module,Magento_Rma
-Packages,Packages,module,Magento_Rma
+Packages,Embalagens,module,Magento_Rma
 "Close Window","Fechar Janela",module,Magento_Rma
 Package,Pacote,module,Magento_Rma
 Type,Tipo,module,Magento_Rma
-Length,Length,module,Magento_Rma
+Length,Tamanho,module,Magento_Rma
 "Total Weight","Peso total",module,Magento_Rma
 Width,Largura,module,Magento_Rma
 Height,Altura,module,Magento_Rma
-"Items in the Package","Items in the Package",module,Magento_Rma
+"Items in the Package","Itens na Embalagem",module,Magento_Rma
 "Are you sure you want to delete this tracking information?","Are you sure you want to delete this tracking information?",module,Magento_Rma
 "Request Information","Request Information",module,Magento_Rma
-"Date Requested","Date Requested",module,Magento_Rma
+"Date Requested","Data solicitada",module,Magento_Rma
 "Shipping Address","Endereço de entrega",module,Magento_Rma
 "This won't take long . . .","Não vai demorar.",module,Magento_Rma
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Rma
@@ -8952,25 +8953,25 @@ Answers,Respostas,module,Magento_Rma
 "%store_name:  New customer comment","%store_name:  New customer comment",module,Magento_Rma
 "New Comment for RMA #%increment_id","New Comment for RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Customer %name has left a new comment:",module,Magento_Rma
-"%store_name : New Return # %increment_id","%store_name : New Return # %increment_id",module,Magento_Rma
+"%store_name : New Return # %increment_id","%store_name : Nova Devolução # %increment_id",module,Magento_Rma
 "%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Your return request has been updated. Please see below.",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
 "Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label",module,Magento_Rma
-"%store_name: New Return # %increment_id","%store_name: New Return # %increment_id",module,Magento_Rma
+"%store_name: New Return # %increment_id","%store_name: Nova Devolução # %increment_id",module,Magento_Rma
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
-"%store_name: Return # %increment_id update","%store_name: Return # %increment_id update",module,Magento_Rma
+"%store_name: Return # %increment_id update","%store_name: Devolução # %increment_id atualizada",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name : New Return #%increment_id",module,Magento_Rma
 "We received your return request. You will be notified when your request is reviewed.","We received your return request. You will be notified when your request is reviewed.",module,Magento_Rma
 "Placed on %created_at","Placed on %created_at",module,Magento_Rma
 "Click Details for more required fields.","Click Details for more required fields.",module,Magento_Rma
 Ok,Ok,module,Magento_Rma
-"Create Packages","Create Packages",module,Magento_Rma
-"Add Package","Add Package",module,Magento_Rma
+"Create Packages","Criar Embalagens",module,Magento_Rma
+"Add Package","Adicionar Embalagem",module,Magento_Rma
 "RMA Settings","Configurações de RMA",module,Magento_Rma
-"Enable RMA on Storefront","Enable RMA on Storefront",module,Magento_Rma
+"Enable RMA on Storefront","Habilitar RMA na Loja",module,Magento_Rma
 "Enable RMA on Product Level","Habilitar RMA a nível de produto",module,Magento_Rma
 "Use Store Address","Usar endereço da loja",module,Magento_Rma
 "Contact Name","Nome do contato",module,Magento_Rma
@@ -9644,12 +9645,12 @@ Comment,Comentar,module,Magento_Sales
 "Comment added","Comentário Adicionado",module,Magento_Sales
 "Transaction Data","Dados da Transação",module,Magento_Sales
 "Transaction ID","ID Transação",module,Magento_Sales
-"Parent Transaction ID","ID da Última Transação",module,Magento_Sales
+"Parent Transaction ID","ID da Transacção pai",module,Magento_Sales
 "Order ID","ID do Pedido",module,Magento_Sales
 "Transaction Type","Tipo de Transação",module,Magento_Sales
 "Is Closed","Está fechado",module,Magento_Sales
 "Created At","Criado em",module,Magento_Sales
-"Child Transactions","Child Transactions",module,Magento_Sales
+"Child Transactions","Transacções filhas",module,Magento_Sales
 "Transaction Details","Detalhes da transação",module,Magento_Sales
 Items,Itens,module,Magento_Sales
 "Gift Message for this Order","Mensagem de presente para este pedido",module,Magento_Sales
@@ -9727,40 +9728,40 @@ Create,Criar,module,Magento_Sales
 "Sales Emails Section","Seção de E-mail de vendas",module,Magento_Sales
 General,Geral,module,Magento_Sales
 "Hide Customer IP","Esconder IP do Cliente",module,Magento_Sales
-"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.",module,Magento_Sales
-"Checkout Totals Sort Order","Checkout Totals Sort Order",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Escolher se o IP do cliente é exibido em Pedidos, Faturas, Envios e memos de créditos.",module,Magento_Sales
+"Checkout Totals Sort Order","Totais de checkout ordenados por pedido",module,Magento_Sales
 "Allow Reorder","Permitir Recompra",module,Magento_Sales
 "Invoice and Packing Slip Design","Invoice and Packing Slip Design",module,Magento_Sales
-"Logo for PDF Print-outs (200x50)","Logo for PDF Print-outs (200x50)",module,Magento_Sales
-"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.",module,Magento_Sales
-"Logo for HTML Print View","Logo for HTML Print View",module,Magento_Sales
-"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)",module,Magento_Sales
+"Logo for PDF Print-outs (200x50)","Logotipo para impressões PDF (200x50)",module,Magento_Sales
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Seu logotipo padrão será usado em documentos PDF e HTML.<br />(jpeg, tiff, png) Se a sua imagem PDF estiver distorcida, tente usar um tamanho de imagem maior.",module,Magento_Sales
+"Logo for HTML Print View","Logotipo para impressão de visualização HTML",module,Magento_Sales
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Logotipo para apenas para documentos HTML. Se vazio, o padrão será usado.<br/>(jpeg, gif, png)",module,Magento_Sales
 Address,Endereço,module,Magento_Sales
-"Minimum Order Amount","Valor Mínimo de Encomenda",module,Magento_Sales
+"Minimum Order Amount","Quantidade de pedido mínimo",module,Magento_Sales
 Enable,Habilitado,module,Magento_Sales
 "Minimum Amount","Quantidade mínima",module,Magento_Sales
-"Subtotal after discount","Subtotal after discount",module,Magento_Sales
+"Subtotal after discount","Subtotal após desconto",module,Magento_Sales
 "Include Tax to Amount","Incluso o imposto sobre a quantidade",module,Magento_Sales
 "Description Message","Mensagem de descrição",module,Magento_Sales
-"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
-"Error to Show in Shopping Cart","Error to Show in Shopping Cart",module,Magento_Sales
-"Validate Each Address Separately in Multi-address Checkout","Validate Each Address Separately in Multi-address Checkout",module,Magento_Sales
-"Multi-address Description Message","Multi-address Description Message",module,Magento_Sales
-"We'll use the default description above if you leave this empty.","We'll use the default description above if you leave this empty.",module,Magento_Sales
-"Multi-address Error to Show in Shopping Cart","Multi-address Error to Show in Shopping Cart",module,Magento_Sales
-"We'll use the default error above if you leave this empty.","We'll use the default error above if you leave this empty.",module,Magento_Sales
+"This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","Esta mensagem será exibida no carrinho de compras quando o subtotal (após desconto) for menor que a quantia mínima permitida.",module,Magento_Sales
+"Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras",module,Magento_Sales
+"Validate Each Address Separately in Multi-address Checkout","Valide cada endereço separadamente num checkout de endereços múltiplos",module,Magento_Sales
+"Multi-address Description Message","Multi-Endereço mensagem de descrição",module,Magento_Sales
+"We'll use the default description above if you leave this empty.","Usaremos a descrição padrão acima caso deixe isto vazio.",module,Magento_Sales
+"Multi-address Error to Show in Shopping Cart","Erro a exibir no Carrinho de compras Multi-Endereço",module,Magento_Sales
+"We'll use the default error above if you leave this empty.","Usaremos a mensagem padrão acima caso deixe este campo vazio.",module,Magento_Sales
 Dashboard,"Painel de Controle",module,Magento_Sales
-"Use Aggregated Data","Use Aggregated Data",module,Magento_Sales
-"Orders Cron Settings","Orders Cron Settings",module,Magento_Sales
-"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)",module,Magento_Sales
+"Use Aggregated Data","Usar dados agregados",module,Magento_Sales
+"Orders Cron Settings","Configurações de pedidos do Cron",module,Magento_Sales
+"Pending Payment Order Lifetime (minutes)","Tempo de vida (minutos) de um pedido de pagamento",module,Magento_Sales
 "Sales Emails","E-mails de vendas",module,Magento_Sales
-"Asynchronous sending","Asynchronous sending",module,Magento_Sales
+"Asynchronous sending","Envio asincrono",module,Magento_Sales
 Enabled,Habilitado,module,Magento_Sales
-"New Order Confirmation Email Sender","New Order Confirmation Email Sender",module,Magento_Sales
-"New Order Confirmation Template","New Order Confirmation Template",module,Magento_Sales
+"New Order Confirmation Email Sender","E-mail de origem de confirmação de novos pedidos",module,Magento_Sales
+"New Order Confirmation Template","Template de confirmação de novos pedidos",module,Magento_Sales
 "Email template chosen based on theme fallback when ""Default"" option is selected.","O modelo de e-mail escolhido baseado no tema ""fallback"" quando a opção ""Padrão"" é selecionada.",module,Magento_Sales
-"New Order Confirmation Template for Guest","New Order Confirmation Template for Guest",module,Magento_Sales
-"Send Order Email Copy To","Send Order Email Copy To",module,Magento_Sales
+"New Order Confirmation Template for Guest","Template para convidado para confirmação de pedido",module,Magento_Sales
+"Send Order Email Copy To","Enviar cópia de pedido para",module,Magento_Sales
 Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Email Copy Method","Método de Envio da Cópia do E-mail de Pedido",module,Magento_Sales
 "Order Comment Email Sender","Remetente do Comentário do E-mail de Pedido",module,Magento_Sales
@@ -9770,10 +9771,10 @@ Comma-separated,"Separados por vírgula",module,Magento_Sales
 "Send Order Comments Email Copy Method","Método de Envio da Cópia do E-mail de Comentário de Pedido",module,Magento_Sales
 "Invoice Email Sender","Remetente do E-mail de Fatura",module,Magento_Sales
 "Invoice Email Template","Modelo do E-mail de Fatura",module,Magento_Sales
-"Invoice Email Template for Guest","Invoice Email Template for Guest",module,Magento_Sales
-"Send Invoice Email Copy To","Send Invoice Email Copy To",module,Magento_Sales
-"Send Invoice Email Copy Method","Send Invoice Email Copy Method",module,Magento_Sales
-"Invoice Comment Email Sender","Invoice Comment Email Sender",module,Magento_Sales
+"Invoice Email Template for Guest","Template de fatura para convidado",module,Magento_Sales
+"Send Invoice Email Copy To","Enviar cópia de fatura para",module,Magento_Sales
+"Send Invoice Email Copy Method","Método de cópia para envio de fatura de e-mail",module,Magento_Sales
+"Invoice Comment Email Sender","Comentário de origem para fatura",module,Magento_Sales
 "Invoice Comment Email Template","Invoice Comment Email Template",module,Magento_Sales
 "Invoice Comment Email Template for Guest","Invoice Comment Email Template for Guest",module,Magento_Sales
 "Send Invoice Comment Email Copy To","Send Invoice Comment Email Copy To",module,Magento_Sales
