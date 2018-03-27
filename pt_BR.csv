@@ -9610,7 +9610,7 @@ Message:,Mensagem:,module,Magento_Sales
 "Shipping &amp; Handling","Envio &amp; Manuseio",module,Magento_Sales
 "Gift Options","Opções de presente",module,Magento_Sales
 "Create Shipment","Criar o carregamento",module,Magento_Sales
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Tipos de nota fiscal e remessa não coincidem para alguns artigos sobre esta ordem. Você pode criar um carregamento somente após a criação da factura.",module,Magento_Sales
 %1,%1,module,Magento_Sales
 "Qty to Invoice","Quantidade para faturar",module,Magento_Sales
 "Invoice History","Histórico de Faturas",module,Magento_Sales
@@ -9628,7 +9628,7 @@ Amount,Quantidade,module,Magento_Sales
 "To Name",Para,module,Magento_Sales
 Status,Status,module,Magento_Sales
 Comment,Comentar,module,Magento_Sales
-"Notification Not Applicable","Notification Not Applicable",module,Magento_Sales
+"Notification Not Applicable","Notificação não aplicável",module,Magento_Sales
 "Order & Account Information","Pedido e Informações de Conta",module,Magento_Sales
 "The order confirmation email was sent","O e-mail de confirmação de pedido foi enviado",module,Magento_Sales
 "The order confirmation email is not sent","O e-mail de confirmação de pedido não foi enviado",module,Magento_Sales
@@ -9638,7 +9638,7 @@ Comment,Comentar,module,Magento_Sales
 "Link to the New Order","Link para Novo Pedido",module,Magento_Sales
 "Link to the Previous Order","Link para Pedido Anterior",module,Magento_Sales
 "Placed from IP","Efetuado do IP",module,Magento_Sales
-"%1 / %2 rate:","%1 / %2 rate:",module,Magento_Sales
+"%1 / %2 rate:","%1 / %2 taxa:",module,Magento_Sales
 "Customer Name","Nome do cliente",module,Magento_Sales
 "Customer Group","Grupo de clientes",module,Magento_Sales
 "Notes for this Order","Notas para esse Pedido",module,Magento_Sales
