@@ -238,7 +238,7 @@ Edit,Editar,module,Magento_AdvancedSearch
 "RPC call failed, connection timed out after %time_out.","A chamada RPC falhou, o tempo de conexão excedeu o limite após %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","A mensagem foi rejeitada: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Erro durante a verificação se tópico é síncrono",module,Magento_Amqp
-"Subscription status","Estado da assinatura",module,Magento_Analytics
+"Subscription status","Situação da assinatura",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido de registo para o Magento Analytics. Por favor, tente novamente mais tarde.",module,Magento_Analytics
 "Error occurred during postponement notification","Ocorreu um erro durante a notificação de adiamento",module,Magento_Analytics
@@ -257,7 +257,7 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
 "File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Falha a sincronizar dados para o Magento Business Intelligence service.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Falha ao sincronizar os dados para o Magento Business Intelligence service.",module,Magento_Analytics
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Repetir Sincronização</a>",module,Magento_Analytics
 TestMessage,TestMessage,module,Magento_Analytics
 "Error message","Mensagem de erro",module,Magento_Analytics
@@ -282,45 +282,41 @@ Configuration,Configuração,module,Magento_Analytics
                 ""Go to Advanced Reporting"" link. </br> For more information, see our
                 <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-Industry,Industry,module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+Industry,Industria,module,Magento_Analytics
+"Time of day to send data","Horário do dia para enviar os dados",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obter mais idéias do Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
-"Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
-"Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
-"Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
-"Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
-"Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
-"Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence oferece um caminho simples e claro para a tomada de decisões dirigidas por Dados.</br>Saiba mais acessando: <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials.</a>.",module,Magento_Analytics
+"Auto Parts",Autopeças,module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Vestuário bebê/infantil, artes e brinquedos",module,Magento_Analytics
+"Beauty and Cosmetics","Beleza e cosméticos",module,Magento_Analytics
+"Books, Music and Magazines","Livros, música e revistas",module,Magento_Analytics
+"Crafts and Stationery","Artesanato e artigos de papelaria",module,Magento_Analytics
+"Consumer Electronics",Eletrônicos,module,Magento_Analytics
+"Deal Site","Site de Ofertas",module,Magento_Analytics
+"Fashion Apparel and Accessories","Acessórios e vestuário de moda",module,Magento_Analytics
+"Food, Beverage and Grocery","Alimentos, bebidas e mercearia",module,Magento_Analytics
+"Home Goods and Furniture","Móveis e utensílios para casa",module,Magento_Analytics
+"Home Improvement","Melhorias para a Casa",module,Magento_Analytics
+"Jewelry and Watches","Joias e relógios",module,Magento_Analytics
+"Mass Merchant","Comerciante em massa",module,Magento_Analytics
+"Office Supplies","Material de escritório",module,Magento_Analytics
+"Outdoor and Camping Gear","Equipamento para ar livre e Camping",module,Magento_Analytics
+"Pet Goods","Produtos para animais de estimação",module,Magento_Analytics
+"Pharma and Medical Devices","Farmácia e dispositivos médicos",module,Magento_Analytics
+"Technology B2B","Tecnologia B2B",module,Magento_Analytics
 "Analytics Subscription","Assinatura do Analytics",module,Magento_Analytics
-"powered by Magento Business Intelligence","powered by Magento Business Intelligence",module,Magento_Analytics
-"Are you sure you want to opt out?","Are you sure you want to opt out?",module,Magento_Analytics
+"powered by Magento Business Intelligence","fornecido por Magento Business Intelligence",module,Magento_Analytics
+"Are you sure you want to opt out?","Tem certeza que deseja fazer logoff?",module,Magento_Analytics
 Cancel,Cancelar,module,Magento_Analytics
-"Opt out","Opt out",module,Magento_Analytics
+"Opt out",Sair,module,Magento_Analytics
 "<p>Advanced Reporting in included,
                     free of charge, in your Magento software. When you opt out, we collect no product, order, and
                     customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting está incluso gratuitamente na plataforma Magento. Quando você optar por sair, não será coletado nenhum produto, pedido e dados do cliente para gerar os relatórios dinâmicos.</p><p>para opt-in mais tarde: você pode sempre habilitar o Advanced Reporting pelo painel de administração.</p>",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","A fim de personalizar a sua experiência no Advanced Reporting, selecione por favor o seu ramo de atividade.",module,Magento_Analytics
 Back,Voltar,module,Magento_AsynchronousOperations
 Done,Concluído,module,Magento_AsynchronousOperations
 Retry,"Tentar Novamente",module,Magento_AsynchronousOperations
@@ -7695,7 +7691,7 @@ Schedule,Agenda,module,Magento_Paypal
 "Page Background Color","Cor de Fundo da Página",module,Magento_Paypal
 "The background color for the checkout page around the header and payment form.","A cor de fundo da página de pagamento ao redor do formulário de pagamento e do cabeçalho.",module,Magento_Paypal
 "Payments Advanced","Pagamentos Avançados",module,Magento_Paypal
-"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal
+"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Aceite pagamentos com um checkout compatível com PCI que mantém os clientes em seu site. (<u>incluindo</u> Express Checkout)",module,Magento_Paypal
 "Payments Advanced and Express Checkout","Pagamentos Avançados e Checkout Express",module,Magento_Paypal
 Partner,Parceiro,module,Magento_Paypal
 Vendor,Fornecedor,module,Magento_Paypal
@@ -7728,8 +7724,8 @@ User,Usuário,module,Magento_Paypal
 "Enable Payflow Link","Habilitar Payflow Link",module,Magento_Paypal
 "Enable Express Checkout","Habilitar o Express Checkout",module,Magento_Paypal
 "Basic Settings - PayPal Payflow Link","Configurações Básicas - PayPal Payflow Link",module,Magento_Paypal
-"Website Payments Pro Hosted Solution","Solução de Pagamentos do Site Pro Hosted",module,Magento_Paypal
-"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal
+"Website Payments Pro Hosted Solution","Solução de Pagamentos Pro Hosted",module,Magento_Paypal
+"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Aceita pagamentos com um checkout compatível com PCI que mantém os clientes em seu site. (<u>incluindo</u> Express Checkout)",module,Magento_Paypal
 "Payments Pro Hosted Solution","Solução de Pagamentos Pro Hosted",module,Magento_Paypal
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -10855,8 +10851,8 @@ Layouts,Layouts,module,Magento_Store
 "API interfaces reflection data","Dados de reflexão das interfaces de API",module,Magento_Store
 "Database DDL operations","Operações DDL da Base de Dados",module,Magento_Store
 "Results of DDL queries, such as describing tables or indexes","Resultados das consultas DDL, como descrições de tabelas ou indíces",module,Magento_Store
-"Compiled Config","Compiled Config",module,Magento_Store
-"Compilation configuration","Compilation configuration",module,Magento_Store
+"Compiled Config","Compilado de Config",module,Magento_Store
+"Compilation configuration","Configuração de compilação",module,Magento_Store
 Back,Voltar,module,Magento_Support
 "Backup Log Details","Detalhes de Log de backup",module,Magento_Support
 Create,Criar,module,Magento_Support
