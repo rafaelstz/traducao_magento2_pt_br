@@ -1,20 +1,20 @@
 All,Todos,module,Magento_AdminGws
 None,Nenhum,module,Magento_AdminGws
 "Allowed Scopes","Escopos Permitidos",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","São necessárias mais permissões para excluir o item ""%1"".",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Você precisa de mais permissões para aplicar algumas das atualizações de regras.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Esta entidade precisa de ser atribuída a uma visão de loja. Verifique a atribuição da entidade e tente novamente.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Ordens só podem ser concluídas com um armazenamento ativo. Verifique se a loja e tente novamente.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Este item precisa ser atribuído a uma visão de loja. Atribuir o item e tente novamente.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Mais permissões são necessárias para salvar este item.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Mais permissões são necessárias para excluir este item.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Mais permissões são necessárias para exibir este item.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Pelo menos um site ou loja grupo precisa ser selecionado. Selecione e tente novamente.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","São necessárias mais permissões para definir todos os âmbitos para um papel.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","O ID do site ""%1"" é incorreto. Verifique se o ID do site e tente novamente.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Você precisa ter mais permissões para acessar o website ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","A identificação de loja ""%1"" é incorreta. Verifique se o ID de loja e tente novamente.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Mais permissões são necessárias para salvar esta configuração.",module,Magento_AdminGws
 "Role Scopes","Escopos da Regra",module,Magento_AdminGws
 Custom,Personalizado,module,Magento_AdminGws
 "Read Details","Ler Detalhes",module,Magento_AdminNotification
@@ -34,7 +34,7 @@ Notifications,Notificações,module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Um total de %1 registro(s) foi removido.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Não foi possível remover as mensagens porque ocorreu um erro.",module,Magento_AdminNotification
 "The message has been removed.","A mensagem foi removida.",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Você visualizou e resolveu todos os avisos recentes do sistema. Atualize a página da web para limpar o alerta de aviso.",module,Magento_AdminNotification
 "1 Hour","1 Hora",module,Magento_AdminNotification
 "2 Hours","2 Horas",module,Magento_AdminNotification
 "6 Hours","6 Horas",module,Magento_AdminNotification
