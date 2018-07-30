@@ -2369,13 +2369,13 @@ End,Fim,module,Magento_CatalogEvent
 Action,Ação,module,Magento_CatalogEvent
 Edit,Editar,module,Magento_CatalogEvent
 "Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
-"Missing key %1 in product data","Missing key %1 in product data",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the number of pages available.","currentPage value %1 specified is greater than the number of pages available.",module,Magento_CatalogGraphQl
-"""id for category should be specified","""id for category should be specified",module,Magento_CatalogGraphQl
-"No child sku found for product link.","No child sku found for product link.",module,Magento_CatalogGraphQl
-"'search' or 'filter' input argument is required.","'search' or 'filter' input argument is required.",module,Magento_CatalogGraphQl
-"SimpleProduct type not defined in schema.","SimpleProduct type not defined in schema.",module,Magento_CatalogGraphQl
-"'category_id' only supports 'eq' condition type.","'category_id' only supports 'eq' condition type.",module,Magento_CatalogGraphQl
+"Missing key %1 in product data","Falta a chave %1 em dados do produto",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the number of pages available.","currentPage valor %1 especificado for maior que o número de páginas disponíveis.",module,Magento_CatalogGraphQl
+"""id for category should be specified","""id de categoria deve ser especificado",module,Magento_CatalogGraphQl
+"No child sku found for product link.","Nenhuma sku filho encontrado para link de produto.",module,Magento_CatalogGraphQl
+"'search' or 'filter' input argument is required.","É necessário um argumento de entrada 'pesquisar' ou 'filtro'.",module,Magento_CatalogGraphQl
+"SimpleProduct type not defined in schema.","Tipo de SimpleProduct não definido no esquema.",module,Magento_CatalogGraphQl
+"'category_id' only supports 'eq' condition type.","'category_id' suporta apenas o tipo de condição 'eq'.",module,Magento_CatalogGraphQl
 "Entity type model '%1' is not found","Model do tipo de entidade '%1' não foi encontrado",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Tipo de produto não disponível para exportar.",module,Magento_CatalogImportExport
@@ -2396,7 +2396,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "Every option entity must have a parent product entity.","Cada opção de identidade deve ter uma entidade de produto pai.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Por favor, corrija os parâmetros.",module,Magento_CatalogImportExport
 "File '%1' was not found or has read restriction.","Arquivo '%1' não foi encontrado ou possui restrição na leitura.",module,Magento_CatalogImportExport
-"Invalid Stock data for insert","Invalid Stock data for insert",module,Magento_CatalogImportExport
+"Invalid Stock data for insert","Dados inválidos do estoque para inserir",module,Magento_CatalogImportExport
 "ALL GROUPS","TODOS OS GRUPOS",module,Magento_CatalogInventory
 "Customer Group","Grupo de clientes",module,Magento_CatalogInventory
 "Minimum Qty","Qtd Mínima",module,Magento_CatalogInventory
@@ -2805,7 +2805,7 @@ State/Province,Estado/Província,module,Magento_Checkout
 "You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Nós não podemos adicionar este item ao seu carrinho de compras agora.",module,Magento_Checkout
 "Out of stock","Fora de estoque",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","O item da cotação não foi encontrado. Verifique o item e tente novamente.",module,Magento_Checkout
 "We cannot configure the product.","Não foi possível configurar o produto.",module,Magento_Checkout
 "You used coupon code ""%1"".","Você usou o código de cupom ""%1"".",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","O cupom de desconto ""%1"" é inválido.",module,Magento_Checkout
@@ -2819,12 +2819,12 @@ State/Province,Estado/Província,module,Magento_Checkout
 "Guest checkout is disabled.","Compra como visitante está desabilitado.",module,Magento_Checkout
 Checkout,"Finalizar Compra",module,Magento_Checkout
 "Page not found.","Página não encontrada.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","O pedido não foi feito. Primeiro, concorde com os termos e condições e tente fazer seu pedido novamente.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Problema ao processar o pedido. Por favor, tente novamente mais tarde.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 não se estende \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Forma de pagamento",module,Magento_Checkout
 "Payment Page","Página de pagamento",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","O produto não foi encontrado. Verifique se o produto e tente novamente.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","Encontramos uma solicitação inválida para adicionar o produto para cotação.",module,Magento_Checkout
 "The product does not exist.","Produto não existe.",module,Magento_Checkout
 "We don't have some of the products you want.","Não temos alguns dos produtos que você deseja.",module,Magento_Checkout
@@ -2835,11 +2835,11 @@ Checkout,"Finalizar Compra",module,Magento_Checkout
 "Display number of items in cart","Exibir o número de itens no carrinho",module,Magento_Checkout
 "Display item quantities","Exibir quantidades do item",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","Ocorreu um erro no servidor. Por favor, tente fazer o pedido novamente.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Um erro no servidor impediu que seu pedido fosse colocado. Por favor, tente fazer seu pedido novamente.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","O endereço de entrega está faltando. Definir o endereço e tente novamente.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","As informações de envio não puderam ser salvas. Verifique os dados de entrada e tente novamente.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Transportador com esse método não encontrado: %1, %2",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","O método de envio não pode ser definido para um carrinho vazio. Adicione um item ao carrinho e tente novamente.",module,Magento_Checkout
 item,item,module,Magento_Checkout
 items,itens,module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Não é possível calcular total com o carrinho vazio",module,Magento_Checkout
@@ -2938,7 +2938,7 @@ Example:,Exemplo:,module,Magento_Checkout
 "Select a new payment method","Selecione um novo método de pagamento",module,Magento_Checkout
 Shipping,Frete,module,Magento_Checkout
 "Save Address","Salvar endereço",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","O método de envio está faltando. Selecione o método de envio e tente novamente.",module,Magento_Checkout
 "Checkout Options","Opcões de Compra",module,Magento_Checkout
 "Enable Onepage Checkout","Ativar Pagamento em Uma Página",module,Magento_Checkout
 "Allow Guest Checkout","Permitir Compras por Visitantes",module,Magento_Checkout
@@ -2947,7 +2947,7 @@ Shipping,Frete,module,Magento_Checkout
 "Quote Lifetime (days)","Tempo de Vida de Cotação (dias)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Depois de Adicionar um Produto, Reenvie para o Carrinho de Compras",module,Magento_Checkout
 "Number of Items to Display Pager","Número de itens para visualizar na página",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Mostrar itens de venda cruzada no Carrinho de Compras",module,Magento_Checkout
 "My Cart Link","Link para Meu Carrinho",module,Magento_Checkout
 "Display Cart Summary","Mostrar Resumo do Carrinho",module,Magento_Checkout
 "Shopping Cart Sidebar","Barra Lateral do Carrinho de Compras",module,Magento_Checkout
@@ -5176,14 +5176,14 @@ Europack,Europack,module,Magento_Dhl
 "Express 10:30","Expresso 10:30",module,Magento_Dhl
 "Domestic economy select",Todos,module,Magento_Dhl
 "Economy select","Selecione a economia",module,Magento_Dhl
-"Domestic express 9:00","Domestic express 9:00",module,Magento_Dhl
+"Domestic express 9:00","Expresso nacional 9:00",module,Magento_Dhl
 "Domestic express","Expresso nacional",module,Magento_Dhl
 Others,Outros,module,Magento_Dhl
 "Globalmail business","Correio global de negócios",module,Magento_Dhl
 "Same day","Mesmo dia",module,Magento_Dhl
 "Express 12:00","Expresso 12:00",module,Magento_Dhl
 "Express envelope","Envelope Expresso",module,Magento_Dhl
-"Domestic express 12:00","Domestic express 12:00",module,Magento_Dhl
+"Domestic express 12:00","Expresso nacional 12:00",module,Magento_Dhl
 Jetline,Jetline,module,Magento_Dhl
 "Freight worldwide","Frete para o mundo todo",module,Magento_Dhl
 "Jumbo box","Caixa grande",module,Magento_Dhl
@@ -5207,7 +5207,7 @@ Documents,Documentos,module,Magento_Dhl
 "Unable to retrieve shipping label","Não é possível recuperar a etiqueta de envio",module,Magento_Dhl
 "Non documents","Nenhuma documentação",module,Magento_Dhl
 None,Nenhum,module,Magento_Dhl
-"The security validation of the XML document has failed.","The security validation of the XML document has failed.",module,Magento_Dhl
+"The security validation of the XML document has failed.","A validação de segurança do documento XML falhou.",module,Magento_Dhl
 "The response is in the wrong format","A resposta está em um formato incorreto",module,Magento_Dhl
 Field,Campo,module,Magento_Dhl
 "is required.","é obrigatório.",module,Magento_Dhl
