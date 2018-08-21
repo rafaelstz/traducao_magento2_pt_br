@@ -1090,7 +1090,7 @@ ending,"acabando em",module,Magento_Braintree
 expires,"expira em",module,Magento_Braintree
 PayPal,PayPal,module,Magento_Braintree
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Braintree
-"Transaction was failed.","Transaction was failed.",module,Magento_Braintree
+"Transaction was failed.","A transação falhou.",module,Magento_Braintree
 "Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
 "Please, enter valid Credit Card Number","Por favor insira um Número de Cartão de Crédito válido",module,Magento_Braintree
@@ -1202,9 +1202,9 @@ URL,Url,module,Magento_Braintree
 "Postal code can only contain letters, numbers, spaces, and hyphens.","O código postal pode somente conter letras, números, espaços e hifens.",module,Magento_Braintree
 "US state codes must be two characters to meet PayPal Seller Protection requirements.","US state codes must be two characters to meet PayPal Seller Protection requirements.",module,Magento_Braintree
 "Incomplete PayPal account information.","Incomplete PayPal account information.",module,Magento_Braintree
-"Invalid PayPal account information.","Invalid PayPal account information.",module,Magento_Braintree
+"Invalid PayPal account information.","As informações da sua conta PayPal são inválidas.",module,Magento_Braintree
 "PayPal Accounts are not accepted by this merchant account.","PayPal Accounts are not accepted by this merchant account.",module,Magento_Braintree
-"Billing address format is invalid.","Billing address format is invalid.",module,Magento_Braintree
+"Billing address format is invalid.","O endereço de cobrança é inválido.",module,Magento_Braintree
 "Country name is not an accepted country.","O nome do país não é um país aceito.",module,Magento_Braintree
 "Country code is not accepted. Please contact the store administrator.","Country code is not accepted. Please contact the store administrator.",module,Magento_Braintree
 "Provided country information is inconsistent.","Provided country information is inconsistent.",module,Magento_Braintree
@@ -2648,8 +2648,8 @@ List,Lista,module,Magento_CatalogSearch
 Relevance,Relevância,module,Magento_CatalogSearch
 "Search results for: '%1'","Resultados da busca por: '%1'",module,Magento_CatalogSearch
 "Minimum Search query length is %1","Tamanho mínimo para pesquisa é %1",module,Magento_CatalogSearch
-"Search term is empty","Search term is empty",module,Magento_CatalogSearch
-"Enter a search term and try again.","Enter a search term and try again.",module,Magento_CatalogSearch
+"Search term is empty","O termo de pesquisa está vazio",module,Magento_CatalogSearch
+"Enter a search term and try again.","Entre com um termo de pesquisa e tente novamente.",module,Magento_CatalogSearch
 "%1 and greater","%1 e maior",module,Magento_CatalogSearch
 "up to %1","até %1",module,Magento_CatalogSearch
 ". "" which is inconsistent with state of scope resolver""",". ""o que é inconsistente com o estado de resolução de escopo""",module,Magento_CatalogSearch
@@ -3018,9 +3018,9 @@ Close,Fechar,module,Magento_CheckoutAgreements
 Back,Voltar,module,Magento_Cms
 "Delete Block","Excluir Bloco",module,Magento_Cms
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Cms
-Save,Save,module,Magento_Cms
-"Save & Duplicate","Save & Duplicate",module,Magento_Cms
-"Save & Close","Save & Close",module,Magento_Cms
+Save,Salvar,module,Magento_Cms
+"Save & Duplicate","Salvar e Duplicar",module,Magento_Cms
+"Save & Close","Salvar e Fechar",module,Magento_Cms
 ID,ID,module,Magento_Cms
 Title,Título,module,Magento_Cms
 Identifier,Identificador,module,Magento_Cms
@@ -3038,11 +3038,11 @@ Modified,Modificado,module,Magento_Cms
 Action,Ação,module,Magento_Cms
 Preview,Pré-visualização,module,Magento_Cms
 "Media Storage","Armazenamento de Mídia",module,Magento_Cms
-Cancel,Cancel,module,Magento_Cms
+Cancel,Cancelar,module,Magento_Cms
 "Delete Folder","Apagar Pasta",module,Magento_Cms
-"Delete Selected","Delete Selected",module,Magento_Cms
-"Create Folder","Create Folder",module,Magento_Cms
-"Add Selected","Add Selected",module,Magento_Cms
+"Delete Selected","Excluir selecionados",module,Magento_Cms
+"Create Folder","Criar Pasta",module,Magento_Cms
+"Add Selected","Adicionar Selecionados",module,Magento_Cms
 "New Folder Name:","Nome da Nova Pasta:",module,Magento_Cms
 "Are you sure you want to delete this folder?","Tem certeza que deseja excluir esta pasta?",module,Magento_Cms
 "Are you sure you want to delete this file?","Tem certeza que deseja excluir este arquivo?",module,Magento_Cms
@@ -3099,7 +3099,7 @@ Pages,Páginas,module,Magento_Cms
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Cms
 "Privacy and Cookie Policy","Política de Privacidade e Cookies",module,Magento_Cms
-"Error message","Error message",module,Magento_Cms
+"Error message","Mensagem de erro",module,Magento_Cms
 LocalizedException,ExceçãoLocalizada,module,Magento_Cms
 RuntimeException,"Excessão no tempo de execução (RuntimeExcepion)",module,Magento_Cms
 Exception,Exceção,module,Magento_Cms
@@ -3226,42 +3226,42 @@ ID,ID,module,Magento_CmsStaging
 Title,Título,module,Magento_CmsStaging
 Status,Status,module,Magento_CmsStaging
 "Delete Customer","Delete Customer",module,Magento_Company
-Back,Back,module,Magento_Company
-"Delete Company","Delete Company",module,Magento_Company
+Back,Voltar,module,Magento_Company
+"Delete Company","Excluir Empresa",module,Magento_Company
 Reset,Reset,module,Magento_Company
-Save,Save,module,Magento_Company
-"Save & Close","Save & Close",module,Magento_Company
-Companies,Companies,module,Magento_Company
-"Add New Company","Add New Company",module,Magento_Company
+Save,Gravar,module,Magento_Company
+"Save & Close","Salvar e Fechar",module,Magento_Company
+Companies,Empresas,module,Magento_Company
+"Add New Company","Adicionar Nova Empresa",module,Magento_Company
 (me),(me),module,Magento_Company
-"Company Name:","Company Name:",module,Magento_Company
+"Company Name:","Nome da Empresa:",module,Magento_Company
 "Company Legal Name:","Company Legal Name:",module,Magento_Company
-"Company Email:","Company Email:",module,Magento_Company
+"Company Email:","E-mail da Empresa:",module,Magento_Company
 "VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
 "Re-seller ID:","Re-seller ID:",module,Magento_Company
 "Street Address:","Street Address:",module,Magento_Company
-City:,City:,module,Magento_Company
-Country:,Country:,module,Magento_Company
-State/Province:,State/Province:,module,Magento_Company
-"ZIP/Postal Code:","ZIP/Postal Code:",module,Magento_Company
-"Phone Number:","Phone Number:",module,Magento_Company
-"Job Title:","Job Title:",module,Magento_Company
-"Email Address:","Email Address:",module,Magento_Company
-Prefix:,Prefix:,module,Magento_Company
-"First Name:","First Name:",module,Magento_Company
+City:,Cidade:,module,Magento_Company
+Country:,País:,module,Magento_Company
+State/Province:,Estado/Cidade:,module,Magento_Company
+"ZIP/Postal Code:","CEP/Código Postal:",module,Magento_Company
+"Phone Number:","Número do Telefone:",module,Magento_Company
+"Job Title:",Cargo:,module,Magento_Company
+"Email Address:","Endereço de e-mail:",module,Magento_Company
+Prefix:,Prefixo:,module,Magento_Company
+"First Name:",Nome:,module,Magento_Company
 "Middle Name/Initial:","Middle Name/Initial:",module,Magento_Company
-"Last Name:","Last Name:",module,Magento_Company
+"Last Name:",Sobrenome:,module,Magento_Company
 Suffix:,Suffix:,module,Magento_Company
-Gender:,Gender:,module,Magento_Company
+Gender:,Sexo:,module,Magento_Company
 Duplicated,Duplicated,module,Magento_Company
 "Company Structure","Company Structure",module,Magento_Company
-"Page not found.","Page not found.",module,Magento_Company
+"Page not found.","Página não encontrada.",module,Magento_Company
 "Something went wrong.","Something went wrong.",module,Magento_Company
-"New Company","New Company",module,Magento_Company
+"New Company","Nova Empresa",module,Magento_Company
 "Thank you! We're reviewing your request and will contact you soon","Thank you! We're reviewing your request and will contact you soon",module,Magento_Company
 "An error occurred on the server. Your changes have not been saved.","An error occurred on the server. Your changes have not been saved.",module,Magento_Company
 "Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Company
-"Create New Company","Create New Company",module,Magento_Company
+"Create New Company","Criar Nova Empresa",module,Magento_Company
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Company
 "Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_Company
 "Invalid value of ""%value"" provided for the email field.","Invalid value of ""%value"" provided for the email field.",module,Magento_Company
@@ -3270,7 +3270,7 @@ Duplicated,Duplicated,module,Magento_Company
 "The company no longer exists.","The company no longer exists.",module,Magento_Company
 "The requested company is not found","The requested company is not found",module,Magento_Company
 "Please correct the data sent.","Please correct the data sent.",module,Magento_Company
-"can not be saved","can not be saved",module,Magento_Company
+"can not be saved","não pode ser salvo(a)",module,Magento_Company
 "A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Company
 "Could not save company","Could not save company",module,Magento_Company
 "You have saved company %companyName.","You have saved company %companyName.",module,Magento_Company
@@ -4272,7 +4272,7 @@ Download,"Fazer Download",module,Magento_Customer
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","A confirmação da senha não corresponde à senha inserida.",module,Magento_Customer
 "The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
-"The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","O email está incorreto. Verifique o email e tente novamente.",module,Magento_Customer
 "We're unable to send the password reset email.","Não é possível enviar o e-mail para redefinição de senha.",module,Magento_Customer
 "Please enter your email.","Por favor, digite o seu e-mail.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Se houver uma conta associada com %1, você receberá um e-mail com um link para redefinir sua senha.",module,Magento_Customer
@@ -4322,8 +4322,8 @@ Customers,Clientes,module,Magento_Customer
 "Invalid login or password.","Login ou senha inválida.",module,Magento_Customer
 "The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported.",module,Magento_Customer
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 não se estende \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
-"Confirmation isn't needed.","Confirmation isn't needed.",module,Magento_Customer
-"The account is already active.","The account is already active.",module,Magento_Customer
+"Confirmation isn't needed.","Não é necessário confirmação.",module,Magento_Customer
+"The account is already active.","Essa conta já está ativa.",module,Magento_Customer
 "The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again.",module,Magento_Customer
 "The account is locked.","A conta está bloqueada.",module,Magento_Customer
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
@@ -4427,7 +4427,7 @@ frontend_label,rótulo_frete_de_loja,module,Magento_Customer
 Label,Título,module,Magento_Customer
 Select...,Selecionar...,module,Magento_Customer
 Edit,Editar,module,Magento_Customer
-"Delete %1","Delete %1",module,Magento_Customer
+"Delete %1","Excluir %1",module,Magento_Customer
 "Are you sure you want to delete a %1 record?","Are you sure you want to delete a %1 record?",module,Magento_Customer
 Visitor,Visitante,module,Magento_Customer
 Customer,Cliente,module,Magento_Customer
@@ -5480,7 +5480,7 @@ Letters,Letras,module,Magento_Eav
 "The system attribute can't be deleted.","The system attribute can't be deleted.",module,Magento_Eav
 "The attribute can't be saved.","The attribute can't be saved.",module,Magento_Eav
 "The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.",module,Magento_Eav
-"The attribute can't be deleted.","The attribute can't be deleted.",module,Magento_Eav
+"The attribute can't be deleted.","Esse atributo não pode ser excluído.",module,Magento_Eav
 "The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.",module,Magento_Eav
 "The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Eav
 "The default attribute set can't be deleted.","The default attribute set can't be deleted.",module,Magento_Eav
@@ -5550,7 +5550,7 @@ hello,olá,module,Magento_Eav
 "These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
 "Text Field","Campo de Texto",module,Magento_Eav
 "Text Area","Área de Texto",module,Magento_Eav
-"Text Editor","Text Editor",module,Magento_Eav
+"Text Editor","Editor de Texto",module,Magento_Eav
 Date,Data,module,Magento_Eav
 Yes/No,Sim/Não,module,Magento_Eav
 "Multiple Select","Múltipla Seleção",module,Magento_Eav
@@ -7383,7 +7383,7 @@ Total,Total,module,Magento_Multishipping
 "Billing Information","Dados de Cobrança",module,Magento_Multishipping
 "Place Order","Finalizar Pedido",module,Magento_Multishipping
 "Order Success","Pedido realizado",module,Magento_Multishipping
-"Order Results","Order Results",module,Magento_Multishipping
+"Order Results","Ordenar Resultados",module,Magento_Multishipping
 "Default Billing","Padrão de cobrança",module,Magento_Multishipping
 "Default Shipping","Padrão de envio",module,Magento_Multishipping
 "Select Address","Selecione o endereço",module,Magento_Multishipping
@@ -7401,7 +7401,7 @@ Actions,Ações,module,Magento_Multishipping
 "Update Qty &amp; Addresses","Atualizar Qtd &amp; Endereços",module,Magento_Multishipping
 "Enter a New Address","Inserir um novo endereço",module,Magento_Multishipping
 "Back to Shopping Cart","Volta ao carrinho de compras",module,Magento_Multishipping
-Loading...,Loading...,module,Magento_Multishipping
+Loading...,Carregando...,module,Magento_Multishipping
 "Billing Address","Endereço de Cobrança",module,Magento_Multishipping
 Change,Alterar,module,Magento_Multishipping
 "Payment Method","Forma de pagamento",module,Magento_Multishipping
@@ -7414,7 +7414,7 @@ Change,Alterar,module,Magento_Multishipping
 "Check Out with Multiple Addresses","Finalizar Compra utilizando vários endereços",module,Magento_Multishipping
 "Please see","Please see",module,Magento_Multishipping
 "details below","details below",module,Magento_Multishipping
-Address,Address,module,Magento_Multishipping
+Address,Endereço,module,Magento_Multishipping
 of,of,module,Magento_Multishipping
 "Shipping To","Enviar para",module,Magento_Multishipping
 "Shipping Method","Método de Entrega",module,Magento_Multishipping
