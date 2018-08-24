@@ -2656,7 +2656,7 @@ Relevance,Relevância,module,Magento_CatalogSearch
 Category,Categoria,module,Magento_CatalogSearch
 "%1 and above","%1 e acima",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_CatalogSearch
+"An error occurred. For details, see the error log.","Ocorreu um erro. Para obter detalhes, consulte o log de erros.",module,Magento_CatalogSearch
 "The bucket doesn't exist.","The bucket doesn't exist.",module,Magento_CatalogSearch
 Product,Produto,module,Magento_CatalogSearch
 "Search Settings","Configurações de Pesquisa",module,Magento_CatalogSearch
@@ -2675,7 +2675,7 @@ name,nome,module,Magento_CatalogSearch
 "Minimal Query Length","Comprimento Mínimo da Pesquisa",module,Magento_CatalogSearch
 "Maximum Query Length","Comprimento Máximo da Pesquisa",module,Magento_CatalogSearch
 "Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
-"Autocomplete Limit","Autocomplete Limit",module,Magento_CatalogSearch
+"Autocomplete Limit","Limite de Auto Complete",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruir o índice de pesquisa para texto do produto",module,Magento_CatalogSearch
 "The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_CatalogStaging
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_CatalogStaging
@@ -4041,9 +4041,9 @@ Comparable,Comparável,module,Magento_ConfigurableProductStaging
 "Page not found.","Página não encontrada.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Obrigado por nos contatar com seus comentários e perguntas. Em breve responderemos.",module,Magento_Contact
 "An error occurred while processing your form. Please try again later.","Houve um erro enquanto seu formulário era processado. Por favor, tente novamente mais tarde.",module,Magento_Contact
-"Enter the Name and try again.","Enter the Name and try again.",module,Magento_Contact
-"Enter the comment and try again.","Enter the comment and try again.",module,Magento_Contact
-"The email address is invalid. Verify the email address and try again.","The email address is invalid. Verify the email address and try again.",module,Magento_Contact
+"Enter the Name and try again.","Digite o nome e tente novamente.",module,Magento_Contact
+"Enter the comment and try again.","Digite o comentário e tente novamente.",module,Magento_Contact
+"The email address is invalid. Verify the email address and try again.","O email está incorreto. Verifique o email e tente novamente.",module,Magento_Contact
 "* Required Fields","* Campos Obrigatórios",module,Magento_Contact
 "Write Us",Escreva-nos,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Deixe-nos uma mensagem e nós iremos retornar para você o mais rápido possível.",module,Magento_Contact
@@ -14282,8 +14282,8 @@ Password:,Senha:,theme,frontend/Magento/luma
 "Order History","Histórico de pedidos",theme,frontend/Magento/luma
 "View past orders","Ver os pedidos que você já realizou",theme,frontend/Magento/luma
 Footer,Rodapé,theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Sobre Nós</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Atendimento ao Cliente</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horário de Funcionamento:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Nota de crédito para o seu pedido de %store_name",theme,frontend/Magento/luma
@@ -14310,6 +14310,6 @@ Footer,Rodapé,theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","A confirmação de envio encontra-se na secção seguinte. Agradecemos novamente a sua compra.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","A sua remessa #%shipment_id para a Encomenda #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Atualização da sua encomenda de %store_name",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Minha Conta",theme,frontend/Magento/luma
 "Address Book","Catálogo de Endereços",theme,frontend/Magento/luma
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
