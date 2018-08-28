@@ -312,7 +312,7 @@ Retry,"Tentar Novamente",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Detalhes da Ação - #'.",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(ns)  foram agendados para atualização.",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Log de ações em massa",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","O uuid de massa %builkUuid não existe",module,Magento_AsynchronousOperations
 "Topic %1","Tópico %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Houve um erro com o processo da requisição.",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Erro ao processar o elemento %key dos dados de entrada",module,Magento_AsynchronousOperations
@@ -348,7 +348,7 @@ Error,Erro,module,Magento_AsynchronousOperations
 "Dismiss All Completed Tasks","Ignorar todas as tarefas completas",module,Magento_AsynchronousOperations
 "Action Details - #","Detalhes de ação - #",module,Magento_AsynchronousOperations
 "Number of Records Affected","Número de registros afetados",module,Magento_AsynchronousOperations
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","A função não foi encontrada para o usuário. Verifique a função e tente novamente.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo deu errado durante a compilação de uma lista de recursos permitidos. ' 'Você pode encontrar mais detalhes no log de exceções.",module,Magento_Authorization
 "You created the order.","Você criou o pedido.",module,Magento_Authorizenet
 "Order saving error: %1","Erro na gravação do pedido: %1",module,Magento_Authorizenet
@@ -3225,21 +3225,21 @@ Layout,Layout,module,Magento_CmsStaging
 ID,ID,module,Magento_CmsStaging
 Title,Título,module,Magento_CmsStaging
 Status,Status,module,Magento_CmsStaging
-"Delete Customer","Delete Customer",module,Magento_Company
+"Delete Customer","Remover Cliente",module,Magento_Company
 Back,Voltar,module,Magento_Company
 "Delete Company","Excluir Empresa",module,Magento_Company
-Reset,Reset,module,Magento_Company
+Reset,Reiniciar,module,Magento_Company
 Save,Gravar,module,Magento_Company
 "Save & Close","Salvar e Fechar",module,Magento_Company
 Companies,Empresas,module,Magento_Company
 "Add New Company","Adicionar Nova Empresa",module,Magento_Company
-(me),(me),module,Magento_Company
+(me),(mim),module,Magento_Company
 "Company Name:","Nome da Empresa:",module,Magento_Company
-"Company Legal Name:","Company Legal Name:",module,Magento_Company
+"Company Legal Name:","Razão Social:",module,Magento_Company
 "Company Email:","E-mail da Empresa:",module,Magento_Company
-"VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
-"Re-seller ID:","Re-seller ID:",module,Magento_Company
-"Street Address:","Street Address:",module,Magento_Company
+"VAT/TAX ID:",CPF/CNPJ:,module,Magento_Company
+"Re-seller ID:","ID da Revenda:",module,Magento_Company
+"Street Address:",Endereço:,module,Magento_Company
 City:,Cidade:,module,Magento_Company
 Country:,País:,module,Magento_Company
 State/Province:,Estado/Cidade:,module,Magento_Company
@@ -3249,55 +3249,55 @@ State/Province:,Estado/Cidade:,module,Magento_Company
 "Email Address:","Endereço de e-mail:",module,Magento_Company
 Prefix:,Prefixo:,module,Magento_Company
 "First Name:",Nome:,module,Magento_Company
-"Middle Name/Initial:","Middle Name/Initial:",module,Magento_Company
+"Middle Name/Initial:","Nome do Meio/Inicial:",module,Magento_Company
 "Last Name:",Sobrenome:,module,Magento_Company
-Suffix:,Suffix:,module,Magento_Company
+Suffix:,Sufixo:,module,Magento_Company
 Gender:,Sexo:,module,Magento_Company
-Duplicated,Duplicated,module,Magento_Company
-"Company Structure","Company Structure",module,Magento_Company
+Duplicated,Duplicado,module,Magento_Company
+"Company Structure",Organograma,module,Magento_Company
 "Page not found.","Página não encontrada.",module,Magento_Company
-"Something went wrong.","Something went wrong.",module,Magento_Company
+"Something went wrong.","Algo deu errado.",module,Magento_Company
 "New Company","Nova Empresa",module,Magento_Company
-"Thank you! We're reviewing your request and will contact you soon","Thank you! We're reviewing your request and will contact you soon",module,Magento_Company
-"An error occurred on the server. Your changes have not been saved.","An error occurred on the server. Your changes have not been saved.",module,Magento_Company
-"Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Company
+"Thank you! We're reviewing your request and will contact you soon","Obrigado! Estamos revisando a sua solicitação e logo entraremos em contato",module,Magento_Company
+"An error occurred on the server. Your changes have not been saved.","Um erro ocorreu no servidor. Sua modificações não foram salvas.",module,Magento_Company
+"Incorrect CAPTCHA","Código de Captcha incorreto",module,Magento_Company
 "Create New Company","Criar Nova Empresa",module,Magento_Company
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Company
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_Company
-"Invalid value of ""%value"" provided for the email field.","Invalid value of ""%value"" provided for the email field.",module,Magento_Company
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field.",module,Magento_Company
-"You have deleted company %companyName.","You have deleted company %companyName.",module,Magento_Company
-"The company no longer exists.","The company no longer exists.",module,Magento_Company
-"The requested company is not found","The requested company is not found",module,Magento_Company
-"Please correct the data sent.","Please correct the data sent.",module,Magento_Company
+"A total of %1 record(s) were updated.","Um total de %1 registro(s) foi(ram) atualizado(s).",module,Magento_Company
+"Something went wrong. Please try again later.","Algo deu errado. Por favor tente novamente mais tarde.",module,Magento_Company
+"Invalid value of ""%value"" provided for the email field.","O valor de ""%value"" informado para o e-mail é inválido.",module,Magento_Company
+"Invalid value ""%value"" given for the website ID field.","O valor ""%value"" informado para o ID do campo site é inválido.",module,Magento_Company
+"You have deleted company %companyName.","Você removeu a empresa %companyName.",module,Magento_Company
+"The company no longer exists.","A empresa não existe mais.",module,Magento_Company
+"The requested company is not found","A empresa solicitada não foi encontrada",module,Magento_Company
+"Please correct the data sent.","Por favor corrija o dado enviado.",module,Magento_Company
 "can not be saved","não pode ser salvo(a)",module,Magento_Company
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Company
-"Could not save company","Could not save company",module,Magento_Company
-"You have saved company %companyName.","You have saved company %companyName.",module,Magento_Company
-"You have created company %companyName.","You have created company %companyName.",module,Magento_Company
-"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","A user with this email address already exists in the system. If you proceed, the user will be linked to your company.",module,Magento_Company
-"A user with this email address is already a member of your company.","A user with this email address is already a member of your company.",module,Magento_Company
-"A user with this email address already exists in the system. Enter a different email address to create this user.","A user with this email address already exists in the system. Enter a different email address to create this user.",module,Magento_Company
-"You are not allowed to do this.","You are not allowed to do this.",module,Magento_Company
-"Cannot create the customer.","Cannot create the customer.",module,Magento_Company
-"The customer was successfully created.","The customer was successfully created.",module,Magento_Company
-"You cannot delete yourself.","You cannot delete yourself.",module,Magento_Company
-"Cannot delete this user.","Cannot delete this user.",module,Magento_Company
-"The customer was successfully deleted.","The customer was successfully deleted.",module,Magento_Company
-"The customer was successfully updated.","The customer was successfully updated.",module,Magento_Company
-"Company Profile","Company Profile",module,Magento_Company
-"The changes you made on the company profile have been successfully saved.","The changes you made on the company profile have been successfully saved.",module,Magento_Company
-"You must fill in all required fields before you can continue.","You must fill in all required fields before you can continue.",module,Magento_Company
-"Bad Request","Bad Request",module,Magento_Company
-"You have deleted role %companyRoleName.","You have deleted role %companyRoleName.",module,Magento_Company
-"Add New Role","Add New Role",module,Magento_Company
-"Edit Role","Edit Role",module,Magento_Company
-"Roles and Permissions","Roles and Permissions",module,Magento_Company
-"The tree retrieved successfully.","The tree retrieved successfully.",module,Magento_Company
-"The item was successfully moved.","The item was successfully moved.",module,Magento_Company
-"The team was successfully deleted.","The team was successfully deleted.",module,Magento_Company
-"The team was successfully updated.","The team was successfully updated.",module,Magento_Company
-"The team was successfully created.","The team was successfully created.",module,Magento_Company
+"A total of %1 record(s) were deleted.","Um total de %1 registro(s) foi(ram) removido(s).",module,Magento_Company
+"Could not save company","Não foi possível gravar a empresa",module,Magento_Company
+"You have saved company %companyName.","Você gravou a empresa %companyName.",module,Magento_Company
+"You have created company %companyName.","Você criou a empresa %companyName.",module,Magento_Company
+"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","Um usuário com este endereço de e-mail já existe no sistema. Se você continuar, o usuário será vinculado para a sua empresa.",module,Magento_Company
+"A user with this email address is already a member of your company.","Um usuário com este endereço de e-mail já é membro da sua empresa.",module,Magento_Company
+"A user with this email address already exists in the system. Enter a different email address to create this user.","Um usuário com este endereço de e-mail já existe no sistema. Digite um endereço de e-mail diferente para criar este usuário.",module,Magento_Company
+"You are not allowed to do this.","Você não tem permissão para fazer isto.",module,Magento_Company
+"Cannot create the customer.","Não é possível criar o cliente.",module,Magento_Company
+"The customer was successfully created.","O cliente foi criado com sucesso.",module,Magento_Company
+"You cannot delete yourself.","Você não pode remover você mesmo.",module,Magento_Company
+"Cannot delete this user.","Não é possível excluir este usuário.",module,Magento_Company
+"The customer was successfully deleted.","O cliente foi removido com sucesso.",module,Magento_Company
+"The customer was successfully updated.","O cliente foi atualizado com sucesso.",module,Magento_Company
+"Company Profile","Perfil da Empresa",module,Magento_Company
+"The changes you made on the company profile have been successfully saved.","As alterações feitas no perfil de empresa foram salvas com êxito.",module,Magento_Company
+"You must fill in all required fields before you can continue.","Você tem que preencher todos os campos obrigatórios antes de continuar.",module,Magento_Company
+"Bad Request","Requisição ruim",module,Magento_Company
+"You have deleted role %companyRoleName.","Você removeu a função %companyRoleName.",module,Magento_Company
+"Add New Role","Adicionar Nova Função",module,Magento_Company
+"Edit Role","Editar Função",module,Magento_Company
+"Roles and Permissions","Funções e Permissões",module,Magento_Company
+"The tree retrieved successfully.","A árvore foi obtida com sucesso.",module,Magento_Company
+"The item was successfully moved.","O item foi removido com sucesso.",module,Magento_Company
+"The team was successfully deleted.","O time foi removido com sucesso.",module,Magento_Company
+"The team was successfully updated.","O time foi atualizado com sucesso.",module,Magento_Company
+"The team was successfully created.","O time foi criado com sucesso.",module,Magento_Company
 "Company Users","Company Users",module,Magento_Company
 "A customer with the same email already assigned to company.","A customer with the same email already assigned to company.",module,Magento_Company
 Active,Active,module,Magento_Company
