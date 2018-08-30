@@ -1350,7 +1350,7 @@ Price,Preço,module,Magento_Bundle
 Delete,Excluir,module,Magento_Bundle
 "Use Default Value","Usar o Valor Padrão",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","Não há nenhum renderizador definido para o tipo de opção ""%1"".",module,Magento_Bundle
-"This is implemented for bundle products only.","This is implemented for bundle products only.",module,Magento_Bundle
+"This is implemented for bundle products only.","Isso é implementado somente pelo pacote de produtos.",module,Magento_Bundle
 "The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
 "The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
 "The product link needs an ID field entered. Enter and try again.","The product link needs an ID field entered. Enter and try again.",module,Magento_Bundle
@@ -1360,9 +1360,9 @@ Delete,Excluir,module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Filho com sku especificado: ""%1"" já atribuído ao produto: ""%2""",module,Magento_Bundle
 "The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again.",module,Magento_Bundle
 "The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_Bundle
-"The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
+"The option couldn't be saved.","A opção não pode ser salva.",module,Magento_Bundle
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Bundle
-"The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_Bundle
+"The option with ""%1"" ID can't be deleted.","A opção com o id ""%1"" não pode ser deletado.",module,Magento_Bundle
 "Price Range","Faixa de preço",module,Magento_Bundle
 "As Low as","Menor que",module,Magento_Bundle
 Together,Juntos,module,Magento_Bundle
@@ -2368,7 +2368,7 @@ End,Fim,module,Magento_CatalogEvent
 "Countdown Ticker","Contagem Decrescente",module,Magento_CatalogEvent
 Action,Ação,module,Magento_CatalogEvent
 Edit,Editar,module,Magento_CatalogEvent
-"Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
+"Concrete type for %1 not implemented","Tipo concreto para %1 não implementado",module,Magento_CatalogGraphQl
 "Missing key %1 in product data","Falta a chave %1 em dados do produto",module,Magento_CatalogGraphQl
 "currentPage value %1 specified is greater than the number of pages available.","currentPage valor %1 especificado for maior que o número de páginas disponíveis.",module,Magento_CatalogGraphQl
 """id for category should be specified","""id de categoria deve ser especificado",module,Magento_CatalogGraphQl
@@ -2403,7 +2403,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "Add Minimum Qty","Adicionar Qtd Mínima",module,Magento_CatalogInventory
 "We can't rebuild the index for an undefined product.","Não é possível recriar o índice para um produto indefinido.",module,Magento_CatalogInventory
 "Could not rebuild index for empty products array","Não poderia reconstruir o índice da matriz de produtos vazio",module,Magento_CatalogInventory
-"The Product stock item is invalid. Verify the stock item and try again.","The Product stock item is invalid. Verify the stock item and try again.",module,Magento_CatalogInventory
+"The Product stock item is invalid. Verify the stock item and try again.","O item de estoque do produto é inválido. Verifique se o item de estoque e tente novamente.",module,Magento_CatalogInventory
 "This product is out of stock.","Este produto está em falta.",module,Magento_CatalogInventory
 "Some of the products are out of stock.","Alguns dos produtos estão fora de estoque.",module,Magento_CatalogInventory
 "The stock item for Product in option is not valid.","O item de estoque para o Produto na opção é inválido.",module,Magento_CatalogInventory
@@ -2414,18 +2414,18 @@ Edit,Editar,module,Magento_CatalogEvent
 "Allow Qty Below 0 and Notify Customer","Permitir o Quantidade abaixo de 0 e notificar o cliente",module,Magento_CatalogInventory
 "In Stock","Em Estoque",module,Magento_CatalogInventory
 "Out of Stock","Fora de Estoque",module,Magento_CatalogInventory
-"The stock item was unable to be saved. Please try again.","The stock item was unable to be saved. Please try again.",module,Magento_CatalogInventory
-"The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.",module,Magento_CatalogInventory
-"The stock was unable to be saved. Please try again.","The stock was unable to be saved. Please try again.",module,Magento_CatalogInventory
-"The stock with the ""%1"" ID wasn't found. Verify the ID and try again.","The stock with the ""%1"" ID wasn't found. Verify the ID and try again.",module,Magento_CatalogInventory
+"The stock item was unable to be saved. Please try again.","O produto não pôde ser salvo. Por favor, tente novamente.",module,Magento_CatalogInventory
+"The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","O item de estoque com a identificação ID ""%1"" não existe. Verifique o ID e tente novamente.",module,Magento_CatalogInventory
+"The stock was unable to be saved. Please try again.","O produto não pôde ser salvo. Por favor, tente novamente.",module,Magento_CatalogInventory
+"The stock with the ""%1"" ID wasn't found. Verify the ID and try again.","O item de estoque com a identificação ID ""%1"" não foi encontrado. Verifique o ID e tente novamente.",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","Não foi possível remover o estoque com o ID ""% 1""",module,Magento_CatalogInventory
-"The stock status was unable to be saved. Please try again.","The stock status was unable to be saved. Please try again.",module,Magento_CatalogInventory
-"Unable to remove Stock Status for product %1","Não é possível remover Status de estoque para o produto% 1",module,Magento_CatalogInventory
-"The ""%1"" value is invalid for stock ID. Enter stock with a default value of %2 to try again.","The ""%1"" value is invalid for stock ID. Enter stock with a default value of %2 to try again.",module,Magento_CatalogInventory
-"The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.","The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.",module,Magento_CatalogInventory
-"The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.",module,Magento_CatalogInventory
+"The stock status was unable to be saved. Please try again.","O produto não pôde ser salvo. Por favor, tente novamente.",module,Magento_CatalogInventory
+"Unable to remove Stock Status for product %1","Não é possível remover o estatus de estoque para o produto %1",module,Magento_CatalogInventory
+"The ""%1"" value is invalid for stock ID. Enter stock with a default value of %2 to try again.","O valor ""%1"" é inválido para o ID de estoque. Introduza um estoque com um valor padrão de %2 para tentar de novo.",module,Magento_CatalogInventory
+"The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.","O valor ""%1"" é inválido para o ID do item de estoque. Digite zero ou outro número para tentar novamente.",module,Magento_CatalogInventory
+"The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","O valor ""%1"" é inválido para o ID do item de estoque. Use o valor ""%2"" atribuído ao ID do item em estoque e tente novamente.",module,Magento_CatalogInventory
 "Not all of your products are available in the requested quantity.","Nem todos os seus produtos estão disponíveis na quantidade solicitada.",module,Magento_CatalogInventory
-"The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_CatalogInventory
+"The Product with the ""%1"" SKU doesn't exist.","O produto com o SKU ""%1"" não existe.",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","O máximo que você pode comprar é %1.",module,Magento_CatalogInventory
@@ -2434,7 +2434,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, então vamos disponibilizar os %2 restantes.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Você pode comprar %1 somente em quantidades de %2 de cada vez.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","Você pode comprar este produto apenas em quantidades de %1 de cada vez.",module,Magento_CatalogInventory
-"Quantity increments can't use decimals. Enter a new increment and try again.","Quantity increments can't use decimals. Enter a new increment and try again.",module,Magento_CatalogInventory
+"Quantity increments can't use decimals. Enter a new increment and try again.","Os incrementos de quantidade não podem usar decimais. Digite um novo incremento e tente novamente.",module,Magento_CatalogInventory
 "Stock Status","Estado do Stock",module,Magento_CatalogInventory
 Quantity,Quantidade,module,Magento_CatalogInventory
 "Advanced Inventory","Estoque Avançado",module,Magento_CatalogInventory
@@ -2590,7 +2590,7 @@ Apply,Aplicar,module,Magento_CatalogRule
 "Discard subsequent rules","Descartar as regras subseqüentes",module,Magento_CatalogRule
 Yes,Sim,module,Magento_CatalogRule
 No,Não,module,Magento_CatalogRule
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogRuleStaging
+"Future Update already exists in this time range. Set a different range and try again.","Futura atualização já existe neste intervalo de tempo. Defina um intervalo diferente e tente novamente.",module,Magento_CatalogRuleStaging
 "Smth went to exception","Algo foi para a exceção",module,Magento_CatalogRuleStaging
 ID,ID,module,Magento_CatalogRuleStaging
 Rule,Regra,module,Magento_CatalogRuleStaging
@@ -2657,7 +2657,7 @@ Category,Categoria,module,Magento_CatalogSearch
 "%1 and above","%1 e acima",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
 "An error occurred. For details, see the error log.","Ocorreu um erro. Para obter detalhes, consulte o log de erros.",module,Magento_CatalogSearch
-"The bucket doesn't exist.","The bucket doesn't exist.",module,Magento_CatalogSearch
+"The bucket doesn't exist.","O balde não existe.",module,Magento_CatalogSearch
 Product,Produto,module,Magento_CatalogSearch
 "Search Settings","Configurações de Pesquisa",module,Magento_CatalogSearch
 Search,Pesquisa,module,Magento_CatalogSearch
@@ -2674,15 +2674,15 @@ name,nome,module,Magento_CatalogSearch
 "Popular Search Terms","Pesquisas Populares",module,Magento_CatalogSearch
 "Minimal Query Length","Comprimento Mínimo da Pesquisa",module,Magento_CatalogSearch
 "Maximum Query Length","Comprimento Máximo da Pesquisa",module,Magento_CatalogSearch
-"Number of top search results to cache","Number of top search results to cache",module,Magento_CatalogSearch
+"Number of top search results to cache","Número de resultados de busca para armazenar em cache",module,Magento_CatalogSearch
 "Autocomplete Limit","Limite de Auto Complete",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruir o índice de pesquisa para texto do produto",module,Magento_CatalogSearch
-"The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again.",module,Magento_CatalogStaging
-"The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_CatalogStaging
+"The ProductSku is empty. Set the ProductSku and try again.","O ProductSku está vazio. Defina o ProductSku e tente novamente.",module,Magento_CatalogStaging
+"The ""%1"" attribute is required. Enter and try again.","O atributo ""%1"" é necessário. Digite e tente novamente.",module,Magento_CatalogStaging
 Enabled,Habilitado,module,Magento_CatalogStaging
 Disabled,Desabilitado,module,Magento_CatalogStaging
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogStaging
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_CatalogStaging
+"Future Update already exists in this time range. Set a different range and try again.","Futura atualização já existe neste intervalo de tempo. Defina um intervalo diferente e tente novamente.",module,Magento_CatalogStaging
+"The product was unable to be saved. Please try again.","O produto não pôde ser salvo. Por favor, tente novamente.",module,Magento_CatalogStaging
 "The image cannot be removed as it has been assigned to the other image role","A imagem não pode ser removida visto que foi atribuída a outra função de imagem",module,Magento_CatalogStaging
 "Could not save Prices.","Não foi possível salvar os preços.",module,Magento_CatalogStaging
 "Invalid attribute %fieldName = %fieldValue.","Atributo inválido %fieldName = %fieldValue.",module,Magento_CatalogStaging
@@ -3298,31 +3298,31 @@ Duplicated,Duplicado,module,Magento_Company
 "The team was successfully deleted.","O time foi removido com sucesso.",module,Magento_Company
 "The team was successfully updated.","O time foi atualizado com sucesso.",module,Magento_Company
 "The team was successfully created.","O time foi criado com sucesso.",module,Magento_Company
-"Company Users","Company Users",module,Magento_Company
-"A customer with the same email already assigned to company.","A customer with the same email already assigned to company.",module,Magento_Company
-Active,Active,module,Magento_Company
-"Pending Approval","Pending Approval",module,Magento_Company
-Rejected,Rejected,module,Magento_Company
-Blocked,Blocked,module,Magento_Company
-"The company admin cannot be moved to a different location in the company structure.","The company admin cannot be moved to a different location in the company structure.",module,Magento_Company
-"A user or a team cannot be moved under itself.","A user or a team cannot be moved under itself.",module,Magento_Company
-"A user or a team cannot be moved under its child user or team.","A user or a team cannot be moved under its child user or team.",module,Magento_Company
-"The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.","The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.",module,Magento_Company
-"Unable to move customer structure.","Unable to move customer structure.",module,Magento_Company
-"Cannot delete company with id %1","Cannot delete company with id %1",module,Magento_Company
-"No company admin email is specified in request.","No company admin email is specified in request.",module,Magento_Company
-"No company admin website ID is specified in request.","No company admin website ID is specified in request.",module,Magento_Company
-"No such entity with id = %idValue","No such entity with id = %idValue",module,Magento_Company
-"The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.",module,Magento_Company
-"You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.",module,Magento_Company
-"Invalid attribute value. Cannot change company for a company admin.","Invalid attribute value. Cannot change company for a company admin.",module,Magento_Company
-"Company admin","Company admin",module,Magento_Company
-"Company user","Company user",module,Magento_Company
-"Individual user","Individual user",module,Magento_Company
-Inactive,Inactive,module,Magento_Company
+"Company Users","Usuários da empresa",module,Magento_Company
+"A customer with the same email already assigned to company.","Um cliente com o mesmo e-mail já foi atribuído para a empresa.",module,Magento_Company
+Active,Ativo,module,Magento_Company
+"Pending Approval","Aguardando Aprovação",module,Magento_Company
+Rejected,Rejeitado,module,Magento_Company
+Blocked,Bloqueado,module,Magento_Company
+"The company admin cannot be moved to a different location in the company structure.","O administrador da empresa não pode ser movido para uma localização diferente na estrutura da empresa.",module,Magento_Company
+"A user or a team cannot be moved under itself.","Um usuário ou um time não pode ser movido abaixo dele mesmo.",module,Magento_Company
+"A user or a team cannot be moved under its child user or team.","Um usuário ou um time não pode ser movido abaixo do seu usuário filho ou time.",module,Magento_Company
+"The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.","O ID pai especificado pertence para uma empresa diferente. A entidade especificada (time ou usuário) e seu novo pai precisa pertencer à mesma empresa.",module,Magento_Company
+"Unable to move customer structure.","Não é possível mover a estrutura do cliente.",module,Magento_Company
+"Cannot delete company with id %1","Não é possível remover uma empresa com o id %1",module,Magento_Company
+"No company admin email is specified in request.","Nenhum email do administrador de empresa foi especificado na solicitação.",module,Magento_Company
+"No company admin website ID is specified in request.","Nenhuma ID de administrador de site foi especificado na solicitação.",module,Magento_Company
+"No such entity with id = %idValue","Não há tal entidade com o id = %idValue",module,Magento_Company
+"The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","O usuário %1 é o administrado da empresa e não pode ser modificado para inativo. Você precisa definir outro usuário como administrador da empresa primeiro.",module,Magento_Company
+"You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","Você não pode atualizar o atributo solicitado. ID da linha: %fieldName = %fieldValue.",module,Magento_Company
+"Invalid attribute value. Cannot change company for a company admin.","Valor de atributo inválido. Não foi possível alterar a empresa para um administrador de empresa.",module,Magento_Company
+"Company admin","Administrador da empresa",module,Magento_Company
+"Company user","Usuário da empresa",module,Magento_Company
+"Individual user","Usuário individual",module,Magento_Company
+Inactive,Inativo,module,Magento_Company
 "Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".",module,Magento_Company
-"Invalid login or password.","Invalid login or password.",module,Magento_Company
-"This account is locked.","This account is locked.",module,Magento_Company
+"Invalid login or password.","Login ou senha inválida.",module,Magento_Company
+"This account is locked.","Esta conta está bloqueada.",module,Magento_Company
 "Your account is not yet approved. If you have questions, please contact the seller.","Your account is not yet approved. If you have questions, please contact the seller.",module,Magento_Company
 "There was an error saving custom attributes.","There was an error saving custom attributes.",module,Magento_Company
 "Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_Company
@@ -3337,16 +3337,16 @@ Inactive,Inactive,module,Magento_Company
 "This customer is a user of a different company. Enter a different email address to continue.","This customer is a user of a different company. Enter a different email address to continue.",module,Magento_Company
 "Company with this email address already exists in the system. Enter a different email address to continue.","Company with this email address already exists in the system. Enter a different email address to continue.",module,Magento_Company
 "Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.","Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.",module,Magento_Company
-"Could not save company: %1","Could not save company: %1",module,Magento_Company
-"Cannot delete structure with id %1","Cannot delete structure with id %1",module,Magento_Company
-"Could not create team","Could not create team",module,Magento_Company
+"Could not save company: %1","Não foi possível gravar a empresa: %1",module,Magento_Company
+"Cannot delete structure with id %1","Não foi possível remover a estrutura com o id %1",module,Magento_Company
+"Could not create team","Não foi possível criar o time",module,Magento_Company
 "This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.",module,Magento_Company
-"Could not update team","Could not update team",module,Magento_Company
-"Cannot delete team with id %1","Cannot delete team with id %1",module,Magento_Company
+"Could not update team","Não foi possível atualizar o time",module,Magento_Company
+"Cannot delete team with id %1","Não foi possível remover o time com o id %1",module,Magento_Company
 "You cannot assign a different role to a company admin.","You cannot assign a different role to a company admin.",module,Magento_Company
-"You cannot assign multiple roles to a user.","You cannot assign multiple roles to a user.",module,Magento_Company
+"You cannot assign multiple roles to a user.","Você não pode atribuir múltiplas funções para um usuário.",module,Magento_Company
 "Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.","Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.",module,Magento_Company
-"Something went wrong","Something went wrong",module,Magento_Company
+"Something went wrong","Algo deu errado",module,Magento_Company
 "This customer company account is blocked and customer cannot place orders.","This customer company account is blocked and customer cannot place orders.",module,Magento_Company
 "The consumer isn't authorized to access resource.","The consumer isn't authorized to access resource.",module,Magento_Company
 "- Duplicated","- Duplicated",module,Magento_Company
