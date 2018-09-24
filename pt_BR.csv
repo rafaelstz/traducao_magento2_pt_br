@@ -3011,7 +3011,7 @@ Manually,Manualmente,module,Magento_CheckoutAgreements
 Close,Fechar,module,Magento_CheckoutAgreements
 "Terms & Conditions","Termos e Condições",module,Magento_CheckoutAgreements
 "Enable Terms and Conditions","Habilitar os termos e condições",module,Magento_CheckoutAgreements
-"The order can't be submitted in preview mode.","The order can't be submitted in preview mode.",module,Magento_CheckoutStaging
+"The order can't be submitted in preview mode.","A ordem não pode ser enviada em modo de visualização.",module,Magento_CheckoutStaging
 "Preview Quote Lifetime (minutes)","Tempo de Vida da Pré-visualização do Orçamento (minutos)",module,Magento_CheckoutStaging
 "Static Blocks","Blocos estáticos",module,Magento_Cms
 "Add New Block","Adicionar novo bloco",module,Magento_Cms
@@ -3061,7 +3061,7 @@ Blocks,Blocos,module,Magento_Cms
 "A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos.",module,Magento_Cms
 "You saved the block.","Você salvou o bloco.",module,Magento_Cms
 "Something went wrong while saving the block.","Algo correu mal ao gravar o bloco.",module,Magento_Cms
-"You duplicated the block.","You duplicated the block.",module,Magento_Cms
+"You duplicated the block.","Você duplicou o bloco.",module,Magento_Cms
 "The page has been deleted.","A página foi excluída.",module,Magento_Cms
 "We can't find a page to delete.","Não é possível encontrar uma página para excluir.",module,Magento_Cms
 "This page no longer exists.","Esta página não existe mais.",module,Magento_Cms
@@ -3074,28 +3074,28 @@ Pages,Páginas,module,Magento_Cms
 "Page Title","Título da Página",module,Magento_Cms
 "To apply changes you should fill in hidden required ""%1"" field","Para aplicar as alterações, que você deve preencher no campo obrigatório oculto ""%1""",module,Magento_Cms
 "You saved the page.","Você gravou a página.",module,Magento_Cms
-"You duplicated the page.","You duplicated the page.",module,Magento_Cms
+"You duplicated the page.","Você duplicou a pagina.",module,Magento_Cms
 "Directory %1 is not under storage root path.","Diretório %1 não está no caminho raiz de armazenamento.",module,Magento_Cms
 "The directory %1 is not writable by server.","O diretório %1 não é gravável pelo servidor.",module,Magento_Cms
 "Make sure that static block content does not reference the block itself.","Certifique-se de que o conteúdo do bloco estático não faz referência a ele mesmo.",module,Magento_Cms
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_Cms
+"The CMS block with the ""%1"" ID doesn't exist.","O bloco CMS com o ID ""%1"" não existe.",module,Magento_Cms
 "Enabled by Default","Habilitado por padrão",module,Magento_Cms
 "Disabled by Default","Desativado por padrão",module,Magento_Cms
 "Disabled Completely","Desativado Completamente",module,Magento_Cms
-"The CMS page with the ""%1"" ID doesn't exist.","The CMS page with the ""%1"" ID doesn't exist.",module,Magento_Cms
+"The CMS page with the ""%1"" ID doesn't exist.","A pagina CMS com o ID ""%1"" não existe.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Route Page"" in configuration.","Este identificador é reservado para ""CMS No Route Page"" na configuração.",module,Magento_Cms
 "This identifier is reserved for ""CMS Home Page"" in configuration.","Este identificador é reservado para ""CMS No Route Page"" na configuração.",module,Magento_Cms
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","Este identificador é reservado para ""CMS No Route Page"" na configuração.",module,Magento_Cms
 "Could not save the page: %1","Não foi possível gravar a página: %1",module,Magento_Cms
 "Could not delete the page: %1","Não foi possível eliminar a página: %1",module,Magento_Cms
 "A block identifier with the same properties already exists in the selected store.","Um identificador do bloco com as mesmas propriedades já existe na loja selecionada.",module,Magento_Cms
-"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.",module,Magento_Cms
-"The page URL key can't use only numbers. Add letters or words and try again.","The page URL key can't use only numbers. Add letters or words and try again.",module,Magento_Cms
+"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","A chave de URL da página não é possível usar letras maiusculas ou símbolos. Remova as letras e símbolos e tente novamente.",module,Magento_Cms
+"The page URL key can't use only numbers. Add letters or words and try again.","A chave de URL da página não é possível usar apenas números. Adicione as letras ou palavras e tente novamente.",module,Magento_Cms
 "Please rename the folder using only letters, numbers, underscores and dashes.","Por favor, renomeie a pasta usando apenas letras, números, sublinhados e hífens.",module,Magento_Cms
 "We found a directory with the same name. Please try another folder name.","Um diretório com o mesmo nome já existe. Por favor, tente outro nome de diretório.",module,Magento_Cms
 "We cannot create a new directory.","Não foi possível criar um novo diretório.",module,Magento_Cms
 "We cannot delete directory %1.","Não é possível excluir o diretório %1.",module,Magento_Cms
-"File validation failed.","File validation failed.",module,Magento_Cms
+"File validation failed.","Falha de validação de arquivo.",module,Magento_Cms
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento.",module,Magento_Cms
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento.",module,Magento_Cms
 "Privacy and Cookie Policy","Política de Privacidade e Cookies",module,Magento_Cms
@@ -3112,7 +3112,7 @@ Delete,Excluir,module,Magento_Cms
 View,Visualizar,module,Magento_Cms
 px.,px.,module,Magento_Cms
 "No files found","Nenhum arquivo encontrado",module,Magento_Cms
-"Upload Images","Upload Images",module,Magento_Cms
+"Upload Images","Carregar Imagens",module,Magento_Cms
 "Collapse All","Recolher tudo",module,Magento_Cms
 "Expand All","Expandir Tudo",module,Magento_Cms
 "We could not detect a size.","Não foi possível detectar o tamanho.",module,Magento_Cms
@@ -3128,10 +3128,10 @@ px.,px.,module,Magento_Cms
 "Redirect to CMS-page if Cookies are Disabled","Redirecionar para Página CMS se as Cookies estiverem Desativadas",module,Magento_Cms
 "Show Notice if JavaScript is Disabled","Mostrar Aviso se o JavaScript estiver desativado",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Mostrar aviso se o Armazenamento Local estiver desativado",module,Magento_Cms
-"Default Page Layout","Default Page Layout",module,Magento_Cms
+"Default Page Layout","Layout de página padrão",module,Magento_Cms
 "WYSIWYG Options","Opções do WYSIWYG",module,Magento_Cms
 "Enable WYSIWYG Editor","Habilitar o Editor WYSIWYG",module,Magento_Cms
-"WYSIWYG Editor","WYSIWYG Editor",module,Magento_Cms
+"WYSIWYG Editor","Editor WYSIWYG",module,Magento_Cms
 "CMS Page Link","Link da página CMS",module,Magento_Cms
 "Link to a CMS Page","Link para uma página CMS",module,Magento_Cms
 "CMS Page","Página CMS",module,Magento_Cms
@@ -3156,7 +3156,7 @@ Block,Bloco,module,Magento_Cms
 "Enable Page","Ativar Página",module,Magento_Cms
 Content,Conteúdo,module,Magento_Cms
 "Content Heading","Cabeçalho do Conteúdo",module,Magento_Cms
-"Search Engine Optimization","Search Engine Optimization",module,Magento_Cms
+"Search Engine Optimization","Otimização para Motores de Pesquisa (Seo)",module,Magento_Cms
 "Meta Title","Meta título",module,Magento_Cms
 "Meta Keywords","Meta Palavras-chave",module,Magento_Cms
 "Meta Description","Meta Descrição",module,Magento_Cms
@@ -3176,7 +3176,7 @@ Enable,Habilitado,module,Magento_Cms
 "Custom Theme","Tema Personalizado",module,Magento_Cms
 "Custom Layout","Layout Personalizado",module,Magento_Cms
 "This block no longer exists.","Este bloco não existe mais.",module,Magento_CmsStaging
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CmsStaging
+"Future Update already exists in this time range. Set a different range and try again.","Uma atualização futura já existe neste intervalo de tempo. Defina um intervalo diferente e tente novamente.",module,Magento_CmsStaging
 Error,Erro,module,Magento_CmsStaging
 "Currently Active","Atualmente Ativo",module,Magento_CmsStaging
 "New Theme","Novo tema",module,Magento_CmsStaging
@@ -3320,50 +3320,50 @@ Blocked,Bloqueado,module,Magento_Company
 "Company user","Usuário da empresa",module,Magento_Company
 "Individual user","Usuário individual",module,Magento_Company
 Inactive,Inativo,module,Magento_Company
-"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".",module,Magento_Company
+"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Não é possível definir ""permitir"" para o recurso porque seu (s) recurso (s) pai (s) está definido como ""negar"".",module,Magento_Company
 "Invalid login or password.","Login ou senha inválida.",module,Magento_Company
 "This account is locked.","Esta conta está bloqueada.",module,Magento_Company
 "Your account is not yet approved. If you have questions, please contact the seller.","Sua conta ainda não foi aprovada. Se você tiver dúvidas, entre em contato com o vendedor.",module,Magento_Company
 "There was an error saving custom attributes.","Houve um erro ao salvar atributos personalizados.",module,Magento_Company
 "Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido ""%value"" fornecido para o campo %fieldName.",module,Magento_Company
 """%fieldName"" is required. Enter and try again.","""%fieldName"" é necessário. Digite e tente novamente.",module,Magento_Company
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Company
-"This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.",module,Magento_Company
-"You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.","You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.",module,Magento_Company
-"User role with this name already exists. Enter a different name to save this role.","User role with this name already exists. Enter a different name to save this role.",module,Magento_Company
-"Cannot delete role with id %1","Cannot delete role with id %1",module,Magento_Company
+"No such entity with %fieldName = %fieldValue","Não há tal entidade com %fieldName = %fieldValue",module,Magento_Company
+"This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","Este função não pode ser excluído porque os usuários são atribuídos a ele. Reatribua os usuários para outro função para continuar.",module,Magento_Company
+"You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.","Não é possível excluir um função quando é a única na empresa. Você deve criar um outra função antes de excluir esta.",module,Magento_Company
+"User role with this name already exists. Enter a different name to save this role.","Função de usuário com este nome já existe. Digite um nome diferente para salvar.",module,Magento_Company
+"Cannot delete role with id %1","Não é possivel excluir a função com Id %1",module,Magento_Company
 "Type %1 is not an instance of %2","Tipo %1 não é uma instância de %2",module,Magento_Company
-"The selected user is inactive. To continue, select another user or activate the current user.","The selected user is inactive. To continue, select another user or activate the current user.",module,Magento_Company
-"This customer is a user of a different company. Enter a different email address to continue.","This customer is a user of a different company. Enter a different email address to continue.",module,Magento_Company
-"Company with this email address already exists in the system. Enter a different email address to continue.","Company with this email address already exists in the system. Enter a different email address to continue.",module,Magento_Company
-"Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.","Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.",module,Magento_Company
+"The selected user is inactive. To continue, select another user or activate the current user.","O usuário selecionado está inativo. Para continuar, selecione outro usuário ou ative o usuário atual.",module,Magento_Company
+"This customer is a user of a different company. Enter a different email address to continue.","Este cliente é um usuário de uma empresa diferente. Digite um endereço de e-mail diferente para continuar.",module,Magento_Company
+"Company with this email address already exists in the system. Enter a different email address to continue.","Empresa com este endereço de e-mail já existe no sistema. Digite um endereço de e-mail diferente para continuar.",module,Magento_Company
+"Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.","Valor de atributo inválido. A data e hora rejeitadas e o motivo rejeitado pode ser alterados somente quando o status da empresa for alterado para Rejeitado.",module,Magento_Company
 "Could not save company: %1","Não foi possível gravar a empresa: %1",module,Magento_Company
 "Cannot delete structure with id %1","Não foi possível remover a estrutura com o id %1",module,Magento_Company
 "Could not create team","Não foi possível criar o time",module,Magento_Company
-"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.",module,Magento_Company
+"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","Essa equipe tem usuários filhos ou equipes alinhados a ela e não pode ser excluída. Por favor, realinhe os usuários ou equipes infantis primeiro.",module,Magento_Company
 "Could not update team","Não foi possível atualizar o time",module,Magento_Company
 "Cannot delete team with id %1","Não foi possível remover o time com o id %1",module,Magento_Company
-"You cannot assign a different role to a company admin.","You cannot assign a different role to a company admin.",module,Magento_Company
+"You cannot assign a different role to a company admin.","Você não pode atribuir uma função diferente para um administrador de empresa.",module,Magento_Company
 "You cannot assign multiple roles to a user.","Você não pode atribuir múltiplas funções para um usuário.",module,Magento_Company
-"Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.","Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.",module,Magento_Company
+"Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.","Não é possível excluir o administrador da empresa. A operação de exclusão foi interrompida. Por favor, repita a ação para os outros clientes.",module,Magento_Company
 "Something went wrong","Algo deu errado",module,Magento_Company
-"This customer company account is blocked and customer cannot place orders.","This customer company account is blocked and customer cannot place orders.",module,Magento_Company
-"The consumer isn't authorized to access resource.","The consumer isn't authorized to access resource.",module,Magento_Company
+"This customer company account is blocked and customer cannot place orders.","Essa conta da empresa do cliente é bloqueada e o cliente não pode fazer pedidos.",module,Magento_Company
+"The consumer isn't authorized to access resource.","O consumidor não está autorizado a acessar o recurso.",module,Magento_Company
 "- Duplicated","- Duplicado",module,Magento_Company
 message,mensagem,module,Magento_Company
 "Exception message","Mensagem de exceção",module,Magento_Company
 test,teste,module,Magento_Company
 phrase,frase,module,Magento_Company
 exception,exceção,module,Magento_Company
-"Localized Exception.","Localized Exception.",module,Magento_Company
+"Localized Exception.","Exceção localizada.",module,Magento_Company
 "Error message","Mensagem de erro",module,Magento_Company
 "No such entity.","Não há tal entidade.",module,Magento_Company
 "error message","mensagem de erro",module,Magento_Company
-"Could not save role","Could not save role",module,Magento_Company
-"""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.",module,Magento_Company
+"Could not save role","Não foi possivel salvar esta função",module,Magento_Company
+"""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.","""%fieldName"" é obrigatório. Entre e tente novamente.""%fieldName"" é obrigatório. Entre e tente novamente.",module,Magento_Company
 "Cannot delete team","Não é possível excluir grupo",module,Magento_Company
 "Role Name","Nome da Permissão",module,Magento_Company
-"Role Name 15","Role Name 15",module,Magento_Company
+"Role Name 15","Nome da função 15",module,Magento_Company
 Edit,Editar,module,Magento_Company
 Delete,Excluir,module,Magento_Company
 Duplicate,Duplicar,module,Magento_Company
@@ -3388,9 +3388,9 @@ State/Province,Estado,module,Magento_Company
 Email,Email,module,Magento_Company
 Submit,Enviar,module,Magento_Company
 "New Company Account","Nova Conta de Empresa",module,Magento_Company
-"If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.",module,Magento_Company
+"If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","Se você representa uma empresa, você vai querer usar a nossa área de conta da empresa. Criar uma conta corporativa fornece a todos os membros da empresa acesso a recursos B2B, como cotação, gerenciamento de usuários da empresa, pedido rápido e muito mais.",module,Magento_Company
 "Create a Company Account","Criar uma Conta Empresa",module,Magento_Company
-"Business Structure","Business Structure",module,Magento_Company
+"Business Structure","Estrutura de negócios",module,Magento_Company
 "Expand All","Expandir Tudo",module,Magento_Company
 "Collapse All","Recolher Tudo",module,Magento_Company
 "Add User","Adicionar Usuário",module,Magento_Company
@@ -3421,328 +3421,329 @@ Company,Empresa,module,Magento_Company
 "Create an Account","Criar Conta",module,Magento_Company
 Change,Alterar,module,Magento_Company
 "This action will replace your Company Admin.","Esta ação irá substituir seu administrador de empresa.",module,Magento_Company
-"* Your latest changes on the company profile have not been saved yet.","* Your latest changes on the company profile have not been saved yet.",module,Magento_Company
+"* Your latest changes on the company profile have not been saved yet.","* As alterações mais recentes sobre o perfil da empresa ainda não foram salvas.",module,Magento_Company
 "Dear %name,","Caro %name,",module,Magento_Company
-"You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.",module,Magento_Company
+"You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","Você foi atribuido à <a href=""%customer_url"">%company_name</a> como administrador da empresa.",module,Magento_Company
 "When you sign in to your account, you can:","Quando você entrar em sua conta, você vai poder:",module,Magento_Company
-"* Create and manage company users and teams","* Create and manage company users and teams",module,Magento_Company
-"* Manage user permissions for the store","* Manage user permissions for the store",module,Magento_Company
-"* Create and manage company shipping and billing addresses","* Create and manage company shipping and billing addresses",module,Magento_Company
+"* Create and manage company users and teams","* Criar e gerenciar equipes e usuários da empresa",module,Magento_Company
+"* Manage user permissions for the store","* Gerenciar permissões de usuário para a loja",module,Magento_Company
+"* Create and manage company shipping and billing addresses","* Criar e gerenciar os endereços de remessa e cobrança da empresa",module,Magento_Company
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","You've been added to the <a href=%customer_url>%company_name</a> as the company member.
-    Once you enter your account,
-    the company's shared resources will be available for you.",module,Magento_Company
+    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a> 
+como o membro da empresa.
+    Depois de inserir sua conta,
+    os recursos compartilhados da empresa estarão disponíveis para você.",module,Magento_Company
 "If this is a mistake,
-    please contact the company Admin at %company_admin_email.","If this is a mistake,
-    please contact the company Admin at %company_admin_email.",module,Magento_Company
-"Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.",module,Magento_Company
-"Your account is no longer active. You will not be able to use it for login.","Your account is no longer active. You will not be able to use it for login.",module,Magento_Company
+    please contact the company Admin at %company_admin_email.","Se isso é um erro,
+    entre em contato com o administrador da empresa em %company_admin_email.",module,Magento_Company
+"Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Sua conta agora está ativa. Você pode usá-lo para acessar o <a href=""%customer_url"">website</a>.",module,Magento_Company
+"Your account is no longer active. You will not be able to use it for login.","Sua conta não está mais ativa. Você não poderá usá-lo para login.",module,Magento_Company
 "If this is a mistake, please contact the seller.","Se isto é um erro, entre em contato com o vendedor.",module,Magento_Company
-"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
-"A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.",module,Magento_Company
+"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Sua conta foi definida como inativa e você não pode acessar a conta da empresa. Se você acha que isso é um erro, entre em contato com seu gerente para obter detalhes.",module,Magento_Company
+"A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Um pedido de registro da empresa foi enviado pelo cliente %customer. A conta está temporariamente bloqueada até você aprovar ou rejeitar essa empresa.",module,Magento_Company
 "Company: %company","Empresa: %company",module,Magento_Company
 "Your company registration request (for the <strong>%company_name</strong>)
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.",module,Magento_Company
+    and use other B2B features.","Seu pedido de registro da empresa (para o <strong> %company_name </strong>)
+    foi aprovado e você foi definido como administrador da empresa.
+    Agora você pode criar e gerenciar a estrutura da sua empresa.
+    Os membros da sua empresa podem solicitar cotações, criar listas de requisição,
+    e use outros recursos B2B.",module,Magento_Company
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company <strong>%company_name</strong>
-    is now <strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.",module,Magento_Company
-"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
+    and use other B2B features.","O status da sua empresa <strong> %company_name </strong>
+    agora está <strong> Ativo </strong>.
+    Depois de fazer o login, você poderá fazer pedidos em nome da sua empresa
+    e use outros recursos B2B.",module,Magento_Company
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Seu tipo de conta foi alterado de administrador da empresa para uma conta de usuário comum. Se você acha que isso é um erro, entre em contato com seu gerente para obter detalhes.",module,Magento_Company
 "%name,","%name,",module,Magento_Company
-"You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative.",module,Magento_Company
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Company
-"* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel",module,Magento_Company
-"* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel",module,Magento_Company
+"You have been assigned to %company_name as the Sales Representative.","Você foi atribuído a %company_name como representante de vendas.",module,Magento_Company
+"When you sign in to your account, you will be able to:","Ao fazer login na sua conta, você poderá:",module,Magento_Company
+"* View and manage company quotes in Admin Panel","* Visualizar e gerenciar cotações da empresa no painel de administração",module,Magento_Company
+"* View and edit company profile in Admin Panel","* Visualizar e editar o perfil da empresa no Painel de administração",module,Magento_Company
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders.",module,Magento_Company
-"If you have any questions, please contact the seller.","If you have any questions, please contact the seller.",module,Magento_Company
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.",module,Magento_Company
+    but they will not be able to place orders.","A conta da empresa <strong> %company_name </strong> foi bloqueada.
+    Os membros da sua empresa podem continuar usando o site,
+    mas eles não poderão fazer pedidos.",module,Magento_Company
+"If you have any questions, please contact the seller.","Se você tiver alguma dúvida, entre em contato com o vendedor.",module,Magento_Company
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","A conta da empresa <strong> %company_name </strong> foi suspensa, dependendo da aprovação do vendedor.",module,Magento_Company
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.",module,Magento_Company
-"Delete a Company?","Delete a Company?",module,Magento_Company
-Cancel,Cancel,module,Magento_Company
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Company
-"Sorry! You cannot delete this user: The user is the company admin.","Sorry! You cannot delete this user: The user is the company admin.",module,Magento_Company
-"Cannot Delete the Company Admin","Cannot Delete the Company Admin",module,Magento_Company
-Done,Done,module,Magento_Company
+    for the following reason:","A solicitação de registro da sua empresa (para o <strong> %company_name </strong>) foi rejeitada
+    pelo seguinte motivo:",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir esta empresa? Depois que a empresa for excluída, todos os membros da empresa serão definidos como Inativos.",module,Magento_Company
+"Delete a Company?","Excluir a empresa?",module,Magento_Company
+Cancel,Cancelar,module,Magento_Company
+"Are you sure you want to do this?","Deseja realmente fazer isso?",module,Magento_Company
+"Sorry! You cannot delete this user: The user is the company admin.","Desculpa! Não é possível excluir o usuário: O usuário é o administrador de empresa.",module,Magento_Company
+"Cannot Delete the Company Admin","Não é possível excluir o administrador de empresa",module,Magento_Company
+Done,Concluído,module,Magento_Company
 "No results","Nenhum resultado",module,Magento_Company
 options,opções,module,Magento_Company
 Proceed,Prosseguir,module,Magento_Company
-"Change Company Status?","Change Company Status?",module,Magento_Company
+"Change Company Status?","Alterar o status da empresa?",module,Magento_Company
 "Change status","Alterar status",module,Magento_Company
 "Popup title","Título de pop-up",module,Magento_Company
 "Cannot delete the user","Não é possível excluir este usuário",module,Magento_Company
-"This user cannot be deleted because he/she is a company admin.","This user cannot be deleted because he/she is a company admin.",module,Magento_Company
+"This user cannot be deleted because he/she is a company admin.","Este usuário não pode ser excluído porque ele é um administrador da empresa.",module,Magento_Company
 "Edit User","Editar Usuário",module,Magento_Company
-"Cannot Delete User","Cannot Delete User",module,Magento_Company
+"Cannot Delete User","Não é possível excluir o usuário",module,Magento_Company
 "Delete this user?","Remover este usuário?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this user?","This action cannot be undone. Are you sure you want to delete this user?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this user?","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir este usuário?",module,Magento_Company
 "Edit Team","Editar Equipe",module,Magento_Company
-"Cannot Delete This Team","Cannot Delete This Team",module,Magento_Company
-"Delete this team?","Delete this team?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this team?","This action cannot be undone. Are you sure you want to delete this team?",module,Magento_Company
-"Delete This Role?","Delete This Role?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this role?","This action cannot be undone. Are you sure you want to delete this role?",module,Magento_Company
-"Cannot Delete Role","Cannot Delete Role",module,Magento_Company
-"Cannot Delete Customer","Cannot Delete Customer",module,Magento_Company
-"Set Inactive","Set Inactive",module,Magento_Company
-"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
+"Cannot Delete This Team","Não é possível excluir esta equipe",module,Magento_Company
+"Delete this team?","Excluir esta equipe?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this team?","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir esta equipe?",module,Magento_Company
+"Delete This Role?","Excluir essa função?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this role?","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir essa função?",module,Magento_Company
+"Cannot Delete Role","Não é possível excluir essa função",module,Magento_Company
+"Cannot Delete Customer","Não é possível excluir o cliente",module,Magento_Company
+"Set Inactive","Definir inativo",module,Magento_Company
+"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Selecione Excluir para excluir permanentemente a conta e o conteúdo do usuário. As encomendas e cotações do usuário ainda são visíveis para o comerciante. Selecione Definir Inativo para bloquear temporariamente o usuário. O conteúdo do usuário ainda está disponível para os usuários pai.",module,Magento_Company
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","O usuário com este email já existe no sistema. Digite um endereço de e-mail diferente para continuar. Se você quiser usar sua conta atual como uma conta de administrador, entre em contato com o vendedor.",module,Magento_Company
 "Enable Company","Ativar Empresa",module,Magento_Company
-"Company Configuration","Company Configuration",module,Magento_Company
+"Company Configuration","Configuração da empresa",module,Magento_Company
 General,Geral,module,Magento_Company
-"Allow Company Registration from the Storefront","Allow Company Registration from the Storefront",module,Magento_Company
-"Email Options - Company Registration","Email Options - Company Registration",module,Magento_Company
-"Company Registration Email Recipient","Company Registration Email Recipient",module,Magento_Company
-"Send Company Registration Email Copy To","Send Company Registration Email Copy To",module,Magento_Company
+"Allow Company Registration from the Storefront","Permitir o registro da empresa na vitrine",module,Magento_Company
+"Email Options - Company Registration","Opções de e-mail - registro da empresa",module,Magento_Company
+"Company Registration Email Recipient","Recipiente de e-mail de registro da empresa",module,Magento_Company
+"Send Company Registration Email Copy To","Enviar cópia do e-mail de registro da empresa para",module,Magento_Company
 Comma-separated,"Separado por vírgula",module,Magento_Company
-"Send Email Copy Method","Send Email Copy Method",module,Magento_Company
-"Default Company Registration Email","Default Company Registration Email",module,Magento_Company
-"Customer-Related Emails","Customer-Related Emails",module,Magento_Company
-"Default 'Sales Rep Assigned' Email","Default 'Sales Rep Assigned' Email",module,Magento_Company
-"This email is sent to the company's Sales Rep and the Company Admin.","This email is sent to the company's Sales Rep and the Company Admin.",module,Magento_Company
-"Default 'Assign Company to Customer' Email","Default 'Assign Company to Customer' Email",module,Magento_Company
-"This email is sent to the customer only.","This email is sent to the customer only.",module,Magento_Company
-"Default 'Assign Company Admin' Email","Default 'Assign Company Admin' Email",module,Magento_Company
-"Default 'Company Admin Inactive' Email","Default 'Company Admin Inactive' Email",module,Magento_Company
-"Default 'Company Admin Changed To Member' Email","Default 'Company Admin Changed To Member' Email",module,Magento_Company
-"Default 'Customer Status Active' Email","Default 'Customer Status Active' Email",module,Magento_Company
-"Default 'Customer Status Inactive' Email","Default 'Customer Status Inactive' Email",module,Magento_Company
-"Company Status Change","Company Status Change",module,Magento_Company
-"Send Company Status Change Email Copy To","Send Company Status Change Email Copy To",module,Magento_Company
-"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.",module,Magento_Company
-"Default 'Company Status Change To Active 1"" Email","Default 'Company Status Change To Active 1"" Email",module,Magento_Company
-"This email is sent when company status changes from Pending Approval to Active.","This email is sent when company status changes from Pending Approval to Active.",module,Magento_Company
-"Default 'Company Status Change To Active 2"" Email","Default 'Company Status Change To Active 2"" Email",module,Magento_Company
-"This email is sent when company status changes from Rejected or Blocked to Active.","This email is sent when company status changes from Rejected or Blocked to Active.",module,Magento_Company
-"Default 'Company Status Change To Rejected"" Email","Default 'Company Status Change To Rejected"" Email",module,Magento_Company
-"This email is sent when company status changes to Rejected.","This email is sent when company status changes to Rejected.",module,Magento_Company
-"Default 'Company Status Change To Blocked"" Email","Default 'Company Status Change To Blocked"" Email",module,Magento_Company
-"This email is sent when company status changes Blocked.","This email is sent when company status changes Blocked.",module,Magento_Company
-"Default 'Company Status Change To Pending Approval"" Email","Default 'Company Status Change To Pending Approval"" Email",module,Magento_Company
-"This email is sent when company status changes to Pending Approval.","This email is sent when company status changes to Pending Approval.",module,Magento_Company
-All,All,module,Magento_Company
-"Account Information (View)","Account Information (View)",module,Magento_Company
-"Legal Address (View)","Legal Address (View)",module,Magento_Company
-"Contacts (View)","Contacts (View)",module,Magento_Company
-"Company User Management","Company User Management",module,Magento_Company
-"View roles and permissions","View roles and permissions",module,Magento_Company
-"Manage roles and permissions","Manage roles and permissions",module,Magento_Company
-"View users and teams","View users and teams",module,Magento_Company
-"Manage users and teams","Manage users and teams",module,Magento_Company
-Sales,Sales,module,Magento_Company
-"Checkout (place order)","Checkout (place order)",module,Magento_Company
-"Use Pay On Account method","Use Pay On Account method",module,Magento_Company
-"View orders","View orders",module,Magento_Company
-"View orders of subordinate users","View orders of subordinate users",module,Magento_Company
-"Are you sure you want to set the selected companies as active?","Are you sure you want to set the selected companies as active?",module,Magento_Company
-"Set a Company as Active","Set a Company as Active",module,Magento_Company
-"Set Active","Set Active",module,Magento_Company
-"Are you sure you want to block the selected companies?","Are you sure you want to block the selected companies?",module,Magento_Company
-"Block a Company","Block a Company",module,Magento_Company
-Block,Block,module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete the selected companies? After the company is deleted, all the company members will be set to Inactive.","This action cannot be undone. Are you sure you want to delete the selected companies? After the company is deleted, all the company members will be set to Inactive.",module,Magento_Company
+"Send Email Copy Method","Enviar método de cópia de e-mail",module,Magento_Company
+"Default Company Registration Email","E-mail de registro padrão da empresa",module,Magento_Company
+"Customer-Related Emails","E-mails relacionados ao cliente",module,Magento_Company
+"Default 'Sales Rep Assigned' Email","E-mail predefinido ""Reputação de vendas atribuída""",module,Magento_Company
+"This email is sent to the company's Sales Rep and the Company Admin.","Este e-mail é enviado para o representante de vendas da empresa e para o administrador da empresa.",module,Magento_Company
+"Default 'Assign Company to Customer' Email","Enviar e-mail predefinido ""Atribuir empresa ao cliente""",module,Magento_Company
+"This email is sent to the customer only.","Este e-mail é enviado apenas para o cliente.",module,Magento_Company
+"Default 'Assign Company Admin' Email","E-mail predefinido ""Atribuir administrador da empresa""",module,Magento_Company
+"Default 'Company Admin Inactive' Email","E-mail predefinido 'Administrador da Empresa Inativo'",module,Magento_Company
+"Default 'Company Admin Changed To Member' Email","E-mail predefinido 'Administrador da Empresa Alterado para Membro'",module,Magento_Company
+"Default 'Customer Status Active' Email","E-mail predefinido 'Status do cliente ativo'",module,Magento_Company
+"Default 'Customer Status Inactive' Email","E-mail predefinido 'Status do cliente inativo'",module,Magento_Company
+"Company Status Change","Alteração de status da empresa",module,Magento_Company
+"Send Company Status Change Email Copy To","Enviar cópia do email de alteração do status da empresa para",module,Magento_Company
+"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Separado por vírgulas. O (s) destinatário (s) receberá uma cópia de um e-mail que, por padrão, é enviado apenas ao administrador da empresa.",module,Magento_Company
+"Default 'Company Status Change To Active 1"" Email","E-mail predefinido 'Mudança de Status da Empresa para Ativo 1'",module,Magento_Company
+"This email is sent when company status changes from Pending Approval to Active.","Este e-mail é enviado quando o status da empresa muda de aprovação pendente para ativo.",module,Magento_Company
+"Default 'Company Status Change To Active 2"" Email","E-mail predefinido 'Alteração de status da empresa para ativo 2'",module,Magento_Company
+"This email is sent when company status changes from Rejected or Blocked to Active.","Este e-mail é enviado quando o status da empresa muda de rejeitado ou bloqueado para ativo.",module,Magento_Company
+"Default 'Company Status Change To Rejected"" Email","E-mail predefinido 'Alteração de status da empresa para rejeitado'",module,Magento_Company
+"This email is sent when company status changes to Rejected.","Este e-mail é enviado quando o status da empresa é alterado para rejeitado.",module,Magento_Company
+"Default 'Company Status Change To Blocked"" Email","E-mail predefinido 'Alteração de status da empresa para bloqueado'",module,Magento_Company
+"This email is sent when company status changes Blocked.","Este e-mail é enviado quando o status da empresa é alterado.",module,Magento_Company
+"Default 'Company Status Change To Pending Approval"" Email","E-mail predefinido 'Alteração de status da empresa para aprovação pendente'",module,Magento_Company
+"This email is sent when company status changes to Pending Approval.","Este e-mail é enviado quando o status da empresa é alterado para aprovação pendente.",module,Magento_Company
+All,Todos,module,Magento_Company
+"Account Information (View)","Informações da conta (Visualizar)",module,Magento_Company
+"Legal Address (View)","Endereço Legal (Visualizar)",module,Magento_Company
+"Contacts (View)","Contatos (Visualizar)",module,Magento_Company
+"Company User Management","Gestão de usuários da empresa",module,Magento_Company
+"View roles and permissions","Ver funções e permissões",module,Magento_Company
+"Manage roles and permissions","Gerenciar funções e permissões",module,Magento_Company
+"View users and teams","Visualizar usuários e equipes",module,Magento_Company
+"Manage users and teams","Gerenciar usuários e equipes",module,Magento_Company
+Sales,Vendas,module,Magento_Company
+"Checkout (place order)","Check-out (fazer pedido)",module,Magento_Company
+"Use Pay On Account method","Use o método de pagamento em conta",module,Magento_Company
+"View orders","Visualizar pedidos",module,Magento_Company
+"View orders of subordinate users","Ver pedidos de usuários subordinados",module,Magento_Company
+"Are you sure you want to set the selected companies as active?","Tem certeza de que deseja definir as empresas selecionadas como ativas?",module,Magento_Company
+"Set a Company as Active","Definir uma empresa como ativa",module,Magento_Company
+"Set Active",Ativar,module,Magento_Company
+"Are you sure you want to block the selected companies?","Tem certeza de que deseja bloquear as empresas selecionadas?",module,Magento_Company
+"Block a Company","Bloquear uma empresa",module,Magento_Company
+Block,Bloquear,module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete the selected companies? After the company is deleted, all the company members will be set to Inactive.","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir as empresas selecionadas? Depois que a empresa for excluída, todos os membros da empresa serão definidos como Inativos.",module,Magento_Company
 ID,ID,module,Magento_Company
-"Reseller ID","Reseller ID",module,Magento_Company
-Comment,Comment,module,Magento_Company
-ZIP,ZIP,module,Magento_Company
-"Customer Group","Customer Group",module,Magento_Company
-"Company Admin","Company Admin",module,Magento_Company
-Gender,Gender,module,Magento_Company
-"Customer Type","Customer Type",module,Magento_Company
-"Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.","Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.",module,Magento_Company
-"Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>","Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>",module,Magento_Company
-"Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.","Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.",module,Magento_Company
-"Please specify the reason","Please specify the reason",module,Magento_Company
-"The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).","The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).",module,Magento_Company
-"Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.","Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.",module,Magento_Company
-"Reason for Rejection","Reason for Rejection",module,Magento_Company
-"VAT / TAX ID","VAT / TAX ID",module,Magento_Company
+"Reseller ID","Revendedor ID",module,Magento_Company
+Comment,Comente,module,Magento_Company
+ZIP,CEP,module,Magento_Company
+"Customer Group","Grupo de clientes",module,Magento_Company
+"Company Admin","Administrador de empresa",module,Magento_Company
+Gender,Gênero,module,Magento_Company
+"Customer Type","Tipo de Cliente",module,Magento_Company
+"Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.","Tem certeza de que deseja desativar temporariamente esta conta empresa? Se você confirmar, login para todos os membros da companhia será bloqueado.",module,Magento_Company
+"Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>","Tem certeza de que deseja definir esta empresa como ativa? Se você confirmar, os membros da empresa poderão operar dentro da conta da empresa.>",module,Magento_Company
+"Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.","Tem certeza de que deseja rejeitar esta empresa? Se você confirmar, o login para todos os membros da empresa será bloqueado.",module,Magento_Company
+"Please specify the reason","Por favor, especifique o motivo",module,Magento_Company
+"The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).","O motivo aparecerá no e-mail ""Rejeitado"" enviado para o administrador da empresa. Ele também será salvo e exibido no Painel do administrador (no perfil da empresa).",module,Magento_Company
+"Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.","Tem certeza de que deseja bloquear esta empresa? Se você continuar, os membros da empresa não poderão fazer pedidos.",module,Magento_Company
+"Reason for Rejection","Razão para rejeição",module,Magento_Company
+"VAT / TAX ID","IVA / FISCAL ID",module,Magento_Company
 Website,Website,module,Magento_Company
-Prefix,Prefix,module,Magento_Company
-"Middle Name/Initial","Middle Name/Initial",module,Magento_Company
-Suffix,Suffix,module,Magento_Company
-"Advanced Settings","Advanced Settings",module,Magento_Company
-"Change Customer Group?","Change Customer Group?",module,Magento_Company
-"This action will change the customer group for all members of this company. Would you like to proceed?","This action will change the customer group for all members of this company. Would you like to proceed?",module,Magento_Company
-"The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first.","The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first.",module,Magento_Company
-"Customer Active","Customer Active",module,Magento_Company
-"This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.",module,Magento_Company
-"Change Company?","Change Company?",module,Magento_Company
-"Associate to Company","Associate to Company",module,Magento_Company
-"My Orders","My Orders",module,Magento_Company
-"Create New Customer","Create New Customer",module,Magento_Company
-"Create New Company Account","Create New Company Account",module,Magento_Company
-Name,Name,module,Magento_Company
-Role,Role,module,Magento_Company
-Team,Team,module,Magento_Company
-Users,Users,module,Magento_Company
-"Reimburse Balance","Reimburse Balance",module,Magento_CompanyCredit
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.",module,Magento_CompanyCredit
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.",module,Magento_CompanyCredit
-"Page not found.","Page not found.",module,Magento_CompanyCredit
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_CompanyCredit
-"History record no longer exists.","History record no longer exists.",module,Magento_CompanyCredit
-"Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.",module,Magento_CompanyCredit
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_CompanyCredit
-"Unable to convert company credit. Please try again later or contact store administrator.","Unable to convert company credit. Please try again later or contact store administrator.",module,Magento_CompanyCredit
-"Company Credit","Company Credit",module,Magento_CompanyCredit
-"Order Payment should be provided","Order Payment should be provided",module,Magento_CompanyCredit
-"Order is canceled. We reverted %1 to the company credit.","Order is canceled. We reverted %1 to the company credit.",module,Magento_CompanyCredit
-"Order is canceled. The order amount is not reverted to the company credit.","Order is canceled. The order amount is not reverted to the company credit.",module,Magento_CompanyCredit
-"Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.","Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.",module,Magento_CompanyCredit
-unavailable.,unavailable.,module,Magento_CompanyCredit
-"We can't save the credit memo because the company associated with this customer does not exist.","We can't save the credit memo because the company associated with this customer does not exist.",module,Magento_CompanyCredit
-"We can't save the credit memo because the company associated with customer is not active.","We can't save the credit memo because the company associated with customer is not active.",module,Magento_CompanyCredit
-Yes,Yes,module,Magento_CompanyCredit
-No,No,module,Magento_CompanyCredit
-"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_CompanyCredit
-"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Payment On Account cannot be used for this order because your order amount exceeds your credit amount.",module,Magento_CompanyCredit
-"Cannot process the request. Please check the operation type and try again.","Cannot process the request. Please check the operation type and try again.",module,Magento_CompanyCredit
-"Invalid attribute value. Row ID: %fieldName = %fieldValue.","Invalid attribute value. Row ID: %fieldName = %fieldValue.",module,Magento_CompanyCredit
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_CompanyCredit
-"The selected currency is not available. Please select a different currency.","The selected currency is not available. Please select a different currency.",module,Magento_CompanyCredit
-"Could not update history","Could not update history",module,Magento_CompanyCredit
-"Requested company is not found. Row ID: %fieldName = %fieldValue.","Requested company is not found. Row ID: %fieldName = %fieldValue.",module,Magento_CompanyCredit
-"Cannot delete credit limit with id %1","Cannot delete credit limit with id %1",module,Magento_CompanyCredit
-Allocated,Allocated,module,Magento_CompanyCredit
-Updated,Updated,module,Magento_CompanyCredit
-Purchased,Purchased,module,Magento_CompanyCredit
-Reimbursed,Reimbursed,module,Magento_CompanyCredit
-Refunded,Refunded,module,Magento_CompanyCredit
-Reverted,Reverted,module,Magento_CompanyCredit
-"Could not save history","Could not save history",module,Magento_CompanyCredit
-"Cannot delete history with id %1","Cannot delete history with id %1",module,Magento_CompanyCredit
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_CompanyCredit
-"Could not save company credit limit","Could not save company credit limit",module,Magento_CompanyCredit
-"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_CompanyCredit
-"Please enter a valid %1/%2 currency rate.","Please enter a valid %1/%2 currency rate.",module,Magento_CompanyCredit
-"Invoice created for %1","Invoice created for %1",module,Magento_CompanyCredit
+Prefix,Prefixo,module,Magento_Company
+"Middle Name/Initial","Nome do meio/inicial",module,Magento_Company
+Suffix,Sufixo,module,Magento_Company
+"Advanced Settings","Configurações avançadas",module,Magento_Company
+"Change Customer Group?","Alterar grupo de clientes?",module,Magento_Company
+"This action will change the customer group for all members of this company. Would you like to proceed?","Esta ação irá alterar o grupo de clientes para todos os membros desta empresa. Gostaria de continuar?",module,Magento_Company
+"The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first.","O usuário <%- username %> é o administrador da empresa e não pode ser definido como inativo. Você deve definir outro usuário como administrador da empresa primeiro.",module,Magento_Company
+"Customer Active","Cliente Ativo",module,Magento_Company
+"This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","Este cliente é um usuário de uma empresa diferente. Se você prosseguir, o cliente será desvinculado da empresa atual e vinculado à empresa selecionada.",module,Magento_Company
+"Change Company?","Mudar Empresa?",module,Magento_Company
+"Associate to Company","Associado à empresa",module,Magento_Company
+"My Orders","Meus pedidos",module,Magento_Company
+"Create New Customer","Criar novo cliente",module,Magento_Company
+"Create New Company Account","Criar uma Conta Empresa",module,Magento_Company
+Name,Nome,module,Magento_Company
+Role,Função,module,Magento_Company
+Team,Equipe,module,Magento_Company
+Users,Usuários,module,Magento_Company
+"Reimburse Balance","Reembolsar Saldo",module,Magento_CompanyCredit
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Tem certeza de que deseja cancelar este pedido? O valor do pedido não será revertido para %1 porque a empresa não está ativa.",module,Magento_CompanyCredit
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","Tem certeza de que deseja cancelar este pedido? O valor do pedido não será revertido para %1 porque a empresa associada a esse cliente não existe.",module,Magento_CompanyCredit
+"Page not found.","Página não encontrada.",module,Magento_CompanyCredit
+"Something went wrong. Please try again later.","Algo deu errado. Por favor, tente novamente mais tarde.",module,Magento_CompanyCredit
+"History record no longer exists.","O registro de histórico não existe mais.",module,Magento_CompanyCredit
+"Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Não é possível recuperar as taxas de câmbio neste momento. Por favor, tente novamente mais tarde ou entre em contato com o administrador da loja.",module,Magento_CompanyCredit
+"A total of %1 record(s) were updated.","Um total de %1 registro(s) foi atualizado.",module,Magento_CompanyCredit
+"Unable to convert company credit. Please try again later or contact store administrator.","Não é possível converter o crédito da empresa. Por favor, tente novamente mais tarde ou entre em contato com o administrador da loja.",module,Magento_CompanyCredit
+"Company Credit","Crédito da empresa",module,Magento_CompanyCredit
+"Order Payment should be provided","O pagamento do pedido deve ser fornecido",module,Magento_CompanyCredit
+"Order is canceled. We reverted %1 to the company credit.","O pedido foi cancelado. Revertemos %1 para o crédito da empresa.",module,Magento_CompanyCredit
+"Order is canceled. The order amount is not reverted to the company credit.","O pedido foi cancelado. O valor do pedido não é revertido para o crédito da empresa.",module,Magento_CompanyCredit
+"Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.","O pedido foi cancelado. O valor do pedido não é revertido para o crédito da empresa porque a empresa à qual esse cliente pertence não existe.",module,Magento_CompanyCredit
+unavailable.,indisponível.,module,Magento_CompanyCredit
+"We can't save the credit memo because the company associated with this customer does not exist.","Não podemos salvar a nota de crédito porque a empresa associada a esse cliente não existe.",module,Magento_CompanyCredit
+"We can't save the credit memo because the company associated with customer is not active.","Não podemos salvar a nota de crédito porque a empresa associada ao cliente não está ativa.",module,Magento_CompanyCredit
+Yes,Sim,module,Magento_CompanyCredit
+No,Não,module,Magento_CompanyCredit
+"The requested Payment Method is not available.","O método de pagamento solicitado não está disponível.",module,Magento_CompanyCredit
+"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","O pagamento na conta não pode ser usado para este pedido porque o valor do seu pedido excede o valor do seu crédito.",module,Magento_CompanyCredit
+"Cannot process the request. Please check the operation type and try again.","Não é possível processar o pedido. Por favor, verifique o tipo de operação e tente novamente.",module,Magento_CompanyCredit
+"Invalid attribute value. Row ID: %fieldName = %fieldValue.","Valor de atributo inválido. Linha ID: %fieldName = %fieldValue.",module,Magento_CompanyCredit
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" é obrigatório. Entre e tente novamente.",module,Magento_CompanyCredit
+"The selected currency is not available. Please select a different currency.","A moeda selecionada não está disponível. Por favor, selecione uma moeda diferente.",module,Magento_CompanyCredit
+"Could not update history","Não foi possível atualizar o histórico",module,Magento_CompanyCredit
+"Requested company is not found. Row ID: %fieldName = %fieldValue.","Empresa solicitada não foi encontrada. ID de linha: %fieldName = %fieldValue.",module,Magento_CompanyCredit
+"Cannot delete credit limit with id %1","Não é possível eliminar o limite de crédito com o Id %1",module,Magento_CompanyCredit
+Allocated,Alocados,module,Magento_CompanyCredit
+Updated,Atualizado,module,Magento_CompanyCredit
+Purchased,Comprado,module,Magento_CompanyCredit
+Reimbursed,Reembolsados,module,Magento_CompanyCredit
+Refunded,Reembolsado,module,Magento_CompanyCredit
+Reverted,Revertido,module,Magento_CompanyCredit
+"Could not save history","Não foi possível salvar o histórico",module,Magento_CompanyCredit
+"Cannot delete history with id %1","Não é possível excluir o histórico com o Id %1",module,Magento_CompanyCredit
+"No such entity with %fieldName = %fieldValue","Nenhuma entidade com %fieldName = %fieldValue",module,Magento_CompanyCredit
+"Could not save company credit limit","Não foi possível salvar o limite de crédito da empresa",module,Magento_CompanyCredit
+"Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido de ""%value"" fornecido para o campo %fieldName.",module,Magento_CompanyCredit
+"Please enter a valid %1/%2 currency rate.","Por favor insira uma taxa de câmbio %1/%2 válida.",module,Magento_CompanyCredit
+"Invoice created for %1","Fatura criada para %1",module,Magento_CompanyCredit
 "The selected credit currency is not valid. 
-                        Customers will not be able to place orders until you update the credit currency.","The selected credit currency is not valid. 
-                        Customers will not be able to place orders until you update the credit currency.",module,Magento_CompanyCredit
-"Store Credit","Store Credit",module,Magento_CompanyCredit
-"Refund to Company Credit","Refund to Company Credit",module,Magento_CompanyCredit
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.",module,Magento_CompanyCredit
-"We refunded %1 online.","We refunded %1 online.",module,Magento_CompanyCredit
-"We refunded %1 offline.","We refunded %1 offline.",module,Magento_CompanyCredit
-"We refunded %1 to the company credit.","We refunded %1 to the company credit.",module,Magento_CompanyCredit
-"Exception message.","Exception message.",module,Magento_CompanyCredit
-"Exception Message","Exception Message",module,Magento_CompanyCredit
-"No such entity","No such entity",module,Magento_CompanyCredit
-Edit,Edit,module,Magento_CompanyCredit
-"%1 made an update. %2 can exceed the Credit Limit.","%1 made an update. %2 can exceed the Credit Limit.",module,Magento_CompanyCredit
-"%1 made an update. %2 cannot exceed the Credit Limit.","%1 made an update. %2 cannot exceed the Credit Limit.",module,Magento_CompanyCredit
-"Order # %1","Order # %1",module,Magento_CompanyCredit
-"%1 changed the credit currency from %2 to %3 at the conversion rate of %2/%3 %4.","%1 changed the credit currency from %2 to %3 at the conversion rate of %2/%3 %4.",module,Magento_CompanyCredit
-"Outstanding Balance:","Outstanding Balance:",module,Magento_CompanyCredit
-"Available Credit:","Available Credit:",module,Magento_CompanyCredit
-"Credit Limit:","Credit Limit:",module,Magento_CompanyCredit
-"Purchase Order Number","Purchase Order Number",module,Magento_CompanyCredit
-"Charged off the company credit: %1","Charged off the company credit: %1",module,Magento_CompanyCredit
-"Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_CompanyCredit
-"The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.","The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.",module,Magento_CompanyCredit
-"%1 has exceeded its credit limit (%2) by %3. Its outstanding balance, including this order, currently totals %4.","%1 has exceeded its credit limit (%2) by %3. Its outstanding balance, including this order, currently totals %4.",module,Magento_CompanyCredit
-"The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3","The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3",module,Magento_CompanyCredit
-"Outstanding Balance","Outstanding Balance",module,Magento_CompanyCredit
-"Available Credit","Available Credit",module,Magento_CompanyCredit
-"Credit Limit","Credit Limit",module,Magento_CompanyCredit
-"Charged off the company credit","Charged off the company credit",module,Magento_CompanyCredit
-"The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.",module,Magento_CompanyCredit
-"Credit allocated to %company_name","Credit allocated to %company_name",module,Magento_CompanyCredit
-"Dear %name,","Dear %name,",module,Magento_CompanyCredit
+                        Customers will not be able to place orders until you update the credit currency.","A moeda de crédito selecionada não é válida.
+                        Os clientes não poderão fazer pedidos até você atualizar a moeda de crédito.",module,Magento_CompanyCredit
+"Store Credit","Crédito na loja",module,Magento_CompanyCredit
+"Refund to Company Credit","Restituição de crédito da empresa",module,Magento_CompanyCredit
+"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Uma fatura para quantidades parciais não pode ser emitida para este pedido. Para continuar, altere a quantidade especificada para a quantidade total.",module,Magento_CompanyCredit
+"We refunded %1 online.","Nós reembolsamos %1 online.",module,Magento_CompanyCredit
+"We refunded %1 offline.","Nós reembolsamos %1 offline.",module,Magento_CompanyCredit
+"We refunded %1 to the company credit.","Reembolsamos %1 ao crédito da empresa.",module,Magento_CompanyCredit
+"Exception message.","Mensagem de exceção.",module,Magento_CompanyCredit
+"Exception Message","Mensagem de exceção",module,Magento_CompanyCredit
+"No such entity","Nenhuma entidade desse tipo",module,Magento_CompanyCredit
+Edit,Editar,module,Magento_CompanyCredit
+"%1 made an update. %2 can exceed the Credit Limit.","%1 fez uma atualização. %2 pode exceder o limite de crédito.",module,Magento_CompanyCredit
+"%1 made an update. %2 cannot exceed the Credit Limit.","%1 fez uma atualização. %2 não pode exceder o limite de crédito.",module,Magento_CompanyCredit
+"Order # %1","Pedido #%1",module,Magento_CompanyCredit
+"%1 changed the credit currency from %2 to %3 at the conversion rate of %2/%3 %4.","%1 alterou a moeda de crédito de %2 para %3 na taxa de conversão de %2/%3 %4.",module,Magento_CompanyCredit
+"Outstanding Balance:","Saldo pendente:",module,Magento_CompanyCredit
+"Available Credit:","Crédito disponível:",module,Magento_CompanyCredit
+"Credit Limit:","Limite de crédito:",module,Magento_CompanyCredit
+"Purchase Order Number","Número do pedido",module,Magento_CompanyCredit
+"Charged off the company credit: %1","Cobrado do crédito da empresa: %1",module,Magento_CompanyCredit
+"Purchase Order Number: %1","Número do Pedido de Compra: %1",module,Magento_CompanyCredit
+"The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.","A moeda base para %1 foi atualizada. A moeda %2 ainda é definida como a moeda de crédito para uma ou mais empresas. Use o seguinte link de <a href=""%3"" id=""update-credit-link""></a> para executar uma operação em massa que atualiza a moeda de crédito para as empresas.",module,Magento_CompanyCredit
+"%1 has exceeded its credit limit (%2) by %3. Its outstanding balance, including this order, currently totals %4.","%1 excedeu o limite de crédito (%2) em %3. Seu saldo pendente, incluindo este pedido, atualmente totaliza %4.",module,Magento_CompanyCredit
+"The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3","O limite de crédito para %1 é %2. Seu saldo pendente, incluindo este pedido, atualmente totaliza %3",module,Magento_CompanyCredit
+"Outstanding Balance","Saldo pendente",module,Magento_CompanyCredit
+"Available Credit","Crédito disponível",module,Magento_CompanyCredit
+"Credit Limit","Limite de crédito",module,Magento_CompanyCredit
+"Charged off the company credit","Cobrado o crédito da empresa",module,Magento_CompanyCredit
+"The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","O crédito da empresa em todas as empresas selecionadas será convertido usando a taxa abaixo. Esta operação não pode ser desfeita.",module,Magento_CompanyCredit
+"Credit allocated to %company_name","Crédito alocado para %company_name",module,Magento_CompanyCredit
+"Dear %name,","Caro %name,",module,Magento_CompanyCredit
 "Your company has been allocated a credit of %available_credit.
-    You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.
-    You can now use the Payment On Account method to place you orders.",module,Magento_CompanyCredit
-"The history of your credit operations is available on the Company Credit page.","The history of your credit operations is available on the Company Credit page.",module,Magento_CompanyCredit
-"%company_name account reimbursed","%company_name account reimbursed",module,Magento_CompanyCredit
-"Your company credit account has been reimbursed by %reimbursed_amount.","Your company credit account has been reimbursed by %reimbursed_amount.",module,Magento_CompanyCredit
-"If you have any questions, please contact the seller.","If you have any questions, please contact the seller.",module,Magento_CompanyCredit
-"%company_name credit limit updated","%company_name credit limit updated",module,Magento_CompanyCredit
+    You can now use the Payment On Account method to place you orders.","Sua empresa recebeu um crédito de %available_credit.
+    Agora você pode usar o método Pagamento em conta para fazer pedidos.",module,Magento_CompanyCredit
+"The history of your credit operations is available on the Company Credit page.","A história de suas operações de crédito está disponível na página de crédito da empresa.",module,Magento_CompanyCredit
+"%company_name account reimbursed","%company_name conta reembolsada",module,Magento_CompanyCredit
+"Your company credit account has been reimbursed by %reimbursed_amount.","Sua conta de crédito de empresa foi reembolsada por %reimbursed_amount.",module,Magento_CompanyCredit
+"If you have any questions, please contact the seller.","Se você tiver alguma dúvida, entre em contato com o vendedor.",module,Magento_CompanyCredit
+"%company_name credit limit updated","Limite de crédito %company_name atualizado",module,Magento_CompanyCredit
 "Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.",module,Magento_CompanyCredit
-"Order %order_id refunded","Order %order_id refunded",module,Magento_CompanyCredit
-"A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.",module,Magento_CompanyCredit
-"Order %order_id reverted","Order %order_id reverted",module,Magento_CompanyCredit
-"Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Your order #%order_id has been cancelled. The order amount reverted to the company credit.",module,Magento_CompanyCredit
-"Available Credit","Available Credit",module,Magento_CompanyCredit
-"The Payment on Account method is not available in the selected currency. Please contact the seller.","The Payment on Account method is not available in the selected currency. Please contact the seller.",module,Magento_CompanyCredit
-"Company credit account will be charged:","Company credit account will be charged:",module,Magento_CompanyCredit
-"Place Order","Place Order",module,Magento_CompanyCredit
-"Cancel the Order","Cancel the Order",module,Magento_CompanyCredit
-"This is a required field.","This is a required field.",module,Magento_CompanyCredit
-"Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_CompanyCredit
-"{oldCur}/{newCur} Rate","{oldCur}/{newCur} Rate",module,Magento_CompanyCredit
-Reimburse,Reimburse,module,Magento_CompanyCredit
-Save,Save,module,Magento_CompanyCredit
-"Please use only letters (a-z or A-Z), numbers (0-9), dash (-) or slash (/) in this field.","Please use only letters (a-z or A-Z), numbers (0-9), dash (-) or slash (/) in this field.",module,Magento_CompanyCredit
-"The credit limit for %s is %s. It will be exceeded by %s with this order.","The credit limit for %s is %s. It will be exceeded by %s with this order.",module,Magento_CompanyCredit
-"Payment on Account","Payment on Account",module,Magento_CompanyCredit
-Enabled,Enabled,module,Magento_CompanyCredit
-"New Order Status","New Order Status",module,Magento_CompanyCredit
-"Sort Order","Sort Order",module,Magento_CompanyCredit
-Title,Title,module,Magento_CompanyCredit
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_CompanyCredit
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_CompanyCredit
-"Minimum Order Total","Minimum Order Total",module,Magento_CompanyCredit
-"Maximum Order Total","Maximum Order Total",module,Magento_CompanyCredit
-"Company Credit Change Email Sender","Company Credit Change Email Sender",module,Magento_CompanyCredit
-"Send Company Credit Change Email Copy To","Send Company Credit Change Email Copy To",module,Magento_CompanyCredit
-Comma-separated,Comma-separated,module,Magento_CompanyCredit
-"Send Email Copy Method","Send Email Copy Method",module,Magento_CompanyCredit
-"Allocated Email Template","Allocated Email Template",module,Magento_CompanyCredit
-"This email is sent to the Company Admin.","This email is sent to the Company Admin.",module,Magento_CompanyCredit
-"Updated Email Template","Updated Email Template",module,Magento_CompanyCredit
-"Reimbursed Email Template","Reimbursed Email Template",module,Magento_CompanyCredit
-"Refunded Email Template","Refunded Email Template",module,Magento_CompanyCredit
-"Reverted Email Template","Reverted Email Template",module,Magento_CompanyCredit
-View,View,module,Magento_CompanyCredit
-"Credit Currency","Credit Currency",module,Magento_CompanyCredit
-"Allow To Exceed Credit Limit","Allow To Exceed Credit Limit",module,Magento_CompanyCredit
-"Reason For Change","Reason For Change",module,Magento_CompanyCredit
-Amount,Amount,module,Magento_CompanyCredit
-"Limit one PO number per reimburse transaction","Limit one PO number per reimburse transaction",module,Magento_CompanyCredit
-"Maximum 255 characters are allowed.","Maximum 255 characters are allowed.",module,Magento_CompanyCredit
-Comment,Comment,module,Magento_CompanyCredit
-Rate,Rate,module,Magento_CompanyCredit
-"Convert Credit","Convert Credit",module,Magento_CompanyCredit
-Date,Date,module,Magento_CompanyCredit
-Operation,Operation,module,Magento_CompanyCredit
-"Updated By","Updated By",module,Magento_CompanyCredit
-"Purchase Order","Purchase Order",module,Magento_CompanyCredit
-"You will be charged for","You will be charged for",module,Magento_CompanyCredit
-"Order Total","Order Total",module,Magento_CompanyCredit
-"All Payment Methods","All Payment Methods",module,Magento_CompanyPayment
-"Specific Payment Methods","Specific Payment Methods",module,Magento_CompanyPayment
-"B2B Payment Methods","B2B Payment Methods",module,Magento_CompanyPayment
-"All Enabled Payment Methods","All Enabled Payment Methods",module,Magento_CompanyPayment
-(disabled),(disabled),module,Magento_CompanyPayment
-"Payment Information","Payment Information",module,Magento_CompanyPayment
-"Available Payment Methods","Available Payment Methods",module,Magento_CompanyPayment
-"This company has no payment methods. Please contact store administrator.","This company has no payment methods. Please contact store administrator.",module,Magento_CompanyPayment
-"Default B2B Payment Methods","Default B2B Payment Methods",module,Magento_CompanyPayment
-"Applicable Payment Methods","Applicable Payment Methods",module,Magento_CompanyPayment
-"Payment Methods","Payment Methods",module,Magento_CompanyPayment
-"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.",module,Magento_CompanyPayment
-"Payment Information (View)","Payment Information (View)",module,Magento_CompanyPayment
-"Use config settings","Use config settings",module,Magento_CompanyPayment
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Seu limite de crédito foi atualizado e agora é %available_credit.
+    Atualmente, seu saldo pendente totaliza %outstanding_balance. Você está com %exceed_limit para exceder o limite de crédito.",module,Magento_CompanyCredit
+"Order %order_id refunded","Pedido %order_id reembolsado",module,Magento_CompanyCredit
+"A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","Um reembolso de %refunded_amount foi emitido no pedido nº %order_id. Este montante foi aplicado ao crédito da empresa.",module,Magento_CompanyCredit
+"Order %order_id reverted","Pedido %order_id revertido",module,Magento_CompanyCredit
+"Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Seu pedido #%order_id foi cancelado. O valor do pedido foi revertido para o crédito da empresa.",module,Magento_CompanyCredit
+"Available Credit","Crédito disponível",module,Magento_CompanyCredit
+"The Payment on Account method is not available in the selected currency. Please contact the seller.","O pagamento no método de conta não está disponível na moeda selecionada. Entre em contato com o vendedor.",module,Magento_CompanyCredit
+"Company credit account will be charged:","A conta de crédito da empresa será cobrada:",module,Magento_CompanyCredit
+"Place Order","Finalizar Pedido",module,Magento_CompanyCredit
+"Cancel the Order","Cancelar o pedido",module,Magento_CompanyCredit
+"This is a required field.","Este é um campo obrigatório.",module,Magento_CompanyCredit
+"Please enter a valid number in this field.","Por favor, insira um número válido neste campo.",module,Magento_CompanyCredit
+"{oldCur}/{newCur} Rate","{oldCur}/{newCur} taxa",module,Magento_CompanyCredit
+Reimburse,Reembolsar,module,Magento_CompanyCredit
+Save,Salvar,module,Magento_CompanyCredit
+"Please use only letters (a-z or A-Z), numbers (0-9), dash (-) or slash (/) in this field.","Por favor, use apenas letras (a-z ou A-Z), números (0-9), traço (-) ou barra (/) neste campo.",module,Magento_CompanyCredit
+"The credit limit for %s is %s. It will be exceeded by %s with this order.","O limite de crédito para %s é %s. Será excedido por %s com este pedido.",module,Magento_CompanyCredit
+"Payment on Account","Pagamento por conta",module,Magento_CompanyCredit
+Enabled,Habilitado,module,Magento_CompanyCredit
+"New Order Status","Novo status do pedido",module,Magento_CompanyCredit
+"Sort Order",Ordenação,module,Magento_CompanyCredit
+Title,Título,module,Magento_CompanyCredit
+"Payment from Applicable Countries","Pagamento de países aplicáveis",module,Magento_CompanyCredit
+"Payment from Specific Countries","Pagamento de países específicos",module,Magento_CompanyCredit
+"Minimum Order Total","Total mínimo do pedidos",module,Magento_CompanyCredit
+"Maximum Order Total","Total máximo de pedidos",module,Magento_CompanyCredit
+"Company Credit Change Email Sender","Remetente do email de alteração de crédito da empresa",module,Magento_CompanyCredit
+"Send Company Credit Change Email Copy To","Enviar cópia do email de alteração de crédito da empresa para",module,Magento_CompanyCredit
+Comma-separated,"Separado por vírgula",module,Magento_CompanyCredit
+"Send Email Copy Method","Enviar método de cópia de e-mail",module,Magento_CompanyCredit
+"Allocated Email Template","Modelo de email alocado",module,Magento_CompanyCredit
+"This email is sent to the Company Admin.","Este e-mail é enviado para o administrador da empresa.",module,Magento_CompanyCredit
+"Updated Email Template","Modelo de e-mail atualizado",module,Magento_CompanyCredit
+"Reimbursed Email Template","Modelo de email de reembolso",module,Magento_CompanyCredit
+"Refunded Email Template","Modelo de email de devolução",module,Magento_CompanyCredit
+"Reverted Email Template","Modelo de email Revertido",module,Magento_CompanyCredit
+View,Visualizar,module,Magento_CompanyCredit
+"Credit Currency","Moeda de crédito",module,Magento_CompanyCredit
+"Allow To Exceed Credit Limit","Permitir ultrapassar o limite de crédito",module,Magento_CompanyCredit
+"Reason For Change","Motivo da alteração",module,Magento_CompanyCredit
+Amount,Quantidade,module,Magento_CompanyCredit
+"Limit one PO number per reimburse transaction","Limite de um número de PO por transação de reembolso",module,Magento_CompanyCredit
+"Maximum 255 characters are allowed.","São permitidos no máximo 255 caracteres.",module,Magento_CompanyCredit
+Comment,Comentário,module,Magento_CompanyCredit
+Rate,Taxa,module,Magento_CompanyCredit
+"Convert Credit","Converter o crédito",module,Magento_CompanyCredit
+Date,Data,module,Magento_CompanyCredit
+Operation,Operação,module,Magento_CompanyCredit
+"Updated By","Atualizado por",module,Magento_CompanyCredit
+"Purchase Order","Ordem de compra",module,Magento_CompanyCredit
+"You will be charged for","Você será cobrado por",module,Magento_CompanyCredit
+"Order Total","Total do Pedido",module,Magento_CompanyCredit
+"All Payment Methods","Todos os métodos de pagamento",module,Magento_CompanyPayment
+"Specific Payment Methods","Métodos de pagamento específicos",module,Magento_CompanyPayment
+"B2B Payment Methods","Métodos de pagamento B2B",module,Magento_CompanyPayment
+"All Enabled Payment Methods","Todos os métodos de pagamento permitidos",module,Magento_CompanyPayment
+(disabled),(desabilitado),module,Magento_CompanyPayment
+"Payment Information","Informações de pagamento",module,Magento_CompanyPayment
+"Available Payment Methods","Métodos de pagamento disponíveis",module,Magento_CompanyPayment
+"This company has no payment methods. Please contact store administrator.","Esta empresa não possui métodos de pagamento. Por favor entre em contato com o administrador da loja.",module,Magento_CompanyPayment
+"Default B2B Payment Methods","Métodos de pagamento padrão B2B",module,Magento_CompanyPayment
+"Applicable Payment Methods","Métodos de pagamento aplicáveis",module,Magento_CompanyPayment
+"Payment Methods","Métodos de pagamento",module,Magento_CompanyPayment
+"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","Por padrão, os métodos de pagamento selecionados estão disponíveis para todas as novas empresas. Se o seu site Magento tem vários sites, em um site específico, o comprador poderá pagar apenas com os métodos disponíveis para esse site.",module,Magento_CompanyPayment
+"Payment Information (View)","Informações de pagamento (Visualizar)",module,Magento_CompanyPayment
+"Use config settings","Use as configurações",module,Magento_CompanyPayment
 "Default Config","Configuração Padrão",module,Magento_Config
 "Save Config","Gravar Configuração",module,Magento_Config
 [GLOBAL],[GLOBAL],module,Magento_Config
@@ -3760,7 +3761,7 @@ Add,Adicionar,module,Magento_Config
 Enable,Habilitado,module,Magento_Config
 Disable,Desabilitado,module,Magento_Config
 Configuration,Configuração,module,Magento_Config
-"The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again.",module,Magento_Config
+"The class for ""%1"" type wasn't declared. Enter the class and try again.","O classe do tipo ""%1"" não foi declarada. Digite a classe e tente novamente.",module,Magento_Config
 "%1 should implement %2","%1 deve implementar %2",module,Magento_Config
 "The value you set has already been locked. To change the value, use the --%1 option.","O valor definido já foi bloqueado. Para alterar o valor, use a opção--%1.",module,Magento_Config
 %1,%1,module,Magento_Config
@@ -3781,7 +3782,7 @@ System,Sistema,module,Magento_Config
 "We can't save the Cron expression.","Não podemos salvar a expressão ""Cron"".",module,Magento_Config
 "Sorry, we haven't installed the default display currency you selected.","Desculpe, a moeda padrão selecionada não foi instalada.",module,Magento_Config
 "Sorry, the default display currency you selected is not available in allowed currencies.","Desculpa, a moeda de exibição padrão selecionado não está disponível em moedas permitidas.",module,Magento_Config
-"The ""%1"" email address is incorrect. Verify the email address and try again.","The ""%1"" email address is incorrect. Verify the email address and try again.",module,Magento_Config
+"The ""%1"" email address is incorrect. Verify the email address and try again.","O endereço de e-mail de ""%1"" é incorreto. Verifique se o endereço de e-mail e tente novamente.",module,Magento_Config
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","O nome do remetente ""%1"" não é válido. Por favor, use apenas caracteres visíveis e espaços.",module,Magento_Config
 "Maximum sender name length is 255. Please correct your settings.","Comprimento do nome do remetente máximo é 255. Por favor, corrija suas configurações.",module,Magento_Config
 "The file you're uploading exceeds the server size limit of %1 kilobytes.","O arquivo que você está enviando excede o limite de tamanho do servidor de %1 kb.",module,Magento_Config
@@ -3793,9 +3794,9 @@ System,Sistema,module,Magento_Config
 "website(%1) scope","escopo website (%1)",module,Magento_Config
 "store(%1) scope","escopo loja (%1)",module,Magento_Config
 "Currency ""%1"" is used as %2 in %3.","Moeda ""%1"" é usada como %2 em %3.",module,Magento_Config
-"The time zone is incorrect. Verify the time zone and try again.","The time zone is incorrect. Verify the time zone and try again.",module,Magento_Config
-"The ""%1"" file doesn't exist.","The ""%1"" file doesn't exist.",module,Magento_Config
-"The ""%1"" path doesn't exist. Verify and try again.","The ""%1"" path doesn't exist. Verify and try again.",module,Magento_Config
+"The time zone is incorrect. Verify the time zone and try again.","O fuso horário está incorreto. Verifique o fuso horário e tente novamente.",module,Magento_Config
+"The ""%1"" file doesn't exist.","O arquivo ""%1"" não existe.",module,Magento_Config
+"The ""%1"" path doesn't exist. Verify and try again.","O caminho ""%1"" não existe. Verifique e tente novamente.",module,Magento_Config
 "Always (during development)","Sempre (durante o desenvolvimento)",module,Magento_Config
 "Only Once (version upgrade)","Apenas uma vez (atualização de versão)",module,Magento_Config
 "Never (production)","Nunca (produção)",module,Magento_Config
@@ -3818,7 +3819,7 @@ Specified,Especificado,module,Magento_Config
 "Visible section not found.","Seção visível não encontrada.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Modelo clone de conjunto de campo de formulation de configuração precisa ser capaz de clonar campos",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: instância de %2 é esperada, tenho %3 vez",module,Magento_Config
-"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""",module,Magento_Config
+"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'O XML no arquivo ""%1"" é inválido:'. ""\n%2\n Verifique o XML e tente novamente.""",module,Magento_Config
 .,.,module,Magento_Config
 "'There is no defined type ' .","'Não há nenhum tipo definido'.",module,Magento_Config
 "'Object is not instance of ' .","'Objeto não é instância de'.",module,Magento_Config
@@ -3838,7 +3839,7 @@ some_comment,comentário,module,Magento_Config
 "element tooltip","ferramenta de dica do elemento",module,Magento_Config
 test,teste,module,Magento_Config
 test2,teste2,module,Magento_Config
-Action,Action,module,Magento_Config
+Action,Ação,module,Magento_Config
 "Add after","Adicionar depois",module,Magento_Config
 Delete,Excluir,module,Magento_Config
 "Current Configuration Scope:","Configuração de Escopo Atual:",module,Magento_Config
@@ -3865,7 +3866,7 @@ Dashboard,"Painel de Controle",module,Magento_Config
 "Web Section","Seção Web",module,Magento_Config
 "Store Email Addresses Section","Seção de Emails da Loja",module,Magento_Config
 "Email to a Friend","Enviar por Email à um Amigo",module,Magento_Config
-"Product with assigned super attributes should not have specified ""%1"" value","Product with assigned super attributes should not have specified ""%1"" value",module,Magento_ConfigurableImportExport
+"Product with assigned super attributes should not have specified ""%1"" value","O produto com atributos super atribuídos não deve ter o valor ""%1"" especificado",module,Magento_ConfigurableImportExport
 "Add configurable attributes to the current Attribute Set (""%1"")","Adicionar atributos configuráveis para o conjunto de atributos atuais (""%1"")",module,Magento_ConfigurableProduct
 "Add configurable attributes to the new Attribute Set based on current","Adicionar atributos configuráveis ao novo Conjunto de Atributos com base no atual",module,Magento_ConfigurableProduct
 "New attribute set name","Nome de novo atributo",module,Magento_ConfigurableProduct
@@ -3883,17 +3884,17 @@ Configurations,Configurações,module,Magento_ConfigurableProduct
 Summary,Resumo,module,Magento_ConfigurableProduct
 "Choose an Option...","Escolha uma Opção...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Esse atributo é usado em produtos configuráveis.",module,Magento_ConfigurableProduct
-"The product is already attached.","The product is already attached.",module,Magento_ConfigurableProduct
-"The parent product doesn't have configurable product options.","The parent product doesn't have configurable product options.",module,Magento_ConfigurableProduct
-"The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","The child product doesn't have the ""%1"" attribute value. Verify the value and try again.",module,Magento_ConfigurableProduct
-"The product with the ""%1"" SKU isn't a configurable product.","The product with the ""%1"" SKU isn't a configurable product.",module,Magento_ConfigurableProduct
-"The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again.",module,Magento_ConfigurableProduct
+"The product is already attached.","O produto já está anexado.",module,Magento_ConfigurableProduct
+"The parent product doesn't have configurable product options.","O produto pai não possui opções de produtos configuráveis.",module,Magento_ConfigurableProduct
+"The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","O produto filho não tem o valor atribuido ""%1"". Verifique o valor e tente novamente.",module,Magento_ConfigurableProduct
+"The product with the ""%1"" SKU isn't a configurable product.","O produto com o SKU ""%1"" não é um produto configurável.",module,Magento_ConfigurableProduct
+"The option that was requested doesn't exist. Verify the entity and try again.","A opção que foi solicitada não existe. Verifique a entidade e tente novamente.",module,Magento_ConfigurableProduct
 "The ""%1"" entity that was requested doesn't exist. Verify the entity and try again.","O produto que foi solicitado não existe. Verifique o produto e tente novamente.",module,Magento_ConfigurableProduct
-"The variations from the ""%1"" product can't be deleted.","The variations from the ""%1"" product can't be deleted.",module,Magento_ConfigurableProduct
+"The variations from the ""%1"" product can't be deleted.","As variações do produto ""%1"" não podem ser excluídas.",module,Magento_ConfigurableProduct
 "The option with ""%1"" ID can't be deleted.","A opção com o id ""%1"" não pode ser deletado.",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Opção com id ""%1"" não foi encontrada",module,Magento_ConfigurableProduct
 "An error occurred while saving the option. Please try to save again.","Ocorreu um erro ao instalar a atualização. Tente novamente mais tarde.",module,Magento_ConfigurableProduct
-"This is implemented for the ""%1"" configurable product only.","This is implemented for the ""%1"" configurable product only.",module,Magento_ConfigurableProduct
+"This is implemented for the ""%1"" configurable product only.","Isso é implementado apenas para o produto configurável ""%1"".",module,Magento_ConfigurableProduct
 "Option attribute ID is not specified.","Opção de atributo ID não especificado.",module,Magento_ConfigurableProduct
 "Option label is not specified.","Rótulo de opção não especificado.",module,Magento_ConfigurableProduct
 "Option values are not specified.","Valores de opção não especificados.",module,Magento_ConfigurableProduct
@@ -3903,7 +3904,7 @@ Summary,Resumo,module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","Você não pode adicionar o item ao carrinho de compras.",module,Magento_ConfigurableProduct
 "You need to choose options for your item.","Você precisa escolher opções para seu item.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Algumas variações de campos de produto não são válidas.",module,Magento_ConfigurableProduct
-"Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again.",module,Magento_ConfigurableProduct
+"Contribution must have attributes specified. Enter attributes and try again.","A contribuição deve ter atributos especificados. Digite os atributos e tente novamente.",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","O tipo %1 não é uma instância de %2",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Escolher Conjunto de Atributos Afetado",module,Magento_ConfigurableProduct
 "Add configurable attributes to the current Attribute Set","Adicionar atributos configuráveis para o atributo atual Definir",module,Magento_ConfigurableProduct
@@ -4081,7 +4082,7 @@ Contacts,Contatos,module,Magento_Contact
 Daily,Diário,module,Magento_Cron
 Weekly,Semanal,module,Magento_Cron
 Monthly,Mensal,module,Magento_Cron
-"The ""%1"" cron expression is invalid. Verify and try again.","The ""%1"" cron expression is invalid. Verify and try again.",module,Magento_Cron
+"The ""%1"" cron expression is invalid. Verify and try again.","A expressão cron ""%1"" é inválido. Verifique e tente novamente.",module,Magento_Cron
 "Invalid cron expression, expecting 'match/modulus': %1","Expressão cron inválido, esperando 'match/modulus': %1",module,Magento_Cron
 "Invalid cron expression, expecting numeric modulus: %1","Expressão cron inválido, esperando o módulo numérico: %1",module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Expressão cron inválido, esperando estrutura 'from-to': %1",module,Magento_Cron
@@ -4108,7 +4109,7 @@ Import,Importar,module,Magento_CurrencySymbol
 "Currency Symbols","Símbolos de moeda",module,Magento_CurrencySymbol
 "Use Standard","Usar Padrão",module,Magento_CurrencySymbol
 "The Import Service is incorrect. Verify the service and try again.","A identificação de loja """" é incorreta. Verifique se o ID de loja e tente novamente.",module,Magento_CurrencySymbol
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again.",module,Magento_CurrencySymbol
+"The import model can't be initialized. Verify the model and try again.","O modelo de importação não pode ser inicializado. Verifique o modelo e tente novamente.",module,Magento_CurrencySymbol
 "Click ""Save"" to apply the rates we found.","Clique em ""Gravar"" para aplicar as taxas disponíveis.",module,Magento_CurrencySymbol
 "Currency Rates","Taxas de Câmbio",module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Por favor, corrija os dados do campo %1 => taxa de %2.",module,Magento_CurrencySymbol
@@ -4271,7 +4272,7 @@ Download,"Fazer Download",module,Magento_Customer
 "You saved the account information.","Você gravou as informações da conta.",module,Magento_Customer
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","O login da conta estava incorreto ou sua conta está desativada temporariamente. Por favor, espere e tente novamente mais tarde.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","A confirmação da senha não corresponde à senha inserida.",module,Magento_Customer
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","A senha não corresponde a essa conta. Verifique a senha e tente novamente.",module,Magento_Customer
 "The email address is incorrect. Verify the email address and try again.","O email está incorreto. Verifique o email e tente novamente.",module,Magento_Customer
 "We're unable to send the password reset email.","Não é possível enviar o e-mail para redefinição de senha.",module,Magento_Customer
 "Please enter your email.","Por favor, digite o seu e-mail.",module,Magento_Customer
@@ -4326,20 +4327,20 @@ Customers,Clientes,module,Magento_Customer
 "The account is already active.","Essa conta já está ativa.",module,Magento_Customer
 "The confirmation token is invalid. Verify the token and try again.","O token de redefinição de senha está incorreto. Verifique o token e tente novamente.",module,Magento_Customer
 "The account is locked.","A conta está bloqueada.",module,Magento_Customer
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
+"This account isn't confirmed. Verify and try again.","Esta conta não está confirmada. Verifique e tente novamente.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","Valor inválido ""% valor"" fornecido para o campo de %fieldName. Valores possíveis: %template1 ou %template2.",module,Magento_Customer
 "Please enter a password with at most %1 characters.","Por favor, digite uma senha com pelo menos %1 caractere(s).",module,Magento_Customer
-"The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
-"The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","A senha precisa de pelo menos %1 caracteres. Crie uma nova senha e tente novamente.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","A senha não pode começar ou terminar com um espaço. Verifique a senha e tente novamente.",module,Magento_Customer
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","O mínimo de classes de caracteres diferentes na palavra-passe é %1. As classes de caracteres são: Minúsculas, Maiúsculas, Números, Caracteres Especiais.",module,Magento_Customer
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","A senha não pode ser igual ao endereço de e-mail. Crie uma nova senha e tente novamente.",module,Magento_Customer
 "This customer already exists in this store.","Este cliente já existe nesta loja.",module,Magento_Customer
 "A customer with the same email address already exists in an associated website.","Já existe um cliente com este e-mail em um site associado.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido ""% valor"" fornecido para o campo de %fieldName.",module,Magento_Customer
 """%fieldName"" is required. Enter and try again.","""Nome de usuário"" é necessário. Digite e tente novamente.",module,Magento_Customer
-"The password token is mismatched. Reset and try again.","The password token is mismatched. Reset and try again.",module,Magento_Customer
-"The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_Customer
-"The transactional account email type is incorrect. Verify and try again.","The transactional account email type is incorrect. Verify and try again.",module,Magento_Customer
+"The password token is mismatched. Reset and try again.","O token da senha é incompatível. Redefinir e tente novamente.",module,Magento_Customer
+"The password token is expired. Reset and try again.","O token da senha expirou. Redefinir e tente novamente.",module,Magento_Customer
+"The transactional account email type is incorrect. Verify and try again.","O tipo de email da conta transacional está incorreto. Verifique e tente novamente.",module,Magento_Customer
 """%1"" is a required value.","""%1"" é um valor necessário.",module,Magento_Customer
 Global,Global,module,Magento_Customer
 "Per Website","Por Website",module,Magento_Customer
@@ -4347,7 +4348,7 @@ Global,Global,module,Magento_Customer
 "Billing Address","Endereço de Cobrança",module,Magento_Customer
 "Shipping Address","Endereço de entrega",module,Magento_Customer
 "-- Please Select --","-- Selecione uma opção --",module,Magento_Customer
-"A valid password reset token is missing. Enter and try again.","A valid password reset token is missing. Enter and try again.",module,Magento_Customer
+"A valid password reset token is missing. Enter and try again.","Um token de redefinição de senha válido está faltando. Entre e tente novamente.",module,Magento_Customer
 Admin,Admin,module,Magento_Customer
 "ALL GROUPS","TODOS OS GRUPOS",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","Não há tal entidade com %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
@@ -4386,8 +4387,8 @@ Admin,Admin,module,Magento_Customer
 """%1"" length must be equal or greater than %2 characters.","""%1"" comprimento deve ser igual ou maior que %2 caracteres.",module,Magento_Customer
 """%1"" length must be equal or less than %2 characters.","""%1"" comprimento deve ser igual ou menor que %2 caracteres.",module,Magento_Customer
 label,rótulo,module,Magento_Customer
-"The customer email is missing. Enter and try again.","The customer email is missing. Enter and try again.",module,Magento_Customer
-"A customer website ID wasn't specified. The ID must be specified to use the website scope.","A customer website ID wasn't specified. The ID must be specified to use the website scope.",module,Magento_Customer
+"The customer email is missing. Enter and try again.","O e-mail do cliente está faltando. Entre e tente novamente.",module,Magento_Customer
+"A customer website ID wasn't specified. The ID must be specified to use the website scope.","Um ID de website do cliente não foi especificado. O ID deve ser especificado para usar o escopo do site.",module,Magento_Customer
 "Customer Group","Grupo de clientes",module,Magento_Customer
 "You can't delete group ""%1"".","Não é possível excluir grupo ""%1"".",module,Magento_Customer
 "Customer Group already exists.","Grupo de Clientes já existente.",module,Magento_Customer
@@ -4559,7 +4560,7 @@ Password:,Senha:,module,Magento_Customer
 "Email Address","Endereço de e-mail",module,Magento_Customer
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Customer
 "Are you sure you want to delete this address?","Você tem certeza que deseja excluir este endereço?",module,Magento_Customer
-"Could not authenticate. Please try again later","Could not authenticate. Please try again later",module,Magento_Customer
+"Could not authenticate. Please try again later","Não foi possível autenticar. Por favor, tente novamente mais tarde",module,Magento_Customer
 Weak,Fraca,module,Magento_Customer
 Medium,Média,module,Magento_Customer
 Strong,Forte,module,Magento_Customer
@@ -4707,11 +4708,11 @@ Updated,Atualizado,module,Magento_CustomerBalance
 Used,Usado,module,Magento_CustomerBalance
 Refunded,Reembolsado,module,Magento_CustomerBalance
 Reverted,Revertido,module,Magento_CustomerBalance
-"A balance is needed to save a balance history.","A balance is needed to save a balance history.",module,Magento_CustomerBalance
+"A balance is needed to save a balance history.","Um saldo é necessário para salvar um histórico de saldo.",module,Magento_CustomerBalance
 "Order #%1","Pedido #%1",module,Magento_CustomerBalance
 "There is no credit memo set to balance model.","Não há nenhuma nota de crédito definida para equilibrar modelo.",module,Magento_CustomerBalance
 "Order #%1, creditmemo #%2","Pedido #%1, creditmemo #%2",module,Magento_CustomerBalance
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again.",module,Magento_CustomerBalance
+"The balance history action code is unknown. Verify the code and try again.","O código de ação do histórico de saldo é desconhecido. Verifique o código e tente novamente.",module,Magento_CustomerBalance
 "There is no order set to balance model.","Não há uma ordem definida para equilibrar modelo.",module,Magento_CustomerBalance
 "You do not have enough store credit to complete this order.","Você não tem o suficiente de crédito da loja para completar esta ordem.",module,Magento_CustomerBalance
 "You can't use more store credit than the order amount.","Você não pode usar mais crédito na loja do que o valor do pedido.",module,Magento_CustomerBalance
@@ -4832,7 +4833,7 @@ Customer,Cliente,module,Magento_CustomerCustomAttributes
 "Admin Checkout","Admin check-out",module,Magento_CustomerCustomAttributes
 "Use helper with defined EAV entity.","Use ajudante com entidade EAV definida.",module,Magento_CustomerCustomAttributes
 "Length Only","Apenas Comprimento",module,Magento_CustomerCustomAttributes
-"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.",module,Magento_CustomerCustomAttributes
+"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","O código do atributo precisa ter %1 caracteres ou menos. Digite novamente o código e tente novamente.",module,Magento_CustomerCustomAttributes
 "Use Default Value","Usar o Valor Padrão",module,Magento_CustomerCustomAttributes
 "Fieldset Properties","Propriedades de fieldset",module,Magento_CustomerCustomAttributes
 "Fieldset Title","Título de fieldset",module,Magento_CustomerCustomAttributes
@@ -4887,10 +4888,10 @@ Back,Voltar,module,Magento_CustomerCustomAttributes
 "Data was imported by %1","Dados foram importados por %1",module,Magento_CustomerFinance
 "Store Credit","Loja de Crédito",module,Magento_CustomerFinance
 "Reward Points","Pontos de recompensa",module,Magento_CustomerFinance
-"Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1""",module,Magento_CustomerGraphQl
-"Customer id %1 does not exist.","Customer id %1 does not exist.",module,Magento_CustomerGraphQl
+"Current customer does not have access to the resource ""%1""","O cliente atual não tem acesso ao recurso ""%1""",module,Magento_CustomerGraphQl
+"Customer id %1 does not exist.","O Id do cliente %1 não existe.",module,Magento_CustomerGraphQl
 "Please specify a website.","Por favor, especifique um site.",module,Magento_CustomerImportExport
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again.",module,Magento_CustomerImportExport
+"An email wasn't specified. Enter the email and try again.","Um email não foi especificado. Digite o e-mail e tente novamente.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","Encontramos um valor inválido em uma coluna do site.",module,Magento_CustomerImportExport
 "Please enter a valid email.","Por favor insira um email válido.",module,Magento_CustomerImportExport
 "Please make sure attribute ""%s"" is not empty.","Por favor, certifique-se de que o atributo ""%s"" não está vazio.",module,Magento_CustomerImportExport
@@ -5031,7 +5032,7 @@ Subtotal,Subtotal,module,Magento_CustomerSegment
 Tax,Taxa,module,Magento_CustomerSegment
 "Gift Card","Cartão de presente",module,Magento_CustomerSegment
 "Shopping Cart %1 Amount %2 %3:","Carrinho %1 quantidade %2 %3 de compras:",module,Magento_CustomerSegment
-"The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again.",module,Magento_CustomerSegment
+"The quote total specified is unknown. Verify the total and try again.","O total de cotações especificado é desconhecido. Verifique o total e tente novamente.",module,Magento_CustomerSegment
 "Number of Cart Line Items","Número de Itens no Carrinho",module,Magento_CustomerSegment
 "Number of Shopping Cart Line Items %1 %2:","Número da linha carrinho de compras itens %1 %2:",module,Magento_CustomerSegment
 "Products Quantity","Quantidade de produtos",module,Magento_CustomerSegment
@@ -5093,7 +5094,7 @@ Decision,Decisão,module,Magento_Cybersource
 "Unknown factor. Please contact Cybersource customer service","Fator desconhecido. Por favor, contate o serviço de atendimento ao cliente da Cybersource",module,Magento_Cybersource
 "Payment Token Build Error.","Erro na Geração do Token de Pagamento.",module,Magento_Cybersource
 "Your payment has been declined. Please try again.","Seu pagamento foi recusado. Por favor, tente novamente.",module,Magento_Cybersource
-"The credit card type field needs to be provided. Select the field and try again.","The credit card type field needs to be provided. Select the field and try again.",module,Magento_Cybersource
+"The credit card type field needs to be provided. Select the field and try again.","O campo do tipo de cartão de crédito precisa ser fornecido. Selecione o campo e tente novamente.",module,Magento_Cybersource
 "Gateway validation error","Erro de validação de gateway",module,Magento_Cybersource
 Authorize,Autorizar,module,Magento_Cybersource
 "Authorize and Capture","Autorizar e Capturar",module,Magento_Cybersource
@@ -5123,12 +5124,12 @@ Debug,Depurar/Debug,module,Magento_Cybersource
 "%1 does not implement %2","%1 não implementa %2",module,Magento_Deploy
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","Ficheiro app/etc/%1 não pode ser lido. Por favor, verifique a sua existência e permissões de leitura.",module,Magento_Deploy
 "There are no sensitive configurations to fill","Não há nenhuma configuração sensível para preencher",module,Magento_Deploy
-"The value can't be empty. Enter the value and try again.","The value can't be empty. Enter the value and try again.",module,Magento_Deploy
+"The value can't be empty. Enter the value and try again.","O valor não pode ser vazio. Digite o valor e tente novamente.",module,Magento_Deploy
 "A configuration with this path does not exist or is not sensitive","Uma configuração com este caminho não existe ou não é sensível",module,Magento_Deploy
-"The mode can't be switched to ""%1"".","The mode can't be switched to ""%1"".",module,Magento_Deploy
+"The mode can't be switched to ""%1"".","O modo não pode ser alternado para ""%1"".",module,Magento_Deploy
 "Wrong logger interface specified.","A interface de log especificada está errada.",module,Magento_Deploy
-"The hash isn't saved.","The hash isn't saved.",module,Magento_Deploy
-"The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.",module,Magento_Deploy
+"The hash isn't saved.","O hash não salvo.",module,Magento_Deploy
+"The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","O parâmetro ""importer_class"" está faltando. Defina o ""importer_class"" e tente novamente.",module,Magento_Deploy
 "The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","O arquivo de configuração foi alterado. Execute o comando app:config:import ou setup:upgrade para sincronizar a configuração.",module,Magento_Deploy
 "Wrong type specified: '%1'","Tipo especificado está errado: '%1'",module,Magento_Deploy
 "Wrong queue type specified.","Tipo da fila especificado está errado.",module,Magento_Deploy
@@ -5150,7 +5151,7 @@ Exception,Exceção,module,Magento_Deploy
 "Log to File","Log para Arquivo",module,Magento_Developer
 "Not available in production mode.","Não disponível em modo de produção.",module,Magento_Developer
 Syslog,"Log de sistema",module,Magento_Developer
-"Log to Syslog","Log to Syslog",module,Magento_Developer
+"Log to Syslog","Log para Syslog",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Selecione aqui para permitir que a DHL otimize as cobranças de entrega dividindo o pedido se houver excesso em %1 e %2.",module,Magento_Dhl
 "Wrong Content Type","Tipo de conteúdo errado",module,Magento_Dhl
 Pounds,Libras,module,Magento_Dhl
@@ -5240,14 +5241,14 @@ State/Province,Estado,module,Magento_Directory
 "--Please Select--","--Por Favor Selecione--",module,Magento_Directory
 lbs,libras,module,Magento_Directory
 kgs,kgs,module,Magento_Directory
-"The country isn't available.","The country isn't available.",module,Magento_Directory
+"The country isn't available.","O país não está disponível.",module,Magento_Directory
 "Undefined rate from ""%1-%2"".","Taxa indefinida de ""%1-%2"".",module,Magento_Directory
 "Please correct the target currency.","Por favor, corrija a moeda de destino.",module,Magento_Directory
 label,rótulo,module,Magento_Directory
 "We can't retrieve a rate from %1 for %2.","Não é possível obter uma taxa de %1 para %2.",module,Magento_Directory
 "We can't retrieve a rate from %1.","Não foi possível recuperar a taxa de %1.",module,Magento_Directory
 "FATAL ERROR:","ERRO FATAL:",module,Magento_Directory
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again.",module,Magento_Directory
+"The import model can't be initialized. Verify the model and try again.","O modelo de importação não pode ser inicializado. Verifique o modelo e tente novamente.",module,Magento_Directory
 "Please specify the correct Import Service.","Por favor, especifique o Serviço de Importação correto.",module,Magento_Directory
 WARNING:,ALERTA:,module,Magento_Directory
 "Please correct the country code: %1.","Por favor, corrija o código do país: %1.",module,Magento_Directory
@@ -5314,21 +5315,21 @@ Unlimited,Ilimitado,module,Magento_Downloadable
 "Sample URL must have valid format.","A URL de Amostra precisa ter um formato válido.",module,Magento_Downloadable
 "Order id cannot be null","Id de ordem não pode ser nulo",module,Magento_Downloadable
 "Order item id cannot be null","Item do Id do pedido não pode ser nulo",module,Magento_Downloadable
-"The product needs to be the downloadable type. Verify the product and try again.","The product needs to be the downloadable type. Verify the product and try again.",module,Magento_Downloadable
-"The link information is invalid. Verify the link and try again.","The link information is invalid. Verify the link and try again.",module,Magento_Downloadable
-"The link type is invalid. Verify and try again.","The link type is invalid. Verify and try again.",module,Magento_Downloadable
-"The link title is empty. Enter the link title and try again.","The link title is empty. Enter the link title and try again.",module,Magento_Downloadable
-"No downloadable link with the provided ID was found. Verify the ID and try again.","No downloadable link with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
-"The downloadable link isn't related to the product. Verify the link and try again.","The downloadable link isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
-"The link with ""%1"" ID can't be deleted.","The link with ""%1"" ID can't be deleted.",module,Magento_Downloadable
+"The product needs to be the downloadable type. Verify the product and try again.","O tipo do produto precisa ser para download. Verifique o produto e tente novamente.",module,Magento_Downloadable
+"The link information is invalid. Verify the link and try again.","As informações do link são inválidas. Verifique o link e tente novamente.",module,Magento_Downloadable
+"The link type is invalid. Verify and try again.","O tipo de link é inválido. Verifique e tente novamente.",module,Magento_Downloadable
+"The link title is empty. Enter the link title and try again.","O título do link está vazio. Digite o título do link e tente novamente.",module,Magento_Downloadable
+"No downloadable link with the provided ID was found. Verify the ID and try again.","Nenhum link para download com o ID fornecido foi encontrado. Verifique o ID e tente novamente.",module,Magento_Downloadable
+"The downloadable link isn't related to the product. Verify the link and try again.","O link para download não está relacionado ao produto. Verifique o link e tente novamente.",module,Magento_Downloadable
+"The link with ""%1"" ID can't be deleted.","O link com a ID ""%1"" não pode ser excluído.",module,Magento_Downloadable
 "Please specify product link(s).","Por favor, especifique o(s) link(s) do produto.",module,Magento_Downloadable
 "Sample file not provided","Arquivo de exemplo não fornecido",module,Magento_Downloadable
-"The sample information is invalid. Verify the information and try again.","The sample information is invalid. Verify the information and try again.",module,Magento_Downloadable
-"The sample type is invalid. Verify the sample type and try again.","The sample type is invalid. Verify the sample type and try again.",module,Magento_Downloadable
-"The sample title is empty. Enter the title and try again.","The sample title is empty. Enter the title and try again.",module,Magento_Downloadable
-"No downloadable sample with the provided ID was found. Verify the ID and try again.","No downloadable sample with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
-"The downloadable sample isn't related to the product. Verify the link and try again.","The downloadable sample isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
-"The sample with ""%1"" ID can't be deleted.","The sample with ""%1"" ID can't be deleted.",module,Magento_Downloadable
+"The sample information is invalid. Verify the information and try again.","As informações da amostra são inválidas. Verifique as informações e tente novamente.",module,Magento_Downloadable
+"The sample type is invalid. Verify the sample type and try again.","O tipo de amostra é inválido. Verifique o tipo de amostra e tente novamente.",module,Magento_Downloadable
+"The sample title is empty. Enter the title and try again.","O título da amostra está vazio. Digite o título e tente novamente.",module,Magento_Downloadable
+"No downloadable sample with the provided ID was found. Verify the ID and try again.","Nenhuma amostra para download com o ID fornecido foi encontrada. Verifique o ID e tente novamente.",module,Magento_Downloadable
+"The downloadable sample isn't related to the product. Verify the link and try again.","A amostra para download não está relacionada ao produto. Verifique o link e tente novamente.",module,Magento_Downloadable
+"The sample with ""%1"" ID can't be deleted.","A amostra com o ID de ""%1"" não pode ser excluída.",module,Magento_Downloadable
 Yes,Sim,module,Magento_Downloadable
 No,Não,module,Magento_Downloadable
 "Use config","Usar o config",module,Magento_Downloadable
@@ -5433,7 +5434,7 @@ Email,E-mail,module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,Letras,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letras (a-z, A-Z) ou Números (0-9)",module,Magento_Eav
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.",module,Magento_Eav
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","O tipo de entrada do Editor de Texto requer que o WYSIWYG seja ativado em Lojas> Configuração> Gerenciamento de Conteúdo.",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","O tipo de entrada ""%value%"" não foi encontrado na lista de tipos de entrada.",module,Magento_Eav
 "Attribute object is undefined","Atributo de objeto não definido",module,Magento_Eav
 "Entity object is undefined","O objeto da entidade é indefinido",module,Magento_Eav
@@ -5468,50 +5469,50 @@ Letters,Letras,module,Magento_Eav
 """%1"" cannot contain more than %2 lines.","""%1"" não contem mais que %2 linha(s).",module,Magento_Eav
 """%1"" length must be equal or greater than %2 characters.","""%1"" comprimento deve ser igual ou maior que %2 caracteres.",module,Magento_Eav
 """%1"" length must be equal or less than %2 characters.","""%1"" comprimento deve ser igual ou menor que %2 caracteres.",module,Magento_Eav
-"The attribute group doesn't belong to the provided attribute set.","The attribute group doesn't belong to the provided attribute set.",module,Magento_Eav
-"The attributeGroup can't be saved.","The attributeGroup can't be saved.",module,Magento_Eav
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Eav
-"The attribute group with id ""%1"" can't be deleted.","The attribute group with id ""%1"" can't be deleted.",module,Magento_Eav
-"The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.","The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.",module,Magento_Eav
-"The attribute set ID is incorrect. Verify the ID and try again.","The attribute set ID is incorrect. Verify the ID and try again.",module,Magento_Eav
+"The attribute group doesn't belong to the provided attribute set.","O grupo de atributos não pertence ao conjunto de atributos fornecido.",module,Magento_Eav
+"The attributeGroup can't be saved.","O attributeGroup não pode ser salvo.",module,Magento_Eav
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","O grupo com o ID ""%1"" não existe. Verifique o ID e tente novamente.",module,Magento_Eav
+"The attribute group with id ""%1"" can't be deleted.","O grupo de atributos com o Id ""%1"" não pode ser excluído.",module,Magento_Eav
+"The AttributeSet with a ""%1"" ID doesn't exist. Verify the attributeSet and try again.","O AttributeSet com um ID ""%1"" não existe. Verifique o attributeSet e tente novamente.",module,Magento_Eav
+"The attribute set ID is incorrect. Verify the ID and try again.","O ID do conjunto de atributos está incorreto. Verifique o ID e tente novamente.",module,Magento_Eav
 "The attribute group doesn't belong to the attribute set.","O grupo de atributos não pertence ao conjunto de atributos.",module,Magento_Eav
-"The ""%1"" attribute set wasn't found. Verify and try again.","The ""%1"" attribute set wasn't found. Verify and try again.",module,Magento_Eav
-"The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.",module,Magento_Eav
+"The ""%1"" attribute set wasn't found. Verify and try again.","O conjunto de atributos ""%1"" não foi encontrado. Verifique e tente novamente.",module,Magento_Eav
+"The ""%1"" attribute wasn't found in the ""%2"" attribute set. Enter the attribute and try again.","O atributo ""%1"" não foi encontrado no conjunto de atributos ""%2"". Digite o atributo e tente novamente.",module,Magento_Eav
 "The system attribute can't be deleted.","O atributo do sistema não pode ser excluído.",module,Magento_Eav
 "The attribute can't be saved.","O produto não pode ser salvo.",module,Magento_Eav
-"The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.",module,Magento_Eav
+"The attribute with a ""%1"" attributeCode doesn't exist. Verify the attribute and try again.","O atributo com um atributo Id ""%1"" não existe. Verifique o atributo e tente novamente.",module,Magento_Eav
 "The attribute can't be deleted.","Esse atributo não pode ser excluído.",module,Magento_Eav
 "The attribute with a ""%1"" ID doesn't exist. Verify the attribute and try again.","O grupo com a identificação ""%1"" não existe. Verifique o ID e tente novamente.",module,Magento_Eav
-"The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Eav
+"The attribute set couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","O conjunto de atributos não pôde ser salvo devido a um erro. Confirme suas informações e tente novamente. Se o erro persistir, tente novamente mais tarde.",module,Magento_Eav
 "The default attribute set can't be deleted.","O conjunto de atributos padrão não pode ser excluído.",module,Magento_Eav
-"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.",module,Magento_Eav
+"The attribute set couldn't be deleted due to an error. Try again — if the error persists, please try again later.","O conjunto de atributos não pôde ser excluído devido a um erro. Tente novamente. Se o erro persistir, tente novamente mais tarde.",module,Magento_Eav
 "Invalid entity_type specified: %1","Foi especificado um entity_type inválido: %1",module,Magento_Eav
 "Entity is not initialized","Entity não foi inicializada",module,Magento_Eav
-"This parameter is unknown. Verify and try again.","This parameter is unknown. Verify and try again.",module,Magento_Eav
+"This parameter is unknown. Verify and try again.","Este parâmetro é desconhecido. Verifique e tente novamente.",module,Magento_Eav
 "Unique constraint violation found","Violação de chave unica encontrada",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","O código do atributo '%1' é reservado pelo sistema. Por favor, utilize outro código de atributo",module,Magento_Eav
-"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.",module,Magento_Eav
-"The default decimal value is invalid. Verify the value and try again.","The default decimal value is invalid. Verify the value and try again.",module,Magento_Eav
+"The attribute code needs to be %1 characters or fewer. Re-enter the code and try again.","O código do atributo precisa te r%1 caracteres ou menos. Digite novamente o código e tente novamente.",module,Magento_Eav
+"The default decimal value is invalid. Verify the value and try again.","O valor decimal padrão é inválido. Verifique o valor e tente novamente.",module,Magento_Eav
 "The default date is invalid. Verify the date and try again.","Os dados dos produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Eav
 "The entity supplied is invalid. Verify the entity and try again.","Os dados dos produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Eav
-"The ""%1"" backend model is invalid. Verify the backend model and try again.","The ""%1"" backend model is invalid. Verify the backend model and try again.",module,Magento_Eav
+"The ""%1"" backend model is invalid. Verify the backend model and try again.","O modelo de back-end ""%1"" é inválido. Verifique o modelo de backend e tente novamente.",module,Magento_Eav
 "Source model ""%1"" not found for attribute ""%2""","Modelo de fonte ""%1"" não foi encontrado para o atributo ""%2""",module,Magento_Eav
 "The ""%1"" attribute value is empty. Set the attribute and try again.","O valor do atributo ""%1"" está vazio. Defina o atributo e tente novamente.",module,Magento_Eav
-"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Eav
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","O valor do atributo ""%1"" não é exclusivo. Defina um valor único e tente novamente.",module,Magento_Eav
 "Invalid date","Data inválida",module,Magento_Eav
 "The attribute code is empty. Enter the code and try again.","O valor do atributo """" está vazio. Defina o atributo e tente novamente.",module,Magento_Eav
 "The ""%1"" attribute doesn't work with options.","O atributo %1 não funciona com opções.",module,Magento_Eav
 "The ""%1"" attribute can't be saved.","O produto não pode ser salvo.",module,Magento_Eav
-"The ""%1"" attribute has no option.","The ""%1"" attribute has no option.",module,Magento_Eav
-"The options for ""%1"" attribute can't be loaded.","The options for ""%1"" attribute can't be loaded.",module,Magento_Eav
-"The ""%1"" attribute doesn't include an option with ""%2"" ID.","The ""%1"" attribute doesn't include an option with ""%2"" ID.",module,Magento_Eav
+"The ""%1"" attribute has no option.","O atributo ""%1"" não tem opção.",module,Magento_Eav
+"The options for ""%1"" attribute can't be loaded.","As opções para o atributo ""%1"" não podem ser carregadas.",module,Magento_Eav
+"The ""%1"" attribute doesn't include an option with ""%2"" ID.","O atributo ""%1"" não inclui uma opção com o ID ""%2"".",module,Magento_Eav
 "The entity attribute with the ""%1"" ID isn't found. Reset the attribute and try again.","O grupo com a identificação ""%1"" não existe. Verifique o ID e tente novamente.",module,Magento_Eav
 "The attribute set name is empty. Enter the name and try again.","O valor do atributo """" está vazio. Defina o atributo e tente novamente.",module,Magento_Eav
 "A ""%1"" attribute set name already exists. Create a new name and try again.","Um nome de conjunto de atributo ""%1"" já existe. Criar um novo nome e tente novamente.",module,Magento_Eav
 "No options found.","Não há opções encontradas.",module,Magento_Eav
 label,rótulo,module,Magento_Eav
 "The ""%1"" entity supplied is invalid. Verify the entity and try again.","Os dados dos produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Eav
-"The object wasn't added because it's invalid. To continue, enter a valid object and try again.","The object wasn't added because it's invalid. To continue, enter a valid object and try again.",module,Magento_Eav
+"The object wasn't added because it's invalid. To continue, enter a valid object and try again.","O objeto não foi adicionado porque é inválido. Para continuar, insira um objeto válido e tente novamente.",module,Magento_Eav
 "Invalid attribute identifier for filter (%1)","Identificador de atributo inválido para filtro (%1)",module,Magento_Eav
 "The ""%1"" attribute requested is invalid. Verify the attribute and try again.","Os dados dos produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Eav
 "Joint field or attribute expression with this alias is already declared","O campo de junção ou expressão de atributo com este apelido já foi declarado",module,Magento_Eav
@@ -5522,7 +5523,7 @@ label,rótulo,module,Magento_Eav
 "A joined field with this alias is already declared.","Um campo associado com este alias já está declarado.",module,Magento_Eav
 "Invalid joint fields","Conjunto de atributo inválido",module,Magento_Eav
 "A joint field with a ""%1"" alias is already declared.","Um conjunto de atributos com este apelido (%1) já foi declarado.",module,Magento_Eav
-"A header row is missing for an attribute. Verify the header row and try again.","A header row is missing for an attribute. Verify the header row and try again.",module,Magento_Eav
+"A header row is missing for an attribute. Verify the header row and try again.","Uma linha de cabeçalho está faltando para um atributo. Verifique a linha do cabeçalho e tente novamente.",module,Magento_Eav
 "The ""%1"" attribute name is invalid. Reset the name and try again.","Os dados dos produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Eav
 "Invalid character encountered in increment ID: %1","Caractere inválido encontrado no incremento ID: %1",module,Magento_Eav
 "The current module pathname is undefined.","O nome do caminho do módulo atual é indefinido.",module,Magento_Eav
@@ -5557,11 +5558,11 @@ Yes/No,Sim/Não,module,Magento_Eav
 Dropdown,"Menu suspenso",module,Magento_Eav
 "EAV types and attributes","Tipos EAV e atributos",module,Magento_Eav
 "Entity types declaration cache","Cache de declaração de tipos de entidade",module,Magento_Eav
-"Attribute code %1 of entity type %2 not configured to have a type.","Attribute code %1 of entity type %2 not configured to have a type.",module,Magento_EavGraphQl
-"Invalid entity_type specified: %1","Invalid entity_type specified: %1",module,Magento_EavGraphQl
-"Missing %1 for the input %2.","Missing %1 for the input %2.",module,Magento_EavGraphQl
-"Type %1 has no internal representation declared.","Type %1 has no internal representation declared.",module,Magento_EavGraphQl
-"The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch
+"Attribute code %1 of entity type %2 not configured to have a type.","Código de atributo %1 do tipo de entidade %2 não configurado para ter um tipo.",module,Magento_EavGraphQl
+"Invalid entity_type specified: %1","Entity_type inválido especificado: %1",module,Magento_EavGraphQl
+"Missing %1 for the input %2.","Faltando %1 para a entrada %2.",module,Magento_EavGraphQl
+"Type %1 has no internal representation declared.","O tipo %1 não possui representação interna declarada.",module,Magento_EavGraphQl
+"The search failed because of a search engine misconfiguration.","A pesquisa falhou devido a uma configuração incorreta do mecanismo de pesquisa.",module,Magento_Elasticsearch
 "There is no such data mapper ""%1"" for interface %2","O mapeador de dados ""%1"" para a interface ""%2"" não existe",module,Magento_Elasticsearch
 "Data mapper ""%1"" must implement interface %2","Mapeador de dados ""%1"" deve implementar a interface ""%2""",module,Magento_Elasticsearch
 "Could not ping search engine: %1","Não conseguimos efetuar um ping ao motor de busca: %1",module,Magento_Elasticsearch
@@ -5608,7 +5609,7 @@ Unknown,Desconhecido,module,Magento_Email
 "An error occurred. The email template can not be opened for preview.","Ocorreu um erro. O modelo de email não pode ser aberto para visualização.",module,Magento_Email
 "This email template no longer exists.","Este modelo de email não existe mais.",module,Magento_Email
 "You saved the email template.","Você salvou o modelo de e-mail.",module,Magento_Email
-"The design config needs an area and a store. Verify that both are set and try again.","The design config needs an area and a store. Verify that both are set and try again.",module,Magento_Email
+"The design config needs an area and a store. Verify that both are set and try again.","A configuração do projeto precisa de uma área e uma loja. Verifique se ambos estão configurados e tente novamente.",module,Magento_Email
 %1,%1,module,Magento_Email
 "Template Variables","Variáveis do template",module,Magento_Email
 "Please enter a template name.","Por favor insira um nome de template.",module,Magento_Email
@@ -5950,9 +5951,9 @@ Sent,Enviado,module,Magento_GiftCardAccount
 "We were unable to create full code pool size. Please check settings and try again.","Não conseguimos criar todo o conjunto de códigos. Por favor confira as definições e tente novamente.",module,Magento_GiftCardAccount
 "No codes left in the pool.","Já não existem códigos disponíveis no conjunto.",module,Magento_GiftCardAccount
 "The ""%1"" Cart doesn't contain products.","O carrinho %1 não contém produtos.",module,Magento_GiftCardAccount
-"The gift card couldn't be deleted from the quote.","The gift card couldn't be deleted from the quote.",module,Magento_GiftCardAccount
-"The gift card code couldn't be added. Verify your information and try again.","The gift card code couldn't be added. Verify your information and try again.",module,Magento_GiftCardAccount
-"The gift card code is either incorrect or expired. Verity and try again.","The gift card code is either incorrect or expired. Verity and try again.",module,Magento_GiftCardAccount
+"The gift card couldn't be deleted from the quote.","O vale-presente não pode ser eliminado da cotação.",module,Magento_GiftCardAccount
+"The gift card code couldn't be added. Verify your information and try again.","Não foi possível adicionar o código do vale-presente. Confirme suas informações e tente novamente.",module,Magento_GiftCardAccount
+"The gift card code is either incorrect or expired. Verity and try again.","O código do vale-presente está incorreto ou expirou. Verifique e tente novamente.",module,Magento_GiftCardAccount
 Alphanumeric,Alfanumérico,module,Magento_GiftCardAccount
 Alphabetical,Alfabética,module,Magento_GiftCardAccount
 Numeric,Numérico,module,Magento_GiftCardAccount
@@ -6014,20 +6015,20 @@ CSV,CSV,module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?","Você tem certeza que deseja excluir essas contas de cartão de presente?",module,Magento_GiftCardAccount
 Code,Código,module,Magento_GiftCardAccount
 End,Fim,module,Magento_GiftCardAccount
-"Gift messages can't be used for an empty cart. Add an item and try again.","Gift messages can't be used for an empty cart. Add an item and try again.",module,Magento_GiftMessage
-"Gift messages can't be used for virtual products.","Gift messages can't be used for virtual products.",module,Magento_GiftMessage
-"The gift message isn't available.","The gift message isn't available.",module,Magento_GiftMessage
-"The gift message couldn't be added to Cart.","The gift message couldn't be added to Cart.",module,Magento_GiftMessage
-"No item with the provided ID was found in the Cart. Verify the ID and try again.","No item with the provided ID was found in the Cart. Verify the ID and try again.",module,Magento_GiftMessage
-"No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.","No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.",module,Magento_GiftMessage
-"No item with the provided ID was found in the Order. Verify the ID and try again.","No item with the provided ID was found in the Order. Verify the ID and try again.",module,Magento_GiftMessage
-"No item with the provided ID was found in the Order, or a gift message isn't allowed. Verify and try again.","No item with the provided ID was found in the Order, or a gift message isn't allowed. Verify and try again.",module,Magento_GiftMessage
-"The gift message couldn't be added to the ""%1"" order.","The gift message couldn't be added to the ""%1"" order.",module,Magento_GiftMessage
-"Either no order exists with this ID or gift message isn't allowed.","Either no order exists with this ID or gift message isn't allowed.",module,Magento_GiftMessage
-"No order exists with this ID. Verify your information and try again.","No order exists with this ID. Verify your information and try again.",module,Magento_GiftMessage
-"Gift messages can't be used for an empty order. Create an order, add an item, and try again.","Gift messages can't be used for an empty order. Create an order, add an item, and try again.",module,Magento_GiftMessage
-"The gift message couldn't be added to the ""%1"" order item.","The gift message couldn't be added to the ""%1"" order item.",module,Magento_GiftMessage
-"Unknown entity type","Tipo de entidade desconhecido",module,Magento_GiftMessage
+"Gift messages can't be used for an empty cart. Add an item and try again.","Mensagens de presente não podem ser usadas para um carrinho vazio. Adicione um item e tente novamente.",module,Magento_GiftMessage
+"Gift messages can't be used for virtual products.","Mensagens de presente não podem ser usadas para produtos virtuais.",module,Magento_GiftMessage
+"The gift message isn't available.","A mensagem de presente não está disponível.",module,Magento_GiftMessage
+"The gift message couldn't be added to Cart.","Não foi possível adicionar a mensagem de presente ao Carrinho.",module,Magento_GiftMessage
+"No item with the provided ID was found in the Cart. Verify the ID and try again.","Nenhum item com a ID fornecida foi encontrado no carrinho. Verifique o ID e tente novamente.",module,Magento_GiftMessage
+"No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.","Nenhum produto com o Id ""%1"" existe no carrinho. Confirme suas informações e tente novamente.",module,Magento_GiftMessage
+"No item with the provided ID was found in the Order. Verify the ID and try again.","Nenhum item com o ID fornecido foi encontrado no pedido. Verifique o ID e tente novamente.",module,Magento_GiftMessage
+"No item with the provided ID was found in the Order, or a gift message isn't allowed. Verify and try again.","Nenhum item com a ID fornecida foi encontrado no pedido ou uma mensagem de presente não é permitida. Verifique e tente novamente.",module,Magento_GiftMessage
+"The gift message couldn't be added to the ""%1"" order.","Não foi possível adicionar a mensagem de presente ao pedido ""%1"".",module,Magento_GiftMessage
+"Either no order exists with this ID or gift message isn't allowed.","Nenhuma ordem existe com este ID ou a mensagem de presente não é permitida.",module,Magento_GiftMessage
+"No order exists with this ID. Verify your information and try again.","Nenhum pedido existe com esse ID. Confirme suas informações e tente novamente.",module,Magento_GiftMessage
+"Gift messages can't be used for an empty order. Create an order, add an item, and try again.","Mensagens de presente não podem ser usadas para um pedido vazio. Crie um pedido, adicione um item e tente novamente.",module,Magento_GiftMessage
+"The gift message couldn't be added to the ""%1"" order item.","A mensagem de presente não pôde ser adicionada ao item de pedido ""%1"".",module,Magento_GiftMessage
+"Unknown entity type","Tipo de entidade desconhecida",module,Magento_GiftMessage
 "Test label","Etiqueta de teste",module,Magento_GiftMessage
 "Use Config Settings","Usar Configurações padrão",module,Magento_GiftMessage
 From,De,module,Magento_GiftMessage
