@@ -7467,56 +7467,56 @@ Options,Opções,module,Magento_Multishipping
 "Successful Messages Lifetime","Tempo de Vida das Mensagens Bem-sucedidas",module,Magento_MysqlMq
 "Failed Messages Lifetime","Tempo de vida de Mensagens que Falharam",module,Magento_MysqlMq
 "New Messages Lifetime","Tempo de Vida das Novas Mensagens",module,Magento_MysqlMq
-"Catalog Total Price (Excl. Tax)","Catalog Total Price (Excl. Tax)",module,Magento_NegotiableQuote
-"Catalog Total Price (Incl. Tax)","Catalog Total Price (Incl. Tax)",module,Magento_NegotiableQuote
-"Catalog Total Price","Catalog Total Price",module,Magento_NegotiableQuote
-"Negotiated Discount","Negotiated Discount",module,Magento_NegotiableQuote
-Back,Back,module,Magento_NegotiableQuote
-Print,Print,module,Magento_NegotiableQuote
-"Save as Draft","Save as Draft",module,Magento_NegotiableQuote
-Decline,Decline,module,Magento_NegotiableQuote
-Send,Send,module,Magento_NegotiableQuote
-"This action cannot be performed because you have products requiring attention. You must resolve these issues before you can continue.","This action cannot be performed because you have products requiring attention. You must resolve these issues before you can continue.",module,Magento_NegotiableQuote
-"Cannot Perform the Requested Action","Cannot Perform the Requested Action",module,Magento_NegotiableQuote
-"%creator (for %customer)","%creator (for %customer)",module,Magento_NegotiableQuote
-"Items Quoted","Items Quoted",module,Magento_NegotiableQuote
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_NegotiableQuote
-"Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
-"Add to Quote by SKU","Add to Quote by SKU",module,Magento_NegotiableQuote
-"Add to Quote","Add to Quote",module,Magento_NegotiableQuote
-Cancel,Cancel,module,Magento_NegotiableQuote
-"Total Cost","Total Cost",module,Magento_NegotiableQuote
-"Negotiated Price","Negotiated Price",module,Magento_NegotiableQuote
-"Shipping & Handling","Shipping & Handling",module,Magento_NegotiableQuote
-"Quote Subtotal (Incl. Tax)","Quote Subtotal (Incl. Tax)",module,Magento_NegotiableQuote
-"Percentage Discount","Percentage Discount",module,Magento_NegotiableQuote
-"Amount Discount","Amount Discount",module,Magento_NegotiableQuote
-"Proposed Price","Proposed Price",module,Magento_NegotiableQuote
-"Quote Subtotal","Quote Subtotal",module,Magento_NegotiableQuote
-"My Orders","My Orders",module,Magento_NegotiableQuote
-"My Quotes","My Quotes",module,Magento_NegotiableQuote
-"created quote","created quote",module,Magento_NegotiableQuote
-"closed quote","closed quote",module,Magento_NegotiableQuote
-"updated quote","updated quote",module,Magento_NegotiableQuote
-"Percentage Discount - %1%","Percentage Discount - %1%",module,Magento_NegotiableQuote
-"Amount Discount - %1","Amount Discount - %1",module,Magento_NegotiableQuote
-"Proposed Price - %1","Proposed Price - %1",module,Magento_NegotiableQuote
-None,None,module,Magento_NegotiableQuote
-Qty:,Qty:,module,Magento_NegotiableQuote
-Qty:,Qty:,module,Magento_NegotiableQuote
-"- deleted from catalog","- deleted from catalog",module,Magento_NegotiableQuote
-(Removed),(Removed),module,Magento_NegotiableQuote
-deleted,deleted,module,Magento_NegotiableQuote
+"Catalog Total Price (Excl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
+"Catalog Total Price (Incl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
+"Catalog Total Price","Preço Total do catálogo",module,Magento_NegotiableQuote
+"Negotiated Discount","Desconto negociado",module,Magento_NegotiableQuote
+Back,Voltar,module,Magento_NegotiableQuote
+Print,Imprimir,module,Magento_NegotiableQuote
+"Save as Draft","Salvar como Rascunho",module,Magento_NegotiableQuote
+Decline,Recusar,module,Magento_NegotiableQuote
+Send,Enviar,module,Magento_NegotiableQuote
+"This action cannot be performed because you have products requiring attention. You must resolve these issues before you can continue.","Esta ação não pode ser executada porque você tem produtos que requerem atenção. Você deve resolver estas questões antes de continuar.",module,Magento_NegotiableQuote
+"Cannot Perform the Requested Action","Não é possível executar a ação solicitada",module,Magento_NegotiableQuote
+"%creator (for %customer)","%criador ( para %usuario)",module,Magento_NegotiableQuote
+"Items Quoted","Itens cotados",module,Magento_NegotiableQuote
+"Subtotal (Incl. Tax)","Subtotal (Incluindo Taxas)",module,Magento_NegotiableQuote
+"Subtotal (Excl. Tax)","Subtotal (Sem Impostos)",module,Magento_NegotiableQuote
+"Add to Quote by SKU","Adicionar no Pedido por SKU",module,Magento_NegotiableQuote
+"Add to Quote","Adicionar Cotação",module,Magento_NegotiableQuote
+Cancel,Cancelar,module,Magento_NegotiableQuote
+"Total Cost","Custo total",module,Magento_NegotiableQuote
+"Negotiated Price","Preço negociado",module,Magento_NegotiableQuote
+"Shipping & Handling","Envio e Manuseio",module,Magento_NegotiableQuote
+"Quote Subtotal (Incl. Tax)","Subtotal (Incluindo Taxas)",module,Magento_NegotiableQuote
+"Percentage Discount","Porcentagem de Desconto",module,Magento_NegotiableQuote
+"Amount Discount","Valor do desconto",module,Magento_NegotiableQuote
+"Proposed Price","Preço proposto",module,Magento_NegotiableQuote
+"Quote Subtotal","Subtotal do Carrinho",module,Magento_NegotiableQuote
+"My Orders","Meus Pedidos",module,Magento_NegotiableQuote
+"My Quotes","Principais Cotações",module,Magento_NegotiableQuote
+"created quote","cotação criada",module,Magento_NegotiableQuote
+"closed quote","cotação fechada",module,Magento_NegotiableQuote
+"updated quote","cotação atualizada",module,Magento_NegotiableQuote
+"Percentage Discount - %1%","Porcentagem de Desconto - %1%",module,Magento_NegotiableQuote
+"Amount Discount - %1","Valor do desconto - %1",module,Magento_NegotiableQuote
+"Proposed Price - %1","Preço proposto - %1",module,Magento_NegotiableQuote
+None,Vazio,module,Magento_NegotiableQuote
+Qty:,Qtd:,module,Magento_NegotiableQuote
+Qty:,Qtd:,module,Magento_NegotiableQuote
+"- deleted from catalog","-excluído do catálogo",module,Magento_NegotiableQuote
+(Removed),(Removido),module,Magento_NegotiableQuote
+deleted,excluído,module,Magento_NegotiableQuote
 "Renderer list for block ""%1"" is not defined","Renderer list for block ""%1"" is not defined",module,Magento_NegotiableQuote
-"This quote is currently locked for editing. It will become available once released by the Merchant.","This quote is currently locked for editing. It will become available once released by the Merchant.",module,Magento_NegotiableQuote
-"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.",module,Magento_NegotiableQuote
-"You are not an owner of this quote. You cannot edit it or take any actions on it.","You are not an owner of this quote. You cannot edit it or take any actions on it.",module,Magento_NegotiableQuote
-Discount,Discount,module,Magento_NegotiableQuote
-"Estimated Tax","Estimated Tax",module,Magento_NegotiableQuote
-"Quote Subtotal (Excl. Tax)","Quote Subtotal (Excl. Tax)",module,Magento_NegotiableQuote
-"Quote Grand Total (Incl. Tax)","Quote Grand Total (Incl. Tax)",module,Magento_NegotiableQuote
-"Grand Total to Be Charged","Grand Total to Be Charged",module,Magento_NegotiableQuote
-"Requested quote was not found","Requested quote was not found",module,Magento_NegotiableQuote
+"This quote is currently locked for editing. It will become available once released by the Merchant.","Esta cotação está bloqueada para edição. Ele se tornará disponível assim que liberado pelo comerciante.",module,Magento_NegotiableQuote
+"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Sua cotação expirou e os preços de produto foram atualizados conforme os preços mais recentes em seu catálogo. Você pode voltar a apresentar a cotação ao vendedor para uma futura negociação ou ir para check-out.",module,Magento_NegotiableQuote
+"You are not an owner of this quote. You cannot edit it or take any actions on it.","Você não é o proprietário desta cotação. Você não pode editá-lo ou tomar qualquer ação sobre ela.",module,Magento_NegotiableQuote
+Discount,Desconto,module,Magento_NegotiableQuote
+"Estimated Tax","Imposto estimado",module,Magento_NegotiableQuote
+"Quote Subtotal (Excl. Tax)","Subtotal (Sem Impostos)",module,Magento_NegotiableQuote
+"Quote Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_NegotiableQuote
+"Grand Total to Be Charged","Valor total a cobrar",module,Magento_NegotiableQuote
+"Requested quote was not found","Cotação solicitada não foi encontrada",module,Magento_NegotiableQuote
 Sales,Sales,module,Magento_NegotiableQuote
 Quotes,Quotes,module,Magento_NegotiableQuote
 "Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_NegotiableQuote
