@@ -6135,8 +6135,8 @@ To,Até,module,Magento_GiftRegistry
 "Select Search Type","Selecione o tipo de pesquisa",module,Magento_GiftRegistry
 Registrant,"Titular do registro",module,Magento_GiftRegistry
 "Registry owner","Proprietário do registro",module,Magento_GiftRegistry
-"The gift registry ID is incorrect. Verify the ID and try again.","The gift registry ID is incorrect. Verify the ID and try again.",module,Magento_GiftRegistry
-"The gift registry entity is incorrect. Verify the entity and try again.","The gift registry entity is incorrect. Verify the entity and try again.",module,Magento_GiftRegistry
+"The gift registry ID is incorrect. Verify the ID and try again.","O ID da lista de presente está incorreto. Verifique o ID e tente novamente.",module,Magento_GiftRegistry
+"The gift registry entity is incorrect. Verify the entity and try again.","A entidade da lista de presente está incorreta. Verifique a entidade e tente novamente.",module,Magento_GiftRegistry
 "Shopping cart items have been added to gift registry.","Os itens do carrinho de compras foram adicionados à lista de presente.",module,Magento_GiftRegistry
 "Virtual, Downloadable, and virtual Gift Card products cannot be added to gift registries.","Produtos virtuais, download e cartões de presente não podem ser adicionados à lista de presente.",module,Magento_GiftRegistry
 "We can't add shopping cart items to the gift registry right now.","Não foi possível adicionar os itens do carrinho de compras na lista de presente.",module,Magento_GiftRegistry
@@ -6145,7 +6145,7 @@ Registrant,"Titular do registro",module,Magento_GiftRegistry
 Customers,Clientes,module,Magento_GiftRegistry
 "Edit '%1' Gift Registry","Editar lista de presente '%1'",module,Magento_GiftRegistry
 "Something went wrong while editing the gift registry.","Ocorreu um erro ao editar à lista de presente.",module,Magento_GiftRegistry
-"At least one email address is needed. Enter an email address and try again.","At least one email address is needed. Enter an email address and try again.",module,Magento_GiftRegistry
+"At least one email address is needed. Enter an email address and try again.","Pelo menos um endereço de email é necessário. Entre um endereço de email e tente novamente.",module,Magento_GiftRegistry
 "%1 email(s) were sent.","%1 email(s) foram enviados.",module,Magento_GiftRegistry
 "We couldn't send '%1 of %2 emails.","Não foi possível enviar '%1 de %2 e-mails.",module,Magento_GiftRegistry
 "You updated this gift registry.","Você atualizou esta lista de presente.",module,Magento_GiftRegistry
@@ -6163,11 +6163,11 @@ Customers,Clientes,module,Magento_GiftRegistry
 "You can't add virtual products, digital products or gift cards to gift registries.","Você não pode adicionar produtos virtuais, produtos digitais ou cartões-presente à lista de presentes.",module,Magento_GiftRegistry
 "You deleted this gift registry.","Você excluiu esta lista de presente.",module,Magento_GiftRegistry
 "Something went wrong while deleting the gift registry.","Ocorreu um erro ao excluir à lista de presente.",module,Magento_GiftRegistry
-"The type is incorrect. Verify and try again.","The type is incorrect. Verify and try again.",module,Magento_GiftRegistry
-"The registrant data is incorrect. Verify and try again.","The registrant data is incorrect. Verify and try again.",module,Magento_GiftRegistry
-"The address can't be empty. Enter and try again.","The address can't be empty. Enter and try again.",module,Magento_GiftRegistry
-"An address needs to be selected. Select and try again.","An address needs to be selected. Select and try again.",module,Magento_GiftRegistry
-"The address is incorrect. Verify and try again.","The address is incorrect. Verify and try again.",module,Magento_GiftRegistry
+"The type is incorrect. Verify and try again.","O tipo está incorreto. Verifique e tente novamente.",module,Magento_GiftRegistry
+"The registrant data is incorrect. Verify and try again.","Os dados to solicitante estão incorretos. Verifique e tente novamente.",module,Magento_GiftRegistry
+"The address can't be empty. Enter and try again.","O endereço não pode ser vazio. Entre-o e tente novamente.",module,Magento_GiftRegistry
+"An address needs to be selected. Select and try again.","Um endereço precisa ser selecionado. Selecione e tente novamente.",module,Magento_GiftRegistry
+"The address is incorrect. Verify and try again.","O endereço está incorreto. Verifique e tente novamente.",module,Magento_GiftRegistry
 "You saved this gift registry.","Você salvou esta lista de presente.",module,Magento_GiftRegistry
 "We couldn't save this gift registry.","Não foi possível salvar está lista de presente.",module,Magento_GiftRegistry
 "Gift Registry Items","Itens da lista de presente",module,Magento_GiftRegistry
@@ -6205,8 +6205,8 @@ Active,Ativo,module,Magento_GiftRegistry
 "Please enter the message.","Por favor insira a mensagem.",module,Magento_GiftRegistry
 "Please enter correct the Privacy setting.","Por favor, insira as configurações corretas de privacidade.",module,Magento_GiftRegistry
 "We cannot specify the product.","Não foi possível especificar o produto.",module,Magento_GiftRegistry
-"The gift registry item quantity is incorrect. Verify the item quantity and try again.","The gift registry item quantity is incorrect. Verify the item quantity and try again.",module,Magento_GiftRegistry
-"The gift registry item ID is incorrect. Verify the gift registry item ID and try again.","The gift registry item ID is incorrect. Verify the gift registry item ID and try again.",module,Magento_GiftRegistry
+"The gift registry item quantity is incorrect. Verify the item quantity and try again.","A quantidade do item da lista de presente está incorreta. Verifique a quantidade to item e tente novamente.",module,Magento_GiftRegistry
+"The gift registry item ID is incorrect. Verify the gift registry item ID and try again.","O ID do item da lista de presente está incorreto. Verifique o ID do item da lista de presente e tente novamente.",module,Magento_GiftRegistry
 "The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","A quantidade ""%1"" do produto adicionado ao carrinho excede a quantidade pretendida pelo proprietário da lista de presente. A quantidade adicionada foi ajustada para %2 e atender quantidade restante.",module,Magento_GiftRegistry
 "Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","A quantidade existente do produto ""%1"" no carrinho foi substituída com a quantidade %2 que foi pedida.",module,Magento_GiftRegistry
 "This product(s) is out of stock.","Este produto está em falta.",module,Magento_GiftRegistry
@@ -6361,7 +6361,7 @@ Date,Data,module,Magento_GiftRegistry
 Template,Template,module,Magento_GiftRegistry
 "Default Template","Modelo padrão",module,Magento_GiftRegistry
 Listed,Listado,module,Magento_GiftRegistry
-"Gift Wrapping","Embrulho para presente",module,Magento_GiftWrapping
+"Gift Wrapping","Embrulho para Presente",module,Magento_GiftWrapping
 "Add Gift Wrapping","Adicionar embalagem de presente",module,Magento_GiftWrapping
 "Save and Continue Edit","Salvar e Continuar a Editar",module,Magento_GiftWrapping
 "Are you sure you want to delete this gift wrapping?","Deseja realmente remover este pacote de presente?",module,Magento_GiftWrapping
@@ -6383,7 +6383,7 @@ Image,Imagem,module,Magento_GiftWrapping
 "Something went wrong while updating the wrapping(s) status.","Ocorreu um erro ao atualizar o status da(s) embalagem(s).",module,Magento_GiftWrapping
 "You deleted the gift wrapping.","Você excluiu a embalagem de presente.",module,Magento_GiftWrapping
 %1,%1,module,Magento_GiftWrapping
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_GiftWrapping
+"An item needs to be selected. Select and try again.","Um item precisa ser selecionado. Selecione e tente novamente.",module,Magento_GiftWrapping
 "You deleted a total of %1 records.","Você excluiu um total de %1 registros.",module,Magento_GiftWrapping
 "You have not uploaded the image.","Você não enviou a imagem.",module,Magento_GiftWrapping
 "You saved the gift wrapping.","Você salvou a embalagem de presente.",module,Magento_GiftWrapping
@@ -6398,9 +6398,9 @@ None,Nenhum,module,Magento_GiftWrapping
 "The image extension ""%1"" not allowed.","A extensão de imagem ""%1"" não é permitida.",module,Magento_GiftWrapping
 "Provided image name contains forbidden characters.","O nome de arquivo fornecido contém caracteres proibidos.",module,Magento_GiftWrapping
 "The image MIME type is not valid or not supported.","A tipo MIME da imagem não é válido ou não é suportado.",module,Magento_GiftWrapping
-"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.",module,Magento_GiftWrapping
-"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","A valid currency code wasn't entered. Enter a valid %1 currency code and try again.",module,Magento_GiftWrapping
-"The ""%1"" gift wrapping couldn't be removed.","The ""%1"" gift wrapping couldn't be removed.",module,Magento_GiftWrapping
+"Gift wrapping with the %1 ID wasn't found. Verify the ID and try again.","O embrulho de presente com o ID %1 não foi encontrado. Verifique o ID e tente novamente.",module,Magento_GiftWrapping
+"A valid currency code wasn't entered. Enter a valid %1 currency code and try again.","Um símbolo de moeda válido não foi inserido. Entre um símbolo válido para ""%1"" e tente novamente.",module,Magento_GiftWrapping
+"The ""%1"" gift wrapping couldn't be removed.","O embrulho para presente ""%1"" não pôde ser removido.",module,Magento_GiftWrapping
 "Printed Card","Cartão impresso",module,Magento_GiftWrapping
 "Use Config Settings","Usar Configurações padrão",module,Magento_GiftWrapping
 "Use Default Value","Usar o Valor Padrão",module,Magento_GiftWrapping
@@ -6479,9 +6479,9 @@ Creative,Creativo,module,Magento_GoogleTagManager
 "List property for the related products block","Propriedade de lista para o bloco de produtos relacionados",module,Magento_GoogleTagManager
 "List property for the search results page","Propriedade de Lista para a página dos resultados de pesquisa",module,Magento_GoogleTagManager
 "’Internal Promotions’ for promotions field “Label”.","'Promoção interna' para campo de promoções ""Rótulo"".",module,Magento_GoogleTagManager
-"Request content type must be application/json","Request content type must be application/json",module,Magento_GraphQl
-"Store code %1 does not exist","Store code %1 does not exist",module,Magento_GraphQl
-"Entity code %1 does not exist.","Entity code %1 does not exist.",module,Magento_GraphQl
+"Request content type must be application/json","O tipo the conteúdo da requisição deve ser application/json",module,Magento_GraphQl
+"Store code %1 does not exist","O código de loja %1 não existe",module,Magento_GraphQl
+"Entity code %1 does not exist.","O código the entidade %1 não existe.",module,Magento_GraphQl
 "Grouped Products","Produtos Agrupados",module,Magento_GroupedProduct
 "Please specify the quantity of product(s).","Por favor, especifique a quantidade de produto(s).",module,Magento_GroupedProduct
 "Cannot process the item.","Não foi possível processar o item.",module,Magento_GroupedProduct
@@ -6679,7 +6679,7 @@ Status,Status,module,Magento_Indexer
 Updated,Atualizado,module,Magento_Indexer
 "Your order number is: %1.","O número de encomenda é: %1.",module,Magento_InstantPurchase
 "Something went wrong while processing your order. Please try again later.","Algo correu mal durante o processamento da sua encomenda. Por favor, tente novamente mais tarde.",module,Magento_InstantPurchase
-"A payment method isn't defined for instance purchase. Verify and try again.","A payment method isn't defined for instance purchase. Verify and try again.",module,Magento_InstantPurchase
+"A payment method isn't defined for instance purchase. Verify and try again.","Um método de pagamento não está definido para a instância desta compra. Verifique e tente novamente.",module,Magento_InstantPurchase
 "Shipping address is not defined for instance purchase.","O método de pagamento não está definido para compra.",module,Magento_InstantPurchase
 "Billing address is not defined for instance purchase.","O endereço de cobrança não está definido para a compra.",module,Magento_InstantPurchase
 "Shipping method is not defined for instance purchase.","O método de envio não está definido para compra.",module,Magento_InstantPurchase
@@ -7162,8 +7162,8 @@ Database,"Banco de dados",module,Magento_MediaStorage
 "File with an extension ""%value%"" is protected and cannot be uploaded","O arquivo com a extensão ""%value%"" está protegido e não pode ser enviado",module,Magento_MediaStorage
 "Unable to create directory: %1","Não foi possível criar o diretório: %1",module,Magento_MediaStorage
 "Unable to save file: %1","Não foi possível salvar o arquivo: %1",module,Magento_MediaStorage
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found",module,Magento_MediaStorage
-"Cannot resize images - product images not found","Cannot resize images - product images not found",module,Magento_MediaStorage
+"Cannot resize image ""%1"" - original image not found","Não foi possível redirecionar a imagem ""%1"" - a imagem original não foi encontrada",module,Magento_MediaStorage
+"Cannot resize images - product images not found","Não foi possível redimensionar as imagens - imagens de produto não encontradas",module,Magento_MediaStorage
 "Storage Configuration for Media","Configuração de Armazenamento para Midia",module,Magento_MediaStorage
 "Media Storage","Armazenamento de Mídia",module,Magento_MediaStorage
 "Select Media Database","Selecione a Base de Dados de Mídia",module,Magento_MediaStorage
@@ -7368,9 +7368,9 @@ Total,Total,module,Magento_Multishipping
 "We cannot open the overview page.","Não conseguimos abrir a página de visão geral.",module,Magento_Multishipping
 "Please agree to all Terms and Conditions before placing the order.","Por favor concorde com todos os termos e condições antes de fazer a encomenda.",module,Magento_Multishipping
 "Order place error","Erro de Confirmação do Pedido",module,Magento_Multishipping
-"The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.",module,Magento_Multishipping
-"Verify the shipping address information and continue.","Verify the shipping address information and continue.",module,Magento_Multishipping
-"Verify the billing address information and continue.","Verify the billing address information and continue.",module,Magento_Multishipping
+"The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","A quantidade máxima não pode ser maior que %1 ao enviar para vários endereços. Altere a quantidade e tente novamente.",module,Magento_Multishipping
+"Verify the shipping address information and continue.","Verifique as informações de endereço de envio e continue.",module,Magento_Multishipping
+"Verify the billing address information and continue.","Verifique as informações de endereço de cobrança e continue.",module,Magento_Multishipping
 "Set shipping methods for all addresses. Verify the shipping methods and try again.","Set shipping methods for all addresses. Verify the shipping methods and try again.",module,Magento_Multishipping
 "A payment method isn't defined. Verify and try again.","A payment method isn't defined. Verify and try again.",module,Magento_Multishipping
 "This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.","This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.",module,Magento_Multishipping
@@ -8981,28 +8981,28 @@ Delete,Excluir,module,Magento_ProductVideo
 "Edit Cart Price Rules","Editar Regras de Preço de Produtos do Carrinho",module,Magento_PromotionPermissions
 "Edit Automated Email Reminder Rules","Editar Regras Automatizadas de Alertas por Email",module,Magento_PromotionPermissions
 "Quick Order","Quick Order",module,Magento_QuickOrder
-"Page not found.","Page not found.",module,Magento_QuickOrder
-"The uploaded CSV file does not contain a column labelled SKU. Make sure the first column is labelled SKU and that each line in the file contains a SKU value. Then upload the file again.","The uploaded CSV file does not contain a column labelled SKU. Make sure the first column is labelled SKU and that each line in the file contains a SKU value. Then upload the file again.",module,Magento_QuickOrder
-"You should correct the quantity for the product.","You should correct the quantity for the product.",module,Magento_QuickOrder
-"The SKU is out of stock.","The SKU is out of stock.",module,Magento_QuickOrder
-"We don't have the quantity you requested.","We don't have the quantity you requested.",module,Magento_QuickOrder
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_QuickOrder
-"Exception message","Exception message",module,Magento_QuickOrder
-"The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.",module,Magento_QuickOrder
-"Add from File","Add from File",module,Magento_QuickOrder
-"File must be in .csv format and include ""SKU"" and ""QTY"" columns","File must be in .csv format and include ""SKU"" and ""QTY"" columns",module,Magento_QuickOrder
-"Choose File","Choose File",module,Magento_QuickOrder
-"Enter Multiple SKUs","Enter Multiple SKUs",module,Magento_QuickOrder
+"Page not found.","Página não encontrada.",module,Magento_QuickOrder
+"The uploaded CSV file does not contain a column labelled SKU. Make sure the first column is labelled SKU and that each line in the file contains a SKU value. Then upload the file again.","O arquivo CSV enviado não contém a coluna SKU. Certifique-se que a primeira coluna é a de SKU e que cada linha está preenchida com um valor para o SKU. Em seguida, carregue o arquivo novamente.",module,Magento_QuickOrder
+"You should correct the quantity for the product.","Você deve corrigir a quantidade do produto.",module,Magento_QuickOrder
+"The SKU is out of stock.","O SKU está fora de estoque.",module,Magento_QuickOrder
+"We don't have the quantity you requested.","Não temos a quantidade solicitada.",module,Magento_QuickOrder
+"An error occurred. For details, see the error log.","Ocorreu um erro. Para obter detalhes, consulte log de erros.",module,Magento_QuickOrder
+"Exception message","Mensagem de exceção",module,Magento_QuickOrder
+"The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","O arquivo não pode ser carregado porque está no formato incorreto. Por favor, selecione um arquivo CSV para carregar.",module,Magento_QuickOrder
+"Add from File","Adicionar arquivo",module,Magento_QuickOrder
+"File must be in .csv format and include ""SKU"" and ""QTY"" columns","Arquivo deve estar no formato .csv e incluir as colunas ""SKU"" e ""QTD""",module,Magento_QuickOrder
+"Choose File","Selecione o arquivo",module,Magento_QuickOrder
+"Enter Multiple SKUs","Inserir Vários SKUs",module,Magento_QuickOrder
 "Use commas or paragraph to separate SKUs.","Use commas or paragraph to separate SKUs.",module,Magento_QuickOrder
-"Add to List","Add to List",module,Magento_QuickOrder
-"Order by SKU","Order by SKU",module,Magento_QuickOrder
-"Enter SKU or Product Name","Enter SKU or Product Name",module,Magento_QuickOrder
-Qty,Qty,module,Magento_QuickOrder
-"Add to Cart","Add to Cart",module,Magento_QuickOrder
-"Remove Row","Remove Row",module,Magento_QuickOrder
-"product(s) require(s) your attention.","product(s) require(s) your attention.",module,Magento_QuickOrder
+"Add to List","Adicionar à Lista",module,Magento_QuickOrder
+"Order by SKU","Ordenar por SKU",module,Magento_QuickOrder
+"Enter SKU or Product Name","Digite o nome do produto ou SKU",module,Magento_QuickOrder
+Qty,Qtd,module,Magento_QuickOrder
+"Add to Cart","Adicionar ao Carrinho",module,Magento_QuickOrder
+"Remove Row","Remover Linha",module,Magento_QuickOrder
+"product(s) require(s) your attention.","produto(s) requer(em) sua atenção.",module,Magento_QuickOrder
 "Enable Quick Order","Enable Quick Order",module,Magento_QuickOrder
-"Download Sample","Download Sample",module,Magento_QuickOrder
+"Download Sample","Baixar Exemplo",module,Magento_QuickOrder
 "The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again.",module,Magento_Quote
 "The ""%1"" Cart doesn't contain products.","O carrinho %1 não contém produtos.",module,Magento_Quote
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
@@ -10047,7 +10047,7 @@ Denied,Negado,module,Magento_Rma
 Closed,Fechado,module,Magento_Rma
 "Processed and Closed","Processada e fechada",module,Magento_Rma
 "This is the wrong RMA item status.","Este é o status do item errado de RMA.",module,Magento_Rma
-"We placed your Return request.","We placed your Return request.",module,Magento_Rma
+"We placed your Return request.","A solicitação de devolução foi feita.",module,Magento_Rma
 "We authorized your Return request.","Nós autorizamos seu pedido de devolução.",module,Magento_Rma
 "We partially authorized your Return request.","Solicitação de devolução parcialmente autorizada.",module,Magento_Rma
 "We received your Return request.","Nós recebemos o seu pedido de devolução.",module,Magento_Rma
