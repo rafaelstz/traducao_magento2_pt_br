@@ -7371,14 +7371,14 @@ Total,Total,module,Magento_Multishipping
 "The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","A quantidade máxima não pode ser maior que %1 ao enviar para vários endereços. Altere a quantidade e tente novamente.",module,Magento_Multishipping
 "Verify the shipping address information and continue.","Verifique as informações de endereço de envio e continue.",module,Magento_Multishipping
 "Verify the billing address information and continue.","Verifique as informações de endereço de cobrança e continue.",module,Magento_Multishipping
-"Set shipping methods for all addresses. Verify the shipping methods and try again.","Set shipping methods for all addresses. Verify the shipping methods and try again.",module,Magento_Multishipping
-"A payment method isn't defined. Verify and try again.","A payment method isn't defined. Verify and try again.",module,Magento_Multishipping
-"This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.","This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.",module,Magento_Multishipping
-"The item isn't found, or it's already ordered.","The item isn't found, or it's already ordered.",module,Magento_Multishipping
-"The payment method isn't selected. Enter the payment method and try again.","The payment method isn't selected. Enter the payment method and try again.",module,Magento_Multishipping
-"Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries.",module,Magento_Multishipping
-"Quote address for failed order not found.","Quote address for failed order not found.",module,Magento_Multishipping
-"Exception for failed order not found.","Exception for failed order not found.",module,Magento_Multishipping
+"Set shipping methods for all addresses. Verify the shipping methods and try again.","Por métodos de entrega para todos os endereços. Verificar os métodos de entrega e tentar novamente.",module,Magento_Multishipping
+"A payment method isn't defined. Verify and try again.","O método de pagamento não foi definido. Verifique e tente novamente.",module,Magento_Multishipping
+"This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.","Esse método de pagamento não pode ser usado para entrega em múltiplos endereços. Mude o método de pagamento e tente novamente.",module,Magento_Multishipping
+"The item isn't found, or it's already ordered.","O item não foi encontrado ou já está encomendado.",module,Magento_Multishipping
+"The payment method isn't selected. Enter the payment method and try again.","O método de pagamento não está selecionado. Selecione o método de pagamento e tente novamente.",module,Magento_Multishipping
+"Some addresses can't be used due to the configurations for specific countries.","Alguns endereços não podem ser usados devido as configurações para países específicos.",module,Magento_Multishipping
+"Quote address for failed order not found.","O endereço citado para o pedido não foi encontrado.",module,Magento_Multishipping
+"Exception for failed order not found.","A exceção para a falha no pedido não foi encontrada.",module,Magento_Multishipping
 "Select Addresses","Selecione os endereços",module,Magento_Multishipping
 "Shipping Information","Dados de Entrega",module,Magento_Multishipping
 "Billing Information","Dados de Cobrança",module,Magento_Multishipping
@@ -7414,9 +7414,9 @@ Change,Alterar,module,Magento_Multishipping
 "Product Name","Nome do produto",module,Magento_Multishipping
 "Check Out with Multiple Addresses","Finalizar Compra utilizando vários endereços",module,Magento_Multishipping
 "Please see","Selecione por favor",module,Magento_Multishipping
-"details below","details below",module,Magento_Multishipping
+"details below","detalhes abaixo",module,Magento_Multishipping
 Address,Endereço,module,Magento_Multishipping
-of,of,module,Magento_Multishipping
+of,de,module,Magento_Multishipping
 "Shipping To","Enviar para",module,Magento_Multishipping
 "Shipping Method","Método de Entrega",module,Magento_Multishipping
 "Incl. Tax","Imposto Incl.",module,Magento_Multishipping
@@ -7429,24 +7429,24 @@ Subtotal,Subtotal,module,Magento_Multishipping
 Items,Itens,module,Magento_Multishipping
 "Grand Total:","Total geral:",module,Magento_Multishipping
 "Submitting order information...","Enviado informações do pedido...",module,Magento_Multishipping
-"Not all items were included.","Not all items were included.",module,Magento_Multishipping
-"For details, see","For details, see",module,Magento_Multishipping
-"Failed to Order","Failed to Order",module,Magento_Multishipping
-"section below","section below",module,Magento_Multishipping
-"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.",module,Magento_Multishipping
-"Successfully Ordered","Successfully Ordered",module,Magento_Multishipping
-"Ship to:","Ship to:",module,Magento_Multishipping
-"No shipping required.","No shipping required.",module,Magento_Multishipping
-"To purchase these items: Return to the","To purchase these items: Return to the",module,Magento_Multishipping
-"Review page in Checkout","Review page in Checkout",module,Magento_Multishipping
-"resolve any errors, and place a new order.","resolve any errors, and place a new order.",module,Magento_Multishipping
-Error:,Error:,module,Magento_Multishipping
+"Not all items were included.","Nem todos os itens foram incluídos.",module,Magento_Multishipping
+"For details, see","Para detalhes, veja",module,Magento_Multishipping
+"Failed to Order","Falha ao realizar o pedido",module,Magento_Multishipping
+"section below","seção abaixo",module,Magento_Multishipping
+"For successfully ordered items, you'll receive a confirmation email including order numbers, tracking information, and more details.","Para items comprados com sucesso, você irá receber uma confirmação por email incluindo números de compra, informação de rastreio e mais detalhes.",module,Magento_Multishipping
+"Successfully Ordered","Comprado com sucesso",module,Magento_Multishipping
+"Ship to:","Entregar para:",module,Magento_Multishipping
+"No shipping required.","Entrega não necessária.",module,Magento_Multishipping
+"To purchase these items: Return to the","Para comprar estes itens: Retorne para",module,Magento_Multishipping
+"Review page in Checkout","Página de revisão no checkout",module,Magento_Multishipping
+"resolve any errors, and place a new order.","resolva todos os erros e faça uma nova compra.",module,Magento_Multishipping
+Error:,Erro:,module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Endereço %1 <span>de %2</span>",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Desculpa, sem aspas estão disponíveis para este fim.",module,Magento_Multishipping
 "Continue to Billing Information","Continuar em Informações de Cobrança",module,Magento_Multishipping
 "Back to Select Addresses","Volta para seleção de endereços",module,Magento_Multishipping
-"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.",module,Magento_Multishipping
-"Successfully ordered","Successfully ordered",module,Magento_Multishipping
+"For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","Para compra de itens feitas com sucesso, você irá receber uma confirmação por email incluindo números de compra, informações de rastreio e mais detalhes.",module,Magento_Multishipping
+"Successfully ordered","Compra realizada com sucesso",module,Magento_Multishipping
 "Continue Shopping","Continuar Comprando",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Não podemos concluir seu pedido, porque você não tem um método de pagamento configurado.",module,Magento_Multishipping
 "Please choose a payment method.","Por favor, escolha um método de pagamento.",module,Magento_Multishipping
@@ -7456,8 +7456,8 @@ Options,Opções,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Permitir Envio para Vários Endereços",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Qtd Máxima Permitida para Envio para Vários Endereços",module,Magento_Multishipping
 "Review Order","Revisar pedido",module,Magento_Multishipping
-"We could only complete part of your order.","We could only complete part of your order.",module,Magento_Multishipping
-"We were unable to complete your order.","We were unable to complete your order.",module,Magento_Multishipping
+"We could only complete part of your order.","Só podemos completar parte do seu pedido.",module,Magento_Multishipping
+"We were unable to complete your order.","Não podemos completar seu pedido.",module,Magento_Multishipping
 "Select Shipping Method","Selecionar Modo de Envio",module,Magento_Multishipping
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Multishipping
 "Message has been rejected: %1","A mensagem foi rejeitada: %1",module,Magento_MysqlMq
