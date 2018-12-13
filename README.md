@@ -12,8 +12,6 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 
 # Instalação
 
-> **Antes de instalar é necessário verificar sua versão do Magento 2 para instalar a tradução correta usando as branches desse repositório.**
-
 ## Via Composer 
 
 Para instalar essa tradução via [Composer](https://getcomposer.org) você precisa usar o terminal do seu servidor.
@@ -34,7 +32,7 @@ Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
 # Como Usar
 
-Para começar a usar a tradução instalada vá em `Stores -> Configuration -> General > General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.
+Para começar a usar a tradução instalada vá em `Stores -> Configuration -> General -> General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.
 
 # Ajude
 
