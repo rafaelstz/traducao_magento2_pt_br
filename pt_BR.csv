@@ -428,9 +428,9 @@ Done,Concluído,module,Magento_B2b
 "Please Select",Selecione...,module,Magento_B2b
 "%s of %s selected","%s de %s selecionados",module,Magento_B2b
 "B2B Features","Recursos B2B",module,Magento_B2b
-"Invalid Form Key. Please refresh the page.","Chave de forma inválida. Por favor, atualize a página.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma Chave Secreta inválida. Por favor, atualize a página.",module,Magento_Backend
-"Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
+"Invalid security or form key. Please refresh the page.","Chave de segurança ou formulário inválido. Por favor, atualize a página.",module,Magento_Backend
 "Cache Storage Management","Gerenciamento de Cache",module,Magento_Backend
 "Flush Magento Cache","Liberar Cache do Magento",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","O cache armazenado pode conter dados adicionais. Você tem certeza que deseja liberá-lo?",module,Magento_Backend
@@ -964,7 +964,7 @@ Database,"Banco de dados",module,Magento_Backup
 "The backup file handler was unspecified.","O arquivo de backup apontado foi especificado.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Algo deu errado durante a gravação do arquivo de backup ""%1"".",module,Magento_Backup
 "We can't save the Cron expression.","Não podemos salvar a expressão ""Cron"".",module,Magento_Backup
-"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
+"Backup functionality is disabled","Funcionalidade de backup está desativada",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Você vai perder qualquer dado criado desde que o backup foi feito, incluindo usuários do admin, clientes e pedidos.",module,Magento_Backup
 "Are you sure you want to continue?","Você tem certeza que deseja continuar?",module,Magento_Backup
 "This may take a few moments.","Isto pode demorar alguns minutos.",module,Magento_Backup
@@ -988,10 +988,10 @@ FTP,FTP,module,Magento_Backup
 "Magento root directory","Diretório raiz do Magento",module,Magento_Backup
 "Create Backup","Criar Backup",module,Magento_Backup
 Rollback,Reversão,module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
-"Enable Scheduled Backup","Habilitar o backup agendado",module,Magento_Backup
-"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
+"Backup Settings","Configurações de Backup",module,Magento_Backup
+"Enable Backup","Ativar Backup",module,Magento_Backup
+"Enable Scheduled Backup","Habilitar o Backup Agendado",module,Magento_Backup
+"Scheduled Backup Type","Tipo de Backup Agendado",module,Magento_Backup
 "Start Time","Hora de Início",module,Magento_Backup
 Frequency,Frequência,module,Magento_Backup
 "Maintenance Mode","Modo de manutenção",module,Magento_Backup
@@ -1066,8 +1066,8 @@ Header,Cabeçalho,module,Magento_Banner
 "Displays Specified or Promotion Dynamic Blocks","Mostra Blocos Dinâmicos Específicos ou de Promoções",module,Magento_Banner
 "Dynamic Blocks to Display","Blocos Dinâmicos para Mostrar",module,Magento_Banner
 "Specified Dynamic Blocks","Blocos Dinâmicos Específicos",module,Magento_Banner
-"Cart Price Rule Related","Cart Price Rule Related",module,Magento_Banner
-"Catalog Price Rule Related","Catalog Price Rule Related",module,Magento_Banner
+"Cart Price Rule Related","Regra de Preço de Carrinho Relacionada",module,Magento_Banner
+"Catalog Price Rule Related","Regra de Preço de Catálogo Relacionada",module,Magento_Banner
 "Restrict by Dynamic Block Types","Restringir por Tipos de Bloco Dinâmico",module,Magento_Banner
 "Rotation Mode","Modo de rotação",module,Magento_Banner
 "Display all instead of rotating","Mostrar todos em vez de ir rodando",module,Magento_Banner
@@ -1099,7 +1099,7 @@ Country,País,module,Magento_Braintree
 "Sorry, but something went wrong","Desculpe, mas algo deu errado",module,Magento_Braintree
 "Checkout failed to initialize. Verify and try again.","Falha ao inicializar o Check-out. Verifique e tente novamente.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","Nenhuma transação de autorização para proceder à captura.",module,Magento_Braintree
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
+"The Payment Token is not available to perform the request.","O Token de pagamento não está disponível para executar a solicitação.",module,Magento_Braintree
 "Transaction is cancelled offline.","Transação é cancelada off-line.",module,Magento_Braintree
 "Braintree error response.","Resposta de erro Braintree.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Não foi possível obter o nonce do modo de pagamento.",module,Magento_Braintree
@@ -1121,7 +1121,7 @@ PayPal,PayPal,module,Magento_Braintree
 "Card Verification Number","Código de Verificação do Cartão",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Por favor insira um número de verificação de cartão válido",module,Magento_Braintree
 "Save for later use.","Gravar para uso futuro.",module,Magento_Braintree
-"Pay with PayPal","Pay with PayPal",module,Magento_Braintree
+"Pay with PayPal","Pague com PayPal",module,Magento_Braintree
 "Are you sure you want to delete this PayPal account","Você tem certeza que deseja excluir esta conta do PayPal",module,Magento_Braintree
 "PayPal Account","Conta PayPal",module,Magento_Braintree
 "PayPal Logo","Logo Paypal",module,Magento_Braintree
@@ -1136,7 +1136,7 @@ YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","Por favor tente novamente com outra forma de pagamento.",module,Magento_Braintree
 "Sorry, but something went wrong.","Desculpe, mas algo deu errado.",module,Magento_Braintree
 Payment,Pagamento,module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
+"Braintree Settlement","Relatório de Vendas Braintree",module,Magento_Braintree
 "Credit card type is not accepted by this merchant account.","Este tipo de cartão de crédito não é aceito por esta loja.",module,Magento_Braintree
 "Transaction can only be voided if status is authorized, submitted_for_settlement, or - for PayPal - settlement_pending.","Transação pode apenas cancelada se o estatuto está autorizado, submitted_for_settlement, ou - para PayPal - settlement_pending.",module,Magento_Braintree
 "Credit transactions cannot be refunded.","As operações de crédito não podem ser reembolsadas.",module,Magento_Braintree
@@ -1173,14 +1173,14 @@ Environment,Ambiente,module,Magento_Braintree
 "Advanced Braintree Settings","Definições Avançadas do Braintree",module,Magento_Braintree
 "Vault Title","Título Vault",module,Magento_Braintree
 "Merchant Account ID","ID da Conta de Comerciante",module,Magento_Braintree
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Se você não especificar a conta comerciante que deseja usar para processar a transação, a Braintree irá processá-lo utiizando a conta comerciante padrão.",module,Magento_Braintree
 "Advanced Fraud Protection","Proteção de Fraude Avançada",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Certifique se de habilitar a Proteção Avançada Contra Fraudes em sua conta gerencial na seção Configurações/ Processamento",module,Magento_Braintree
 "Kount Merchant ID","ID de Comerciante Kount",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Usada para a integração de ferramenta de fraude direta. Certifique-se de entrar em contato com<a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com</a> para configurar sua conta de Kount.",module,Magento_Braintree
 Debug,Depurar/Debug,module,Magento_Braintree
 "CVV Verification","Verificação de CVV",module,Magento_Braintree
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Não se esqueça de habilitar o AVS e/ou o CVV na sua conta Braintree na seção de Configurações/Processamento.",module,Magento_Braintree
 "Credit Card Types","Tipo do Cartão de Crédito",module,Magento_Braintree
 "Sort Order",Ordernação,module,Magento_Braintree
 "Country Specific Settings","Definições Específicas de País",module,Magento_Braintree
@@ -1188,13 +1188,13 @@ Debug,Depurar/Debug,module,Magento_Braintree
 "Payment from Specific Countries","Pagamento a partir de Países Específicos",module,Magento_Braintree
 "Country Specific Credit Card Types","Tipos de Cartão de Crédito específicos do País",module,Magento_Braintree
 "PayPal through Braintree","PayPal através do Braintree",module,Magento_Braintree
-"It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Braintree
+"It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por visão de loja.",module,Magento_Braintree
 "Override Merchant Name","Substituir o Nome do Comerciante",module,Magento_Braintree
 "Require Customer's Billing Address","Exigir Endereço de Faturação do Cliente",module,Magento_Braintree
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Braintree
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Esta funcionalidade precisa ser ativada previamente para a conta comerciante através do suporte técnico do PayPal.",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permitir a Edição da Morada de Envio Inserida Durante o Checkout no PayPal",module,Magento_Braintree
 "Display on Shopping Cart","Mostrar no Carrinho de Compras",module,Magento_Braintree
-"Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Braintree
+"Also affects mini-shopping cart.","Também afeta o mini-carrinho de compras.",module,Magento_Braintree
 "Skip Order Review","Pular a Revisão do pedido",module,Magento_Braintree
 "3D Secure Verification Settings","Definições de Verificação Segura 3D",module,Magento_Braintree
 "3D Secure Verification","Verificação Segura 3D",module,Magento_Braintree
@@ -1205,18 +1205,18 @@ Debug,Depurar/Debug,module,Magento_Braintree
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.",module,Magento_Braintree
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Descritores de dinâmicos são enviados por transação e definem o que vai aparecer nos extratos do cartão de crédito de seus clientes para uma compra específica.
+                            Quanto mais clara a descrição do seu produto, menor a chance dos clientes solicitarem chargebacks devido à confusão ou não-reconhecimento.
+                            Descritores dinâmicos não estão habilitados em todas as contas por padrão. Se você receber um erro de validação de 92203 ou se os descritores dinâmicos não estão exibindo como esperado,
+                            por favor contate o <a href=""mailto:support@getbraintree.com""> suporte Braintree</a>.",module,Magento_Braintree
 Name,Nome,module,Magento_Braintree
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).",module,Magento_Braintree
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","O valor no campo nome do negócio da instrução do cliente. Seção de razão social/nome fantasia da empresa deve ser 3, 7 ou 12 caracteres
+                                e a descrição do produto pode ser até 18, 14 ou 9 caracteres respectivamente (com um * entre para um nome de descritor total de 22 caracteres).",module,Magento_Braintree
 Phone,Telefone,module,Magento_Braintree
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.",module,Magento_Braintree
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","O valor no campo número de telefone da instrução do cliente. Telefone deve ser 10-14 caracteres e pode conter apenas números, traços, parênteses e ponto.",module,Magento_Braintree
 URL,Url,module,Magento_Braintree
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.",module,Magento_Braintree
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","O valor no campo de endereço web/URL da instrução do cliente. A URL deve ser 13 caracteres ou menos.",module,Magento_Braintree
 "CVV is required.","Código CVV é necessário.",module,Magento_Braintree
 "CVV must be 4 digits for American Express and 3 digits for other card types.","CVV deve ser de 4 dígitos para a American Express e 3 dígitos para outros tipos de cartão.",module,Magento_Braintree
 "Expiration date is required.","Data de validade é necessária.",module,Magento_Braintree
@@ -1483,8 +1483,8 @@ Status,Status,module,Magento_Bundle
 Thumbnail,Miniatura,module,Magento_Bundle
 Type,Tipo,module,Magento_Bundle
 "Special Price","Preço Especial",module,Magento_Bundle
-"""option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified",module,Magento_BundleGraphQl
-"""sku"" value should be specified","""sku"" value should be specified",module,Magento_BundleGraphQl
+"""option_id"" and ""parent_id"" values should be specified","Os valores ""option_id"" e ""parent_id"" precisam ser especificados",module,Magento_BundleGraphQl
+"""sku"" value should be specified","""sku"" precisa ser especificado",module,Magento_BundleGraphQl
 "Unique constraint violation found","Violação de chave única encontrada",module,Magento_BundleStaging
 Cancel,Cancelar,module,Magento_BundleStaging
 "Add Selected Products","Adicionar Produtos Selecionados",module,Magento_BundleStaging
@@ -1542,8 +1542,8 @@ Position,Posição,module,Magento_Catalog
 Day,Dia,module,Magento_Catalog
 Month,Mês,module,Magento_Catalog
 Year,Ano,module,Magento_Catalog
-from,from,module,Magento_Catalog
-to,to,module,Magento_Catalog
+from,de,module,Magento_Catalog
+to,até,module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
 "[STORE VIEW]","[VISÃO DE LOJA]",module,Magento_Catalog
@@ -1727,13 +1727,13 @@ Catalog,Catálogo,module,Magento_Catalog
 "This attribute no longer exists.","Este atributo não existe mais.",module,Magento_Catalog
 "This attribute cannot be edited.","Esse atributo não pode ser editado.",module,Magento_Catalog
 "Edit Product Attribute","Editar atributo do produto",module,Magento_Catalog
-"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
+"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","O atributo não pode ser salvo devido a um erro. Verifique suas informações e tente novamente. Se o erro persistir, por favor, tente novamente mais tarde.",module,Magento_Catalog
 "An attribute set named '%1' already exists.","Um atributo chamado '%1' já existe.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Problema ao salvar o atributo.",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","O código de atributo ""%1"" é inválido. Por favor use somente letras (a-z), números (0-9) ou underscore(_) neste campo, e o primeiro caractere deve ser uma letra.",module,Magento_Catalog
 "We can't update the attribute.","Não é possível atualizar o atributo.",module,Magento_Catalog
 "You saved the product attribute.","Você salvou o atributo do produto.",module,Magento_Catalog
-"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
+"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","O conjunto de atributos não pôde ser validado devido a um erro. Tente novamente. Se o erro persistir, tente novamente mais tarde.",module,Magento_Catalog
 "An attribute with this code already exists.","Um atributo com esse código já existe.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Um atributo com o mesmo código (%1) já existe.",module,Magento_Catalog
 "The value of Admin must be unique. (%1)","O valor de Admin deve ser único. (%1)",module,Magento_Catalog
@@ -1885,7 +1885,7 @@ Disabled,Desabilitado,module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 não estende \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
 "The file options format is invalid. Use a correct format and try again.","A opção de formato do arquivo é inválida. Use um formato correto e tente novamente.",module,Magento_Catalog
 px.,px.,module,Magento_Catalog
-"Full file path is expected.","Full file path is expected.",module,Magento_Catalog
+"Full file path is expected.","Caminho completo do arquivo é esperado.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","O arquivo '%1' para '%2' tem uma extensão inválida.",module,Magento_Catalog
 "The maximum allowed image size for '%1' is %2x%3 px.","O tamanho máximo permitido da imagem é '%1' é %2x%3 px.",module,Magento_Catalog
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","O arquivo '%1' você carregou é maior do que o %2 megabytes permitidos pelo nosso servidor.",module,Magento_Catalog
@@ -1957,7 +1957,7 @@ Search,Pesquisa,module,Magento_Catalog
 "Do not change the scope. %1","Não altere o escopo. %1",module,Magento_Catalog
 "Processor %1 doesn't implement BaseSelectProcessorInterface","Processador %1 não implementa BaseSelectProcessorInterface",module,Magento_Catalog
 "A product type is not defined for the indexer.","Um tipo de produto não está definido para indexação.",module,Magento_Catalog
-"Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
+"Price indexer ""%1"" must implement %2 or %3","Indexador de preço ""%1"" deve implementar %2 ou %3",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Produto com %1 SKU não está relacionado ao produto com SKU %2",module,Magento_Catalog
 "Multiple Select","Múltipla Seleção",module,Magento_Catalog
 Dropdown,"Menu suspenso",module,Magento_Catalog
@@ -2114,7 +2114,7 @@ Role,Função,module,Magento_Catalog
 "Buy %1 for:","Compre %1 para:",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Comprar %1 para %2 cada e <strong class=""benefit""> Salvar<span class=""percent tier-%3"">%4%</span></strong>",module,Magento_Catalog
 "Buy %1 for %2 each","Comprar %1 para %2 cada",module,Magento_Catalog
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Você adicionou o produto %1 para a <a href=""%2"">lista de comparação</a>.",module,Magento_Catalog
 "Shop By","Filtrar por",module,Magento_Catalog
 "Shopping Options","Opções de Compra",module,Magento_Catalog
 "Compare Products","Comparar Produtos",module,Magento_Catalog
@@ -2172,7 +2172,7 @@ Inventory,Inventário,module,Magento_Catalog
 Small,Pequena,module,Magento_Catalog
 Main,Principal,module,Magento_Catalog
 "Custom image","Imagem personalizada",module,Magento_Catalog
-Advanced,Advanced,module,Magento_Catalog
+Advanced,Avançado,module,Magento_Catalog
 "Product Fields Auto-Generation","Geração automática de campos de produto",module,Magento_Catalog
 "Mask for SKU","Máscara para SKU",module,Magento_Catalog
 "Use {{name}} as Product Name placeholder","Usar {{name}} como espaço reservado para o nome do produto",module,Magento_Catalog
@@ -2196,10 +2196,10 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Use Flat Catalog Category","Usar Categoria do Catálogo Flat",module,Magento_Catalog
 "Use Flat Catalog Product","Usar Produto do Catálogo Flat",module,Magento_Catalog
 "Product Listing Sort by","Listagem de produto, ordenar por",module,Magento_Catalog
-"Applies to category pages","Applies to category pages",module,Magento_Catalog
+"Applies to category pages","Aplica-se a páginas de categorias",module,Magento_Catalog
 "Allow All Products per Page","Permitir todos os produtos por página",module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Se deve aparecer a opção ""Todos"" no menu 'mostrar X por página'",module,Magento_Catalog
-"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
+"Remember Category Pagination","Lembrar a Paginação da Categoria",module,Magento_Catalog
 "Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
 "Product Image Placeholders","Espaços reservados da imagem de produto",module,Magento_Catalog
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Catalog
@@ -2423,15 +2423,15 @@ Edit,Editar,module,Magento_CatalogEvent
 "Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
 "Missing key %1 in product data","Falta a chave %1 em dados do produto",module,Magento_CatalogGraphQl
 "Concrete type for %1 not implemented","Tipo concreto para %1 não implementado",module,Magento_CatalogGraphQl
-"Cannot resolve type","Cannot resolve type",module,Magento_CatalogGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogGraphQl
-"""path"" value should be specified","""path"" value should be specified",module,Magento_CatalogGraphQl
+"Cannot resolve type","Não é possível resolver o tipo",module,Magento_CatalogGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_CatalogGraphQl
+"""path"" value should be specified","O valor ""path"" deve ser especificado",module,Magento_CatalogGraphQl
 "currentPage value %1 specified is greater than the number of pages available.","currentPage valor %1 especificado for maior que o número de páginas disponíveis.",module,Magento_CatalogGraphQl
 """id for category should be specified","""id de categoria deve ser especificado",module,Magento_CatalogGraphQl
 "No child sku found for product link.","Nenhuma sku filho encontrado para link de produto.",module,Magento_CatalogGraphQl
-"""image_type"" value should be specified","""image_type"" value should be specified",module,Magento_CatalogGraphQl
+"""image_type"" value should be specified","O valor ""image_type"" deve ser especificado",module,Magento_CatalogGraphQl
 "'search' or 'filter' input argument is required.","É necessário um argumento de entrada 'pesquisar' ou 'filtro'.",module,Magento_CatalogGraphQl
-"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the %2 page(s) available.","O valor currentPage especificado como %1 é maior do que o %2 página (s) disponíveis.",module,Magento_CatalogGraphQl
 "SimpleProduct type not defined in schema.","Tipo de SimpleProduct não definido no esquema.",module,Magento_CatalogGraphQl
 "'category_id' only supports 'eq' condition type.","'category_id' suporta apenas o tipo de condição 'eq'.",module,Magento_CatalogGraphQl
 "Entity type model '%1' is not found","Model do tipo de entidade '%1' não foi encontrado",module,Magento_CatalogImportExport
