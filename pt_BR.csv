@@ -2200,7 +2200,7 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Allow All Products per Page","Permitir todos os produtos por página",module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Se deve aparecer a opção ""Todos"" no menu 'mostrar X por página'",module,Magento_Catalog
 "Remember Category Pagination","Lembrar a Paginação da Categoria",module,Magento_Catalog
-"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","Modificando pode afetar SEO e o consumo do armazenamento de cache.",module,Magento_Catalog
 "Product Image Placeholders","Espaços reservados da imagem de produto",module,Magento_Catalog
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Catalog
 "Page Title Separator","Separador do título da página",module,Magento_Catalog
@@ -2223,9 +2223,9 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Default Product Layout","Layout de Produto Padrão",module,Magento_Catalog
 "Default Category Layout","Layout de Categoria Padrão",module,Magento_Catalog
 System,Sistema,module,Magento_Catalog
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
-Quality,Quality,module,Magento_Catalog
-"Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
+"Images Upload Configuration","Configuração de Upload de Imagens",module,Magento_Catalog
+Quality,Qualidade,module,Magento_Catalog
+"Jpeg quality for resized images 1-100%.","Qualidade Jpeg para imagens redimensionadas 1-100%.",module,Magento_Catalog
 "Product Info Column","Coluna de Informações do Produto",module,Magento_Catalog
 "Block after Info Column","Bloco após Coluna de Informações",module,Magento_Catalog
 "Product Flat Data","Dados Flat do Produto",module,Magento_Catalog
@@ -2721,10 +2721,10 @@ Category,Categoria,module,Magento_CatalogSearch
 "The bucket doesn't exist.","O balde não existe.",module,Magento_CatalogSearch
 Product,Produto,module,Magento_CatalogSearch
 "Deprecation Notice","Deprecation Notice",module,Magento_CatalogSearch
-"Test Exception","Test Exception",module,Magento_CatalogSearch
+"Test Exception","Exceção de teste",module,Magento_CatalogSearch
 "Search Settings","Configurações de Pesquisa",module,Magento_CatalogSearch
 Search,Pesquisa,module,Magento_CatalogSearch
-"Please enter a valid price range.","Please enter a valid price range.",module,Magento_CatalogSearch
+"Please enter a valid price range.","Por favor insira um intervalo de preço válido.",module,Magento_CatalogSearch
 "Advanced Search","Pesquisa Avançada",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>item de%1</strong> foram encontrados utilizando os seguintes critérios de pesquisa",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 itens</strong> foram encontrados utilizando os seguintes critérios de pesquisa",module,Magento_CatalogSearch
@@ -2741,7 +2741,7 @@ name,nome,module,Magento_CatalogSearch
 "Number of top search results to cache","Número de resultados de busca para armazenar em cache",module,Magento_CatalogSearch
 "Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.",module,Magento_CatalogSearch
 "Autocomplete Limit","Limite de Auto Complete",module,Magento_CatalogSearch
-"Enable EAV Indexer","Enable EAV Indexer",module,Magento_CatalogSearch
+"Enable EAV Indexer","Habilitar o indexador EAV",module,Magento_CatalogSearch
 "Rebuild Catalog product fulltext search index","Reconstruir o índice de pesquisa para texto do produto",module,Magento_CatalogSearch
 "The ProductSku is empty. Set the ProductSku and try again.","O ProductSku está vazio. Defina o ProductSku e tente novamente.",module,Magento_CatalogStaging
 "The ""%1"" attribute is required. Enter and try again.","O atributo ""%1"" é necessário. Digite e tente novamente.",module,Magento_CatalogStaging
