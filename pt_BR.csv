@@ -547,7 +547,7 @@ Stores,Lojas,module,Magento_Backend
 Home,Home,module,Magento_Backend
 Reset,Reiniciar,module,Magento_Backend
 "Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Backend
-label,label,module,Magento_Backend
+label,rótulo,module,Magento_Backend
 "Add New Image","Adicionar Nova Imagem",module,Magento_Backend
 "Export block for grid %1 is not defined","Bloco de exportação para a grid %1 não foi definido",module,Magento_Backend
 "Reset Filter","Limpar Filtro",module,Magento_Backend
@@ -2488,7 +2488,7 @@ Edit,Editar,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","O mínimo que você pode comprar é %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Por favor, corrija a quantidade para alguns produtos.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","O máximo que você pode comprar é %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","A quantidade solicitada não está disponível",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Não temos o total de ""%1"" que você solicitou, mas ainda restam disponíveis %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Não temos ""%1"" na quantidade solicitada, então vamos disponibilizar os %2 restantes.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Você pode comprar %1 somente em quantidades de %2 de cada vez.",module,Magento_CatalogInventory
@@ -2528,7 +2528,7 @@ Stock,Estoque,module,Magento_CatalogInventory
 "Use Config Settings","Usar Configurações padrão",module,Magento_CatalogInventory
 "Qty Uses Decimals","Qtd Usa Casas Decimais",module,Magento_CatalogInventory
 "Allow Multiple Boxes for Shipping","Permitir Várias Caixas para o Transporte",module,Magento_CatalogInventory
-"""model"" value should be specified","""model"" value should be specified",module,Magento_CatalogInventoryGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_CatalogInventoryGraphQl
 "New Permission","Nova Permissão",module,Magento_CatalogPermissions
 "You already have a permission with this scope.","Você já tem uma permissão com este escopo.",module,Magento_CatalogPermissions
 (Allow),(Permitir),module,Magento_CatalogPermissions
