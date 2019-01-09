@@ -1443,7 +1443,7 @@ Quantity:,Quantidade:,module,Magento_Bundle
 Position,Posição,module,Magento_Bundle
 "There are no products in this option.","Não há nenhum produto nesta opção.",module,Magento_Bundle
 Default,Padrão,module,Magento_Bundle
-Ordered,Ordenado,module,Magento_Bundle
+Ordered,Comprado,module,Magento_Bundle
 Invoiced,Faturado,module,Magento_Bundle
 Shipped,Enviado,module,Magento_Bundle
 Refunded,Reembolsado,module,Magento_Bundle
@@ -2952,7 +2952,7 @@ Loading...,Carregando...,module,Magento_Checkout
 "Product Name","Nome do produto",module,Magento_Checkout
 "Incl. Tax","Imposto Incl.",module,Magento_Checkout
 "Your order number is: %1.","O número do seu pedido é: %1.",module,Magento_Checkout
-"Your order # is: <span>%1</span>.","Sua pedido # é: <span>%1</span>.",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","O número do seu pedido é: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Enviaremos para você um e-mail de confirmação do seu pedido com detalhes e informações de rastreamento.",module,Magento_Checkout
 "Payment Transaction Failed Reminder","Transação de pagamento Falha Reminder",module,Magento_Checkout
 "Payment Transaction Failed","Transação de Pagamento Falhou",module,Magento_Checkout
@@ -5484,7 +5484,7 @@ Subtotal,Subtotal,module,Magento_Downloadable
 "Discount Amount","Quantidade do Desconto",module,Magento_Downloadable
 "Row Total","Linha Total",module,Magento_Downloadable
 "Qty Invoiced","Quantidade faturada",module,Magento_Downloadable
-Ordered,Ordenado,module,Magento_Downloadable
+Ordered,Comprado,module,Magento_Downloadable
 Shipped,Enviado,module,Magento_Downloadable
 Canceled,Cancelado,module,Magento_Downloadable
 Refunded,Reembolsado,module,Magento_Downloadable
@@ -5909,7 +5909,7 @@ N/A,"Não Disponível",module,Magento_GiftCard
 "Please specify a sender name.","Por favor, especifique um nome de remetente.",module,Magento_GiftCard
 "Please specify a recipient email.","Por favor, especifique um email de destinatário.",module,Magento_GiftCard
 "Please specify a sender email.","Por favor, especifique um e-mail do remetente.",module,Magento_GiftCard
-Ordered,Ordenado,module,Magento_GiftCard
+Ordered,Comprado,module,Magento_GiftCard
 Invoiced,Faturado,module,Magento_GiftCard
 Amount,Quantidade,module,Magento_GiftCard
 To,Até,module,Magento_GiftCard
@@ -7916,8 +7916,8 @@ Update,Update,module,Magento_NegotiableQuote
 "Reason: %reason.","Reason: %reason.",module,Magento_NegotiableQuote
 "expires on","expires on",module,Magento_NegotiableQuote
 "after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.","after which time you can’t order the items in the quote. After the expiration,
-    you’ll have to negotiate the price with the seller again.",module,Magento_NegotiableQuote
+    you’ll have to negotiate the price with the seller again.","after which time you can’t order the items in the quote. After the expiration,
+    you’ll have to negotiate the price with the seller again.",module,Magento_NegotiableQuote
 "%merchant_name,","%merchant_name,",module,Magento_NegotiableQuote
 %quote_id,%quote_id,module,Magento_NegotiableQuote
 "Dear %merchantName,","Dear %merchantName,",module,Magento_NegotiableQuote
@@ -8289,7 +8289,7 @@ Import,Importar,module,Magento_OfflineShipping
 "Access list","Lista de acesso",module,Magento_PageCache
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Lista de IPs de acesso separados com ',' que pode purgar configuração Varnish para a geração de arquivo de configuração.
-                             Se o campo estiver vazio valor padrão localhost será salvo.",module,Magento_PageCache
+                             Se o campo estiver vazio valor padrão localhost será salvo.",module,Magento_PageCache
 "Backend host","Host do backend",module,Magento_PageCache
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Especifique o host do backend para a geração do arquivo de configuração. Se o campo estiver vazio será gravado o valor localhost.",module,Magento_PageCache
 "Backend port","Porta de back-end",module,Magento_PageCache
@@ -9424,7 +9424,7 @@ CSV,CSV,module,Magento_Reports
 "Excel XML","Excel, XML",module,Magento_Reports
 Unlimited,Ilimitado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
-"Products Ordered","Produtos ordenados",module,Magento_Reports
+"Products Ordered","Produtos comprados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
 "Show Report","Mostrar relatório",module,Magento_Reports
 Interval,Intervalo,module,Magento_Reports
@@ -10078,7 +10078,7 @@ Split,Dividir,module,Magento_Rma
 Action,Ação,module,Magento_Rma
 "Return Information","Informações da devolução",module,Magento_Rma
 RMA,RMA,module,Magento_Rma
-Ordered,Ordenado,module,Magento_Rma
+Ordered,Comprado,module,Magento_Rma
 Customer,Cliente,module,Magento_Rma
 View,Visualizar,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Você optou por mudar status das solicitações de RMA selecionados para Fechados. Tem certeza que deseja continuar?",module,Magento_Rma
@@ -10568,7 +10568,7 @@ Invoice,Fatura,module,Magento_Sales
 Ship,Enviar,module,Magento_Sales
 Reorder,"Refazer pedido",module,Magento_Sales
 "Order # %1 %2 | %3","Pedido # %1 %2 | %3",module,Magento_Sales
-"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Esta pedido contém os itens (%1) e, portanto, não pode ser editado através da interface de administração. Se você deseja continuar editando, os itens (%2) serão removidos, o pedido será cancelado e um novo pedido será criado.",module,Magento_Sales
+"This order contains (%1) items and therefore cannot be edited through the admin interface. If you wish to continue editing, the (%2) items will be removed,  the order will be canceled and a new order will be placed.","Este pedido contém os itens (%1) e, portanto, não pode ser editado através da interface de administração. Se você deseja continuar editando, os itens (%2) serão removidos, o pedido será cancelado e um novo pedido será criado.",module,Magento_Sales
 "Are you sure? This order will be canceled and a new one will be created instead.","Você tem certeza? Este pedido será cancelado e um novo será criado.",module,Magento_Sales
 "Save Gift Message","Salvar a mensagem de presente",module,Magento_Sales
 [deleted],[apagado],module,Magento_Sales
@@ -10780,7 +10780,7 @@ Paid,Pago,module,Magento_Sales
 "The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","A quantidade a fatura não deve ser maior que a quantidade não faturada para o produto de SKU ""%1"".",module,Magento_Sales
 "The invoice contains one or more items that are not part of the original order.","A fatura contém um ou mais itens que não fazem parte do pedido original.",module,Magento_Sales
 "Unknown Status","Status desconhecido",module,Magento_Sales
-Ordered,Ordenado,module,Magento_Sales
+Ordered,Comprado,module,Magento_Sales
 Shipped,Enviado,module,Magento_Sales
 Invoiced,Faturado,module,Magento_Sales
 Backordered,"Pedidos pendentes",module,Magento_Sales
@@ -11033,7 +11033,7 @@ Comment,Comentar,module,Magento_Sales
 "Order Date (%1)","Data do pedido (%1)",module,Magento_Sales
 "Purchased From","Comprado de",module,Magento_Sales
 "Link to the New Order","Link para Novo Pedido",module,Magento_Sales
-"Link to the Previous Order","Link para Pedido Anterior",module,Magento_Sales
+"Link to the Previous Order","Link para o Pedido Anterior",module,Magento_Sales
 "Placed from IP","Efetuado do IP",module,Magento_Sales
 "%1 / %2 rate:","%1 / %2 taxa:",module,Magento_Sales
 "Edit Customer","Editar Cliente",module,Magento_Sales
@@ -11982,7 +11982,7 @@ included,included,module,Magento_SharedCatalog
 "Assign Catalog","Assign Catalog",module,Magento_SharedCatalog
 "Unassign Catalog","Unassign Catalog",module,Magento_SharedCatalog
 ID,ID,module,Magento_SharedCatalog
-Company,Company,module,Magento_SharedCatalog
+Company,Empresa,module,Magento_SharedCatalog
 Country,País,module,Magento_SharedCatalog
 State/Province,State/Province,module,Magento_SharedCatalog
 Assigned,Assigned,module,Magento_SharedCatalog
