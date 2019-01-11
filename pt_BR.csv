@@ -1419,7 +1419,7 @@ Quantity:,Quantidade:,module,Magento_Bundle
 Position,Posição,module,Magento_Bundle
 "There are no products in this option.","Não há nenhum produto nesta opção.",module,Magento_Bundle
 Default,Padrão,module,Magento_Bundle
-Ordered,Ordenado,module,Magento_Bundle
+Ordered,Comprado,module,Magento_Bundle
 Invoiced,Faturado,module,Magento_Bundle
 Shipped,Enviado,module,Magento_Bundle
 Refunded,Reembolsado,module,Magento_Bundle
@@ -4987,7 +4987,7 @@ Any,Qualquer,module,Magento_CustomerSegment
 "Product %1","Produto %1",module,Magento_CustomerSegment
 "Date Ranges","Intervalo de Data",module,Magento_CustomerSegment
 viewed,visualizaram,module,Magento_CustomerSegment
-ordered,ordenou,module,Magento_CustomerSegment
+ordered,comprado,module,Magento_CustomerSegment
 was,era,module,Magento_CustomerSegment
 "was not","não era",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","Se produto %1 %3 %2 e partidas destas condições:",module,Magento_CustomerSegment
@@ -5373,7 +5373,7 @@ Subtotal,Subtotal,module,Magento_Downloadable
 "Discount Amount","Quantidade do Desconto",module,Magento_Downloadable
 "Row Total","Linha Total",module,Magento_Downloadable
 "Qty Invoiced","Quantidade faturada",module,Magento_Downloadable
-Ordered,Ordenado,module,Magento_Downloadable
+Ordered,Comprado,module,Magento_Downloadable
 Shipped,Enviado,module,Magento_Downloadable
 Canceled,Cancelado,module,Magento_Downloadable
 Refunded,Reembolsado,module,Magento_Downloadable
@@ -5816,7 +5816,7 @@ N/A,"Não Disponível",module,Magento_GiftCard
 "Please specify a sender name.","Por favor, especifique um nome de remetente.",module,Magento_GiftCard
 "Please specify a recipient email.","Por favor, especifique um email de destinatário.",module,Magento_GiftCard
 "Please specify a sender email.","Por favor, especifique um e-mail do remetente.",module,Magento_GiftCard
-Ordered,Ordenado,module,Magento_GiftCard
+Ordered,Comprado,module,Magento_GiftCard
 Invoiced,Faturado,module,Magento_GiftCard
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Algumas contas de cartão de presente não foram criadas corretamente. Você pode criar a conta manualmente <a href=""%1""> aqui</a>.",module,Magento_GiftCard
 Amount,Quantidade,module,Magento_GiftCard
@@ -7581,7 +7581,7 @@ New,New,module,Magento_NegotiableQuote
 Open,Open,module,Magento_NegotiableQuote
 Updated,Updated,module,Magento_NegotiableQuote
 Submitted,Submitted,module,Magento_NegotiableQuote
-Ordered,Ordered,module,Magento_NegotiableQuote
+Ordered,Comprado,module,Magento_NegotiableQuote
 Expired,Expired,module,Magento_NegotiableQuote
 Declined,Declined,module,Magento_NegotiableQuote
 Closed,Closed,module,Magento_NegotiableQuote
@@ -7804,7 +7804,7 @@ Edit,Edit,module,Magento_NegotiableQuote
 "Ship Here","Ship Here",module,Magento_NegotiableQuote
 "Update Catalog Prices.","Atualize o Catálogo de Preços.",module,Magento_NegotiableQuote
 "If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
-"No ordered items","No ordered items",module,Magento_NegotiableQuote
+"No ordered items","Não há items comprados",module,Magento_NegotiableQuote
 "Please enter a number greater than 0 in this field","Please enter a number greater than 0 in this field",module,Magento_NegotiableQuote
 "This is a required field.","Este é um campo obrigatório.",module,Magento_NegotiableQuote
 "Please enter a non-decimal number please","Please enter a non-decimal number please",module,Magento_NegotiableQuote
@@ -8868,7 +8868,7 @@ User,Usuário,module,Magento_Paypal
 "Clear Persistence on Sign Out","Limpar Persistência ao Terminar Sessão",module,Magento_Persistent
 "Persist Shopping Cart","Persistir Carrinho de Compras",module,Magento_Persistent
 "Persist Wish List","Manter a lista de desejos",module,Magento_PersistentHistory
-"Persist Recently Ordered Items","Persistir Itens Encomendados Recentemente",module,Magento_PersistentHistory
+"Persist Recently Ordered Items","Persistir Itens Comprados Recentemente",module,Magento_PersistentHistory
 "Persist Currently Compared Products","Persistir Produtos Atualmente em Comparação",module,Magento_PersistentHistory
 "Persist Comparison History","Persistir Histórico de Comparação",module,Magento_PersistentHistory
 "Persist Recently Viewed Products","Persistir Produtos Visualizados Recentemente",module,Magento_PersistentHistory
@@ -9268,7 +9268,7 @@ CSV,CSV,module,Magento_Reports
 "Excel XML","Excel, XML",module,Magento_Reports
 Unlimited,Ilimitado,module,Magento_Reports
 "Low stock","Estoque Mínimo",module,Magento_Reports
-"Products Ordered","Produtos ordenados",module,Magento_Reports
+"Products Ordered","Produtos comprados",module,Magento_Reports
 "Most Viewed","Mais visitados",module,Magento_Reports
 "Show Report","Mostrar relatório",module,Magento_Reports
 Interval,Intervalo,module,Magento_Reports
@@ -9354,7 +9354,7 @@ Reports,Relatórios,module,Magento_Reports
 "Downloads Report","Baixar relatórios",module,Magento_Reports
 "Low Stock","Estoque Mínimo",module,Magento_Reports
 "Low Stock Report","Relatório de Estoque baixo",module,Magento_Reports
-"Ordered Products Report","Relatório Ordenado de Pedidos",module,Magento_Reports
+"Ordered Products Report","Relatório de Pedidos",module,Magento_Reports
 "Products Most Viewed Report","Relatório dos produtos mais vistos",module,Magento_Reports
 "Product Views Report","Relatório de produtos vistos",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","Ocorreu um erro ao mostrar o relatório de visualizações de produto. Por favor, revise o log e tente novamente.",module,Magento_Reports
@@ -9919,7 +9919,7 @@ Split,Dividir,module,Magento_Rma
 Action,Ação,module,Magento_Rma
 "Return Information","Informações da devolução",module,Magento_Rma
 RMA,RMA,module,Magento_Rma
-Ordered,Ordenado,module,Magento_Rma
+Ordered,Comprado,module,Magento_Rma
 Customer,Cliente,module,Magento_Rma
 View,Visualizar,module,Magento_Rma
 "You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Você optou por mudar status das solicitações de RMA selecionados para Fechados. Tem certeza que deseja continuar?",module,Magento_Rma
@@ -10299,7 +10299,7 @@ Message,Mensagem,module,Magento_Sales
 "Items Ordered","Itens comprados",module,Magento_Sales
 "This product is disabled.","Este produto está desabilitado.",module,Magento_Sales
 "Buy %1 for price %2","Compre %1 pelo preço de %2",module,Magento_Sales
-"Item ordered qty","Qtde comprada do item",module,Magento_Sales
+"Item ordered qty","Qtd comprada do item",module,Magento_Sales
 "%1 with %2 discount each","%1 com %2 de desconto cada",module,Magento_Sales
 "%1 for %2","%1 por %2",module,Magento_Sales
 "* - Enter custom price including tax","* - Inserir preço personalizado, incluindo impostos",module,Magento_Sales
@@ -10606,7 +10606,7 @@ Paid,Pago,module,Magento_Sales
 "The invoice contains one or more items that are not part of the original order.","A fatura contém um ou mais itens que não fazem parte do pedido original.",module,Magento_Sales
 "ID required","Id obrigatório",module,Magento_Sales
 "Unknown Status","Status desconhecido",module,Magento_Sales
-Ordered,Ordenado,module,Magento_Sales
+Ordered,Comprado,module,Magento_Sales
 Shipped,Enviado,module,Magento_Sales
 Invoiced,Faturado,module,Magento_Sales
 Backordered,"Pedidos pendentes",module,Magento_Sales
@@ -10776,7 +10776,7 @@ Remove,Remover,module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Deixe essa caixa em branco se você não quer deixar uma mensagem de presente para todo o pedido.",module,Magento_Sales
 "Row Subtotal","Linha de Subtotal",module,Magento_Sales
 Action,Ação,module,Magento_Sales
-"No ordered items","Não há itens solicitados",module,Magento_Sales
+"No ordered items","Não há itens comprados",module,Magento_Sales
 "Update Items and Quantities","Atualizar Itens e Quantidades",module,Magento_Sales
 "Total %1 product(s)","%1 produto(s) no total",module,Magento_Sales
 Subtotal:,Subtotal:,module,Magento_Sales
@@ -11905,7 +11905,7 @@ Girth,Circunferência,module,Magento_Shipping
 "Items in the Package","Itens do pacote",module,Magento_Shipping
 Product,Produto,module,Magento_Shipping
 Weight,Peso,module,Magento_Shipping
-"Qty Ordered","Qtde comprada",module,Magento_Shipping
+"Qty Ordered","Qtd comprada",module,Magento_Shipping
 Qty,Qtd,module,Magento_Shipping
 "No detail for number ""%1""","Nenhum detalhe para o número ""%1""",module,Magento_Shipping
 "Shipping labels is not available.","Etiquetas de envio não está disponível.",module,Magento_Shipping
@@ -13777,8 +13777,8 @@ Default,Padrão,module,Magento_VersionsCms
 Circle,Círculo,module,Magento_VersionsCms
 Disc,Disco,module,Magento_VersionsCms
 Square,Quadrado,module,Magento_VersionsCms
-Unordered,"Não ordenado",module,Magento_VersionsCms
-Ordered,Ordenado,module,Magento_VersionsCms
+Unordered,"Não comprado",module,Magento_VersionsCms
+Ordered,Comprado,module,Magento_VersionsCms
 "Use Parent","Usar pai",module,Magento_VersionsCms
 Yes,Sim,module,Magento_VersionsCms
 "Use the parent node hierarchy.","Use a hierarquia do nó pai.",module,Magento_VersionsCms
