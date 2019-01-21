@@ -17,7 +17,7 @@ None,Nenhum,module,Magento_AdminGws
 "You need more permissions to save this setting.","Você precisa ter mais permissões para gravar esta configuração.",module,Magento_AdminGws
 "Role Scopes","Escopos da Regra",module,Magento_AdminGws
 Custom,Personalizado,module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Você não tem permissões para salvar este item no escopo da visão de loja atual. Por favor, altere para a visão de loja permitida",module,Magento_AdminGws
 "Read Details","Ler Detalhes",module,Magento_AdminNotification
 "Mark as Read","Marcar como Lido",module,Magento_AdminNotification
 "Are you sure?","Você tem certeza?",module,Magento_AdminNotification
@@ -844,7 +844,7 @@ Security,Segurança,module,Magento_Backend
 Web,Web,module,Magento_Backend
 "Url Options","Opções de Url",module,Magento_Backend
 "Add Store Code to Urls","Adicionar o Código da Loja aos Url's",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Atenção!</strong> Quando usar código de loja na URL, em alguns casos o sistema pode não funcionar corretamente em URLs sem os códigos de loja especificados em serviços de terceiros (ex: Paypal etc.).",module,Magento_Backend
 "Auto-redirect to Base URL","Redirecionar Automaticamente para o URL Base",module,Magento_Backend
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Backend
 "Use Web Server Rewrites","Usar opção de Reescrever do Servidor Web",module,Magento_Backend
@@ -2972,7 +2972,7 @@ Payment,Pagamento,module,Magento_Checkout
 "We received your order!","Recebemos o seu pedido!",module,Magento_Checkout
 "Thank you for your purchase!","Obrigado por sua compra!",module,Magento_Checkout
 Password,Senha,module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.","Alguma coisa deu errado no salvamento da página. Por favor atualize a pagina e tente novamente.",module,Magento_Checkout
 "Item in Cart","Item no Carrinho",module,Magento_Checkout
 "Items in Cart","Itens no Carrinho",module,Magento_Checkout
 Close,Fechar,module,Magento_Checkout
@@ -4860,19 +4860,19 @@ Back,Voltar,module,Magento_CustomerCustomAttributes
 "Data was imported by %1","Dados foram importados por %1",module,Magento_CustomerFinance
 "Store Credit","Loja de Crédito",module,Magento_CustomerFinance
 "Reward Points","Pontos de recompensa",module,Magento_CustomerFinance
-"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
-"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
-"The account is locked.","The account is locked.",module,Magento_CustomerGraphQl
-"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_CustomerGraphQl
-"Customer id ""%customer_id"" does not exist.","Customer id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
-"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
-"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
-"Specify the ""email"" value.","Specify the ""email"" value.",module,Magento_CustomerGraphQl
-"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
-"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
+"The current customer isn't authorized.","O cliente atual não está autorizado.",module,Magento_CustomerGraphQl
+"Customer with id ""%customer_id"" does not exist.","Cliente com id ""%customer_id"" não existe.",module,Magento_CustomerGraphQl
+"The account is locked.","A conta está bloqueada.",module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.","Esta conta não está confirmada. Verifique e tente novamente.",module,Magento_CustomerGraphQl
+"The password doesn't match this account. Verify the password and try again.","A senha não corresponde a essa conta. Verifique a senha e tente novamente.",module,Magento_CustomerGraphQl
+"Customer id ""%customer_id"" does not exist.","Cliente com id ""%customer_id"" não existe.",module,Magento_CustomerGraphQl
+"Provide the current ""password"" to change ""email"".","Informe a ""senha"" atual para alterar o ""email"".",module,Magento_CustomerGraphQl
+"A customer with the same email address already exists in an associated website.","Um cliente com o mesmo e-mail já existe em um website associado.",module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","Especifique o valor da ""senhaAtual"".",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","Especifique o valor da ""novaSenha"".",module,Magento_CustomerGraphQl
+"Specify the ""email"" value.","Especifique o valor do ""email"".",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","Especifique o valor da ""senha"".",module,Magento_CustomerGraphQl
+"""input"" value should be specified","O valor de ""input"" deve ser especificado",module,Magento_CustomerGraphQl
 "Please specify a website.","Por favor, especifique um site.",module,Magento_CustomerImportExport
 "Please specify an email.","Por favor, especifique um e-mail.",module,Magento_CustomerImportExport
 "We found an invalid value in a website column.","Encontramos um valor inválido em uma coluna do site.",module,Magento_CustomerImportExport
@@ -5260,11 +5260,11 @@ Service,Serviço,module,Magento_Directory
 "State is Required for","Estado é necessário para",module,Magento_Directory
 "Allow to Choose State if It is Optional for Country","Permitir a opção Escolher Estado se for Opcional para o País",module,Magento_Directory
 "Weight Unit","Unidade de Peso",module,Magento_Directory
-"No API Key was specified or an invalid API Key was specified.","No API Key was specified or an invalid API Key was specified.",module,Magento_Directory
-"The account this API request is coming from is inactive.","The account this API request is coming from is inactive.",module,Magento_Directory
-"The ""%1"""" is not allowed as base currency for your subscription plan.""","The ""%1"""" is not allowed as base currency for your subscription plan.""",module,Magento_Directory
-"An invalid base currency has been entered.","An invalid base currency has been entered.",module,Magento_Directory
-"Currency rates can't be retrieved.","Currency rates can't be retrieved.",module,Magento_Directory
+"No API Key was specified or an invalid API Key was specified.","Não foi especificada uma API Key ou foi especificada uma API Key inválida.",module,Magento_Directory
+"The account this API request is coming from is inactive.","A conta da qual está vindo esta requisição de API está inativa.",module,Magento_Directory
+"The ""%1"""" is not allowed as base currency for your subscription plan.""","O ""%1"""" não é permitido como moeda base para o seu plano de assinatura",module,Magento_Directory
+"An invalid base currency has been entered.","Uma moeda base inválida foi indicada.",module,Magento_Directory
+"Currency rates can't be retrieved.","Taxas de câmbio não podem ser recuperadas.",module,Magento_Directory
 "Document is not saved due to error.","O documento não foi salvo devido a um erro.",module,Magento_Doc
 "More than one node matching the query: %1","Mais de um nó correspondente a consulta: %1",module,Magento_Doc
 "Invalid XML in file %1:\n%2","XML inválido no ficheiro %1:\n%2",module,Magento_Doc
@@ -5389,7 +5389,7 @@ Downloads,Transferências,module,Magento_Downloadable
 "Use Content-Disposition","Usar Disposição de Conteúdo",module,Magento_Downloadable
 "Disable Guest Checkout if Cart Contains Downloadable Items","Desativar Checkout para Utilizadores Não Registrados se o Carrinho Contiver Itens com Download",module,Magento_Downloadable
 "Guest checkout will only work with shareable.","O checkout para utilizadores não registrados apenas funcionará com conteúdo partilhável.",module,Magento_Downloadable
-"""model"" value should be specified","""model"" value should be specified",module,Magento_DownloadableGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_DownloadableGraphQl
 "File directory '%1' is not readable.","Diretório do arquivo '%1' não é legível.",module,Magento_DownloadableImportExport
 "File directory '%1' is not writable.","Diretório do arquivo '%1' não é gravável.",module,Magento_DownloadableImportExport
 Error,Erro,module,Magento_DownloadableImportExport
@@ -5538,12 +5538,12 @@ hello,olá,module,Magento_Eav
 "The value of attribute not valid","O valor do atributo não é válido",module,Magento_Eav
 "EAV types and attributes","Tipos EAV e atributos",module,Magento_Eav
 "Entity types declaration cache","Cache de declaração de tipos de entidade",module,Magento_Eav
-"""Entity type should be specified","""Entity type should be specified",module,Magento_EavGraphQl
-"""Attribute code should be specified","""Attribute code should be specified",module,Magento_EavGraphQl
+"""Entity type should be specified","O tipo da entidade deve ser especificado",module,Magento_EavGraphQl
+"""Attribute code should be specified","O atributo 'code' deve ser especificado",module,Magento_EavGraphQl
 "Attribute code %1 of entity type %2 not configured to have a type.","Código de atributo %1 do tipo de entidade %2 não configurado para ter um tipo.",module,Magento_EavGraphQl
 "Invalid entity_type specified: %1","Entity_type inválido especificado: %1",module,Magento_EavGraphQl
 "Missing %1 for the input %2.","Faltando %1 para a entrada %2.",module,Magento_EavGraphQl
-"Cannot resolve EAV type","Cannot resolve EAV type",module,Magento_EavGraphQl
+"Cannot resolve EAV type","Não é possível resolver o tipo EAV",module,Magento_EavGraphQl
 "There is no such data mapper ""%1"" for interface %2","O mapeador de dados ""%1"" para a interface ""%2"" não existe",module,Magento_Elasticsearch
 "Data mapper ""%1"" must implement interface %2","Mapeador de dados ""%1"" deve implementar a interface ""%2""",module,Magento_Elasticsearch
 "We were unable to perform the search because of a search engine misconfiguration.","Fomos incapazes de realizar a pesquisa devido a um erro no mecanismo de busca.",module,Magento_Elasticsearch
@@ -6019,7 +6019,7 @@ CSV,CSV,module,Magento_GiftCardAccount
 Code,Código,module,Magento_GiftCardAccount
 End,Fim,module,Magento_GiftCardAccount
 "Amount can be returned to Store Credit.","Amount can be returned to Store Credit.",module,Magento_GiftCardAccount
-"""model"" value should be specified","""model"" value should be specified",module,Magento_GiftCardGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_GiftCardGraphQl
 "Gift Messages are not applicable for empty cart","Mensagens de Presentes não estão disponíveis para carrinhos vazios",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","As Mensagens de Presente não se aplicam a produtos virtuais",module,Magento_GiftMessage
 "Gift Message is not available","Mensagem de Presente não disponível",module,Magento_GiftMessage
@@ -6523,7 +6523,7 @@ Type,Tipo,module,Magento_GroupedProduct
 Quantity,Quantidade,module,Magento_GroupedProduct
 AttributeSetText,AttributeSetText,module,Magento_GroupedProduct
 StatusText,"Texto do Status",module,Magento_GroupedProduct
-"""model"" value should be specified","""model"" value should be specified",module,Magento_GroupedProductGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_GroupedProductGraphQl
 Select...,Selecionar...,module,Magento_GroupedProductStaging
 Status,Status,module,Magento_GroupedProductStaging
 ID,ID,module,Magento_GroupedProductStaging
@@ -6699,7 +6699,7 @@ Updated,Atualizado,module,Magento_Indexer
 "Payment Method","Método de Pagamento",module,Magento_InstantPurchase
 "Shipping Method","Modo de Envio",module,Magento_InstantPurchase
 Enabled,Ativo,module,Magento_InstantPurchase
-"Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
+"Payment method with vault and instant purchase support should be enabled.","Método de pagamento com cofre e suporte de compra imediata deve ser habilitado.",module,Magento_InstantPurchase
 "Button Text","Texto do botão",module,Magento_InstantPurchase
 Integrations,Integrações,module,Magento_Integration
 "Add New Integration","Adicionar Nova Integração",module,Magento_Integration
