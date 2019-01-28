@@ -5872,7 +5872,7 @@ Redeemable,Resgatáveis,module,Magento_GiftCard
 "Allow Gift Message","Permitir Mensagem de Presente",module,Magento_GiftCard
 "Gift Message Maximum Length","Comprimento Máximo da Mensagem de Presente",module,Magento_GiftCard
 "Generate Gift Card Account when Order Item is","Gerar Conta de Cartão de Presente quando o Item do Pedido é",module,Magento_GiftCard
-"Amount should be specified or Open Amount should be allowed","Amount should be specified or Open Amount should be allowed",module,Magento_GiftCard
+"Amount should be specified or Open Amount should be allowed","Montante deve ser especificado ou quantidade aberto deve ser permitido",module,Magento_GiftCard
 "Gift Card Accounts","Contas de cartão de presente",module,Magento_GiftCardAccount
 "Add Gift Card Account","Adicionar conta de cartão de presente",module,Magento_GiftCardAccount
 Save,Salvar,module,Magento_GiftCardAccount
@@ -6018,7 +6018,7 @@ CSV,CSV,module,Magento_GiftCardAccount
 "Are you sure you want to delete these gift card accounts?","Você tem certeza que deseja excluir essas contas de cartão de presente?",module,Magento_GiftCardAccount
 Code,Código,module,Magento_GiftCardAccount
 End,Fim,module,Magento_GiftCardAccount
-"Amount can be returned to Store Credit.","Amount can be returned to Store Credit.",module,Magento_GiftCardAccount
+"Amount can be returned to Store Credit.","Valor pode ser devolvido para crédito da loja.",module,Magento_GiftCardAccount
 """model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_GiftCardGraphQl
 "Gift Messages are not applicable for empty cart","Mensagens de Presentes não estão disponíveis para carrinhos vazios",module,Magento_GiftMessage
 "Gift Messages are not applicable for virtual products","As Mensagens de Presente não se aplicam a produtos virtuais",module,Magento_GiftMessage
@@ -7443,7 +7443,7 @@ Options,Opções,module,Magento_Multishipping
 "We received your order!","Recebemos o seu pedido!",module,Magento_Multishipping
 "Ship to:","Entregar para:",module,Magento_Multishipping
 Error:,Erro:,module,Magento_Multishipping
-"We are unable to process your request. Please, try again later.","We are unable to process your request. Please, try again later.",module,Magento_Multishipping
+"We are unable to process your request. Please, try again later.","Não conseguimos processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Multishipping
 "Message has been rejected: %1","A mensagem foi rejeitada: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","Limpeza da Fila de Mensagens MySQL",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Todos os tempos estão em minutos. Use ""0"" se não quiser efetuar uma limpeza automática.",module,Magento_MysqlMq
@@ -7896,7 +7896,7 @@ General,Geral,module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","Pode encontrar esta informação ao navegar até Configurações a partir do novo site Relic APM",module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Ativar Cron",module,Magento_NewRelicReporting
-"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps",module,Magento_NewRelicReporting
+"Send Adminhtml and Frontend as Separate Apps","Enviar Adminhtml e Frontend como Apps separados",module,Magento_NewRelicReporting
 "In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Excluir os problemas selecionados",module,Magento_Newsletter
 "Unsubscribe Selected","Remover Subscrição aos Selecionados",module,Magento_Newsletter
