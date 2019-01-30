@@ -9466,95 +9466,95 @@ Action,Ação,module,Magento_Reports
 Report,Relatório,module,Magento_Reports
 Description,Descrição,module,Magento_Reports
 undefined,"Não definido",module,Magento_Reports
-"My Requisition Lists","My Requisition Lists",module,Magento_RequisitionList
-"The SKU was not found in the catalog.","The SKU was not found in the catalog.",module,Magento_RequisitionList
-"We can't update your requisition list right now.","We can't update your requisition list right now.",module,Magento_RequisitionList
-"We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1.",module,Magento_RequisitionList
-"We can't specify a requisition list.","We can't specify a requisition list.",module,Magento_RequisitionList
-"You must choose options for your item.","You must choose options for your item.",module,Magento_RequisitionList
-"We can't specify a product.","We can't specify a product.",module,Magento_RequisitionList
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart.",module,Magento_RequisitionList
-"Something went wrong.","Something went wrong.",module,Magento_RequisitionList
-"We can't configure the product right now.","We can't configure the product right now.",module,Magento_RequisitionList
-"%1 item(s) were copied to %2","%1 item(s) were copied to %2",module,Magento_RequisitionList
-"%1 item(s) were added to the ""%2""","%1 item(s) were added to the ""%2""",module,Magento_RequisitionList
-"%1 item(s) were moved to %2","%1 item(s) were moved to %2",module,Magento_RequisitionList
-"Requisition Lists","Requisition Lists",module,Magento_RequisitionList
-"Requisition List","Requisition List",module,Magento_RequisitionList
-"Invalid item option format.","Invalid item option format.",module,Magento_RequisitionList
-"An item option with code %1 already exists.","An item option with code %1 already exists.",module,Magento_RequisitionList
-"Could not save Requisition List","Could not save Requisition List",module,Magento_RequisitionList
-"Cannot delete Requisition List with id %1","Cannot delete Requisition List with id %1",module,Magento_RequisitionList
-"Cannot specify product.","Cannot specify product.",module,Magento_RequisitionList
-"%1 has been updated in your requisition list.","%1 has been updated in your requisition list.",module,Magento_RequisitionList
-"Product %1 has been added to the requisition list %2.","Product %1 has been added to the requisition list %2.",module,Magento_RequisitionList
-"Options were updated. Please review available configurations.","Options were updated. Please review available configurations.",module,Magento_RequisitionList
-"The SKU is out of stock.","The SKU is out of stock.",module,Magento_RequisitionList
+"My Requisition Lists","Minha lista de requisições",module,Magento_RequisitionList
+"The SKU was not found in the catalog.","O SKU não foi encontrado no catálogo.",module,Magento_RequisitionList
+"We can't update your requisition list right now.","Nós não podemos atualizar sua lista de requisições neste momento.",module,Magento_RequisitionList
+"We can't add the item to the Requisition List right now: %1.","Nós não podemos adicionar o item na lista de requisição: %1.",module,Magento_RequisitionList
+"We can't specify a requisition list.","Nós não podemos especificar a lista de requisições.",module,Magento_RequisitionList
+"You must choose options for your item.","Você deve selecionar opções para o seu item.",module,Magento_RequisitionList
+"We can't specify a product.","Nós não podemos especificar um produto.",module,Magento_RequisitionList
+"You added %1 item(s) to your shopping cart.","Você adicionou %1 item(s) no seu carrinho de compras.",module,Magento_RequisitionList
+"Something went wrong.","Algo deu errado.",module,Magento_RequisitionList
+"We can't configure the product right now.","Nós não podemos configurar o produto neste momento.",module,Magento_RequisitionList
+"%1 item(s) were copied to %2","%1 item(s) foram copiado(s) para %2",module,Magento_RequisitionList
+"%1 item(s) were added to the ""%2""","%1 item(s) foram adicionados para ""%2""",module,Magento_RequisitionList
+"%1 item(s) were moved to %2","%1 item(s) foram movidos para %2",module,Magento_RequisitionList
+"Requisition Lists","Lista de requisições",module,Magento_RequisitionList
+"Requisition List","Lista de requisições",module,Magento_RequisitionList
+"Invalid item option format.","Formato de item inválido.",module,Magento_RequisitionList
+"An item option with code %1 already exists.","Uma opção do item com o código %1 já existe.",module,Magento_RequisitionList
+"Could not save Requisition List","Não foi possível salvar a lista de requisições",module,Magento_RequisitionList
+"Cannot delete Requisition List with id %1","Não foi possível deletar a lista de requisições com o id %1",module,Magento_RequisitionList
+"Cannot specify product.","Não foi possível especificar o produto.",module,Magento_RequisitionList
+"%1 has been updated in your requisition list.","%1 foi atualizado na sua lista de requisições.",module,Magento_RequisitionList
+"Product %1 has been added to the requisition list %2.","O produto %1 foi adicionado a lista de requisições %2.",module,Magento_RequisitionList
+"Options were updated. Please review available configurations.","As opções foram atualizadas. Por favor revise todas as configurações disponíveis.",module,Magento_RequisitionList
+"The SKU is out of stock.","O SKU está fora de estoque.",module,Magento_RequisitionList
 "We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_RequisitionList
-"Could not save Requisition List. Maximum number of requisition lists was exceeded.","Could not save Requisition List. Maximum number of requisition lists was exceeded.",module,Magento_RequisitionList
-Exception,Exception,module,Magento_RequisitionList
-exception,exception,module,Magento_RequisitionList
-"No such entity","No such entity",module,Magento_RequisitionList
-"Could not save","Could not save",module,Magento_RequisitionList
-"Exception Message","Exception Message",module,Magento_RequisitionList
-View,View,module,Magento_RequisitionList
-"Add to Requisition List","Add to Requisition List",module,Magento_RequisitionList
-"Update Requisition List","Update Requisition List",module,Magento_RequisitionList
-"Create Requisition List","Create Requisition List",module,Magento_RequisitionList
-"Create New Requisition List","Create New Requisition List",module,Magento_RequisitionList
-Print,Print,module,Magento_RequisitionList
-Rename,Rename,module,Magento_RequisitionList
-"Rename Requisition List","Rename Requisition List",module,Magento_RequisitionList
-items,items,module,Magento_RequisitionList
+"Could not save Requisition List. Maximum number of requisition lists was exceeded.","Não foi possível salvar a lista de requisições. O número máximo de requisições foi excedido.",module,Magento_RequisitionList
+Exception,Exceção,module,Magento_RequisitionList
+exception,exceção,module,Magento_RequisitionList
+"No such entity","Entidade não encontrada",module,Magento_RequisitionList
+"Could not save","Não foi possível salvar",module,Magento_RequisitionList
+"Exception Message","Mensagem de erro",module,Magento_RequisitionList
+View,Visualizar,module,Magento_RequisitionList
+"Add to Requisition List","Adicionar a lista de requisições",module,Magento_RequisitionList
+"Update Requisition List","Atualizar a lista de requisições",module,Magento_RequisitionList
+"Create Requisition List","Criar a lista de requisições",module,Magento_RequisitionList
+"Create New Requisition List","Criar uma nova lista de requisições",module,Magento_RequisitionList
+Print,Imprimir,module,Magento_RequisitionList
+Rename,Renomear,module,Magento_RequisitionList
+"Rename Requisition List","Renomear a lista de requisições",module,Magento_RequisitionList
+items,itens,module,Magento_RequisitionList
 item,item,module,Magento_RequisitionList
-"in requisition list","in requisition list",module,Magento_RequisitionList
+"in requisition list","na lista de requisições",module,Magento_RequisitionList
 "Contact Us","Fale Conosco",module,Magento_RequisitionList
-"Add to Cart","Add to Cart",module,Magento_RequisitionList
-"Update List","Update List",module,Magento_RequisitionList
-"Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
-"You have no items in this requisition list.","You have no items in this requisition list.",module,Magento_RequisitionList
+"Add to Cart","Adicionar ao carrinho",module,Magento_RequisitionList
+"Update List","Atualizar lista",module,Magento_RequisitionList
+"Delete Requisition List","Apagar lista de requisições",module,Magento_RequisitionList
+"You have no items in this requisition list.","Você não possui items na sua lista de requisições.",module,Magento_RequisitionList
 "Product Name","Nome do Produto",module,Magento_RequisitionList
 Item,Item,module,Magento_RequisitionList
-Price,Price,module,Magento_RequisitionList
-Qty,Qty,module,Magento_RequisitionList
-Subtotal,Subtotal,module,Magento_RequisitionList
-Product,Product,module,Magento_RequisitionList
+Price,Preço,module,Magento_RequisitionList
+Qty,Qtd,module,Magento_RequisitionList
+Subtotal,Sub-total,module,Magento_RequisitionList
+Product,Produto,module,Magento_RequisitionList
 SKU,SKU,module,Magento_RequisitionList
-"Excl. Tax","Excl. Tax",module,Magento_RequisitionList
-"Edit item","Edit item",module,Magento_RequisitionList
-"Remove item","Remove item",module,Magento_RequisitionList
-"Select all","Select all",module,Magento_RequisitionList
-"With Selected","With Selected",module,Magento_RequisitionList
-"Copy Selected","Copy Selected",module,Magento_RequisitionList
-Copy,Copy,module,Magento_RequisitionList
-"Move Selected","Move Selected",module,Magento_RequisitionList
-Move,Move,module,Magento_RequisitionList
-"Remove Selected","Remove Selected",module,Magento_RequisitionList
-Remove,Remove,module,Magento_RequisitionList
-Delete,Delete,module,Magento_RequisitionList
-"product(s) require your attention","product(s) require your attention",module,Magento_RequisitionList
-"Requisition List Name","Requisition List Name",module,Magento_RequisitionList
-Description,Description,module,Magento_RequisitionList
-"The shopping cart isn't empty","The shopping cart isn't empty",module,Magento_RequisitionList
-"You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?",module,Magento_RequisitionList
-"Select Cancel to stay on the current page.","Select Cancel to stay on the current page.",module,Magento_RequisitionList
-Merge,Merge,module,Magento_RequisitionList
-Replace,Replace,module,Magento_RequisitionList
-Cancel,Cancel,module,Magento_RequisitionList
+"Excl. Tax","Imposto Excl",module,Magento_RequisitionList
+"Edit item","Editar item",module,Magento_RequisitionList
+"Remove item","Remover item",module,Magento_RequisitionList
+"Select all","Selecionar tudo",module,Magento_RequisitionList
+"With Selected","Com os selecionados",module,Magento_RequisitionList
+"Copy Selected","Copiar selecionados",module,Magento_RequisitionList
+Copy,Copiar,module,Magento_RequisitionList
+"Move Selected","Mover selecionados",module,Magento_RequisitionList
+Move,Mover,module,Magento_RequisitionList
+"Remove Selected","Remover selecionados",module,Magento_RequisitionList
+Remove,Remover,module,Magento_RequisitionList
+Delete,Excluir,module,Magento_RequisitionList
+"product(s) require your attention","produto(s) requerem sua atenção",module,Magento_RequisitionList
+"Requisition List Name","Lista de requisições",module,Magento_RequisitionList
+Description,Descrição,module,Magento_RequisitionList
+"The shopping cart isn't empty","O seu carrinho de compras está vazio",module,Magento_RequisitionList
+"You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","Você possui itens no seu carrinho de compras. Você gostaria de mesclar os itens deste pedido com os itens do seu carrinho, ou substituí-los?",module,Magento_RequisitionList
+"Select Cancel to stay on the current page.","Selecionar Cancelar para permanecer na mesma página.",module,Magento_RequisitionList
+Merge,Mesclar,module,Magento_RequisitionList
+Replace,Substituir,module,Magento_RequisitionList
+Cancel,Cancelar,module,Magento_RequisitionList
 Ok,Ok,module,Magento_RequisitionList
-"Cannot Perform the Requested Action","Cannot Perform the Requested Action",module,Magento_RequisitionList
-"This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.","This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.",module,Magento_RequisitionList
-"Please Select Product","Please Select Product",module,Magento_RequisitionList
-"Please select at least one product to proceed.","Please select at least one product to proceed.",module,Magento_RequisitionList
-Save,Save,module,Magento_RequisitionList
-"B2B Requisition List","B2B Requisition List",module,Magento_RequisitionList
-"Enable Requisition List","Enable Requisition List",module,Magento_RequisitionList
-General,General,module,Magento_RequisitionList
-"Number of Requisition Lists","Number of Requisition Lists",module,Magento_RequisitionList
-"The number of requisition lists should be equal or more than 2.","The number of requisition lists should be equal or more than 2.",module,Magento_RequisitionList
-"Name & Description","Name & Description",module,Magento_RequisitionList
-Items,Items,module,Magento_RequisitionList
-"Latest Activity","Latest Activity",module,Magento_RequisitionList
+"Cannot Perform the Requested Action","Não foi possível executar esta ação",module,Magento_RequisitionList
+"This action cannot be performed because the selected product(s) require attention. You must resolve these issues before you can continue.","Esta ação não pode ser executada porque o(s) produto(s) selecionado(s) requerem atenção. Você deve resolver estes problemas antes de proceder.",module,Magento_RequisitionList
+"Please Select Product","Por favor, selecione um produto",module,Magento_RequisitionList
+"Please select at least one product to proceed.","Por favor, selecione ao menos um produto para prosseguir.",module,Magento_RequisitionList
+Save,Salvar,module,Magento_RequisitionList
+"B2B Requisition List","Lista de requisições B2B",module,Magento_RequisitionList
+"Enable Requisition List","Habilitar lista de requisições",module,Magento_RequisitionList
+General,Geral,module,Magento_RequisitionList
+"Number of Requisition Lists","Número de lista de requisições",module,Magento_RequisitionList
+"The number of requisition lists should be equal or more than 2.","O número de requisições deve ser igual ou maior que 2.",module,Magento_RequisitionList
+"Name & Description","Nome & Descrição",module,Magento_RequisitionList
+Items,Itens,module,Magento_RequisitionList
+"Latest Activity","Última atividade",module,Magento_RequisitionList
 "Save Review","Salvar Avaliação",module,Magento_Review
 "New Review","Nova Avaliação",module,Magento_Review
 "Review Details","Detalhes da Avaliação",module,Magento_Review
