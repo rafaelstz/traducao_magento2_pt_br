@@ -2370,8 +2370,8 @@ End,Fim,module,Magento_CatalogEvent
 "Countdown Ticker","Contagem Decrescente",module,Magento_CatalogEvent
 Action,Ação,module,Magento_CatalogEvent
 Edit,Editar,module,Magento_CatalogEvent
-"Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
-"Missing key %1 in product data","Falta a chave %1 em dados do produto",module,Magento_CatalogGraphQl
+"Cannot resolve layered filter type","Não é possível achar o tipo de filtro em camadas",module,Magento_CatalogGraphQl
+"Missing key %1 in product data","Falta a chave %1 nos dados do produto",module,Magento_CatalogGraphQl
 "Concrete type for %1 not implemented","Tipo concreto para %1 não implementado",module,Magento_CatalogGraphQl
 "Cannot resolve type","Não é possível resolver o tipo",module,Magento_CatalogGraphQl
 """model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_CatalogGraphQl
@@ -7871,9 +7871,9 @@ ID,ID,module,Magento_NegotiableQuote
 "Quote Total (Negotiated)","Quote Total (Negotiated)",module,Magento_NegotiableQuote
 "Quote Name","Quote Name",module,Magento_NegotiableQuote
 "Quote Total","Quote Total",module,Magento_NegotiableQuote
-"No such public catalog entity","No such public catalog entity",module,Magento_NegotiableQuoteSharedCatalog
+"No such public catalog entity","Nenhuma entidade de catálogo público",module,Magento_NegotiableQuoteSharedCatalog
 "Requested product doesn't exist","Produto requisitado não existe",module,Magento_NegotiableQuoteSharedCatalog
-"Shared Catalog (or Customer Group)","Shared Catalog (or Customer Group)",module,Magento_NegotiableQuoteSharedCatalog
+"Shared Catalog (or Customer Group)","Catálogo Compartilhado (ou Grupo de Clientes)",module,Magento_NegotiableQuoteSharedCatalog
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Não está configurado nenhuma ID de Aplicação New Relic, não é possível continuar com o relatório através de eventos Cron",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","A integração New Relic exige o agente newrelic-php5, que não está instalado. Mais informação sobre como instalar o agente está disponível <a target=""_blank"" href=""%1"">aqui</a>.",module,Magento_NewRelicReporting
@@ -7897,7 +7897,7 @@ General,Geral,module,Magento_NewRelicReporting
 Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Ativar Cron",module,Magento_NewRelicReporting
 "Send Adminhtml and Frontend as Separate Apps","Enviar Adminhtml e Frontend como Apps separados",module,Magento_NewRelicReporting
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.",module,Magento_NewRelicReporting
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Além do aplicativo principal (que inclui todos os execução de PHP), aplicativos separados para adminhtml e frontend serão criados. Requer um novo nome para definir a Aplicação New Relic.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Excluir os problemas selecionados",module,Magento_Newsletter
 "Unsubscribe Selected","Remover Subscrição aos Selecionados",module,Magento_Newsletter
 Back,Voltar,module,Magento_Newsletter
@@ -9052,31 +9052,31 @@ error345,error345,module,Magento_Quote
 Carts,Carrinhos,module,Magento_Quote
 "Manage carts","Gerenciar carrinhos",module,Magento_Quote
 "Invalid state change requested","Solicitação de mudança de estado inválida",module,Magento_Quote
-"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
-"Missing key ""sku"" in cart item data","Missing key ""sku"" in cart item data",module,Magento_QuoteGraphQl
-"Missing key ""qty"" in cart item data","Missing key ""qty"" in cart item data",module,Magento_QuoteGraphQl
-"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
-"You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
-"The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
-"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
-"%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
-"Missing key ""cart_id"" in cart data","Missing key ""cart_id"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""cartItems"" in cart data","Missing key ""cartItems"" in cart data",module,Magento_QuoteGraphQl
-"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
-"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
-"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
-"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
-"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""cart_address_id"" is missing","Required parameter ""cart_address_id"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_carrier_code"" is missing","Required parameter ""shipping_carrier_code"" is missing",module,Magento_QuoteGraphQl
-"Required parameter ""shipping_method_code"" is missing","Required parameter ""shipping_method_code"" is missing",module,Magento_QuoteGraphQl
+"Shopping cart error: %message","Erro no carrinho de compras: %message",module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","Não foi possível encontrar um produto com SKU ""%sku""",module,Magento_QuoteGraphQl
+"Missing key ""sku"" in cart item data","Chave ""sku"" faltando nos dados do item no carrinho",module,Magento_QuoteGraphQl
+"Missing key ""qty"" in cart item data","Chave ""qty"" faltando nos dados do item no carrinho",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","Não foi possível encontrar um carrinho com o ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","O usuário atual não pode realizar operações no carrinho ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.","Você não pode especificar vários endereços de envio.",module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","O endereço de entrega deve conter ""customer_address_id"" ou ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","O endereço de envio não pode conter ""cliente_address_id"" e ""address"" ao mesmo tempo.",module,Magento_QuoteGraphQl
+"Option type ""%1"" is not supported","Tipo de opção ""%1"" não é suportado",module,Magento_QuoteGraphQl
+"%1 doesn't implement CustomizableOptionValueInterface","%1 não implementa o CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
+"Missing key ""cart_id"" in cart data","Falta a chave ""cart_id"" nos dados do carrinho",module,Magento_QuoteGraphQl
+"Missing key ""cartItems"" in cart data","Falta a chave ""cartItems"" nos dados do carrinho",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","Parâmetro obrigatório ""cart_id"" está faltando",module,Magento_QuoteGraphQl
+"Required parameter ""coupon_code"" is missing","Parâmetro obrigatório ""coupon_code"" está faltando",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","Um cupom já está aplicado ao carrinho. Por favor, remova-o para aplicar outro",module,Magento_QuoteGraphQl
+"""model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","Falta a chave ""product"" nos dados do carrinho",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","Falta a chave ""type_id"" nos dados do carrinho",module,Magento_QuoteGraphQl
+"Product ""%product_type"" type is not supported","Tipo de produto ""%product_type"" não é suportado",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_addresses"" is missing","Parâmetro obrigatório ""shipping_address"" está faltando",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_methods"" is missing","Parâmetro obrigatório ""shipping_methods"" está faltando",module,Magento_QuoteGraphQl
+"Required parameter ""cart_address_id"" is missing","Parâmetro obrigatório ""cart_address_id"" está faltando",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_carrier_code"" is missing","Parâmetro obrigatório ""shipping_carrier_code"" está faltando",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_method_code"" is missing","Parâmetro obrigatório ""shipping_method_code"" está faltando",module,Magento_QuoteGraphQl
 "Next >","Próximo >",module,Magento_ReleaseNotification
 "< Back","< Voltar",module,Magento_ReleaseNotification
 Done,Concluído,module,Magento_ReleaseNotification
