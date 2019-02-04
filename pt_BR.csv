@@ -7451,10 +7451,10 @@ Error:,Erro:,module,Magento_Multishipping
 "Successful Messages Lifetime","Tempo de Vida das Mensagens Bem-sucedidas",module,Magento_MysqlMq
 "Failed Messages Lifetime","Tempo de vida de Mensagens que Falharam",module,Magento_MysqlMq
 "New Messages Lifetime","Tempo de Vida das Novas Mensagens",module,Magento_MysqlMq
-"Catalog Total Price (Excl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
-"Catalog Total Price (Incl. Tax)","Preço Total de catálogo (excluindo impostos)",module,Magento_NegotiableQuote
-"Catalog Total Price","Preço Total do catálogo",module,Magento_NegotiableQuote
-"Negotiated Discount","Desconto negociado",module,Magento_NegotiableQuote
+"Catalog Total Price (Excl. Tax)","Preço Total do Catálogo (sem impostos)",module,Magento_NegotiableQuote
+"Catalog Total Price (Incl. Tax)","Preço Total do Catálogo (Incl. Imposto)",module,Magento_NegotiableQuote
+"Catalog Total Price","Preço Total do Catálogo",module,Magento_NegotiableQuote
+"Negotiated Discount","Desconto Negociado",module,Magento_NegotiableQuote
 Back,Voltar,module,Magento_NegotiableQuote
 Print,Imprimir,module,Magento_NegotiableQuote
 "Save as Draft","Salvar como Rascunho",module,Magento_NegotiableQuote
@@ -7491,7 +7491,7 @@ Qty:,Qtd:,module,Magento_NegotiableQuote
 "- deleted from catalog","-excluído do catálogo",module,Magento_NegotiableQuote
 (Removed),(Removido),module,Magento_NegotiableQuote
 deleted,excluído,module,Magento_NegotiableQuote
-"Renderer list for block ""%1"" is not defined","Renderer list for block ""%1"" is not defined",module,Magento_NegotiableQuote
+"Renderer list for block ""%1"" is not defined","Lista de renderizadores para o bloco ""%1"" não está definida",module,Magento_NegotiableQuote
 "This quote is currently locked for editing. It will become available once released by the Merchant.","Esta cotação está bloqueada para edição. Ele se tornará disponível assim que liberado pelo comerciante.",module,Magento_NegotiableQuote
 "Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Sua cotação expirou e os preços de produto foram atualizados conforme os preços mais recentes em seu catálogo. Você pode voltar a apresentar a cotação ao vendedor para uma futura negociação ou ir para check-out.",module,Magento_NegotiableQuote
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","Você não é o proprietário desta cotação. Você não pode editá-lo ou tomar qualquer ação sobre ela.",module,Magento_NegotiableQuote
@@ -7501,14 +7501,14 @@ Discount,Desconto,module,Magento_NegotiableQuote
 "Quote Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_NegotiableQuote
 "Grand Total to Be Charged","Valor total a cobrar",module,Magento_NegotiableQuote
 "Requested quote was not found","Cotação solicitada não foi encontrada",module,Magento_NegotiableQuote
-Sales,Sales,module,Magento_NegotiableQuote
-Quotes,Quotes,module,Magento_NegotiableQuote
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_NegotiableQuote
-"Something went wrong","Something went wrong",module,Magento_NegotiableQuote
-"Something went wrong during quote declining","Something went wrong during quote declining",module,Magento_NegotiableQuote
-"Attachment not found.","Attachment not found.",module,Magento_NegotiableQuote
-"Quote #%1","Quote #%1",module,Magento_NegotiableQuote
-"Exception occurred during quote print: %1","Exception occurred during quote print: %1",module,Magento_NegotiableQuote
+Sales,Vendas,module,Magento_NegotiableQuote
+Quotes,Citações,module,Magento_NegotiableQuote
+"Something went wrong. Please try again later.","Algo deu errado. Por favor, tente novamente mais tarde.",module,Magento_NegotiableQuote
+"Something went wrong","Houve algum problema",module,Magento_NegotiableQuote
+"Something went wrong during quote declining","Uma anomalia aconteceu durante a simulação",module,Magento_NegotiableQuote
+"Attachment not found.","Anexo não encontrado.",module,Magento_NegotiableQuote
+"Quote #%1","Cotação #%1",module,Magento_NegotiableQuote
+"Exception occurred during quote print: %1","Ocorreu uma exceção durante a exibição da cotação: %1",module,Magento_NegotiableQuote
 "Exception occurred during update quote","Exception occurred during update quote",module,Magento_NegotiableQuote
 "Exception occurred during quote saving","Exception occurred during quote saving",module,Magento_NegotiableQuote
 "The changes have been saved.","The changes have been saved.",module,Magento_NegotiableQuote
@@ -8064,7 +8064,7 @@ Enabled,Habilitado,module,Magento_OfflinePayments
 "New Order Status","Novo Status de Pedido",module,Magento_OfflinePayments
 "Sort Order",Ordernação,module,Magento_OfflinePayments
 Title,Título,module,Magento_OfflinePayments
-"Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
+"Purchase order number is a required field.","Número do pedido de compra é um campo obrigatório.",module,Magento_OfflinePayments
 "Payment from Applicable Countries","Pagamento a partir de Países Aplicáveis",module,Magento_OfflinePayments
 "Payment from Specific Countries","Pagamento de Países Específicos",module,Magento_OfflinePayments
 "Make Check Payable to","Passe o cheque à ordem de",module,Magento_OfflinePayments
@@ -8578,7 +8578,7 @@ expires,"expira em",module,Magento_Paypal
 here,aqui,module,Magento_Paypal
 "to learn more.","para saber mais.",module,Magento_Paypal
 Important:,Importante:,module,Magento_Paypal
-"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
+"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","Para usar PayPal Payments Advanced, você precisa configurar sua conta PayPal no site do PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Uma vez logado na sua conta PayPal Avançado, navegue em Configurações de Serviço - Páginas Hosted Checkout - Configurar e marque as opções abaixo",module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para usar o PayPal Payflow Link, deve configurar sua conta de pagamentos PayPal Payflow Link no site do PayPal.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Uma vez logado na sua conta Payflow Link, navegue em Configurações de Serviço - Páginas Hosted Checkout - Configurar e marque as opções abaixo",module,Magento_Paypal
@@ -10120,12 +10120,12 @@ Number,Número,module,Magento_Rma
 "Are you sure?","Você tem certeza?",module,Magento_Rma
 "Shipping Method","Método de Entrega",module,Magento_Rma
 "Create Shipping Label","Criar etiquetas de envio",module,Magento_Rma
-"Enabled when authorized items require a new shipment.","Enabled when authorized items require a new shipment.",module,Magento_Rma
+"Enabled when authorized items require a new shipment.","Habilitado quando itens autorizados requerem uma nova remessa.",module,Magento_Rma
 "Order &amp; Account Information","Pedido e Informações de Conta",module,Magento_Rma
 "Return Totals","Total reembolsado",module,Magento_Rma
 "Return Confirmation","Confirmação de devolução",module,Magento_Rma
 "Email Returns Confirmation","E-mail de confirmação de devolução",module,Magento_Rma
-"RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
+"RMA Items Requested for","Itens RMA solicitados para",module,Magento_Rma
 "Please Select Products to Add","Por favor, selecione produtos para adicionar",module,Magento_Rma
 Remove,Remover,module,Magento_Rma
 Item,Item,module,Magento_Rma
@@ -10173,13 +10173,13 @@ Questions,Questões,module,Magento_Rma
 Answers,Respostas,module,Magento_Rma
 "Leave Comment","Deixar comentário",module,Magento_Rma
 "%store_name:  New customer comment","%store_name: Comentário de um novo cliente",module,Magento_Rma
-"New Comment for RMA #%increment_id","New Comment for RMA #%increment_id",module,Magento_Rma
+"New Comment for RMA #%increment_id","Novo comentário para RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","Cliente %name deixou um novo comentário:",module,Magento_Rma
 "%store_name : New Return # %increment_id","%store_name : Nova Devolução # %increment_id",module,Magento_Rma
 "%name,","%name,",module,Magento_Rma
 "Your return request has been updated. Please see below.","Seu pedido de devolução foi atualizado. Por favor, veja abaixo.",module,Magento_Rma
-"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.",module,Magento_Rma
-"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone",module,Magento_Rma
+"You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","Você pode verificar o status do seu retorno <a href=""%account_url"">logando na sua conta</a> ou <a href=""%form_url"">usando o seu número do pedido</a>.",module,Magento_Rma
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se você tiver alguma dúvida, por favor, sinta-se livre para nos contatar no <a href=""mailto:%support_email"">%support_email</a> ou por telefone em %store_phone",module,Magento_Rma
 "Your Return #%increment_id - %status_label","Sua Devolução #%increment_id - %status_label",module,Magento_Rma
 "%store_name: New Return # %increment_id","%store_name: Nova Devolução # %increment_id",module,Magento_Rma
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","Você pode verificar o status de seu retorno <a href=""%form_url"">usando seu número de ordem</a>.",module,Magento_Rma
@@ -10213,15 +10213,15 @@ Comma-separated,"Separados por vírgula",module,Magento_Rma
 "RMA Authorization Email Sender","Remetente de E-mail de autorização de RMA",module,Magento_Rma
 "RMA Authorization Email Template","Modelo de E-mail de autorização de RMA",module,Magento_Rma
 "RMA Authorization Email Template for Guest","Modelo de E-mail de autorização de RMA para Visitantes",module,Magento_Rma
-"Send RMA Authorization Email Copy To","Send RMA Authorization Email Copy To",module,Magento_Rma
-"Send RMA Authorization Email Copy Method","Send RMA Authorization Email Copy Method",module,Magento_Rma
-"RMA Admin Comments","RMA Admin Comments",module,Magento_Rma
-"RMA Comment Email Sender","RMA Comment Email Sender",module,Magento_Rma
-"RMA Comment Email Template","RMA Comment Email Template",module,Magento_Rma
-"RMA Comment Email Template for Guest","RMA Comment Email Template for Guest",module,Magento_Rma
-"Send RMA Comment Email Copy To","Send RMA Comment Email Copy To",module,Magento_Rma
-"RMA Customer Comments","RMA Customer Comments",module,Magento_Rma
-"RMA Comment Email Recipient","RMA Comment Email Recipient",module,Magento_Rma
+"Send RMA Authorization Email Copy To","Enviar E-mail de autorização RMA para",module,Magento_Rma
+"Send RMA Authorization Email Copy Method","Enviar Email cópia de autorização RMA Método",module,Magento_Rma
+"RMA Admin Comments","Comentários do Admin RMA",module,Magento_Rma
+"RMA Comment Email Sender","Email do remetente do comentário RMA",module,Magento_Rma
+"RMA Comment Email Template","Modelo de Email do comentário RMA",module,Magento_Rma
+"RMA Comment Email Template for Guest","Modelo de Email do comentário RMA para convidado",module,Magento_Rma
+"Send RMA Comment Email Copy To","Enviar cópia do Email do comentário RMA para",module,Magento_Rma
+"RMA Customer Comments","Comentários do Cliente RMA",module,Magento_Rma
+"RMA Comment Email Recipient","Recebedor do Email do comentário RMA",module,Magento_Rma
 "Enabled for RMA","Habilitado para RMA",module,Magento_Rma
 "Page not found.","Página não encontrada.",module,Magento_Rss
 Feed,Feed,module,Magento_Rss
@@ -12148,7 +12148,7 @@ Save,Salvar,module,Magento_Staging
 "Date & Time","Data & Hora",module,Magento_Staging
 "This update not exists.","Esta atualização não existe.",module,Magento_Staging
 "Content Staging Dashboard","Painel de avaliação de conteúdo",module,Magento_Staging
-"The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started.",module,Magento_Staging
+"The Start Time of this Update cannot be changed. It's been already started.","O horário inicial desta atualização não pode ser alterado. Já foi iniciado.",module,Magento_Staging
 "Future Update in this time range already exists. 
                             Select a different range to add a new Future Update.","Atualização Futura já existe no intervalo de tempo escolhido. Selecione um intervalo diferente para adicionar uma nova Atualização Futura.",module,Magento_Staging
 "Cannot save Update.","Não é possível salvar a atualização.",module,Magento_Staging
@@ -12187,7 +12187,7 @@ Upcoming,Próximos,module,Magento_Staging
 "Unable to save Future Update.","Não é possível salvar o Atualização Futura.",module,Magento_Staging
 Test,Teste,module,Magento_Staging
 Error,Erro,module,Magento_Staging
-"Test Exception","Test Exception",module,Magento_Staging
+"Test Exception","Exceção de teste",module,Magento_Staging
 "This action is unavailable","Esta ação não está disponível",module,Magento_Staging
 "Magento Admin Panel","Painel de Admin do Magento",module,Magento_Staging
 Calendar,Calendário,module,Magento_Staging
@@ -12333,7 +12333,7 @@ Model,Modelo,module,Magento_Support
 "Additional Attribute Table","Tabela adicional de atributo",module,Magento_Support
 "New Eav Attributes","Novos atributos Eav",module,Magento_Support
 "Product Eav Attributes","Atributos de produto Eav",module,Magento_Support
-"Rma Item Eav Attributes","Rma Item Eav Attributes",module,Magento_Support
+"Rma Item Eav Attributes","Atributos de Eav Item Rma",module,Magento_Support
 "User Defined Eav Attributes","Atributos Eav definidos pelo usuário",module,Magento_Support
 Name,Nome,module,Magento_Support
 Enabled,Habilitado,module,Magento_Support
@@ -12373,11 +12373,11 @@ Status,Status,module,Magento_Support
 "Scheduled At","Agendado em",module,Magento_Support
 "Executed At","Executado em",module,Magento_Support
 "Finished At","Finalizado em",module,Magento_Support
-"Core Configurable Cron Jobs","Core Configurable Cron Jobs",module,Magento_Support
-"Core Global Cron Jobs","Core Global Cron Jobs",module,Magento_Support
-"Cron Schedules by job code","Cron Schedules by job code",module,Magento_Support
+"Core Configurable Cron Jobs","Tarefas centrais configuráveis via Cron",module,Magento_Support
+"Core Global Cron Jobs","Tarefas principais globais via Cron",module,Magento_Support
+"Cron Schedules by job code","Tarefas Cron agendáveis via código",module,Magento_Support
 Count,Contagem,module,Magento_Support
-"Cron Schedules by status code","Cron Schedules by status code",module,Magento_Support
+"Cron Schedules by status code","Tarefas Cron agendáveis via status",module,Magento_Support
 "Status Code","Código de status",module,Magento_Support
 "Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
 "Custom Global Cron Jobs","Custom Global Cron Jobs",module,Magento_Support
