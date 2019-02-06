@@ -12379,20 +12379,20 @@ Status,Status,module,Magento_Support
 Count,Contagem,module,Magento_Support
 "Cron Schedules by status code","Tarefas Cron agendáveis via status",module,Magento_Support
 "Status Code","Código de status",module,Magento_Support
-"Custom Configurable Cron Jobs","Custom Configurable Cron Jobs",module,Magento_Support
-"Custom Global Cron Jobs","Custom Global Cron Jobs",module,Magento_Support
-"Errors in Cron Schedules Queue","Errors in Cron Schedules Queue",module,Magento_Support
+"Custom Configurable Cron Jobs","Tarefas personalizadas configuráveis via Cron",module,Magento_Support
+"Custom Global Cron Jobs","Tarefas personalizadas globais via Cron",module,Magento_Support
+"Errors in Cron Schedules Queue","Erros na fila de agendamentos Cron",module,Magento_Support
 Error,Erro,module,Magento_Support
-"Corrupted Categories Data","Corrupted Categories Data",module,Magento_Support
+"Corrupted Categories Data","Dados de Categorias Corrompidos",module,Magento_Support
 Id,Id,module,Magento_Support
-"Expected Children Count","Expected Children Count",module,Magento_Support
-"Actual Children Count","Actual Children Count",module,Magento_Support
+"Expected Children Count","Esperado contagem de filhos",module,Magento_Support
+"Actual Children Count","Contagem atual de filhos",module,Magento_Support
 "Expected Level","Nível esperado",module,Magento_Support
 "Actual Level","Nível atual",module,Magento_Support
 "Duplicate Categories By URL Key","Categorias duplicadas pela chave de URL",module,Magento_Support
 "URL key","Chave URL",module,Magento_Support
 Store,Loja,module,Magento_Support
-"Duplicate Orders By Increment Id","Duplicate Orders By Increment Id",module,Magento_Support
+"Duplicate Orders By Increment Id","Pedidos duplicados por incremento de ID",module,Magento_Support
 "Increment Id","Id de incremento",module,Magento_Support
 "Customer Id","Id do cliente",module,Magento_Support
 "Duplicate Products By SKU","Duplicar produtos pela SKU",module,Magento_Support
@@ -12400,23 +12400,23 @@ SKU,SKU,module,Magento_Support
 "Duplicate Products By URL Key","Duplicar produtos pela Chave de URL",module,Magento_Support
 "URL Key","Chave URL",module,Magento_Support
 Website,Website,module,Magento_Support
-"Duplicate Users By Email","Duplicate Users By Email",module,Magento_Support
+"Duplicate Users By Email","Usuários duplicados por Email",module,Magento_Support
 Email,E-mail,module,Magento_Support
 Type,Tipo,module,Magento_Support
 Parent,Antecessor,module,Magento_Support
-"Adminhtml Themes List","Adminhtml Themes List",module,Magento_Support
-"Frontend Themes List","Frontend Themes List",module,Magento_Support
+"Adminhtml Themes List","Lista de temas Adminhtml",module,Magento_Support
+"Frontend Themes List","Lista de Temas Frontend",module,Magento_Support
 "Event Name","Nome do Evento",module,Magento_Support
-"Observer Class","Observer Class",module,Magento_Support
+"Observer Class","Classe Observadora",module,Magento_Support
 Method,Método,module,Magento_Support
 "All Admin Events","Todos os Eventos do Admin",module,Magento_Support
 "All Crontab Events","Todos os Eventos de Crontab",module,Magento_Support
-"All Doc Events","All Doc Events",module,Magento_Support
+"All Doc Events","Eventos Todos Documentos",module,Magento_Support
 "All Frontend Events","Todos os Eventos de Front End",module,Magento_Support
 "All Global events","Todos os eventos Globais",module,Magento_Support
-"All REST Events","All REST Events",module,Magento_Support
-"All SOAP Events","All SOAP Events",module,Magento_Support
-"Core Admin Events","Core Admin Events",module,Magento_Support
+"All REST Events","Todos eventos REST",module,Magento_Support
+"All SOAP Events","Todos eventos SOAP",module,Magento_Support
+"Core Admin Events","Eventos principais Admin",module,Magento_Support
 "Core Crontab Events","Core Crontab Events",module,Magento_Support
 "Core Doc Events","Core Doc Events",module,Magento_Support
 "Core Frontend Events","Core Frontend Events",module,Magento_Support
@@ -12686,13 +12686,13 @@ Tax,Taxa,module,Magento_Tax
 "We can't save this rate right now.","Não podemos salvar essa taxa de imposto no momento.",module,Magento_Tax
 "You deleted the tax rate.","Você apagou a tarifa.",module,Magento_Tax
 "We can't delete this rate because of an incorrect rate ID.","Não podemos excluir essa taxa por causa de um ID de taxa incorreto.",module,Magento_Tax
-"Something went wrong deleting this rate.","Algo correu mal ao apagar esta taxa.",module,Magento_Tax
+"Something went wrong deleting this rate.","Algo deu errado ao apagar esta taxa.",module,Magento_Tax
 "Edit Tax Rate","Editar a taxa de imposto",module,Magento_Tax
 "You saved the tax rate.","Você salvou a tarifa.",module,Magento_Tax
 "Tax Rules","Taxas de imposto",module,Magento_Tax
 "The tax rule has been deleted.","A regra foi excluída.",module,Magento_Tax
 "This rule no longer exists.","Esta regra não existe mais.",module,Magento_Tax
-"Something went wrong deleting this tax rule.","Something went wrong deleting this tax rule.",module,Magento_Tax
+"Something went wrong deleting this tax rule.","Algo deu errado ao deletar esta regra de imposto.",module,Magento_Tax
 "New Tax Rule","Nova Regra de Imposto",module,Magento_Tax
 "Edit Rule","Editar Regra",module,Magento_Tax
 "New Rule","Nova Regra",module,Magento_Tax
@@ -12708,11 +12708,11 @@ Tax,Taxa,module,Magento_Tax
 "Range To should be equal or greater than Range From.","Intervalo ""Para"" deve ser igual ou maior que o intervalo ""De"".",module,Magento_Tax
 "The tax rate cannot be removed. It exists in a tax rule.","The tax rate cannot be removed. It exists in a tax rule.",module,Magento_Tax
 "%fieldName is a required field.","%fieldName é um campo obrigatório.",module,Magento_Tax
-"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_Tax
+"Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido de ""%value"" fornecido para o campo %fieldName.",module,Magento_Tax
 "This class no longer exists.","Esta classe não existe mais.",module,Magento_Tax
-"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.",module,Magento_Tax
+"You cannot delete this tax class because it is used in Tax Rules. You have to delete the rules it is used in first.","Você não pode deletar esta classe de imposto porque ela é usada em Regras de Imposto. Você deve primeiro deletar as regras que usam ela.",module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","Não é possível excluir essa classe de imposto porque é usado em existente%1(s).",module,Magento_Tax
-"Custom price if available","Custom price if available",module,Magento_Tax
+"Custom price if available","Preço personalizado se disponível",module,Magento_Tax
 "Original price only","Preço original apenas",module,Magento_Tax
 "Shipping Address","Endereço de entrega",module,Magento_Tax
 "Billing Address","Endereço de Cobrança",module,Magento_Tax
@@ -12724,7 +12724,7 @@ Tax,Taxa,module,Magento_Tax
 Code,Código,module,Magento_Tax
 "Invalid type supplied","O tipo fornecido é inválido",module,Magento_Tax
 "Class name and class type","Nome da classe e o tipo de classe",module,Magento_Tax
-"No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Tax
+"No such entity with %fieldName = %fieldValue","Nenhuma entidade com %fieldName = %fieldValue",module,Magento_Tax
 "Grand Total (Excl. Tax)","Preço Final (Sem Impostos)",module,Magento_Tax
 "Grand Total (Incl. Tax)","Preço Final (Com Impostos)",module,Magento_Tax
 "Shipping (Excl. Tax)","Entrega (Excl. IVA)",module,Magento_Tax
@@ -12741,7 +12741,7 @@ Total,Total,module,Magento_Tax
 "Including Tax","Incluindo o imposto",module,Magento_Tax
 None,Nenhum,module,Magento_Tax
 "Including and Excluding Tax","Incluindo e excluindo impostos",module,Magento_Tax
-"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Para aplicar desconto nos preços incluindo o imposto e aplicando o imposto após o desconto, defina Preços de Catalogo para ""Incluindo Impostos"".",module,Magento_Tax
 "Store(s) affected:","Loja(s) afetada(s):",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Clique no link para <a href=""%1"">ignorar esta notificação</a>",module,Magento_Tax
 "With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.",module,Magento_Tax
