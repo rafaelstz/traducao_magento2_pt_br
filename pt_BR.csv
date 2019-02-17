@@ -104,19 +104,19 @@ Configure,Configurar,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Você deve adquirir ao menos %1 unidades por compra.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Especifique as opções do produto.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Avise-me quando este item estiver disponível.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Este cliente não pôde ser encontrado. Verifique o cliente e tente novamente.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Gestão de carrinho de compras está desabilitado para este cliente.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Esta loja não pôde ser encontrada. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
 Customers,Clientes,module,Magento_AdvancedCheckout
 "Shopping Cart","Carrinho de Compras",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ocorreu um erro. Para mais detalhes, veja o log de erro.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Você não tem acesso.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Pedidos só podem ser concluídos em uma loja ativa. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","O item ordenado precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","O ID do item de cotação precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","O item de cotação precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","O ID da lista de desejos precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","O item da lista de desejos precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Ocorreu um erro. Consulte o log de erros para obter detalhes.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Você não pode configurar um produto.",module,Magento_AdvancedCheckout
 "You removed the items.","Você removeu os itens.",module,Magento_AdvancedCheckout
