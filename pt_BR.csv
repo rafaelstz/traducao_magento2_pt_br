@@ -1926,7 +1926,7 @@ px.,px.,module,Magento_Catalog
 "Values in the %1 attributes are invalid. Verify the values and try again.","Valores nos atributos %1 são inválidos. Verifique os valores e tente novamente.",module,Magento_Catalog
 "We can't create the ""%1"" writeable directory.","Não podemos criar o diretório ""%1"" gravável.",module,Magento_Catalog
 "The file upload failed. Try to upload again.","O carregamento do arquivo falhou. Tente fazer o upload novamente.",module,Magento_Catalog
-"The product has required options. Enter the options and try again.","The product has required options. Enter the options and try again.",module,Magento_Catalog
+"The product has required options. Enter the options and try again.","O produto tem opções necessárias. Insira as opções e tente novamente.",module,Magento_Catalog
 "Something went wrong while processing the request.","Problema ao processar a requisição/pedido.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 não se estende a \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 não se estende a \Magento\Catalog\Model\Product\Type\Price",module,Magento_Catalog
@@ -1935,18 +1935,18 @@ Search,Pesquisa,module,Magento_Catalog
 "Catalog, Search","Catálogo, Pesquisa",module,Magento_Catalog
 "Something went wrong while removing products from the websites.","Problema ao remover produtos dos websites.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Problema ao adicionar produtos ao website.",module,Magento_Catalog
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Catalog
-"The attribute group can't be deleted because it contains system attributes.","The attribute group can't be deleted because it contains system attributes.",module,Magento_Catalog
-"The collection provider isn't registered.","The collection provider isn't registered.",module,Magento_Catalog
-"The ""%1"" link type is unknown. Verify the type and try again.","The ""%1"" link type is unknown. Verify the type and try again.",module,Magento_Catalog
-"The ""%1"" link type wasn't found. Verify the type and try again.","The ""%1"" link type wasn't found. Verify the type and try again.",module,Magento_Catalog
-"The linked products data is invalid. Verify the data and try again.","The linked products data is invalid. Verify the data and try again.",module,Magento_Catalog
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","O grupo com ""%1"" ID não existe. Verifique o ID e tente novamente.",module,Magento_Catalog
+"The attribute group can't be deleted because it contains system attributes.","O grupo de atributos não pode ser excluído porque contém atributos do sistema.",module,Magento_Catalog
+"The collection provider isn't registered.","O provedor de coleção não está registrado.",module,Magento_Catalog
+"The ""%1"" link type is unknown. Verify the type and try again.","O tipo de link ""%1"" é desconhecido. Verifique o tipo e tente novamente.",module,Magento_Catalog
+"The ""%1"" link type wasn't found. Verify the type and try again.","O tipo de link ""%1"" não foi encontrado. Verifique o tipo e tente novamente.",module,Magento_Catalog
+"The linked products data is invalid. Verify the data and try again.","Os dados de produtos vinculados são inválidos. Verifique os dados e tente novamente.",module,Magento_Catalog
 "Product with SKU '%1' is not linked to product with SKU '%2'","Produto com SKU '%1' não está associado ao produto com SKU '%2'",module,Magento_Catalog
 "Product %1 doesn't have linked %2 as %3","Produto %1 não tem %2 vinculado a %3",module,Magento_Catalog
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_Catalog
-"The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist.",module,Magento_Catalog
+"The product that was requested doesn't exist. Verify the product and try again.","O produto que foi solicitado não existe. Verifique o produto e tente novamente.",module,Magento_Catalog
+"The Product with the ""%1"" SKU doesn't exist.","O produto com ""%1"" SKU não existe.",module,Magento_Catalog
 "Invalid product data: %1","Dados do produto inválido: %1",module,Magento_Catalog
-"The ""%1"" product couldn't be removed.","The ""%1"" product couldn't be removed.",module,Magento_Catalog
+"The ""%1"" product couldn't be removed.","O produto ""%1"" não pôde ser removido.",module,Magento_Catalog
 "Database connection error","Erro de conexão de banco de dados",module,Magento_Catalog
 "Database deadlock found when trying to get lock","Deadlock do banco de dados encontrado ao tentar obter o bloqueio",module,Magento_Catalog
 "Database lock wait timeout exceeded","O tempo de espera do bloqueio do banco de dados foi excedido",module,Magento_Catalog
@@ -1958,7 +1958,7 @@ Search,Pesquisa,module,Magento_Catalog
 "Do not change the scope. %1","Não altere o escopo. %1",module,Magento_Catalog
 "Processor %1 doesn't implement BaseSelectProcessorInterface","Processador %1 não implementa BaseSelectProcessorInterface",module,Magento_Catalog
 "A product type is not defined for the indexer.","Um tipo de produto não está definido para indexação.",module,Magento_Catalog
-"Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3",module,Magento_Catalog
+"Price indexer ""%1"" must implement %2 or %3","Indexador de preços ""%1"" deve implementar %2 ou %3",module,Magento_Catalog
 "Product with SKU %1 is not linked to product with SKU %2","Produto com %1 SKU não está relacionado ao produto com SKU %2",module,Magento_Catalog
 "Multiple Select","Múltipla Seleção",module,Magento_Catalog
 Dropdown,"Menu suspenso",module,Magento_Catalog
@@ -1974,9 +1974,9 @@ fl,fl,module,Magento_Catalog
 Images,Imagens,module,Magento_Catalog
 Select...,Selecionar...,module,Magento_Catalog
 "Category with ID: %s doesn't exist","Categoria com ID: %s não existe",module,Magento_Catalog
-"Product Name or SKU","Product Name or SKU",module,Magento_Catalog
-"Start typing to find products","Start typing to find products",module,Magento_Catalog
-"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
+"Product Name or SKU","Nome do Produto ou Produto SKU",module,Magento_Catalog
+"Start typing to find products","Comece a digitar para encontrar produtos",module,Magento_Catalog
+"Product with ID: %s doesn't exist","Produto com ID: %s não existe",module,Magento_Catalog
 "Advanced Pricing","Precificação avançada",module,Magento_Catalog
 "Customer Group Price","Cliente grupo preço",module,Magento_Catalog
 "Customer Group","Grupo de clientes",module,Magento_Catalog
@@ -2007,7 +2007,7 @@ Required,Obrigatório,module,Magento_Catalog
 "Enter separated extensions, like: png, jpg, gif.","Insira extensões separadas, como: png, jpg, gif.",module,Magento_Catalog
 "Maximum Image Size","Tamanho Máximo da Imagem",module,Magento_Catalog
 "Please leave blank if it is not an image.","Por favor, deixe em branco se não for uma imagem.",module,Magento_Catalog
-"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped",module,Magento_Catalog
+"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processador %1 não implementa WysiwygConfigDataProcessorInterface. Ele será ignorado",module,Magento_Catalog
 "This item has weight","Este item tem peso",module,Magento_Catalog
 "This item has no weight","Este item não tem peso",module,Magento_Catalog
 "Set Product as New From","Definir Produto como Novo de",module,Magento_Catalog
@@ -2200,8 +2200,8 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Applies to category pages","Aplica-se às páginas de categoria",module,Magento_Catalog
 "Allow All Products per Page","Permitir todos os produtos por página",module,Magento_Catalog
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Se deve aparecer a opção ""Todos"" no menu 'mostrar X por página'",module,Magento_Catalog
-"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
-"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
+"Remember Category Pagination","Lembrar paginação de Categoria",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","Alterar pode afetar o consumo de SEO e cache de armazenamento.",module,Magento_Catalog
 "Product Image Placeholders","Espaços reservados da imagem de produto",module,Magento_Catalog
 "Search Engine Optimization","Otimização de busca (SEO)",module,Magento_Catalog
 "Page Title Separator","Separador do título da página",module,Magento_Catalog
@@ -2217,12 +2217,12 @@ Comma-separated.,"Separados por vírgula.",module,Magento_Catalog
 "Time Format","Formato de hora",module,Magento_Catalog
 "Year Range","Intervalo de ano",module,Magento_Catalog
 "Please use a four-digit year format.","Por favor, use o formato de quatro dígitos no ano.",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
-"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Use URLs estáticas para conteúdo de mídia no WYSIWYG",module,Magento_Catalog
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","O conteúdo de mídia será inserido no editor como uma URL estática. O conteúdo de mídia não é atualizado se a URL base de configuração do sistema mudar.",module,Magento_Catalog
 "Top Level Category","Categoria de Topo",module,Magento_Catalog
-"Default Layouts","Default Layouts",module,Magento_Catalog
-"Default Product Layout","Default Product Layout",module,Magento_Catalog
-"Default Category Layout","Default Category Layout",module,Magento_Catalog
+"Default Layouts","Layouts padrões",module,Magento_Catalog
+"Default Product Layout","Layout Padrão do Produto",module,Magento_Catalog
+"Default Category Layout","Layout Padrão da Categoria",module,Magento_Catalog
 System,Sistema,module,Magento_Catalog
 "Images Upload Configuration","Configuração de Upload de Imagens",module,Magento_Catalog
 Quality,Qualidade,module,Magento_Catalog
