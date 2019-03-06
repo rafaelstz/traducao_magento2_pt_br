@@ -241,25 +241,25 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Error while checking if topic is synchronous","Erro durante a verificação se tópico é síncrono",module,Magento_Amqp
 "Subscription status","Situação da assinatura",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","O valor digitado para hora/data não é válido, digite um valor válido e tente novamente.",module,Magento_Analytics
 "Cron settings can't be saved","Configurações do cron não podem ser salvas",module,Magento_Analytics
 "There was an error save new configuration value.","Houve um erro a salvar a nova configuração.",module,Magento_Analytics
 "Please select an industry.","Selecione uma indústria, por favor.",module,Magento_Analytics
 "--Please Select--","-- Por favor, selecione --",module,Magento_Analytics
 "Command was not found.","Comando não foi encontrado.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Os dados inseridos são inválidos. Digite esses dados como uma ""string"" ou informe dados que podem ser convertidos em uma ""string"" e tente novamente.",module,Magento_Analytics
 "The data is invalid. Enter the data as a string and try again.","Os dados são inválidos. Insira os dados como uma sequência de caracteres e tente novamente.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Os dados são inválidos. Use um método de ""Criptografia"" válido e tente novamente.",module,Magento_Analytics
+"Enter the encryption key and try again.","Digite a chave de acesso e tente novamente.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","O Código fonte ""%1"" não foi encontrado.",module,Magento_Analytics
 "These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
 "File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Falha ao sincronizar os dados para o Magento Business Intelligence service.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
-"Apps and Games","Apps e Jogos",module,Magento_Analytics
+"Retry Synchronization","Tentar sincronizar novamente",module,Magento_Analytics
+TestMessage,"Mensagem de teste",module,Magento_Analytics
+"Apps and Games","Aplicativos e Jogos",module,Magento_Analytics
 "Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
 "Art and Design","Arte e Design",module,Magento_Analytics
 "Advanced Reporting","Relatórios Avançados",module,Magento_Analytics
@@ -1087,7 +1087,7 @@ Back,Voltar,module,Magento_Banner
 "Cart price rules allows you to setup promotions for items that are in the shopping cart.","Regras de preço do carrinho permite configurar promoções para itens que estão no carrinho de compras.",module,Magento_Banner
 "Add Cart Price Rules","Adicionar Regras de Preço do Carrinho",module,Magento_Banner
 "Related Catalog Price Rule","Regra de Preço de Catálogo Relacionados",module,Magento_Banner
-"Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
+"Catalog price rules allows you to setup promotions for an items in catalog.","As regras de preços, permitem configurar promoções para itens no catálogo.",module,Magento_Banner
 Cancel,Cancelar,module,Magento_Banner
 "Add Selected","Adicionar Selecionados",module,Magento_Banner
 Remove,Excluir,module,Magento_Banner
@@ -1098,10 +1098,10 @@ Country,País,module,Magento_Braintree
 "Add Rule","Adicionar Regra",module,Magento_Braintree
 "Braintree Settlement Report","Relatório de Vendas Braintree",module,Magento_Braintree
 "Sorry, but something went wrong","Desculpe, mas algo deu errado",module,Magento_Braintree
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again.",module,Magento_Braintree
+"Checkout failed to initialize. Verify and try again.","Falha ao iniciar checagem de dados. Tente novamente mais tarde.",module,Magento_Braintree
 "No authorization transaction to proceed capture.","Nenhuma transação de autorização para proceder à captura.",module,Magento_Braintree
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
-"Transaction is cancelled offline.","Transaction is cancelled offline.",module,Magento_Braintree
+"The Payment Token is not available to perform the request.","A forma de pagamento não está disponível para realizar a solicitação.",module,Magento_Braintree
+"Transaction is cancelled offline.","A transação é cancelada offline.",module,Magento_Braintree
 "Braintree error response.","Resposta de erro Braintree.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Não foi possível obter o nonce do modo de pagamento.",module,Magento_Braintree
 "Wrong transaction status","Estado de transação inválido",module,Magento_Braintree
@@ -1112,7 +1112,7 @@ Authorize,Autorizar,module,Magento_Braintree
 ending,"acabando em",module,Magento_Braintree
 expires,"expira em",module,Magento_Braintree
 PayPal,PayPal,module,Magento_Braintree
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Braintree
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","O pedido não foi feito. Primeiro, concorde com os termos e condições e tente fazer seu pedido novamente.",module,Magento_Braintree
 "Transaction was failed.","A transação falhou.",module,Magento_Braintree
 "Credit Card Type","Tipos do Cartão de Crédito",module,Magento_Braintree
 "Credit Card Number","Número do Cartão de Crédito",module,Magento_Braintree
@@ -1181,7 +1181,7 @@ Environment,Ambiente,module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Usada para a integração de ferramenta de fraude direta. Certifique-se de entrar em contato com<a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com</a> para configurar sua conta de Kount.",module,Magento_Braintree
 Debug,Depurar/Debug,module,Magento_Braintree
 "CVV Verification","Verificação de CVV",module,Magento_Braintree
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Certifique-se de ativar o AVS e/ou CVV na sua conta Braintree na seção Configurações/Processamento.",module,Magento_Braintree
 "Credit Card Types","Tipo do Cartão de Crédito",module,Magento_Braintree
 "Sort Order",Ordernação,module,Magento_Braintree
 "Country Specific Settings","Definições Específicas de País",module,Magento_Braintree
@@ -1192,10 +1192,10 @@ Debug,Depurar/Debug,module,Magento_Braintree
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Braintree
 "Override Merchant Name","Substituir o Nome do Comerciante",module,Magento_Braintree
 "Require Customer's Billing Address","Exigir Endereço de Faturação do Cliente",module,Magento_Braintree
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Braintree
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Esse recurso precisa ser ativado primeiro, verifique por meio do suporte técnico do PayPal.",module,Magento_Braintree
 "Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Permitir a Edição da Morada de Envio Inserida Durante o Checkout no PayPal",module,Magento_Braintree
 "Display on Shopping Cart","Mostrar no Carrinho de Compras",module,Magento_Braintree
-"Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Braintree
+"Also affects mini-shopping cart.","Também afetará ""mini-carrinho"" de compras.",module,Magento_Braintree
 "Skip Order Review","Pular a Revisão do pedido",module,Magento_Braintree
 "3D Secure Verification Settings","Definições de Verificação Segura 3D",module,Magento_Braintree
 "3D Secure Verification","Verificação Segura 3D",module,Magento_Braintree
