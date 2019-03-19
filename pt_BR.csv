@@ -313,10 +313,10 @@ Retry,"Tentar Novamente",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 item(ns)  foram agendados para atualização.",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Log de ações em massa",module,Magento_AsynchronousOperations
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Topic %1","Tópico %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
 "Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Desculpa, algo deu errado durante a atualização de preços do produto. Por favor, veja o log para obter detalhes.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 Item (ns) estão sendo atualizados.",module,Magento_AsynchronousOperations
 "Task ""%1"":","Tarefa ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","O(s) item(ns) %1 foram agendadas para atualização.",module,Magento_AsynchronousOperations
@@ -3892,7 +3892,7 @@ Specified,Especificado,module,Magento_Config
 "Visible section not found.","Seção visível não encontrada.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Modelo clone de conjunto de campo de formulation de configuração precisa ser capaz de clonar campos",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: instância de %2 é esperada, tenho %3 vez",module,Magento_Config
-"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""",module,Magento_Config
+"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'O XML no arquivo ""%1"" é inválido:'. ""\n%2\n Verifique o XML e tente novamente.""",module,Magento_Config
 .,.,module,Magento_Config
 "'There is no defined type ' .","'Não há nenhum tipo definido'.",module,Magento_Config
 "'Object is not instance of ' .","'Objeto não é instância de'.",module,Magento_Config
