@@ -6163,7 +6163,7 @@ CSV,CSV,module,Magento_GiftCardAccount
 Code,Código,module,Magento_GiftCardAccount
 End,Fim,module,Magento_GiftCardAccount
 """model"" value should be specified","O valor ""model"" deve ser especificado",module,Magento_GiftCardGraphQl
-"Gift messages can't be used for an empty cart. Add an item and try again.","Gift messages can't be used for an empty cart. Add an item and try again.",module,Magento_GiftMessage
+"Gift messages can't be used for an empty cart. Add an item and try again.","Mensagens de presente não podem ser usadas para um carrinho vazio. Adicione um item e tente novamente.",module,Magento_GiftMessage
 "Gift messages can't be used for virtual products.","Gift messages can't be used for virtual products.",module,Magento_GiftMessage
 "The gift message isn't available.","The gift message isn't available.",module,Magento_GiftMessage
 "The gift message couldn't be added to Cart.","The gift message couldn't be added to Cart.",module,Magento_GiftMessage
