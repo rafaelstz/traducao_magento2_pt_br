@@ -10,7 +10,14 @@
   <a href="https://packagist.org/packages/rafaelstz/traducao_magento2_pt_br"><img src="https://img.shields.io/packagist/dt/rafaelstz/traducao_magento2_pt_br.svg" alt="Total Downloads"></a>
 </p>
 
+Inclui a tradução mais atualizada para todas as versões do Magento 2.
 Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2](https://crowdin.com/project/magento-2/pt-BR), transformado em repositório GIT para facilitar a intalação e atualizações.
+
+# Compatível
+
+- Magento 2 Open Source
+- Magento Commerce
+- Magento B2B
 
 # Instalação
 
