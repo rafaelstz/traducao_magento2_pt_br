@@ -4312,7 +4312,7 @@ Coupon,Cupom
 "Emails Sent","E-mails Enviados"
 "Emails Failed","Emails Falhados"
 "Last Sent","Enviado Pela Última Vez"
-"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Os emails de lembretes podem promover uma regra de preço de carrinho com ou sem um cupão. Se uma regra de preço de carrinho definir um cupão gerado automaticamente, esta regra de lembrete irá gerar um código de cupão aleatório para cada cliente."
+"Reminder emails may promote a cart price rule with or without a coupon. If a cart price rule defines an auto-generated coupon, this reminder rule will generate a random coupon code for each customer.","Os emails de lembretes podem promover uma regra de preço de carrinho com ou sem um cupom. Se uma regra de preço de carrinho definir um cupom gerado automaticamente, esta regra de lembrete irá gerar um código de cupom aleatório para cada cliente."
 "Rule Name","Nome da regra"
 "Promotion rule this reminder will advertise.","Regra de promoção que este lembrete irá anunciar."
 "Assigned to Website","Atribuído ao Website"
