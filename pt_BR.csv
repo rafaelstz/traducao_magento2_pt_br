@@ -9808,6 +9808,7 @@ Account,Conta
 "Allowed file types: ico, png, gif, jpg, jpeg, apng, svg. Not all browsers support all these formats!","Permitidos tipos de arquivos: ico, png, gif, jpg, jpeg, apng, svg. Nem todos os navegadores oferecem suporte a todos esses formatos!"
 "Allowed file types: png, gif, jpg, jpeg, svg.","Permitido a tipos de arquivo: png, gif, jpg, jpeg, svg."
 "Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. Todos os direitos reservados."
+"This is a demo store. No orders will be fulfilled.","Esta é uma loja de demonstração. Nenhum pedido será entregue."
 "TinyMCE 3 (deprecated)","TinyMCE 3 (obsoleto)"
 "Dictionary (Translation on Storefront side)",todos
 "Embedded (Translation on Admin side)","Incorporado (Tradução do lado Admin)"
