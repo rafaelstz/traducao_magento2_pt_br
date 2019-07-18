@@ -1367,6 +1367,13 @@ State/Province,Estado
 "It is recommended to set this value to ""PayPal"" per store views.","É recomendado definir este valor para ""PayPal"" por visão de loja."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta funcionalidade precisa de ser primeiro ativada para a conta de comerciante através do suporte técnico do PayPal."
 "Also affects mini-shopping cart.","Também Afetam o mini-carrinho de compras."
+"Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
+                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
+                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Os descritores dinâmicos são enviados por transação e definem o que aparecerá nos extratos de cartão de crédito de seus clientes para uma compra específica.
+                             Quanto mais clara for a descrição do seu produto, menos provável será que os clientes emitam cobranças devido a confusão ou não reconhecimento.
+                             Os descritores dinâmicos não estão ativados em todas as contas por padrão. Se você receber um erro de validação de 92203 ou se seus descritores dinâmicos não estiverem sendo exibidos como esperado,
+                             por favor <a href=""mailto:support@getbraintree.com""> Suporte Braintree </a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","O valor no campo do nome comercial de uma declaração do cliente. O nome da empresa / seção DBA deve ter 3, 7 ou 12 caracteres
                                  e o descritor do produto pode ter até 18, 14 ou 9 caracteres, respectivamente (com um * entre para um nome de descritor total de 22 caracteres)."
@@ -2379,7 +2386,6 @@ Scroll,Rolagem
 "Block Custom Width","Largura Personalizada do Bloco"
 "If empty, we'll automatically set the width value in pixels.","Se estiver vazio, será definido automaticamente o valor de largura em pixels."
 "Catalog Events Carousel Default Template","Template Pré-definido de Carrossel para Eventos de Catálogo"
-ID,Id.
 "Category ID","ID da categoria"
 Start,Ínicio
 End,Fim
@@ -2571,6 +2577,10 @@ Priority,Prioridade
 "Wrong rule specified.","Regra especificada incorreta."
 "Undefined condition type ""%1"" passed in.","Foi passada uma condição indefinida, de tipo ""%1""."
 "Undefined SQL operator ""%1"" passed in. Valid operators are: %2","Operador SQL indefinido ""%1"" passado. Os operadores válidos são: %2"
+"Undefined rule operator ""%1"" passed in. Valid operators are: %2","Agregador de regra indefinido ""%1"" passado. Os operadores válidos são: %2"
+"Undefined rule aggregator ""%1"" passed in. Valid operators are: %2","Operador SQL indefinido ""%1"" passado. Os operadores válidos são: %2"
+"The ""%1"" rule was unable to be saved. Please try again.","O produto não pôde ser salvo. Por favor, tente novamente."
+"The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","A regra com o ID de ""%1"" não foi encontrada. Verifique se o ID e tente novamente."
 "The ""%1"" rule couldn't be removed.","A regra de ""%1"" não pode ser removida."
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Atualização Futura já existe no limite de tempo escolhido. Selecione um limite diferente para adicionar uma nova Atualização Futura."
 "Smth went to exception","Algo foi para a exceção"
@@ -2620,8 +2630,11 @@ Relevance,Relevância
 "Modify your search","Modificar a sua pesquisa"
 "Test Exception","Exceção de teste"
 "Please enter a valid price range.","Por favor insira um intervalo de preço válido."
+"Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Número de termos de pesquisa populares para serem armazenados em cache para resposta mais rápida. Use ""0"" para cache todos os resultados após um termo ser pesquisado pela segunda vez."
 "Enable EAV Indexer","Habilitar o indexador EAV"
 "Enter a search term and try again.","Entre com um termo de pesquisa e tente novamente."
+"The bucket doesn't exist.","O balde não existe."
+"Deprecation Notice","Aviso de desaprovação"
 "Autocomplete Limit","Limite de Auto Complete"
 "The requested price is not found.","O preço solicitado não foi encontrado."
 "Update %1 from %2 to %3.","Atualização %1 de %2 para %3."
@@ -2649,7 +2662,7 @@ Path,Caminho
 "Please choose a condition to add.","Por favor, escolha uma condição para adicionar."
 "Catalog Products List","Lista de Produtos do Catálogo"
 "List of Products","Lista de produtos"
-Template,Modelo
+Template,"Aviso de desaprovação"
 "Products Grid Template","Template da Listagem de Produtos"
 "Invalid method: %1","Método inválido: %1"
 "My Cart (1 item)","Meu Carrinho (1 item)"
@@ -2798,7 +2811,6 @@ Payment,Pagamento
 "Wrong minimum amount.","Valor mínimo incorreto."
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimir recibo</a>"
 "Forgot Password","Esqueci a senha"
-item,artigo
 items,itens
 "Go to Checkout","Finalizar Compra"
 "Recently added item(s)","Itens recém adicionados"
@@ -2820,6 +2832,12 @@ of,de
 "The quote item isn't found. Verify the item and try again.","O item da cotação não foi encontrado. Verifique o item e tente novamente."
 "The product wasn't found. Verify the product and try again.","O produto não foi encontrado. Verifique o produto e tente novamente."
 "The shipping address is missing. Set the address and try again.","Está faltando o endereço de entrega, Informe o endereço e tente novamente."
+"The shipping information was unable to be saved. Verify the input data and try again.","As informações de envio não puderam ser salvas. Verifique os dados de entrada e tente novamente."
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","O método de envio não pode ser definido para um carrinho vazio. Adicione um item ao carrinho e tente novamente."
+"Something went wrong with your request. Please try again later.","Problema ao processar o pedido. Por favor, tente novamente mais tarde."
+"The shipping method is missing. Select the shipping method and try again.","O método de envio está faltando. Selecione o método de envio e tente novamente."
+"Show Cross-sell Items in the Shopping Cart","Mostrar itens de venda cruzada no Carrinho de Compras"
+"Please specify a regionId in shipping address.","Por favor, especifique o cep no endereço de envio."
 "Terms and Conditions","Termos e Condições"
 "Add New Condition","Adicionar Nova Condição"
 "Save Condition","Salvar Condição"
@@ -2851,6 +2869,8 @@ Manually,Manualmente
 "Checkout agreement with specified ID ""%1"" not found.","Termo de compra com o ID especificado ""%1"" não encontrado."
 "Terms & Conditions","Termos e Condições"
 "Enable Terms and Conditions","Habilitar os termos e condições"
+"The ""%1"" checkout agreement couldn't be saved.","O Check-out ""%1"" não pôde ser salvo."
+"The ""%1"" checkout agreement couldn't be removed.","O Check-out ""%1"" não pôde ser removido."
 "A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","Um acordo de checkout com o ""%1"" ID especificado não foi encontrado. Verifique o ID e tente novamente."
 "Preview mode doesn't allow submitting the order.","O modo de pré visualização não permite o envio de encomenda."
 "Preview Quote Lifetime (minutes)","Tempo de Vida da Pré-visualização do Orçamento (minutos)"
@@ -2858,6 +2878,7 @@ Manually,Manualmente
 "Add New Block","Adicionar novo bloco"
 "Delete Block","Excluir Bloco"
 "Save Block","Gravar bloco"
+ID,Id.
 Identifier,Identificador
 "Manage Pages","Gerenciar páginas"
 "Add New Page","Adicionar Nova Página"
@@ -2943,6 +2964,7 @@ View,Visualizar
 "CMS Page","Página CMS"
 "Select Page...","Selecione a Página..."
 "If empty, the Page Title will be used","Se estiver vazio, será usado o título da página"
+Template,Modelo
 "CMS Page Link Block Template","Template de Bloco do Link da Página CMS"
 "CMS Page Link Inline Template","Template Inline do Link da Página CMS"
 "CMS Static Block","Bloco estático do CMS"
@@ -5881,6 +5903,7 @@ Invitation,Convite
 "Use in Search Results Layered Navigation","Usar nos Resultados de Pesquisa na Navegação por Camadas"
 "Position in Layered Navigation","Posição na Navegação em Camadas"
 "Position of attribute in layered navigation block.","Posição de atributo no bloco de navegação em camadas."
+item,artigo
 "Now Shopping by","Comprar por"
 "Layered Navigation","Navegação em Camadas"
 "Display Product Count","Mostrar Total de Produtos"
