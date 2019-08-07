@@ -3197,7 +3197,6 @@ como o membro da empresa.
 "A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Um pedido de registro da empresa foi enviado pelo cliente %customer. A conta está temporariamente bloqueada até você aprovar ou rejeitar essa empresa."
 "Company: %company","Empresa: %company"
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Seu tipo de conta foi alterado de administrador da empresa para uma conta de usuário comum. Se você acha que isso é um erro, entre em contato com seu gerente para obter detalhes."
-"%name,","%nome,"
 "You have been assigned to %company_name as the Sales Representative.","Você foi atribuído a %company_name como representante de vendas."
 "When you sign in to your account, you will be able to:","Ao fazer login na sua conta, você poderá:"
 "* View and manage company quotes in Admin Panel","* Visualizar e gerenciar cotações da empresa no painel de administração"
