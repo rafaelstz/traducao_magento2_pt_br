@@ -16,8 +16,8 @@ Esse pacote de linguagem foi gerado com base na [Tradução Oficial do Magento 2
 # Compatível
 
 - Magento 2 Open Source
-- Magento Commerce
-- Magento B2B
+- Magento 2 Commerce
+- Magento 2 B2B
 
 # Instalação
 
@@ -31,7 +31,7 @@ php bin/magento setup:static-content:deploy pt_BR -f
 php bin/magento cache:clean
 ```
 
-## Manualmente
+## ou manualmente
 
 Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
@@ -41,7 +41,13 @@ Para instalar a tradução manualmente você irá precisar acessar seu servidor.
 
 # Como Usar
 
-Para começar a usar a tradução instalada vá em `Stores -> Configuration -> General -> General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.
+Para começar a usar a tradução instalada na loja e no painel administrativo da loja siga esses passos:
+
+## Loja em Português
+Acesse no painel administrativo da sua loja `Stores -> Configuration -> General -> General -> Locale options` e selecione em **Locale** a opção **Brazilian Portuguese (Brazil)**.
+
+## Painel admin em Português
+Acesse no painel administrativo da sua loja clique no icone do seu usuário no canto superior direito e então clique em `Account Setting` e selecione em **Interface Locale** a opção **Brazilian Portuguese (Brazil)**.
 
 # Ajude
 
