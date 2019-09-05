@@ -5741,6 +5741,7 @@ Import/Export,Importar/Exportar
 "File is valid! To start import process press ""Import"" button","O arquivo é válido! Para iniciar o processo de importação clique no botão ""Importar"""
 "The file is valid, but we can't import it for some reason.","O arquivo é válido, mais não podemos importa-lo por algum motivo."
 "Show more","Mostrar mais"
+"Show less","Mostrar menos"
 "Additional data","Dados Adicionais"
 "Following Error(s) has been occurred during importing process:","Ocorreram os seguintes erros durante o processo de importação:"
 "Only the first 100 errors are shown. ","Somente os primeiros 100 erros são mostrados. "
