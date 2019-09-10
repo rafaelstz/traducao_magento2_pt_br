@@ -282,7 +282,7 @@ TestMessage,"Mensagem de teste"
 "Art and Design","Arte e Design"
 "Advanced Reporting","Relatórios Avançados"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ganhe novos pontos de vista e tome controlo dos resultados do seu negócio, usando os nossos relatórios dynamic product, pedidos, e clientes, trabalhados de acordo com os seus dados de clientes."
-"Go to Advanced Reporting","Ir para Relatóros avançados"
+"Go to Advanced Reporting","Ir para Relatórios Avançados"
 Analytics,Analítica
 Configuration,Configuração
 "Business Intelligence","Inteligência de Negócio BI"
@@ -820,8 +820,8 @@ Country,País
 Region/State,Região/estado
 "ZIP/Postal Code","Código Postal"
 City,Cidade
-"Street Address",Rua
-"Street Address Line 2","Endereço 2"
+"Street Address",Endereço
+"Street Address Line 2",Complemento
 "VAT Number",CPF/CNPJ
 "Single-Store Mode","Modo de Loja Única"
 "Enable Single-Store Mode","Habilitar Modo Loja Única"
@@ -4054,7 +4054,7 @@ Newsletters,Newsletter
 "You have no default shipping address in your address book.","Você não tem endereço de envio padrão em seu catalogo de endereço."
 "Additional Address Entries","Endereço Adicional"
 "Delete Address","Excluir endereço"
-"Street Address %1",Rua
+"Street Address %1","Endereço %1"
 "It's a default billing address.","Isto é um padrão de endereço de cobrança."
 "Use as my default billing address","Usar como meu endereço padrão de cobrança"
 "It's a default shipping address.","Isto é um padrão de endereço de entrega."
@@ -4280,14 +4280,34 @@ Addresses,Endereços
 "The password token is expired. Reset and try again.","O token da senha expirou. Redefina-o e tente novamente."
 "The transactional account email type is incorrect. Verify and try again.","O tipo de conta do e-mail transacional está incorreto. Verifique e tente novamente."
 "A valid password reset token is missing. Enter and try again.","Uma senha válida de token para redefinição está faltando. Insira e tente novamente."
+"The customer email is missing. Enter and try again.","O e-mail do cliente está faltando. Insira e tente novamente."
+"A customer website ID wasn't specified. The ID must be specified to use the website scope.","Um ID de website do cliente não foi especificado. O ID deve ser especificado para usar o escopo do site."
+"""regionId"" is required. Enter and try again.","""regionId"" é necessário. Insira e tente novamente."
 "Customer not logged in","Cliente não logado"
+"There is no address id in setting default billing address.","Não há nenhum id de endereço na definição padrão de endereço de cobrança."
+"Default billing address has been changed.","O endereço de cobrança padrão foi alterado."
+"We can't change default billing address right now.","Não podemos alterar o endereço de cobrança padrão agora."
+"Default shipping address has been changed.","O endereço de entrega padrão foi alterado."
+"We can't mass delete the addresses right now.","Não é possível realizar uma remoção de endereços em massa no momento."
 "Customer address has been updated.","O endereço do cliente foi atualizado."
+"New customer address has been added.","O novo endereço do cliente foi adicionado."
+"There is no customer with such id.","Não há cliente com esse id."
+"We can't change customer address right now.","Não podemos alterar o endereço do cliente no momento."
 Street,Rua
+"Set as default billing","Definir como cobrança padrão"
+"Set address as default billing","Definir endereço como padrão para cobrança"
+"Are you sure you want to set the address as default billing address?","Tem certeza que deseja definir o endereço como endereço de cobrança padrão?"
 "Set as default shipping","Definir como envio padrão"
 "Set address as default shipping","Endereço definido como frete padrão"
+"Are you sure you want to set the address as default shipping address?","Tem certeza que deseja definir o endereço como endereço de entrega padrão?"
 "Delete address","Excluir endereço"
 "Are you sure you want to delete the address?","Você tem certeza que deseja excluir este endereço?"
+"Additional addresses","Endereço adicional"
 State,Estado
+"Reset password","Redefinir senha"
+"Update Address","Atualizar Endereço"
+"Name Prefix","Prefixo do Nome"
+"Name Suffix","Sufixo do Nome"
 "Are you sure to delete selected address?","Você tem certeza que deseja excluir o endereço selecionado?"
 "Are you sure you want to delete the selected customers?","Você tem certeza que quer excluir o(s) cliente(s) selecionado(s)?"
 "Are you sure you want to unsubscribe the selected customers from the newsletter?","Você está certo que deseja cancelar a assinatura de clientes na newsletter?"
@@ -4344,6 +4364,7 @@ available,disponível
 "Store Credit Update Email Sender","Remetente de Email para Atualização do Crédito da Loja"
 "Store Credit Update Email Template","Template de Email para Atualização do Crédito de Loja"
 "A balance is needed to save a balance history.","Um saldo é necessário para salvar um histórico de saldo."
+"The balance history action code is unknown. Verify the code and try again.","O código de ação do histórico de saldo é desconhecido. Verifique o código e tente novamente."
 "Customer Address Attributes","Atributos de Endereço do Cliente"
 "Save and Continue Edit","Salvar e Continuar Editando"
 "Edit Customer Address Attribute ""%1""","Editar cliente endereço atributo ""%1"""
@@ -4414,6 +4435,7 @@ available,disponível
 "A fieldset with the same code alredy exists.","Um conjunto de campos com o mesmo código já existe."
 "This fieldset is not empty!","Este conjunto de campos não está vazio!"
 "Choose Website:","Escolha o site:"
+"Street Address %1",Rua
 "This is your default billing address.","Este é o seu endereço de faturamento."
 "This is your default shipping address.","Este é o seu endereço de entrega."
 "Customer Address","Endereço do cliente"
@@ -4613,6 +4635,8 @@ Cybersource,CyberSource
 "Access Key","Chave de acesso"
 "Secret Key","Chave secreta"
 "Webhook URL","URL do webhook"
+"Is admin panel works on the different domain?","O painel de administração funciona no domínio diferente?"
+"Admin Profile ID","ID do perfil administrador"
 "Admin Access Key","Chave de Acesso do Admin"
 "Admin Secret Key","Chave secreta do Admin"
 "Admin Webhook URL","URL do Admin Webhook"
@@ -4652,6 +4676,7 @@ Cybersource,CyberSource
 "Not available in production mode.","Não disponível em modo de produção."
 "Front-end development workflow","Fluxo de trabalho de desenvolvimento de front-end"
 "Magento was installed with a table prefix. Please re-install without prefix.","O Magento foi instalado com um prefixo de tabela. Por favor reinstale sem prefixo."
+"Log to Syslog","Log para Syslog"
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Selecione aqui para permitir que a DHL otimize as cobranças de entrega dividindo o pedido se houver excesso em %1 e %2."
 "Wrong Content Type","Tipo de conteúdo errado"
 Pounds,Libras
@@ -5049,8 +5074,8 @@ hello,olá
 "Custom2 Contact Name","Nome de contato PERSONALIZADO2"
 "Custom2 Contact Email","E-mail de contato PERSONALIZADO2"
 "Store Hours","Armazenar horas"
-"Street Address 1","Endereço da rua 1"
-"Street Address 2","Endereço da rua 2"
+"Street Address 1","Endereço 1"
+"Street Address 2",Complemento
 "Store Contact Information","Armazenar informações de contato"
 "Template Variables","Variáveis do template"
 "Please enter a template name.","Por favor insira um nome de template."
