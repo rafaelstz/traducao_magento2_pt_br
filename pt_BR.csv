@@ -820,8 +820,8 @@ Country,País
 Region/State,Região/estado
 "ZIP/Postal Code","Código Postal"
 City,Cidade
-"Street Address","Endereço"
-"Street Address Line 2","Complemento"
+"Street Address",Endereço
+"Street Address Line 2",Complemento
 "VAT Number",CPF/CNPJ
 "Single-Store Mode","Modo de Loja Única"
 "Enable Single-Store Mode","Habilitar Modo Loja Única"
