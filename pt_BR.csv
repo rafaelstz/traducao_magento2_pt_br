@@ -142,7 +142,7 @@ Customers,Clientes
 "We don't have as many of these as you want.","Não temos tantos quanto você deseja."
 "You can't add this many to your cart.","Não é possível adicionar esta quantidade no seu carrinho."
 "You need to choose options for your item.","Você precisa escolher opções para seu item."
-"We can't add the item to your cart.","Nós não podemos adicionar o item ao seu carrinho."
+"We can't add the item to your cart.","Não foi possível adicionar o item ao seu carrinho."
 "Please enter an actual number in the ""Qty"" field.","Por favor, digite um número atual no campo ""Qtd""."
 "This product is assigned to another website.","Este produto está atribuído a outro website."
 "You can add only enabled products.","Você pode adicionar somente produtos habilitados."
@@ -5828,6 +5828,7 @@ Import/Export,Importar/Exportar
 "File is valid! To start import process press ""Import"" button","O arquivo é válido! Para iniciar o processo de importação clique no botão ""Importar"""
 "The file is valid, but we can't import it for some reason.","O arquivo é válido, mais não podemos importa-lo por algum motivo."
 "Show more","Mostrar mais"
+"Show less","Mostrar menos"
 "Additional data","Dados Adicionais"
 "Following Error(s) has been occurred during importing process:","Ocorreram os seguintes erros durante o processo de importação:"
 "Only the first 100 errors are shown. ","Somente os primeiros 100 erros são mostrados. "
@@ -7784,7 +7785,7 @@ Price:,Preço:
 "Allow Alert When Product Comes Back in Stock","Permitir Alerta Quando o Produto Regressa ao Stock"
 "Price Alert Email Template","Template de E-mail de Alerta de Preço"
 "Stock Alert Email Template","Template de E-mail de Alerta de Stock"
-"Alert Email Sender","Remetente de Email de Alerta"
+"Alert Email Sender","Remetente de E-mail de Alerta"
 "Product Alerts Run Settings","Definições de Execução de Alerta de Produtos"
 "Notify me when the price drops","Receber notificações de baixa de preço"
 "Notify me when this product is in stock","Me avise quando esse produto estiver disponível"
@@ -7824,7 +7825,7 @@ Duration:,Duração:
 "The preview image information is unavailable. Check your connection and try again.","A visualização da imagem não está disponível. Verifique sua conexão e tente novamente."
 "Edit Catalog Price Rules","Editar as Regras de preço do catálogo"
 "Edit Cart Price Rules","Editar Regras de Preço de Produtos do Carrinho"
-"Edit Automated Email Reminder Rules","Editar Regras Automatizadas de Alertas por Email"
+"Edit Automated Email Reminder Rules","Editar Regras Automatizadas de Alertas por E-mail"
 "Quick Order","Compra rápida"
 "The uploaded CSV file does not contain a column labelled SKU. Make sure the first column is labelled SKU and that each line in the file contains a SKU value. Then upload the file again.","O arquivo CSV enviado não contém a coluna SKU. Certifique-se que a primeira coluna é a de SKU e que cada linha do arquivo está preenchida com um valor para o SKU. Em seguida, carregue o arquivo novamente."
 "You should correct the quantity for the product.","Você deve corrigir a quantidade do produto."
@@ -8061,7 +8062,7 @@ error123,erro123
 <p>Simplifique os pedidos e aumente as taxas de conversão, permitindo que seus clientes usem as informações de pagamento e envio armazenadas para pular etapas de check-out nonotonas. </p>
 </div>
 <div class=""email-marketing-highlight"">
-<h3>Automatização de Email Marketing</h3>
+<h3>Automatização de E-mail Marketing</h3>
 <p>Envie campanhas de e-mail inteligentes e mais rápidas com automação de marketing do dotmailer, com base nos dados em tempo real da sua loja Magento.</p> </div>
 <p>Notas de lançamento e detalhes adicionais podem ser encontrados no <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.</p>                        "
 "<p>Advanced Reporting
@@ -8112,7 +8113,7 @@ error123,erro123
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
                         ","
-<p>Desbloqueie um nível incomparável de percepção e controle do seu marketing de comércio eletrônico com o dotmailer Email Marketing Automation. Incluído no Magento 2.2.2 para fácil configuração, o dotmailer garante que percurso de cada cliente seja capturada, segmentada e personalizada, permitindo que você ofereça campanhas centradas no cliente que melhoram os seus resultados repetidas vezes. Os benefícios incluem:</p>
+<p>Desbloqueie um nível incomparável de percepção e controle do seu marketing de comércio eletrônico com o dotmailer E-mail Marketing Automation. Incluído no Magento 2.2.2 para fácil configuração, o dotmailer garante que percurso de cada cliente seja capturada, segmentada e personalizada, permitindo que você ofereça campanhas centradas no cliente que melhoram os seus resultados repetidas vezes. Os benefícios incluem:</p>
 <ul><li><span>Sem compromisso por 14 dias.</span></li>
 <li><span>Campanhas de automação que usam seus dados da loja do Magento em temo real que geram receita, incluindo carrinho abandonado, navegação abandonada, reposiçãoo de produtos e muito mais.</span></li>
 <li><span>Solução integrada para emails transacionais.</span> </li>
