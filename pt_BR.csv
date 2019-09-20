@@ -441,7 +441,7 @@ Debug,Depurar
 "Payment from Specific Countries","Pagamento a partir de Países Específicos"
 "Minimum Order Total","Total mínimo do pedidos"
 "Maximum Order Total","Total máximo de pedidos"
-"Sort Order",Ordernação
+"Sort Order",Ordenação
 "Cannot place order.","Não foi possível fechar o pedido."
 "'Gateway error: ' .","'Erro do Gateway: ' ."
 "Unable to place order. Please try again later.","Não é possível fazer o pedido. Por favor, tente novamente mais tarde."
@@ -1735,7 +1735,7 @@ List,Lista
 "Something went wrong while getting the image url.","Algum erro ocorreu ao obter a url da imagem."
 "Can't delete root category.","Não é possível excluir a categoria principal."
 "The value of attribute ""%1"" must be unique.","O valor do atributo ""%1"" deve ser exclusivo."
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Ordernação Padrão Produto na Listagem não existe nas Opções Disponíveis para Ordenação do Produto na Listagem."
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Ordenação Padrão Produto na Listagem não existe nas Opções Disponíveis para Ordenação do Produto na Listagem."
 "No layout updates","Não há atualizações de layout"
 "Products only","Somente produtos"
 "Static block only","Somente bloco estático"
