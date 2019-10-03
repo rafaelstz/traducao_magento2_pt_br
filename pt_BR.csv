@@ -3760,7 +3760,7 @@ Monthly,Mensal
 "Test exception","Exceção de teste"
 "Cron (Scheduled Tasks)","Cron (Tarefas Agendadas)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Para URLs corretamente gerados durante operações cron por favor certifique-se que Web > URLs Base Seguro e Inseguro estão explicitamente definidos. Todos os tempos estão configurados em minutos."
-"Cron configuration options for group:","Opções de configuração do cron para o grupo:"
+"Cron configuration options for group: ","Opções de configuração do cron para o grupo: "
 "Generate Schedules Every","Gerar Agendamentos A Cada"
 "Schedule Ahead for","Agendar antecipadamente para"
 "Missed if Not Run Within","Falha se não for executado dentro de"
