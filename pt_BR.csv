@@ -281,7 +281,7 @@ TestMessage,"Mensagem de teste"
 "Athletic/Sporting Goods","Artigos Esportivos"
 "Art and Design","Arte e Design"
 "Advanced Reporting","Relatórios Avançados"
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ganhe novos pontos de vista e tome controlo dos resultados do seu negócio, usando os nossos relatórios dynamic product, pedidos, e clientes, trabalhados de acordo com os seus dados de clientes."
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Obtenha novas idéias e controle o desempenho de seus negócios, usando nossos relatórios dinâmicos de produtos, pedidos e clientes, de acordo com os dados de seus clientes."
 "Go to Advanced Reporting","Ir para Relatórios Avançados"
 Analytics,Analítica
 Configuration,Configuração
@@ -296,8 +296,8 @@ Configuration,Configuração
                  termos e condições </a> ."
 "Advanced Reporting Service","Serviço Avançado de Relatório"
 "Time of day to send data","Horário do dia para enviar os dados"
-Industry,Industria
-"In order to personalize your Advanced Reporting experience, please select your industry.","A fim de personalizar a sua experiência no Advanced Reporting, selecione por favor o seu ramo de atividade."
+Industry Data,Dados da Indústria
+"In order to personalize your Advanced Reporting experience, please select your industry.","Para personalizar sua experiência nos Relatórios avançados, selecione seu setor."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obter mais idéias do Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
@@ -3760,7 +3760,7 @@ Monthly,Mensal
 "Test exception","Exceção de teste"
 "Cron (Scheduled Tasks)","Cron (Tarefas Agendadas)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Para URLs corretamente gerados durante operações cron por favor certifique-se que Web > URLs Base Seguro e Inseguro estão explicitamente definidos. Todos os tempos estão configurados em minutos."
-"Cron configuration options for group:","Opções de configuração do cron para o grupo:"
+"Cron configuration options for group: ","Opções de configuração do cron para o grupo: "
 "Generate Schedules Every","Gerar Agendamentos A Cada"
 "Schedule Ahead for","Agendar antecipadamente para"
 "Missed if Not Run Within","Falha se não for executado dentro de"
