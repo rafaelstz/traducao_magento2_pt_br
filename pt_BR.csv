@@ -11700,3 +11700,8 @@ Translate,Traduzir
 "The widget %1 is no longer available. Select a different widget.","O widget %1 não está mais disponível. Selecione um widget diferente."
 "Carriers","Transportadoras"
 "Shipping Partners","Parceiros de Remessa"
+"Country of Manufacture","País de Fabricação"
+"Short Description","Pequena Descrição"
+"Search Configuration","Configuração de Pesquisa"
+"Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo: Campo de texto, Menu suspenso, Seleção múltipla e Preço."
+"Ex: Brand facet will be displayed only if 90% of the product have a brand.","Ex: a marca será exibida apenas se 90% dos produtos tiverem uma marca."
