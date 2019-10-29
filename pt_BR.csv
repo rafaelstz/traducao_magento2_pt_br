@@ -14292,3 +14292,6 @@ Footer,Rodapé,theme,frontend/Magento/luma
 "Update to your %store_name shipment","Atualização da sua encomenda de %store_name",theme,frontend/Magento/luma
 "Address Book","Catálogo de Endereços",theme,frontend/Magento/luma
 "Account Information","Informações da Conta",theme,frontend/Magento/luma
+"Pickups","Retiradas",module,Magento_Backend
+"Dispatches","Despachos",module,Magento_Backend
+"Batches","Lotes",module,Magento_Backend
