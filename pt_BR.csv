@@ -198,7 +198,7 @@ File,Arquivo
 "File extensions allowed: .csv","Extensões de arquivos permitidas: .csv"
 "Add Row","Adicionar linha"
 "Remove Row","Remover linha"
-"Add Products By SKU","Adicionar produtos por SKU"
+"Add Products By SKU",按SKU添加产品
 "Shopping Cart Management","Gerenciamento do Carrinho de Compras"
 "View Shopping Cart","Ver Carrinho de Compras"
 "View and modify Shopping Cart","Ver e modificar Carrinho de Compras"
@@ -3194,7 +3194,7 @@ Contacts,Contatos
 "* Create and manage company shipping and billing addresses","* Criar e gerenciar os endereços de remessa e cobrança da empresa"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a> 
+    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a>
 como o membro da empresa.
     Depois de inserir sua conta,
     os recursos compartilhados da empresa estarão disponíveis para você."
@@ -3378,7 +3378,7 @@ Reverted,Revertido
 "Could not save company credit limit","Não foi possível salvar o limite de crédito da empresa"
 "Please enter a valid %1/%2 currency rate.","Por favor insira uma taxa de câmbio %1/%2 válida."
 "Invoice created for %1","Fatura criada para %1"
-"The selected credit currency is not valid. 
+"The selected credit currency is not valid.
                         Customers will not be able to place orders until you update the credit currency.","A moeda de crédito selecionada não é válida.
                         Os clientes não poderão fazer pedidos até você atualizar a moeda de crédito."
 "Store Credit","Crédito na loja"
@@ -3527,7 +3527,7 @@ Specified,Especificado
 "Visible section not found.","Seção visível não encontrada."
 "Config form fieldset clone model required to be able to clone fields","Modelo clone de conjunto de campo de formulation de configuração precisa ser capaz de clonar campos"
 "%1: Instance of %2 is expected, got %3 instead","%1: instância de %2 é esperada, tenho %3 vez"
-"Invalid XML in file %1:\n%2","XML inválido no arquivo %1:\n%2"
+"Invalid XML in file %1:\n%2","XML inválido no ficheiro %1:\n%2"
 "'There is no defined type ' .","'Não há nenhum tipo definido'."
 "'Object is not instance of ' .","'Objeto não é instância de'."
 "Filesystem is not writable.","Sistema de arquivos não é gravável."
@@ -4114,8 +4114,8 @@ Password:,Senha:
 "Your %store_name password has been changed","Mudou sua senha %store_name"
 "We have received a request to change the following information associated with your account at %store_name: password.","Recebemos um pedido para alterar as informações seguintes, associadas à sua conta no %store_name: e-mail, senha."
 "Checkout as a new customer","Faça o checkout com um novo cliente"
-"Creating an account has many benefits:","Criar uma conta tem muitos benefícios:"
-"See order and shipping status","Visualize seu pedido e o status do envio"
+"Creating an account has many benefits:","Cria uma conta tem muitos benefícios:"
+"See order and shipping status","Visualize seu pedido e o status da envio"
 "Track order history","Acompanhe o histórico do pedido"
 "Check out faster","Compra rápida"
 "Checkout using your account","Faça o checkout usando sua conta"
@@ -4648,7 +4648,7 @@ Cybersource,CyberSource
 "The credit card type field needs to be provided. Select the field and try again.","O campo do tipo de cartão de crédito precisa ser fornecido. Selecione o campo e tente novamente."
 "Import failed: %1","Falha na Importação: %1"
 "%1 does not implement %2","%1 não implementa %2"
-"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","O arquivo app/etc/%1 não pode ser lido. Por favor, verifique se existe e tem permissões de leitura."
+"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","Ficheiro app/etc/%1 não pode ser lido. Por favor, verifique a sua existência e permissões de leitura."
 "There are no sensitive configurations to fill","Não há nenhuma configuração sensível para preencher"
 "Value can't be empty","Valor não pode ser vazio"
 "A configuration with this path does not exist or is not sensitive","Uma configuração com este caminho não existe ou não é sensível"
@@ -6051,9 +6051,9 @@ Extensions,Extensões
 "Maximum Login Failures to Lock Out Account","Máximo de Falhas de Login em Conta Bloqueada"
 "Lockout Time (seconds)","Tempo de Bloqueio (segundos)"
 "Integrations Configuration","Configuração de Integrações"
-"Integration configuration file","Arquivo de configuração de integração"
+"Integration configuration file","Ficheiro de configuração de integração"
 "Integrations API Configuration","Configuração de integração de API"
-"Integrations API configuration file","Arquivo de configuração da API de integrações"
+"Integrations API configuration file","Ficheiro de configuração da API das integrações"
 "Integration configuration file.","Arquivo de configuração de integração."
 "Integrations API configuration file.","Arquivo de configuração das Integrações API."
 "No Integrations Found","Não encontramos integrações"
@@ -6219,8 +6219,8 @@ item,artigo
 "Position of attribute in layered navigation block","Posição do atributo no bloco de navegação em camadas."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.                     
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option -
+                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.
 <br> O preço não é compatível com a opção <b> 'Filtrável (sem resultados)' </b> -                      isso não afetará o filtro de preços."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Apenas pode ser usado com tipo de input de catalogo Sim/Não (Booleano), Menu, Seleção Múltipla e Preço."
@@ -6570,7 +6570,7 @@ Decline,Recusar
 "Amount Discount","Valor do desconto"
 "Proposed Price","Preço proposto"
 "Quote Subtotal","Subtotal do Carrinho"
-"My Quotes","Minhas Cotações"
+"My Quotes","Principais Cotações"
 "created quote","cotação criada"
 "closed quote","cotação fechada"
 "updated quote","cotação atualizada"
@@ -6591,7 +6591,7 @@ deleted,excluído
 "Quote Grand Total (Incl. Tax)","Preço Final (Com Impostos)"
 "Grand Total to Be Charged","Valor total a cobrar"
 "Requested quote was not found","Cotação solicitada não foi encontrada"
-Quotes,Cotações
+Quotes,Citações
 "Something went wrong during quote declining","Uma anomalia aconteceu durante a simulação"
 "Attachment not found.","Anexo não encontrado."
 "Quote #%1","Cotação #%1"
@@ -6812,8 +6812,8 @@ Expires:,"Expira em:"
 "Maximum length of the message is ","O comprimento máximo da mensagem é de  caracteres."
 "Decline Quote?","Recusar Cotação?"
 "If you click [Confirm], all custom pricing from the selected quotes will be removed. The buyers will be able to place orders using their standard catalog prices.","Se você clicar em [Confirm], todos os preços personalizados das cotas selecionadas serão removidos. Os compradores serão capazes de colocar pedidos usando seus preços padrão de catálogo."
-"Decline Quotes?","Recusar Cotações?"
-"Cannot Decline the Selected Quotes","Não é possível recusar as cotações selecionadas"
+"Decline Quotes?","Recusar Cotação?"
+"Cannot Decline the Selected Quotes","Não é possível recusar as quotas selecionadas"
 "Only the quotes that are currently in status 'Open' can be declined","Apenas as cotações que estão atualmente no status 'Aberto' podem ser recusadas"
 "If you decline this quote, all custom pricing from this quote will be removed. The buyer will be able to place an order using their standard catalog prices and discounts.","Se você recusar esta cotação, todos os preços personalizados desta cotação serão removidos. O comprador será capaz de fazer um pedido usando seus preços e descontos de catálogo padrão."
 "Your file could not be uploaded. Please try again.","Seu arquivo não pôde ser enviado. Por favor, tente novamente."
@@ -6862,7 +6862,7 @@ Expires:,"Expira em:"
 "No such public catalog entity","Nenhuma entidade de catálogo público"
 "Shared Catalog (or Customer Group)","Catálogo Compartilhado (ou Grupo de Clientes)"
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Não está configurado nenhuma ID de Aplicação New Relic, não é possível continuar com o relatório através de eventos Cron"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","A integração New Relic exige o agente newrelic-php5, que não está instalado. Mais informação sobre como instalar o agente está disponível <a target=""_blank"" href=""%1"">aqui</a>."
 "New Relic Reporting Section","Secção de Relatórios New Relic"
 "New Relic Reporting","Relatórios New Relic"
@@ -6997,7 +6997,7 @@ Unconfirmed,"Não confirmados"
 Instructions,Instruções
 "Cash On Delivery Payment","Pagamento Contra Entrega"
 "Zero Subtotal Checkout","Checkout com Subtotal Zero"
-"Automatically Invoice All Items","Faturar automaticamente todos os itens"
+"Automatically Invoice All Items","Facturar Automaticamente Todos os Artigos"
 "Purchase order number is a required field.","Número do pedido de compra é um campo obrigatório."
 "Shipping Price","Preço do envio"
 "Export CSV","Exportar CSV"
@@ -7023,7 +7023,7 @@ Instructions,Instruções
 "Please correct %1 ""%2"" in the Row #%3.","Por favor, corrija o %1 ""%2"" na linha #%3."
 "Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija o Valor dos Portes ""%1"" na Linha #%2."
 "Duplicate Row #%1 (duplicates row #%2)","Duplicar a linha #%1 (duplica a linha #%2)"
-"Please correct Table Rates File Format.","Por favor corrija o formato do arquivo das taxas tabeladas."
+"Please correct Table Rates File Format.","Por favor corrija o formato de ficheiro das taxas tabeladas."
 "For matching items only","Apenas para os itens correspondentes"
 "For shipment with matching items","Para envio com os itens correspondentes"
 "Flat Rate","Taxa Fixa"
@@ -7734,7 +7734,7 @@ Features,Recursos
 "Not you?","Não é você?"
 "Your shopping cart has been updated with new prices.","O seu carrinho de compras foi atualizado com novos preços."
 "Welcome, %1!","Bem-vindo, %1!"
-"We cannot load the configuration from file %1.","Não foi possível carregar a configuração do arquivo %1."
+"We cannot load the configuration from file %1.","Não conseguimos carregar a configuração do ficheiro %1."
 "Method ""%1"" is not defined in ""%2""","O método ""%1"" não está definido em ""%2"""
 "To check out, please sign in using your email address.","Para efetuar o checkout, por favor inicie a sessão usando seu endereço de e-mail."
 "Remember Me","Permanecer logado"
@@ -7896,7 +7896,7 @@ error123,erro123
 "The address failed to save. Verify the address and try again.","Não foi possível salvar o endereço. Verifique o endereço e tente novamente."
 "The ""%1"" Cart doesn't contain products.","O carrinho ""%1"" não contém produtos."
 "The coupon code couldn't be applied. Verify the coupon code and try again.","Não foi possível aplicar o código do cupom. Verifique o código do cupom e tente novamente."
-"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. Verifique seu código e tente novamente."
+"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. verifique seu código e tente novamente."
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","O código do cupom não pode ser removido. Verifique o código do seu cupom e tente novamente."
 "You don't have the correct permissions to assign the customer to the cart.","Você não possui as permissões corretas para atribuir o cliente ao carrinho."
 "The shipping address is missing. Set the address and try again.","O endereço de envio está vazio. Adicione o endereço e tente novamente."
@@ -8429,6 +8429,7 @@ undefined,"Não definido"
 "Product %1 has been added to the requisition list %2.","O produto %1 foi adicionado a lista de requisições %2."
 "Options were updated. Please review available configurations.","As opções foram atualizadas. Por favor revise todas as configurações disponíveis."
 "The SKU is out of stock.","O SKU está fora de estoque."
+"The requested qty is not available","A qtd solicitada não está disponível"
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Não foi possível salvar a lista de requisições. O número máximo de requisições foi excedido."
 "Warning message.","Mensagem de aviso."
 "Could not save","Não foi possível salvar"
@@ -9387,7 +9388,7 @@ Complete,Finalizado
 "Purchased From: %1","Comprado de: %1"
 "Shipping &amp; Handling","Envio &amp; Manuseio"
 "Create Shipment","Criar o carregamento"
-"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Tipos de fatura e entrega não correspondem para alguns itens neste pedido. Você só pode criar uma entrega depois de criar a fatura."
+"Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Tipos de nota fiscal e remessa não coincidem para alguns artigos sobre esta ordem. Você pode criar um carregamento somente após a criação da factura."
 "Qty to Invoice","Quantidade para faturar"
 "Invoice History","Histórico de Faturas"
 "Invoice Comments","Comentários da Fatura"
@@ -9543,7 +9544,7 @@ Operations,Operações
 "Asynchronous indexing","Indexação assíncrona"
 "Orders and Returns Search Form","Formulário de Pesquisa de Pedidos e Devoluções"
 "ZIP/Post Code","Código postal / CEP"
-"Signed-up Point","Ponto de Inscrição"
+"Signed-up Point","Assinado-up ponto"
 "Invoice Date","Data da factura"
 "Ship Date","Data de envio"
 "Total Quantity","Quantidade total"
@@ -9746,7 +9747,7 @@ Limite de uso imposto apenas para clientes com sessão iniciada.                
 "File Directory","Diretório de Arquivos"
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Para o tipo ""Servidor Local"" use um caminho relativo da instalação do Magento, e.g. var/export, var/import, var/export/some/dir"
 "FTP Host[:Port]","FTP Host [: porta]"
-"File Mode","Modo Arquivo"
+"File Mode","Modo de Ficheiro"
 "Passive Mode","Modo Passivo"
 "Failed Email Receiver","Receptor do E-mail falhou"
 "Failed Email Sender","Remetente do E-mail falhou"
@@ -9992,12 +9993,12 @@ Pricing,Preços
 "Delete ""${ $.$data.name }""","Excluir{ $.$data.name } $"
 "Catalog and Tier Price","Catálogo e Camada de Preço"
 "Group or Catalog","Grupo ou Catálogo"
-"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
+"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
-        Otherwise, the categories and products you're configuring in shared catalogs will 
+        Otherwise, the categories and products you're configuring in shared catalogs will
         not be restricted to customers.","Você precisa habilitar o  <a href=""%1"" data-role=""notification-dialog"">catálogo compartilhado</a>localizado em Lojas -> Configuração -> Funcionalidades B2B para utilizar os catálogos compartilhados na visão de loja.  Caso contrário, as categorias e os produtos que você está configurando nos catálogos compartilhados não serão restringidos para os clientes."
-"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
-    to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
+"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features
+    to use the shared catalogs in the storefront. Otherwise, the categories and products you're
     configuring in shared catalogs will not be restricted to customers.","Você precisa habilitar o  catálogo compartilhado localizado em Lojas -> Configuração -> Funcionalidades B2B para utilizar os catálogos compartilhados na visão de loja. Caso contrário, as categorias e os produtos que você está configurando nos catálogos compartilhados não serão restringidos para os clientes."
 "Products in Catalog","Produtos no Catalogo"
 "Continue to configure the shared catalog structure and pricing.","Continue para configurar a estrutura e preços do catálogo compartilhados."
@@ -10170,7 +10171,7 @@ Unrequested,"Não solicitado"
 Garantimos nossas aprovações com 100% de proteção contra estorno, reembolsando o valor total do pedido mais as taxas, caso você receba um estorno fraudulento.
 <p>Benefícios:<ul>
 <li>Expanda seu negócio sem medo de fraude</li>
-<li>Aceite mais pedidos e maximize o seu lucro</li>                    
+<li>Aceite mais pedidos e maximize o seu lucro</li>
 <li>Automatize a revisão de pedidos e tire a fraude de pauta</li></ul></p>"
 "<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">Veja nosso guia de configuração</a> para instruções passo-a-passo de como integrar o Signifyd com o Magento.<br />Para suporte entre em contato: <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","A URL do seu webhook será usada para <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configurar</a> um webhook de garantia completa no Signifyd. Webhooks são usados para sincronizar as decisões de garantia do Signifyd com o Magento."
@@ -10236,7 +10237,7 @@ Yearly,Anual
 "This update not exists.","Esta atualização não existe."
 "Content Staging Dashboard","Painel de avaliação de conteúdo"
 "The Start Time of this Update cannot be changed. It's been already started.","O horário inicial desta atualização não pode ser alterado. Já foi iniciado."
-"Future Update in this time range already exists. 
+"Future Update in this time range already exists.
                             Select a different range to add a new Future Update.","Atualização Futura já existe no intervalo de tempo escolhido. Selecione um intervalo diferente para adicionar uma nova Atualização Futura."
 "Cannot save Update.","Não é possível salvar a atualização."
 "Edit Existing Update","Editar atualização existente"
@@ -10362,7 +10363,7 @@ Language,Idioma
 "Output path %1 doesn't exist","O caminho %1 não existe"
 "Unknown DB param: %1","Parâmetro de BD desconhecido: %1"
 "Paths file already exists","Caminhos de arquivo já existem"
-"Paths file cannot be created","Caminhos do arquivo não podem ser criados"
+"Paths file cannot be created","Não é possível criar caminho do ficheiro"
 "Please select item(s).","Por favor, selecione o(s) item(s)."
 Support,Atendimento
 "Data Collector","Coletor de dados"
@@ -10595,14 +10596,10 @@ More,Mais
 "equal to","igual a"
 more,mais
 less,menos
-"Product Price is %1 %2% of Matched Product(s) Price","Preço do produto é %1 %2% do preço do(s) produto(s) correspondente(s)"
 "Please define a product data object.","Por favor, defina um objeto de dados de produto."
 Cross-sells,"Venda Cruzada"
-"Model class name for attribute is invalid","Nome da classe modelo para o atributo é inválido"
-"This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","O código do atributo é inválido. Por favor use apenas letras (a-z), números (0-9) ou sublinhado (_) neste campo. O primeiro carácter deve ser uma letra."
 "Selected Only","Somente Selecionado"
 Shuffle,Embaralhar
-"Maximum Number of Products in Related Products List","Número máximo de Produtos na Lista de Produtos Relacionados"
 "Show Related Products","Mostrar produtos relacionados"
 "Target Rule","Regra alvo"
 "Target Rule Index.","Índice de Regras de Alvo."
@@ -10677,7 +10674,6 @@ Shuffle,Embaralhar
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Para aplicar desconto nos preços incluindo o imposto e aplicando o imposto após o desconto, defina Preços de Catalogo para ""Incluindo Impostos""."
 "Store(s) affected: ","Loja(s) afetada(s): "
 "Click on the link to <a href=""%1"">ignore this notification</a>","Clique no link para <a href=""%1"">ignorar esta notificação</a>"
-"Your current tax configuration may result in rounding errors. ","Aviso de configuração de impostos pode resultar em erros de arredondamento. "
 "customer group","grupo de clientes"
 product,produto
 "Excl. tax:","Excl. Imposto:"
@@ -10969,7 +10965,7 @@ Keyword,Palavra-chave
 "Please enter issue number or start date for switch/solo card type.","Por favor, insira o número de emissão ou data de início para o cartão switch/solo."
 "Please enter positive number in this field.","Por favor insira um número positivo neste campo."
 "Please enter a valid value, ex: 10,20,30","Por favor insira um valor válido, ex: 10,20,30"
-"File you are trying to upload exceeds maximum file size limit.","O arquivo que você está tentando carregar excede o limite máximo de tamanho do arquivo."
+"File you are trying to upload exceeds maximum file size limit.","O ficheiro que está a carregar excede o limite máximo de tamanho do arquivo."
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Por favor use tag SCRIPT com atributo SRC ou com conteúdo adequado para incluir JavaScript para o documento."
 "The date is not within the specified range.","A data não está dentro do intervalo especificado."
 Attention,Atenção
@@ -11043,7 +11039,6 @@ Commercial,Comercial
 "Adult Signature Required","Assinatura de um adulto necessária"
 "Access License Number","Número de licença de acesso"
 "Destination Type","Tipo de destino"
-"Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Peso mínimo do pacote (Por favor, consulte sua transportadora de envio para o peso mínimo suportado)"
 "Pickup Method","Método de recebimento"
 "User ID","ID de Usuário"
 "Shipper Number","Número do remetente"
@@ -11377,7 +11372,7 @@ Version:,Versão:
 "CMS Versioning","Controle de versão do CMS"
 "CMS Page Default Versioning","Controlo de Versão Padrão de Páginas CMS"
 "Search All Products","Pesquisar Todos os Produtos"
-"Add Product by SKU","Adicionar produto por SKU"
+"Add Product by SKU","Composer require flowecommerce/pt_br"
 Bottom,Botão
 "No SKU entered","Nenum SKU informado"
 "Undefined Action","Ação indefinida"
@@ -11457,10 +11452,10 @@ Sort,Ordenação
 "Default Response Charset","Charset de Resposta Pré-definido"
 "If empty, UTF-8 will be used.","Se estiver vazio será usado UTF-8."
 "Web Services Configuration","Configuração de Web Services"
-"REST and SOAP configurations, generated WSDL file","Configurações REST e SOAP, arquivo WSDL gerado"
+"REST and SOAP configurations, generated WSDL file","Configurações REST e SOAP, ficheiro WSDL gerado"
 "Authentication header format is invalid.","O formato do cabeçalho de autenticação é inválido."
 "Authentication header is absent.","O Cabeçalho de autenticação está ausente."
-"REST and SOAP configurations, generated WSDL file.","Configurações REST e SOAP, arquivo WSDL gerado."
+"REST and SOAP configurations, generated WSDL file.","Configurações REST e SOAP, ficheiro WSDL gerado."
 "Specified request cannot be processed.","A solicitação especificada não pode ser processada."
 "The consumer isn't authorized to access %resources.","O consumidor não está autorizado a acessar o %resources."
 "WebapiAsync config for ""%topicName"" does not exist.","Configuração WebapiAsync para ""%topicName"" não existe."
@@ -11704,3 +11699,45 @@ Translate,Traduzir
 "Enter valid SKU key","Digite uma chave SKU válida"
 "Swatch and Admin are the required fields in the each row.","Swatch e Admin são os campos obrigatórios em cada linha."
 "The widget %1 is no longer available. Select a different widget.","O widget %1 não está mais disponível. Selecione um widget diferente."
+"Carriers","Transportadoras"
+"Shipping Partners","Parceiros de Remessa"
+"Country of Manufacture","País de Fabricação"
+"Short Description","Pequena Descrição"
+"Search Configuration","Configuração de Pesquisa"
+"Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo: Campo de texto, Menu suspenso, Seleção múltipla e Preço."
+"Ex: Brand facet will be displayed only if 90% of the product have a brand.","Ex: a marca será exibida apenas se 90% dos produtos tiverem uma marca."
+"Simple Product","Produto Simples"
+"Configurable Product","Produto Configurável"
+"Grouped Product","Produto Agrupado"
+"Virtual Product","Produto Virtual"
+"Bundle Product","Pacote de Produto"
+"Downloadable Product","Produto para Download"
+"Importer Status","Status de Importação"
+"Customer Engagement","Envolvimento do Cliente"
+"Automation Enrollment","Registro de Automação"
+"Campaign Sends","Envios de Campanha"
+"Cron Tasks","Tarefas Cron"
+"Log Viewer","Visualizador de Logs"
+"Engagement Cloud","Engajamento Cloud"
+"Exclusion Rules","Regras de Exclusão"
+"Advertising Channels","Canais de Publicidade"
+"Locations","Localizações"
+"Experiences","Experiências"
+"Attribute Mapping","Mapeamento de Atributos"
+"Sources","Origens"
+"Stocks","Estoques"
+"This is where you can activate Magento Shipping. In order to use Magento Shipping you will require a shipping account.","Aqui você pode ativar o Magento Shipping. Para usar o Magento Shipping você precisará de uma conta."
+"In order to use Magento Shipping you will require a shipping account.","Para usar o Magento Shipping você precisará ter uma conta."
+"Request Shipping Account","Criar uma conta"
+"Enable API Logging","Habilitar Log da API"
+"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Log todas as requisições da API. Se configurado <em>Não</em>, somente os erros da API serão logados."
+"Enable Collection Points at Checkout","Ativar Pontos de Coleta no Checkout"
+"Enable Click and Collect at Checkout","Ativar Clique e Coleta no Checkout"
+"Checkout View Settings","Configurações de exibição no Checkout"
+"Once you have activated Magento Shipping, configure these sections to get up and running:","Depois de ativar o Magento Shipping, configure estas seções para começar a funcionar:"
+"Shipping Experiences","Experiências de Envio"
+"Accounts","Contas",module,Dotdigitalgroup_Email
+"Data Mapping","Mapeamento de Dados",module,Dotdigitalgroup_Email
+"Sync Settings","Configurações de Sincronização",module,Dotdigitalgroup_Email
+"Automation","Automação",module,Dotdigitalgroup_Email
+"Dynamic Content","Contaeúdo Dinâmico",module,Dotdigitalgroup_Email
