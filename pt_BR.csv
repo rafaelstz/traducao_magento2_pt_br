@@ -7896,7 +7896,7 @@ error123,erro123
 "The address failed to save. Verify the address and try again.","Não foi possível salvar o endereço. Verifique o endereço e tente novamente."
 "The ""%1"" Cart doesn't contain products.","O carrinho ""%1"" não contém produtos."
 "The coupon code couldn't be applied. Verify the coupon code and try again.","Não foi possível aplicar o código do cupom. Verifique o código do cupom e tente novamente."
-"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. verifique seu código e tente novamente."
+"The coupon code isn't valid. Verify the code and try again.","O código do cupom não é válido. Verifique seu código e tente novamente."
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","O código do cupom não pode ser removido. Verifique o código do seu cupom e tente novamente."
 "You don't have the correct permissions to assign the customer to the cart.","Você não possui as permissões corretas para atribuir o cliente ao carrinho."
 "The shipping address is missing. Set the address and try again.","O endereço de envio está vazio. Adicione o endereço e tente novamente."
