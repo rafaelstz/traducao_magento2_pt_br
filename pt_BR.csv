@@ -3194,7 +3194,7 @@ Contacts,Contatos
 "* Create and manage company shipping and billing addresses","* Criar e gerenciar os endereços de remessa e cobrança da empresa"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a> 
+    the company's shared resources will be available for you.","Você foi adicionado a <a href=%customer_url>%company_name</a>
 como o membro da empresa.
     Depois de inserir sua conta,
     os recursos compartilhados da empresa estarão disponíveis para você."
