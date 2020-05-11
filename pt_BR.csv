@@ -2730,7 +2730,7 @@ Error!,Erro!
 "Order #","Pedido #"
 "Proceed to Checkout","Avançar para o Checkout"
 "Your order number is: %1.","O número do seu pedido é: %1."
-"Your order # is: <span>%1</span>.","Sua pedido # é: <span>%1</span>."
+"Your order # is: <span>%1</span>.","Seu pedido # é: <span>%1</span>."
 "We'll email you an order confirmation with details and tracking info.","Enviaremos para você um e-mail de confirmação do seu pedido com detalhes e informações de rastreamento."
 "Payment Transaction Failed Reminder","Transação de pagamento Falha Reminder"
 "Payment Transaction Failed","Transação de Pagamento Falhou"
