@@ -54,7 +54,7 @@ Acesse no painel administrativo da sua loja clique no icone do seu usuário no c
 Ajude a melhorar a tradução oficial do Magento 2 para Português Brasil usando [esse link da página Crowdin](https://crowdin.com/project/magento-2/pt-BR).
 
 # Autores
-Essa tradução foi criada oficialmente para o Magento 2 usando o [Crowdin](https://crowdin.com/project/magento-2).
-Esse repositório do Github foi criado por mim para facilitar a instalação.
+Essa tradução foi criada oficialmente para o Magento 2 no [Crowdin](https://crowdin.com/project/magento-2).
+Esse repositório do Github foi criado para facilitar a instalação e atualização via Composer.
 
 [Rafael Corrêa Gomes](https://github.com/rafaelstz)
