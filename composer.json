@@ -1,11 +1,9 @@
 {
   "name": "rafaelstz/traducao_magento2_pt_br",
   "description": "Tradução Magento 2 para Português do Brasil oficial da Magento ",
-  "version": "1.0.0",
   "homepage": "https://github.com/rafaelstz/traducao_magento2_pt_br",
   "license": [
-    "OSL-3.0",
-    "AFL-3.0"
+    "MIT"
   ],
   "authors": [
     {
@@ -17,9 +15,6 @@
       "homepage": "https://crowdin.com/project/magento-2"
     }
   ],
-  "require": {
-    "magento/framework": "*"
-  },
   "type": "magento2-language",
   "autoload": {
     "files": [
