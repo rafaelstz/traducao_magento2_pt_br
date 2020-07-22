@@ -1,0 +1,70 @@
+sudo: required
+dist: trusty
+
+addons:
+  apt:
+    packages:
+    - mysql-server-5.6
+    - mysql-client-core-5.6
+    - mysql-client-5.6
+    - postfix
+
+language: php
+
+jobs:
+  include:
+    - php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.2 MAGENTO_EDITION=community
+    - if: type != pull_request
+      php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.2 MAGENTO_EDITION=enterprise
+    - php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.3-p1 MAGENTO_EDITION=community
+    - if: type != pull_request
+      php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.3-p1 MAGENTO_EDITION=enterprise
+    - php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.4-p2 MAGENTO_EDITION=community
+    - if: type != pull_request
+      php: 7.2
+      env:
+        - MAGENTO_VERSION=2.3.4-p2 MAGENTO_EDITION=enterprise
+    - php: 7.3
+      env:
+          - MAGENTO_VERSION=2.3.3-p1 MAGENTO_EDITION=community
+    - if: type != pull_request
+      php: 7.3
+      env:
+          - MAGENTO_VERSION=2.3.3-p1 MAGENTO_EDITION=enterprise
+    - php: 7.3
+      env:
+          - MAGENTO_VERSION=2.3.4-p2 MAGENTO_EDITION=community
+    - if: type != pull_request
+      php: 7.3
+      env:
+          - MAGENTO_VERSION=2.3.4-p2 MAGENTO_EDITION=enterprise
+
+before_install:
+  - if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then composer config -g http-basic.repo.magento.com $MAGENTO_USERNAME $MAGENTO_PASSWORD ; fi
+  - echo "{\"http-basic\":{\"repo.magento.com\":{\"username\":\"${MAGENTO_USERNAME}\",\"password\":\"${MAGENTO_PASSWORD}\"}}}" > auth.json
+  - composer global require hirak/prestissimo
+  - chmod +x ./bin/*
+  - ./bin/prepare_php.sh
+  - ./bin/before_install.sh
+
+install:
+  - composer install --prefer-dist
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+script:
+  - ./bin/test_magento.sh
+  - vendor/bin/phpcs --config-set installed_paths ../../magento/magento-coding-standard/
+  - vendor/bin/phpcs --standard=Magento2 --severity=9 src/
