@@ -30,8 +30,8 @@ O arquivo `github_contributions.csv` é separado **linha por linha**, veja:
 
 - "Create Order": Texto original
 - "Crear pedido": Tradução
-- module: Declara syntax de módulo
-- Magento_AdvancedCheckout: Aplica a tradução apenas nesse módulo
+- module: Fala que a tradução é feita em um módulo específico
+- Magento_AdvancedCheckout: Aplica a tradução apenas nesse módulo, você utiliza o nome do módulo que você utilizará
 
 ## Passo 3: Contribuindo
 
