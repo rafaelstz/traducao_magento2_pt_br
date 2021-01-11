@@ -3,4 +3,5 @@
     <code>pt_BR</code>
     <vendor>rafaelcg</vendor>
     <package>pt_BR</package>
+    <use vendor="Magento" package="pt_BR"/>
 </language>
