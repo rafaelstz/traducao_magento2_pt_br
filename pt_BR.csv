@@ -13341,7 +13341,6 @@ Garantimos nossas aprovações com 100% de proteção contra estorno, reembolsan
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","O mínimo de classes de caracteres diferentes na palavra-passe é %1. As classes de caracteres são: Minúsculas, Maiúsculas, Números, Caracteres Especiais."
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again."
 "This customer already exists in this store.","Este cliente já existe nesta loja."
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website."
 "The store view is not in the associated website.","A visão de loja não está no site associado."
 "Invalid value of ""%value"" provided for the %fieldName field.","Valor inválido ""%value"" fornecido para o campo %fieldName."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
