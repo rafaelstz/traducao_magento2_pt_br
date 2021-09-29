@@ -13263,7 +13263,7 @@ Garantimos nossas aprovações com 100% de proteção contra estorno, reembolsan
 "You saved the account information.","Você gravou as informações da conta."
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
 "Password confirmation doesn't match entered password.","A confirmação da senha não corresponde à senha inserida."
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again."
+""The password doesn't match this account. Verify the password and try again.","A senha não corresponde a esta conta. Verifique a senha e tente novamente."
 "The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again."
 "We're unable to send the password reset email.","Não é possível enviar o e-mail para redefinição de senha."
 "Please enter your email.","Por favor, digite o seu e-mail."
